@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Nova Almeida Atualizada (naa, pt_BR, 2017)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://naa-pt-br.bible.raciocinios.com.br/
 
 ---
 

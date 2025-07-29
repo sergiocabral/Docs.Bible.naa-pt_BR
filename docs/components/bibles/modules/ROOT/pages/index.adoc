@@ -1,4 +1,73 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla |naa
+|🌐 Idioma|Português (Brasil)
+|📅 Ano |2017
+|📖 Título|Nova Almeida Atualizada
+|===
+
+A *Nova Almeida Atualizada* (sigla informal: **NAA**) é a terceira edição da *Almeida Revista e Atualizada (ARA)*, publicada oficialmente pela *Sociedade Bíblica do Brasil (SBB)* em **2017**.
+
+É uma revisão moderna da linha de traduções de João Ferreira de Almeida, com base nos textos bíblicos mais atualizados: o *Antigo Testamento* usa a *Bíblia Hebraica Stuttgartensia* e o *Novo Testamento* a *Nestlé-Aland 28.ª edição*.
+
+A proposta da NAA é equilibrar fidelidade ao texto original com linguagem acessível ao leitor moderno, mantendo o estilo literário e reverente das traduções Almeida.
+
+== Histórico e desenvolvimento
+
+1. Em 2012, a SBB iniciou consultas a igrejas evangélicas sobre a necessidade de revisão da ARA.
+2. Em 2013, uma Comissão de Revisão foi formada internamente.
+3. Em 2016, foi publicada uma edição experimental com o Novo Testamento, Salmos e Provérbios.
+4. Em 8 de novembro de 2017, foi lançada oficialmente a Bíblia completa sob o nome *Nova Almeida Atualizada*.
+
+== Características principais
+
+* *Base textual*:
+** AT: Bíblia Hebraica Stuttgartensia
+** NT: Nestlé-Aland 28.ª edição
+
+* *Estilo linguístico*:
+** Pronomes "tu" e "vós" foram substituídos por "você" e "vocês", exceto em orações e poesia bíblica.
+** Frases mais curtas, vocabulário mais natural e estrutura sintática adaptada ao português atual.
+** Termos antigos foram atualizados (ex.: "irrisão" → "motivo de riso").
+
+* *Princípio de tradução*:
+** “Literal sempre que possível, dinâmico quando necessário.”
+
+== Exemplos de mudança
+
+* Gálatas 5:19-21 — substitui palavras como "prostituição" por termos mais amplamente compreendidos.
+* Romanos 16:1 — alterações editoriais posteriores envolveram a tradução do termo “diaconisa”.
+
+== Aceitação e edições adicionais
+
+* Em 2018, foi lançada a *Bíblia de Estudo NAA*, com mais de 45.000 notas, muitas traduzidas da *ESV Study Bible*.
+
+== Fontes e referências
+
+* Site oficial da SBB:
+** https://www.sbb.org.br/nova-almeida-atualizada
+** https://www.sbb.org.br/nova-almeida/o/a-nova-almeida-atualizada
+
+* Wikipedia – Nova Almeida Atualizada:
+** https://pt.wikipedia.org/wiki/Nova_Almeida_Atualizada
+
+* Bíblia Online (versão NAA):
+** https://www.bibliaonline.com.br/naa
+
+* Bible.com (YouVersion):
+** https://www.bible.com/pt/versions/1840-naa-nova-almeida-atualizada
+
+* Comparações e análises:
+** https://ocristaopentecostal.wordpress.com/2021/07/30/a-antiga-e-a-nova-almeida-atualizada
+
+== Observações finais
+
+* A sigla **NAA** não é parte do título oficial, mas é amplamente usada por plataformas digitais como identificador padronizado.
+* A NAA preserva o estilo clássico das traduções de Almeida com um vocabulário moderno, sendo indicada para uso pessoal, litúrgico e acadêmico.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc
