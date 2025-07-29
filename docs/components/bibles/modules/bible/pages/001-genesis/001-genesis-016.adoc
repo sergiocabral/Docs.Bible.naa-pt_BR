@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Gênesis, 16
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ Ora, Sarai, mulher de Abrão, não lhe dava filhos. Mas tinha uma serva egípcia, chamada Agar.
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ Então Sarai disse a Abrão: — Eis que o Senhor  me impediu de dar à luz filhos. Tome, pois, a minha serva; talvez assim eu possa ter filhos por meio dela. E Abrão concordou com o plano de Sarai.
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ Então Sarai, mulher de Abrão, tomou Agar, sua serva egípcia, e a deu por mulher a Abrão, seu marido, depois que ele já estava morando durante dez anos na terra de Canaã.
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ Ele teve relações com Agar, e ela ficou grávida. Ao saber que estava grávida, Agar começou a olhar com desprezo para a sua senhora.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ Então Sarai disse a Abrão: — Seja sobre você a afronta que é feita a mim. Eu mesma pus a minha serva em seus braços; ela, porém, vendo que engravidou, me olha com desprezo. Que o Senhor  julgue entre mim e você.
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ Abrão respondeu a Sarai: — Você continua a ter controle sobre a sua serva. Faça com ela o que melhor lhe parecer. Então Sarai a humilhou, e Agar fugiu da presença dela.
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ Quando o Anjo do Senhor  a encontrou junto a uma fonte de água no deserto, junto à fonte no caminho de Sur,
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ perguntou-lhe: — Agar, serva de Sarai, de onde você vem e para onde vai? Ela respondeu: — Fujo da presença de Sarai, minha senhora.
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ Então o Anjo do Senhor  lhe disse: — Volte para a sua senhora e sujeite-se a ela.
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ E o Anjo do Senhor  disse também: — Aumentarei em muito a sua descendência, de maneira que, de tão numerosa, não poderá ser contada.
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ E o Anjo do Senhor  continuou: — Você está grávida e dará à luz um filho, a quem chamará Ismael, porque o Senhor  ouviu o seu grito de aflição.
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ Ele será, entre os homens, como um jumento selvagem; a sua mão será contra todos, e a mão de todos será contra ele; e habitará diante de todos os seus irmãos.
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ Então Agar deu ao Senhor , que havia falado com ela, o nome de "Tu és o Deus que vê". Porque ela dizia: "Neste lugar eu olhei para Aquele que me vê!"
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ Por isso, aquele poço se chama Beer-Laai-Roi. Fica entre Cades e Berede.
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ Agar deu à luz um filho a Abrão; e Abrão chamou de Ismael o filho que Agar lhe deu.
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ Abrão tinha oitenta e seis anos, quando Agar lhe deu à luz Ismael.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

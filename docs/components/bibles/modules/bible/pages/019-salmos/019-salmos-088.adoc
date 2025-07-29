@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-88-0]]
+=== Salmos, 88
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-88-1]]
+
+^<<v19-88-1,1>>^ Ó Senhor , Deus da minha salvação, dia e noite clamo diante de ti.
+
+[[v19-88-2]]
+
+^<<v19-88-2,2>>^ Chegue à tua presença a minha oração; inclina os teus ouvidos ao meu clamor.
+
+[[v19-88-3]]
+
+^<<v19-88-3,3>>^ Pois a minha alma está cheia de angústias, e a minha vida já se aproxima da morte.
+
+[[v19-88-4]]
+
+^<<v19-88-4,4>>^ Sou contado com os que descem ao abismo. Sou como um homem sem força,
+
+[[v19-88-5]]
+
+^<<v19-88-5,5>>^ atirado entre os mortos; como os feridos de morte que jazem na sepultura, dos quais já não te lembras; pois foram abandonados pelas tuas mãos.
+
+[[v19-88-6]]
+
+^<<v19-88-6,6>>^ Puseste-me na mais profunda cova, nos lugares tenebrosos, nos abismos.
+
+[[v19-88-7]]
+
+^<<v19-88-7,7>>^ Sobre mim pesa a tua ira; tu me abates com todas as tuas ondas.
+
+[[v19-88-8]]
+
+^<<v19-88-8,8>>^ Afastaste de mim os meus conhecidos e me fizeste objeto de abominação para com eles; estou preso e não vejo como sair.
+
+[[v19-88-9]]
+
+^<<v19-88-9,9>>^ Os meus olhos desfalecem de aflição; dia após dia, venho clamando a ti, Senhor , e a ti levanto as minhas mãos.
+
+[[v19-88-10]]
+
+^<<v19-88-10,10>>^ Será que farás maravilhas para os mortos? Ou será que os finados se levantarão para te louvar?
+
+[[v19-88-11]]
+
+^<<v19-88-11,11>>^ A tua bondade será anunciada na sepultura? A tua fidelidade, nos abismos?
+
+[[v19-88-12]]
+
+^<<v19-88-12,12>>^ Acaso nas trevas se manifestam as tuas maravilhas? E a tua justiça, na terra do esquecimento?
+
+[[v19-88-13]]
+
+^<<v19-88-13,13>>^ Mas eu, Senhor , clamo a ti por socorro, e de madrugada dirijo a ti a minha oração.
+
+[[v19-88-14]]
+
+^<<v19-88-14,14>>^ Por que rejeitas, Senhor , a minha alma e ocultas de mim o teu rosto?
+
+[[v19-88-15]]
+
+^<<v19-88-15,15>>^ Ando aflito e prestes a morrer desde moço; sob o peso dos teus terrores, estou desorientado.
+
+[[v19-88-16]]
+
+^<<v19-88-16,16>>^ Sobre mim passou a tua ira; os teus terrores acabaram comigo.
+
+[[v19-88-17]]
+
+^<<v19-88-17,17>>^ O dia todo eles me rodeiam como água; a um tempo me circundam.
+
+[[v19-88-18]]
+
+^<<v19-88-18,18>>^ Para longe de mim afastaste os amigos e companheiros; os meus conhecidos agora são as trevas.
+
+'''
+
+xref:019-salmos/019-salmos-087.adoc#v19-87-0[&#60; Capítulo Anterior] | <<v19-88-0,Topo>> | xref:019-salmos/019-salmos-089.adoc#v19-89-0[Próximo Capítulo &#62;]

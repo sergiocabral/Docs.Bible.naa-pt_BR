@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== Mateus, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ Tendo Jesus nascido em Belém da Judeia, nos dias do rei Herodes, eis que vieram uns magos do Oriente a Jerusalém.
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ E perguntavam: — Onde está o recém-nascido Rei dos judeus? Porque vimos a sua estrela no Oriente e viemos para adorá-lo.
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ Ao ouvir isso, o rei Herodes ficou alarmado, e, com ele, toda a Jerusalém.
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ Então Herodes convocou todos os principais sacerdotes e escribas do povo e lhes perguntou onde o Cristo deveria nascer.
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ Eles responderam: — Em Belém da Judeia, porque assim está escrito por meio do profeta:
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ "E você, Belém, terra de Judá, de modo nenhum é a menor entre as principais de Judá; porque de você sairá o Guia que apascentará o meu povo, Israel."
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ Com isto, Herodes, tendo chamado os magos para uma reunião secreta, perguntou-lhes sobre o tempo exato em que a estrela havia aparecido.
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ E, enviando-os a Belém, disse-lhes: — Vão e busquem informações precisas a respeito do menino; e, quando o tiverem encontrado, avisem-me, para eu também ir adorá-lo.
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ Depois de ouvirem o rei, os magos partiram; e eis que a estrela que viram no Oriente ia adiante deles, até que, chegando, parou sobre onde o menino estava.
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ E, vendo eles a estrela, alegraram-se com grande e intenso júbilo.
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ Entrando na casa, viram o menino com Maria, sua mãe. Prostrando-se, o adoraram; e, abrindo os seus tesouros, entregaram-lhe suas ofertas: ouro, incenso e mirra.
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ E, tendo sido avisados por Deus em sonho para não voltarem à presença de Herodes, os magos seguiram por outro caminho para a sua terra.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ Depois que os magos foram embora, um anjo do Senhor apareceu em sonho a José e disse: — Levante-se, tome o menino e a sua mãe e fuja para o Egito. Fique por lá até que eu avise você; porque Herodes há de procurar o menino para matá-lo.
+
+[[v40-2-14]]
+
+^<<v40-2-14,14>>^ Levantando-se José, tomou de noite o menino e a sua mãe e partiu para o Egito,
+
+[[v40-2-15]]
+
+^<<v40-2-15,15>>^ onde ficou até a morte de Herodes. Isso aconteceu para se cumprir o que foi dito pelo Senhor, por meio do profeta: "Do Egito chamei o meu Filho."
+
+[[v40-2-16]]
+
+^<<v40-2-16,16>>^ Vendo-se iludido pelos magos, Herodes ficou muito furioso e mandou matar todos os meninos de Belém e de todos os seus arredores, de dois anos para baixo, conforme as informações que havia recebido dos magos a respeito do tempo em que a estrela havia aparecido.
+
+[[v40-2-17]]
+
+^<<v40-2-17,17>>^ Então se cumpriu o que foi dito por meio do profeta Jeremias:
+
+[[v40-2-18]]
+
+^<<v40-2-18,18>>^ "Ouviu-se um clamor em Ramá, pranto e grande lamento; era Raquel chorando por seus filhos e inconsolável porque eles já não existem."
+
+[[v40-2-19]]
+
+^<<v40-2-19,19>>^ Depois da morte de Herodes, um anjo do Senhor apareceu em sonho a José, no Egito, e lhe disse:
+
+[[v40-2-20]]
+
+^<<v40-2-20,20>>^ — Levante-se, tome o menino e a sua mãe e vá para a terra de Israel, porque os que queriam matar o menino já morreram.
+
+[[v40-2-21]]
+
+^<<v40-2-21,21>>^ Levantando-se José, tomou o menino e a sua mãe e voltou para a terra de Israel.
+
+[[v40-2-22]]
+
+^<<v40-2-22,22>>^ Porém, ouvindo que Arquelau reinava na Judeia em lugar de seu pai Herodes, teve medo de ir para lá. E, tendo sido avisado por Deus em sonho, José foi para a região da Galileia.
+
+[[v40-2-23]]
+
+^<<v40-2-23,23>>^ E foi morar numa cidade chamada Nazaré, para se cumprir o que foi dito por meio dos profetas: "Ele será chamado Nazareno."
+
+'''
+
+xref:040-mateus/040-mateus-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-mateus/040-mateus-003.adoc#v40-3-0[Próximo Capítulo &#62;]

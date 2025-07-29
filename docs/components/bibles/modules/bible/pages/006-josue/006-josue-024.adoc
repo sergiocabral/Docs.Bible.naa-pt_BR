@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v6-24-0]]
+=== Josué, 24
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v6-24-1]]
+
+^<<v6-24-1,1>>^ Depois Josué reuniu todas as tribos de Israel em Siquém e chamou os anciãos de Israel, os seus chefes, os seus juízes e os seus oficiais, e eles se apresentaram diante de Deus.
+
+[[v6-24-2]]
+
+^<<v6-24-2,2>>^ Então Josué disse a todo o povo: — Assim diz o Senhor , Deus de Israel: "Antigamente, os pais de vocês, incluindo Tera, pai de Abraão e de Naor, viviam do outro lado do Eufrates e serviam outros deuses.
+
+[[v6-24-3]]
+
+^<<v6-24-3,3>>^ Eu, porém, trouxe Abraão, o pai de vocês, do outro lado do rio e o fiz percorrer toda a terra de Canaã. Também multipliquei a descendência dele e lhe dei Isaque.
+
+[[v6-24-4]]
+
+^<<v6-24-4,4>>^ A Isaque dei Jacó e Esaú. A Esaú dei como propriedade as montanhas de Seir, mas Jacó e seus filhos desceram para o Egito.
+
+[[v6-24-5]]
+
+^<<v6-24-5,5>>^ Então enviei Moisés e Arão e castiguei o Egito com o que fiz ali; e, depois, tirei vocês de lá.
+
+[[v6-24-6]]
+
+^<<v6-24-6,6>>^ Quando tirei os seus pais do Egito, vocês chegaram até o mar. Os egípcios perseguiram os pais de vocês, com carros de guerra e cavaleiros, até o mar Vermelho.
+
+[[v6-24-7]]
+
+^<<v6-24-7,7>>^ Os pais de vocês clamaram e o Senhor  pôs escuridão entre vocês e os egípcios, e trouxe o mar sobre eles, e o mar os cobriu. Vocês viram com os seus próprios olhos o que eu fiz no Egito. Depois vocês viveram no deserto por muito tempo.
+
+[[v6-24-8]]
+
+^<<v6-24-8,8>>^ — Daí eu os trouxe à terra dos amorreus, que moravam do outro lado do Jordão. Eles lutaram contra vocês, mas eu os entreguei nas mãos de vocês. Vocês tomaram posse da terra deles, e eu os destruí diante de vocês.
+
+[[v6-24-9]]
+
+^<<v6-24-9,9>>^ Então o rei de Moabe, Balaque, filho de Zipor, se levantou e lutou contra Israel. Mandou chamar Balaão, filho de Beor, para que os amaldiçoasse.
+
+[[v6-24-10]]
+
+^<<v6-24-10,10>>^ Porém eu não quis ouvir Balaão, e ele teve de abençoar vocês. E assim eu os livrei das mãos de Balaque.
+
+[[v6-24-11]]
+
+^<<v6-24-11,11>>^ — Vocês atravessaram o Jordão e chegaram a Jericó. Os moradores de Jericó lutaram contra vocês e o mesmo fizeram também os amorreus, os ferezeus, os cananeus, os heteus, os girgaseus, os heveus e os jebuseus. Porém eu os entreguei nas mãos de vocês.
+
+[[v6-24-12]]
+
+^<<v6-24-12,12>>^ Enviei vespões adiante de vocês, que os expulsaram de diante de vocês, bem como os dois reis dos amorreus. E não foram as espadas nem os arcos de vocês que fizeram isso.
+
+[[v6-24-13]]
+
+^<<v6-24-13,13>>^ Eu lhes dei uma terra em que vocês não trabalharam e cidades que vocês não haviam construído. Vocês estão vivendo nessas cidades, e comem das vinhas e dos olivais que não plantaram."
+
+[[v6-24-14]]
+
+^<<v6-24-14,14>>^ — Agora, pois, temam o Senhor  e o sirvam com integridade e com fidelidade. Joguem fora os deuses que os pais de vocês serviram do outro lado do Eufrates e no Egito e sirvam o Senhor .
+
+[[v6-24-15]]
+
+^<<v6-24-15,15>>^ Mas, se vocês não quiserem servir o Senhor , escolham hoje a quem vão servir: se os deuses a quem os pais de vocês serviram do outro lado do Eufrates ou os deuses dos amorreus em cuja terra vocês estão morando. Eu e a minha casa serviremos o Senhor .
+
+[[v6-24-16]]
+
+^<<v6-24-16,16>>^ Então o povo respondeu: — Longe de nós abandonar o Senhor  para servir outros deuses!
+
+[[v6-24-17]]
+
+^<<v6-24-17,17>>^ Porque o Senhor  é o nosso Deus. Ele é quem nos tirou, a nós e aos nossos pais, da terra do Egito, da casa da servidão. Ele é quem fez estes grandes sinais aos nossos olhos e nos guardou por todo o caminho em que andamos e entre todos os povos pelo meio dos quais passamos.
+
+[[v6-24-18]]
+
+^<<v6-24-18,18>>^ O Senhor  expulsou de diante de nós todas estas gentes, até o amorreu, morador da terra. Portanto, nós também serviremos o Senhor , pois ele é o nosso Deus.
+
+[[v6-24-19]]
+
+^<<v6-24-19,19>>^ Então Josué disse ao povo: — Vocês não poderão servir o Senhor , porque é Deus santo, Deus zeloso, que não perdoará a transgressão e os pecados de vocês.
+
+[[v6-24-20]]
+
+^<<v6-24-20,20>>^ Se abandonarem o Senhor  e servirem deuses estranhos, ele se voltará contra vocês, e lhes fará mal, e os destruirá, depois de lhes ter feito bem.
+
+[[v6-24-21]]
+
+^<<v6-24-21,21>>^ Então o povo disse a Josué: — Não! O que queremos é servir o Senhor .
+
+[[v6-24-22]]
+
+^<<v6-24-22,22>>^ Josué disse ao povo: — Vocês são testemunhas contra vocês mesmos de que escolheram o Senhor  para o servir. E eles disseram: — Sim, somos testemunhas.
+
+[[v6-24-23]]
+
+^<<v6-24-23,23>>^ E Josué continuou: — Agora, pois, joguem fora os deuses estranhos que há no meio de vocês e inclinem o coração ao Senhor , Deus de Israel.
+
+[[v6-24-24]]
+
+^<<v6-24-24,24>>^ O povo disse a Josué: — Ao Senhor , nosso Deus, serviremos e obedeceremos à sua voz.
+
+[[v6-24-25]]
+
+^<<v6-24-25,25>>^ Assim, naquele dia, Josué fez aliança com o povo e lhes deu estatutos e juízos em Siquém.
+
+[[v6-24-26]]
+
+^<<v6-24-26,26>>^ Josué escreveu estas palavras no Livro da Lei de Deus. Pegou uma grande pedra e a erigiu ali debaixo do carvalho que estava junto ao santuário do Senhor .
+
+[[v6-24-27]]
+
+^<<v6-24-27,27>>^ Então Josué disse a todo o povo: — Eis que esta pedra nos será testemunha, pois ouviu todas as palavras que o Senhor  nos tem dito. Portanto, será testemunha contra vocês, para que não mintam ao Deus de vocês.
+
+[[v6-24-28]]
+
+^<<v6-24-28,28>>^ Então Josué despediu o povo, cada um para a sua herança.
+
+[[v6-24-29]]
+
+^<<v6-24-29,29>>^ Depois destas coisas, Josué, filho de Num, servo do Senhor , morreu com a idade de cento e dez anos.
+
+[[v6-24-30]]
+
+^<<v6-24-30,30>>^ Foi sepultado na sua própria herança, em Timnate-Sera, que fica na região montanhosa de Efraim, para o norte do monte Gaás.
+
+[[v6-24-31]]
+
+^<<v6-24-31,31>>^ Israel serviu o Senhor  todos os dias de Josué e todos os dias dos anciãos que ainda sobreviveram por muito tempo depois de Josué e que sabiam de todas as obras que o Senhor  tinha feito por Israel.
+
+[[v6-24-32]]
+
+^<<v6-24-32,32>>^ Os ossos de José, que os filhos de Israel trouxeram do Egito, foram sepultados em Siquém, naquela parte do campo que Jacó havia comprado dos filhos de Hamor, pai de Siquém, por cem peças de prata, e que veio a ser a herança dos filhos de José.
+
+[[v6-24-33]]
+
+^<<v6-24-33,33>>^ Morreu também Eleazar, filho de Arão, e o sepultaram em Gibeá, cidade que pertencia a Fineias, seu filho, e que lhe tinha sido dada na região montanhosa de Efraim.
+
+'''
+
+xref:006-josue/006-josue-023.adoc#v6-23-0[&#60; Capítulo Anterior] | <<v6-24-0,Topo>> | xref:007-juizes/007-juizes-001.adoc#v7-1-0[Próximo Capítulo &#62;]

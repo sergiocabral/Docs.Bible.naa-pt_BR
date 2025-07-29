@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== Cânticos, 3
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ De noite, na minha cama, busquei o amado de minha alma; busquei-o, mas não o achei.
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ Eu me levantarei agora e rodearei a cidade, pelas ruas e pelas praças; buscarei o amado da minha alma. Busquei-o, mas não o achei.
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ Os guardas, que rondavam a cidade, me encontraram. Então lhes perguntei: "Vocês viram o amado da minha alma?"
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ Mal os deixei, encontrei logo o amado da minha alma. Agarrei-me a ele e não o deixei ir embora, até que o fiz entrar na casa de minha mãe e no quarto daquela que me concebeu.
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ Filhas de Jerusalém, jurem pelas gazelas e pelas corças selvagens que vocês não acordarão nem despertarão o amor, até que este o queira.
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ O que é aquilo que vem subindo do deserto, como colunas de fumaça, perfumado de mirra, de incenso e de todos os tipos de pós aromáticos do mercador?
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ É a liteira de Salomão. Vem escoltada por sessenta valentes, dos melhores valentes de Israel.
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ Todos sabem manejar a espada e são treinados para a guerra; cada um leva a espada na cintura, por causa dos temores noturnos.
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ O rei Salomão mandou fazer um palanquim de madeira do Líbano.
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ As colunas eram de prata, o encosto de ouro, o assento de púrpura, e o interior foi enfeitado com carinho pelas mulheres de Jerusalém.
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ Saiam, ó filhas de Sião, e venham ver o rei Salomão com a coroa com que sua mãe o coroou no dia do seu casamento, no dia da alegria do seu coração.
+
+'''
+
+xref:022-canticos/022-canticos-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-canticos/022-canticos-004.adoc#v22-4-0[Próximo Capítulo &#62;]

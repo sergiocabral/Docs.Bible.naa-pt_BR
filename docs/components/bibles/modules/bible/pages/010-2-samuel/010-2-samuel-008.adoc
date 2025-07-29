@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v10-8-0]]
+=== 2 Samuel, 8
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v10-8-1]]
+
+^<<v10-8-1,1>>^ Depois disso, Davi atacou os filisteus, derrotou-os e tomou das mãos deles o controle daquela região.
+
+[[v10-8-2]]
+
+^<<v10-8-2,2>>^ Também derrotou os moabitas. Fez com que se deitassem no chão e os mediu com uma corda: os que ficaram dentro de duas medidas foram mortos, e os que ficaram dentro da terceira medida foram deixados com vida. Assim, os moabitas se tornaram servos de Davi e lhe pagavam tributo.
+
+[[v10-8-3]]
+
+^<<v10-8-3,3>>^ Davi também derrotou Hadadezer, filho de Reobe, rei de Zobá, quando aquele foi restabelecer o seu domínio sobre o rio Eufrates.
+
+[[v10-8-4]]
+
+^<<v10-8-4,4>>^ Davi tomou-lhe mil e setecentos cavaleiros e vinte mil soldados de infantaria. Mutilou todos os cavalos dos carros de guerra, com exceção dos que puxavam cem deles.
+
+[[v10-8-5]]
+
+^<<v10-8-5,5>>^ Os sírios de Damasco foram socorrer Hadadezer, rei de Zobá, mas Davi matou vinte e dois mil deles.
+
+[[v10-8-6]]
+
+^<<v10-8-6,6>>^ Davi pôs guarnições na Síria de Damasco, e os sírios se tornaram servos de Davi e lhe pagavam tributo. E o Senhor  dava vitórias a Davi por onde quer que ele ia.
+
+[[v10-8-7]]
+
+^<<v10-8-7,7>>^ Davi tomou os escudos de ouro que eram usados pelos oficiais de Hadadezer e os trouxe a Jerusalém.
+
+[[v10-8-8]]
+
+^<<v10-8-8,8>>^ De Betá e Berotai, cidades de Hadadezer, o rei Davi tomou grande quantidade de bronze.
+
+[[v10-8-9]]
+
+^<<v10-8-9,9>>^ Quando Toí, rei de Hamate, soube que Davi tinha derrotado todo o exército de Hadadezer,
+
+[[v10-8-10]]
+
+^<<v10-8-10,10>>^ mandou seu filho Jorão ao rei Davi, para o saudar e cumprimentá-lo por ter lutado contra Hadadezer e por havê-lo vencido. Acontece que Hadadezer de contínuo fazia guerra a Toí. Jorão trouxe consigo objetos de prata, de ouro e de bronze,
+
+[[v10-8-11]]
+
+^<<v10-8-11,11>>^ que o rei Davi consagrou ao Senhor , juntamente com a prata e o ouro que já havia consagrado de todas as nações que havia subjugado:
+
+[[v10-8-12]]
+
+^<<v10-8-12,12>>^ da Síria, de Moabe, dos filhos de Amom, dos filisteus, de Amaleque e dos despojos de Hadadezer, filho de Reobe, rei de Zobá.
+
+[[v10-8-13]]
+
+^<<v10-8-13,13>>^ Davi ficou ainda mais famoso quando, ao voltar do ataque aos sírios, matou dezoito mil homens no vale do Sal.
+
+[[v10-8-14]]
+
+^<<v10-8-14,14>>^ Pôs guarnições em todo o Edom, e todos os edomitas se tornaram servos de Davi. E o Senhor  dava vitórias a Davi por onde quer que ele ia.
+
+[[v10-8-15]]
+
+^<<v10-8-15,15>>^ Davi reinou sobre todo o Israel; julgava e fazia justiça a todo o seu povo.
+
+[[v10-8-16]]
+
+^<<v10-8-16,16>>^ Joabe, filho de Zeruia, era comandante do exército; Josafá, filho de Ailude, era cronista.
+
+[[v10-8-17]]
+
+^<<v10-8-17,17>>^ Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram sacerdotes, e Seraías, escrivão.
+
+[[v10-8-18]]
+
+^<<v10-8-18,18>>^ Benaia, filho de Joiada, era o comandante da guarda real. Os filhos de Davi, porém, eram seus ministros.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-007.adoc#v10-7-0[&#60; Capítulo Anterior] | <<v10-8-0,Topo>> | xref:010-2-samuel/010-2-samuel-009.adoc#v10-9-0[Próximo Capítulo &#62;]

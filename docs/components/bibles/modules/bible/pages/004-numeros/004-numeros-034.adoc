@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Números, 34
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ O Senhor  disse a Moisés:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ — Ordene aos filhos de Israel e diga-lhes: Quando vocês entrarem em Canaã, esta será a terra que lhes cairá em herança: a terra de Canaã, segundo as suas fronteiras.
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ — A região sul irá desde o deserto de Zim até a fronteira de Edom; e a fronteira do sul irá desde a extremidade do mar Salgado para o lado leste.
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ Esta fronteira irá rodeando do sul para a subida de Acrabim e passará até Zim; e as suas saídas serão do sul a Cades-Barneia; e sairá a Hazar-Adar e passará a Azmom.
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ Depois esta fronteira rodeará de Azmom até o ribeiro do Egito; e as suas saídas serão para o lado do mar.
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ — Por fronteira do oeste vocês terão o mar Grande; esta será a fronteira do oeste.
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ — Esta será a fronteira do norte: marquem a fronteira desde o mar Grande até o monte Hor.
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ Marquem a fronteira desde o monte Hor até a entrada de Hamate; e as saídas desta fronteira serão até Zedade;
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ dali, seguirá até Zifrom, e as suas saídas serão em Hazar-Enã. Esta será para vocês a fronteira norte.
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ — E, por fronteira do lado leste, marquem a fronteira de Hazar-Enã até Sefã.
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ A fronteira descerá desde Sefã até Ribla, para o lado leste de Aim; depois, a fronteira descerá e irá ao longo da borda do mar de Quinerete para o lado leste;
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ descerá ainda ao longo do Jordão, e as suas saídas serão no mar Salgado. Esta será a terra de vocês, com as suas fronteiras ao redor.
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ Moisés deu ordem aos filhos de Israel, dizendo: — Esta é a terra que vocês herdarão por sorteio, a qual o Senhor  mandou dar às nove tribos e meia.
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ Porque a tribo dos filhos dos rubenitas, segundo a casa de seus pais, e a tribo dos filhos dos gaditas, segundo a casa de seus pais, já receberam a sua herança; também a meia tribo de Manassés já recebeu a sua herança.
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ Estas duas tribos e meia receberam a sua herança deste lado do Jordão, na altura de Jericó, do lado leste.
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ O Senhor  disse a Moisés:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ — São estes os nomes dos homens que repartirão a terra para vocês por herança: Eleazar, o sacerdote, e Josué, filho de Num.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ Escolham ainda um chefe de cada tribo, para repartir a terra em herança.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ São estes os nomes dos homens: da tribo de Judá, Calebe, filho de Jefoné;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ da tribo dos filhos de Simeão, Samuel, filho de Amiúde;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ da tribo de Benjamim, Elidade, filho de Quislom;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ da tribo dos filhos de Dã, o chefe Buqui, filho de Jogli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ dos filhos de José, da tribo dos filhos de Manassés, o chefe Haniel, filho de Éfode;
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ da tribo dos filhos de Efraim, o chefe Quemuel, filho de Siftã;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ da tribo dos filhos de Zebulom, o chefe Elizafã, filho de Parnaque;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ da tribo dos filhos de Issacar, o chefe Paltiel, filho de Azã;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ da tribo dos filhos de Aser, o chefe Aiude, filho de Selomi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ da tribo dos filhos de Naftali, o chefe Pedael, filho de Amiúde.
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ A estes o Senhor  ordenou que repartissem a herança entre os filhos de Israel, na terra de Canaã.
+
+'''
+
+xref:004-numeros/004-numeros-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numeros/004-numeros-035.adoc#v4-35-0[Próximo Capítulo &#62;]

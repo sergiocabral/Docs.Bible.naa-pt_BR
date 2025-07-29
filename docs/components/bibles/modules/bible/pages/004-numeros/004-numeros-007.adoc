@@ -1,0 +1,365 @@
+include::./index.adoc[]
+
+[[v4-7-0]]
+=== Números, 7
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v4-7-1]]
+
+^<<v4-7-1,1>>^ No dia em que Moisés acabou de levantar o tabernáculo, ele o ungiu e o consagrou juntamente com todos os seus utensílios, bem como o altar e todos os seus pertences.
+
+[[v4-7-2]]
+
+^<<v4-7-2,2>>^ Então os chefes de Israel, os cabeças da casa de seus pais, os que foram chefes das tribos, que haviam presidido o censo, ofereceram
+
+[[v4-7-3]]
+
+^<<v4-7-3,3>>^ e trouxeram a sua oferta diante do Senhor : seis carros cobertos e doze bois. Cada dois chefes ofereceram um carro, e cada um deles, um boi; e os apresentaram diante do tabernáculo.
+
+[[v4-7-4]]
+
+^<<v4-7-4,4>>^ O Senhor  disse a Moisés:
+
+[[v4-7-5]]
+
+^<<v4-7-5,5>>^ — Receba as ofertas deles, e serão destinadas ao serviço da tenda do encontro. E entregue essas ofertas aos levitas, a cada um segundo o seu serviço.
+
+[[v4-7-6]]
+
+^<<v4-7-6,6>>^ Moisés recebeu os carros e os bois e os deu aos levitas.
+
+[[v4-7-7]]
+
+^<<v4-7-7,7>>^ Dois carros e quatro bois deu aos filhos de Gérson, segundo o seu serviço.
+
+[[v4-7-8]]
+
+^<<v4-7-8,8>>^ Quatro carros e oito bois deu aos filhos de Merari, segundo o seu serviço, sob a direção de Itamar, filho de Arão, o sacerdote.
+
+[[v4-7-9]]
+
+^<<v4-7-9,9>>^ Mas aos filhos de Coate não deu nada, porque a cargo deles estava o santuário, que deviam levar nos ombros.
+
+[[v4-7-10]]
+
+^<<v4-7-10,10>>^ Os chefes trouxeram as ofertas para a consagração do altar, no dia em que foi ungido; sim, apresentaram a sua oferta diante do altar.
+
+[[v4-7-11]]
+
+^<<v4-7-11,11>>^ O Senhor  disse a Moisés: — Cada chefe apresentará, no seu dia, a sua oferta para a dedicação do altar.
+
+[[v4-7-12]]
+
+^<<v4-7-12,12>>^ No primeiro dia, quem apresentou a sua oferta foi Naassom, filho de Aminadabe, pela tribo de Judá.
+
+[[v4-7-13]]
+
+^<<v4-7-13,13>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-14]]
+
+^<<v4-7-14,14>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-15]]
+
+^<<v4-7-15,15>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-16]]
+
+^<<v4-7-16,16>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-17]]
+
+^<<v4-7-17,17>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Naassom, filho de Aminadabe.
+
+[[v4-7-18]]
+
+^<<v4-7-18,18>>^ No segundo dia, quem apresentou a sua oferta foi Natanael, filho de Zuar, chefe de Issacar.
+
+[[v4-7-19]]
+
+^<<v4-7-19,19>>^ Como sua oferta apresentou um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-20]]
+
+^<<v4-7-20,20>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-21]]
+
+^<<v4-7-21,21>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-22]]
+
+^<<v4-7-22,22>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-23]]
+
+^<<v4-7-23,23>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Natanael, filho de Zuar.
+
+[[v4-7-24]]
+
+^<<v4-7-24,24>>^ No terceiro dia, foi Eliabe, filho de Helom, chefe dos filhos de Zebulom.
+
+[[v4-7-25]]
+
+^<<v4-7-25,25>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-26]]
+
+^<<v4-7-26,26>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-27]]
+
+^<<v4-7-27,27>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-28]]
+
+^<<v4-7-28,28>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-29]]
+
+^<<v4-7-29,29>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Eliabe, filho de Helom.
+
+[[v4-7-30]]
+
+^<<v4-7-30,30>>^ No quarto dia, foi Elizur, filho de Sedeur, chefe dos filhos de Rúben.
+
+[[v4-7-31]]
+
+^<<v4-7-31,31>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-32]]
+
+^<<v4-7-32,32>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-33]]
+
+^<<v4-7-33,33>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-34]]
+
+^<<v4-7-34,34>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-35]]
+
+^<<v4-7-35,35>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Elizur, filho de Sedeur.
+
+[[v4-7-36]]
+
+^<<v4-7-36,36>>^ No quinto dia, foi Selumiel, filho de Zurisadai, chefe dos filhos de Simeão.
+
+[[v4-7-37]]
+
+^<<v4-7-37,37>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-38]]
+
+^<<v4-7-38,38>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-39]]
+
+^<<v4-7-39,39>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-40]]
+
+^<<v4-7-40,40>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-41]]
+
+^<<v4-7-41,41>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Selumiel, filho de Zurisadai.
+
+[[v4-7-42]]
+
+^<<v4-7-42,42>>^ No sexto dia, foi Eliasafe, filho de Deuel, chefe dos filhos de Gade.
+
+[[v4-7-43]]
+
+^<<v4-7-43,43>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-44]]
+
+^<<v4-7-44,44>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-45]]
+
+^<<v4-7-45,45>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-46]]
+
+^<<v4-7-46,46>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-47]]
+
+^<<v4-7-47,47>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Eliasafe, filho de Deuel.
+
+[[v4-7-48]]
+
+^<<v4-7-48,48>>^ No sétimo dia, foi Elisama, filho de Amiúde, chefe dos filhos de Efraim.
+
+[[v4-7-49]]
+
+^<<v4-7-49,49>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-50]]
+
+^<<v4-7-50,50>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-51]]
+
+^<<v4-7-51,51>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-52]]
+
+^<<v4-7-52,52>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-53]]
+
+^<<v4-7-53,53>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Elisama, filho de Amiúde.
+
+[[v4-7-54]]
+
+^<<v4-7-54,54>>^ No oitavo dia, foi Gamaliel, filho de Pedazur, chefe dos filhos de Manassés.
+
+[[v4-7-55]]
+
+^<<v4-7-55,55>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-56]]
+
+^<<v4-7-56,56>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-57]]
+
+^<<v4-7-57,57>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-58]]
+
+^<<v4-7-58,58>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-59]]
+
+^<<v4-7-59,59>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Gamaliel, filho de Pedazur.
+
+[[v4-7-60]]
+
+^<<v4-7-60,60>>^ No nono dia, foi Abidã, filho de Gideoni, chefe dos filhos de Benjamim.
+
+[[v4-7-61]]
+
+^<<v4-7-61,61>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-62]]
+
+^<<v4-7-62,62>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-63]]
+
+^<<v4-7-63,63>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-64]]
+
+^<<v4-7-64,64>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-65]]
+
+^<<v4-7-65,65>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Abidã, filho de Gideoni.
+
+[[v4-7-66]]
+
+^<<v4-7-66,66>>^ No décimo dia, foi Aiezer, filho de Amisadai, chefe dos filhos de Dã.
+
+[[v4-7-67]]
+
+^<<v4-7-67,67>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-68]]
+
+^<<v4-7-68,68>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-69]]
+
+^<<v4-7-69,69>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-70]]
+
+^<<v4-7-70,70>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-71]]
+
+^<<v4-7-71,71>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Aiezer, filho de Amisadai.
+
+[[v4-7-72]]
+
+^<<v4-7-72,72>>^ No décimo primeiro dia, foi Pagiel, filho de Ocrã, chefe dos filhos de Aser.
+
+[[v4-7-73]]
+
+^<<v4-7-73,73>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-74]]
+
+^<<v4-7-74,74>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-75]]
+
+^<<v4-7-75,75>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-76]]
+
+^<<v4-7-76,76>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-77]]
+
+^<<v4-7-77,77>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Pagiel, filho de Ocrã.
+
+[[v4-7-78]]
+
+^<<v4-7-78,78>>^ No décimo segundo dia, foi Aira, filho de Enã, chefe dos filhos de Naftali.
+
+[[v4-7-79]]
+
+^<<v4-7-79,79>>^ A oferta dele foi um prato de prata, pesando um quilo quinhentos e sessenta gramas, uma bacia de prata, pesando oitocentos e quarenta gramas, segundo o peso padrão do santuário; ambos cheios da melhor farinha, amassada com azeite, para oferta de cereais;
+
+[[v4-7-80]]
+
+^<<v4-7-80,80>>^ um recipiente de cento e vinte gramas de ouro, cheio de incenso;
+
+[[v4-7-81]]
+
+^<<v4-7-81,81>>^ um novilho, um carneiro, um cordeiro de um ano, para holocausto;
+
+[[v4-7-82]]
+
+^<<v4-7-82,82>>^ um bode, para oferta pelo pecado;
+
+[[v4-7-83]]
+
+^<<v4-7-83,83>>^ e, para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Aira, filho de Enã.
+
+[[v4-7-84]]
+
+^<<v4-7-84,84>>^ Esta é a dádiva feita pelos chefes de Israel para a dedicação do altar, no dia em que foi ungido: doze pratos de prata, doze bacias de prata, doze recipientes de ouro;
+
+[[v4-7-85]]
+
+^<<v4-7-85,85>>^ cada prato de prata, de um quilo quinhentos e sessenta gramas, e cada bacia, de oitocentos e quarenta gramas; toda a prata dos utensílios foi de vinte e oito quilos e oitocentos gramas, segundo o peso padrão do santuário;
+
+[[v4-7-86]]
+
+^<<v4-7-86,86>>^ doze recipientes de ouro cheios de incenso, cada um de cento e vinte gramas, segundo o peso padrão do santuário; todo o ouro dos recipientes foi de um quilo quatrocentos e quarenta gramas;
+
+[[v4-7-87]]
+
+^<<v4-7-87,87>>^ todos os animais para o holocausto foram doze novilhos; carneiros, doze; doze cordeiros de um ano, com a sua oferta de cereais; e doze bodes para oferta pelo pecado.
+
+[[v4-7-88]]
+
+^<<v4-7-88,88>>^ E todos os animais para o sacrifício pacífico foram vinte e quatro novilhos; os carneiros, sessenta; os bodes, sessenta; os cordeiros de um ano, sessenta; esta é a dádiva para a dedicação do altar, depois que foi ungido.
+
+[[v4-7-89]]
+
+^<<v4-7-89,89>>^ Quando Moisés entrava na tenda do encontro para falar com o Senhor , ouvia a voz que lhe falava de cima do propiciatório, que está sobre a arca do testemunho entre os dois querubins; assim lhe falava.
+
+'''
+
+xref:004-numeros/004-numeros-006.adoc#v4-6-0[&#60; Capítulo Anterior] | <<v4-7-0,Topo>> | xref:004-numeros/004-numeros-008.adoc#v4-8-0[Próximo Capítulo &#62;]

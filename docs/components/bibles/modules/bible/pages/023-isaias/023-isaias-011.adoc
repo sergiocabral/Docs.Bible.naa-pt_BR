@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v23-11-0]]
+=== Isaías, 11
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-11-1]]
+
+^<<v23-11-1,1>>^ Do tronco de Jessé sairá um rebento, e das suas raízes brotará um renovo.
+
+[[v23-11-2]]
+
+^<<v23-11-2,2>>^ Repousará sobre ele o Espírito do Senhor , o Espírito de sabedoria e de entendimento, o Espírito de conselho e de fortaleza, o Espírito de conhecimento e de temor do Senhor .
+
+[[v23-11-3]]
+
+^<<v23-11-3,3>>^ Ele terá o seu prazer no temor do Senhor . Não julgará segundo a aparência, nem decidirá pelo que ouviu dizer,
+
+[[v23-11-4]]
+
+^<<v23-11-4,4>>^ mas julgará com justiça os pobres e decidirá com equidade a favor dos mansos da terra. Castigará a terra com a vara de sua boca e com o sopro dos seus lábios matará o perverso.
+
+[[v23-11-5]]
+
+^<<v23-11-5,5>>^ O cinto dele será a justiça, e a verdade será a faixa na cintura.
+
+[[v23-11-6]]
+
+^<<v23-11-6,6>>^ O lobo habitará com o cordeiro, o leopardo se deitará junto do cabrito, o bezerro, o leão novo e o novilho gordo andarão juntos, e um pequenino os guiará.
+
+[[v23-11-7]]
+
+^<<v23-11-7,7>>^ A vaca e a ursa pastarão juntas, e as suas crias juntas se deitarão; e o leão comerá palha como o boi.
+
+[[v23-11-8]]
+
+^<<v23-11-8,8>>^ A criança de peito brincará sobre a toca da cobra, e o já desmamado meterá a mão no ninho da serpente.
+
+[[v23-11-9]]
+
+^<<v23-11-9,9>>^ Não se fará mal nem dano algum em todo o meu santo monte, porque a terra se encherá do conhecimento do Senhor , como as águas cobrem o mar.
+
+[[v23-11-10]]
+
+^<<v23-11-10,10>>^ Naquele dia, a raiz de Jessé estará posta por estandarte dos povos. As nações recorrerão a ela, e a glória será a sua morada.
+
+[[v23-11-11]]
+
+^<<v23-11-11,11>>^ Naquele dia, o Senhor tornará a estender a mão para resgatar o resto do seu povo, que for deixado, da Assíria, do Egito, de Patros, da Etiópia, de Elão, de Sinar, de Hamate e das terras do mar.
+
+[[v23-11-12]]
+
+^<<v23-11-12,12>>^ Levantará um estandarte para as nações, ajuntará os desterrados de Israel e recolherá os dispersos de Judá desde os quatro cantos da terra.
+
+[[v23-11-13]]
+
+^<<v23-11-13,13>>^ A inveja de Efraim acabará, e os adversários de Judá serão eliminados. Efraim não terá inveja de Judá, e Judá não oprimirá Efraim.
+
+[[v23-11-14]]
+
+^<<v23-11-14,14>>^ Ao contrário, voarão sobre os ombros dos filisteus, ao Ocidente; juntos despojarão os filhos do Oriente; estenderão as mãos sobre Edom e Moabe, e os filhos de Amom lhes serão sujeitos.
+
+[[v23-11-15]]
+
+^<<v23-11-15,15>>^ O Senhor  destruirá totalmente o golfo do mar do Egito, e com a força do seu vento moverá a mão contra o Eufrates, dividindo-o em sete canais, para que qualquer um possa atravessá-lo de sandálias.
+
+[[v23-11-16]]
+
+^<<v23-11-16,16>>^ Haverá um caminho plano para o resto do seu povo que for deixado na Assíria, como houve para Israel no dia em que saiu da terra do Egito.
+
+'''
+
+xref:023-isaias/023-isaias-010.adoc#v23-10-0[&#60; Capítulo Anterior] | <<v23-11-0,Topo>> | xref:023-isaias/023-isaias-012.adoc#v23-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v5-19-0]]
+=== Deuteronômio, 19
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-19-1]]
+
+^<<v5-19-1,1>>^ — Quando o Senhor , seu Deus, eliminar as nações cuja terra dará a vocês, e quando vocês desalojarem essas nações e morarem nas cidades e nas casas deles,
+
+[[v5-19-2]]
+
+^<<v5-19-2,2>>^ separem três cidades no meio da terra que o Senhor , seu Deus, dará a vocês para que dela tomem posse.
+
+[[v5-19-3]]
+
+^<<v5-19-3,3>>^ Preparem o caminho e dividam em três partes a terra que o Senhor , seu Deus, lhes dará por herança. E isto será para que nelas se refugie todo homicida.
+
+[[v5-19-4]]
+
+^<<v5-19-4,4>>^ — Este é o caso do homicida que nelas se refugiar, para que salve a sua vida: aquele que, involuntariamente, matar o seu próximo, a quem não odiava.
+
+[[v5-19-5]]
+
+^<<v5-19-5,5>>^ Assim, se alguém entrar com o seu próximo na floresta, para cortar lenha, e, manejando com impulso o machado para cortar uma árvore, o ferro saltar do cabo e atingir o seu próximo, e este morrer, aquele homem poderá se refugiar numa dessas cidades e salvar a sua vida.
+
+[[v5-19-6]]
+
+^<<v5-19-6,6>>^ Isto para que o vingador do sangue não persiga o homicida, quando ficar furioso, e o alcance, por ser longo o caminho, e lhe tire a vida, porque não merece morrer, pois não o odiava.
+
+[[v5-19-7]]
+
+^<<v5-19-7,7>>^ Portanto, ordeno a vocês que separem três cidades.
+
+[[v5-19-8]]
+
+^<<v5-19-8,8>>^ — Se o Senhor , seu Deus, ampliar o território de vocês, como jurou aos pais de vocês, e lhes der toda a terra que prometeu a eles,
+
+[[v5-19-9]]
+
+^<<v5-19-9,9>>^ desde que vocês guardem e cumpram todos estes mandamentos que hoje lhes ordeno, amando o Senhor , seu Deus, e andando nos seus caminhos todos os dias, então vocês devem acrescentar mais três cidades além destas três,
+
+[[v5-19-10]]
+
+^<<v5-19-10,10>>^ para que não se derrame sangue inocente na terra que o Senhor , seu Deus, lhes está dando por herança, pois vocês seriam culpados da morte de homens inocentes.
+
+[[v5-19-11]]
+
+^<<v5-19-11,11>>^ — Mas, se houver alguém que odeia o seu próximo, arma-lhe ciladas, levanta-se contra ele e o mata, e então se refugia numa dessas cidades,
+
+[[v5-19-12]]
+
+^<<v5-19-12,12>>^ os anciãos da sua cidade mandarão tirá-lo dali e entregá-lo na mão do vingador do sangue, para que seja morto.
+
+[[v5-19-13]]
+
+^<<v5-19-13,13>>^ Não olhem para ele com piedade; pelo contrário, exterminem de Israel a culpa do sangue inocente, para que tudo vá bem com vocês.
+
+[[v5-19-14]]
+
+^<<v5-19-14,14>>^ — Não mudem os marcos de divisa do seu próximo, que os antigos fixaram na herança de vocês, na terra que o Senhor , seu Deus, lhes dá para que dela tomem posse.
+
+[[v5-19-15]]
+
+^<<v5-19-15,15>>^ — Uma só testemunha não poderá se levantar contra alguém por qualquer iniquidade ou por qualquer pecado, seja qual for que cometer; pelo depoimento de duas ou três testemunhas se estabelecerá o fato.
+
+[[v5-19-16]]
+
+^<<v5-19-16,16>>^ Quando se levantar testemunha falsa contra alguém, para o acusar de alguma transgressão,
+
+[[v5-19-17]]
+
+^<<v5-19-17,17>>^ então os dois homens que tiverem a demanda se apresentarão diante do Senhor , diante dos sacerdotes e dos juízes que houver naqueles dias.
+
+[[v5-19-18]]
+
+^<<v5-19-18,18>>^ Os juízes examinarão o caso com cuidado e, se a testemunha for falsa e tiver testemunhado falsamente contra o seu irmão,
+
+[[v5-19-19]]
+
+^<<v5-19-19,19>>^ receberá o castigo que tinha em vista para o seu irmão. E assim exterminarão o mal do meio de vocês,
+
+[[v5-19-20]]
+
+^<<v5-19-20,20>>^ para que os que ficarem ouçam, temam e nunca mais tornem a fazer semelhante mal no meio de vocês.
+
+[[v5-19-21]]
+
+^<<v5-19-21,21>>^ Não olhem para ele com piedade: vida por vida, olho por olho, dente por dente, mão por mão, pé por pé.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[&#60; Capítulo Anterior] | <<v5-19-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[Próximo Capítulo &#62;]

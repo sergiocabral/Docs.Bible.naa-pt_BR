@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v24-43-0]]
+=== Jeremias, 43
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v24-43-1]]
+
+^<<v24-43-1,1>>^ Quando Jeremias acabou de falar a todo o povo todas as palavras do Senhor , o Deus deles, palavras todas com as quais o Senhor , o Deus deles, o havia enviado ao povo,
+
+[[v24-43-2]]
+
+^<<v24-43-2,2>>^ Azarias, filho de Hosaías, Joanã, filho de Careá, e todos os homens orgulhosos disseram a Jeremias: — É mentira isso que você está dizendo! O Senhor , nosso Deus, não o enviou a dizer: "Não entrem no Egito para morar."
+
+[[v24-43-3]]
+
+^<<v24-43-3,3>>^ Baruque, filho de Nerias, é que está incitando você contra nós, para nos entregar nas mãos dos caldeus, a fim de nos matarem ou nos exilarem na Babilônia.
+
+[[v24-43-4]]
+
+^<<v24-43-4,4>>^ Assim nem Joanã, filho de Careá, nem os capitães dos exércitos, nem o povo todo obedeceu à voz do Senhor , para ficarem na terra de Judá.
+
+[[v24-43-5]]
+
+^<<v24-43-5,5>>^ Pelo contrário, Joanã, filho de Careá, e todos os capitães dos exércitos reuniram todo o remanescente de Judá que, de todas as nações para as quais haviam sido dispersos, tinham voltado para morar na terra de Judá,
+
+[[v24-43-6]]
+
+^<<v24-43-6,6>>^ isto é, reuniram os homens, as mulheres e as crianças, as filhas do rei e todos os que Nebuzaradã, o chefe da guarda, tinha deixado com Gedalias, filho de Aicão, filho de Safã, bem como o profeta Jeremias e Baruque, filho de Nerias,
+
+[[v24-43-7]]
+
+^<<v24-43-7,7>>^ e entraram na terra do Egito, desobedecendo à voz do Senhor , e chegaram até Tafnes.
+
+[[v24-43-8]]
+
+^<<v24-43-8,8>>^ Então a palavra do Senhor  veio a Jeremias, em Tafnes, dizendo:
+
+[[v24-43-9]]
+
+^<<v24-43-9,9>>^ — Pegue algumas pedras grandes e enterre-as na argamassa do pavimento que está à entrada do palácio de Faraó, em Tafnes, à vista de homens judeus,
+
+[[v24-43-10]]
+
+^<<v24-43-10,10>>^ e diga-lhes: Assim diz o Senhor  dos Exércitos, o Deus de Israel: "Eis que eu mandarei vir Nabucodonosor, rei da Babilônia, meu servo, e porei o seu trono sobre estas pedras que enterrei; ele estenderá a sua tenda real sobre elas.
+
+[[v24-43-11]]
+
+^<<v24-43-11,11>>^ Virá e destruirá a terra do Egito; quem é para a morte vai para a morte; quem é para o cativeiro vai para o cativeiro; e quem é para a espada vai para a espada.
+
+[[v24-43-12]]
+
+^<<v24-43-12,12>>^ Porá fogo nos templos dos deuses do Egito e os queimará, levando cativos os ídolos. Limpará a terra do Egito, assim como um pastor tira os piolhos da sua própria roupa; e sairá dali em paz.
+
+[[v24-43-13]]
+
+^<<v24-43-13,13>>^ Quebrará as colunas de Bete-Semes na terra do Egito e queimará os templos dos deuses do Egito."
+
+'''
+
+xref:024-jeremias/024-jeremias-042.adoc#v24-42-0[&#60; Capítulo Anterior] | <<v24-43-0,Topo>> | xref:024-jeremias/024-jeremias-044.adoc#v24-44-0[Próximo Capítulo &#62;]

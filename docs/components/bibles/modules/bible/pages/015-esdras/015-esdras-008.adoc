@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v15-8-0]]
+=== Esdras, 8
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v15-8-1]]
+
+^<<v15-8-1,1>>^ Estes são os chefes de famílias e esta é a genealogia dos que voltaram comigo da Babilônia, no reinado do rei Artaxerxes:
+
+[[v15-8-2]]
+
+^<<v15-8-2,2>>^ dos filhos de Fineias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus;
+
+[[v15-8-3]]
+
+^<<v15-8-3,3>>^ dos filhos de Secanias, dos filhos de Parós, Zacarias, e com ele foram registrados cento e cinquenta homens.
+
+[[v15-8-4]]
+
+^<<v15-8-4,4>>^ Dos filhos de Paate-Moabe, Elioenai, filho de Zeraías, e, com ele, duzentos homens.
+
+[[v15-8-5]]
+
+^<<v15-8-5,5>>^ Dos filhos de Secanias, o filho de Jaaziel, e, com ele, trezentos homens.
+
+[[v15-8-6]]
+
+^<<v15-8-6,6>>^ Dos filhos de Adim, Ebede, filho de Jônatas, e, com ele, cinquenta homens.
+
+[[v15-8-7]]
+
+^<<v15-8-7,7>>^ Dos filhos de Elão, Jesaías, filho de Atalias, e, com ele, setenta homens.
+
+[[v15-8-8]]
+
+^<<v15-8-8,8>>^ Dos filhos de Sefatias, Zebadias, filho de Micael, e, com ele, oitenta homens.
+
+[[v15-8-9]]
+
+^<<v15-8-9,9>>^ Dos filhos de Joabe, Obadias, filho de Jeiel, e, com ele, duzentos e dezoito homens.
+
+[[v15-8-10]]
+
+^<<v15-8-10,10>>^ Dos filhos de Bani, Selomite, filho de Josifias, e, com ele, cento e sessenta homens.
+
+[[v15-8-11]]
+
+^<<v15-8-11,11>>^ Dos filhos de Bebai, Zacarias, o filho de Bebai, e, com ele, vinte e oito homens.
+
+[[v15-8-12]]
+
+^<<v15-8-12,12>>^ Dos filhos de Azgade, Joanã, o filho de Hacatã, e, com ele, cento e dez homens.
+
+[[v15-8-13]]
+
+^<<v15-8-13,13>>^ Dos filhos de Adonicão, últimos a chegar, seus nomes eram estes: Elifelete, Jeiel e Semaías, e, com eles, sessenta homens.
+
+[[v15-8-14]]
+
+^<<v15-8-14,14>>^ Dos filhos de Bigvai, Utai e Zabude, e, com eles, setenta homens.
+
+[[v15-8-15]]
+
+^<<v15-8-15,15>>^ Eu os reuni perto do rio que corre para Aava, onde ficamos acampados três dias. Atentando para o povo e para os sacerdotes e não tendo achado nenhum dos filhos de Levi,
+
+[[v15-8-16]]
+
+^<<v15-8-16,16>>^ mandei chamar Eliézer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão, os chefes, bem como Joiaribe e Elnatã, que eram sábios.
+
+[[v15-8-17]]
+
+^<<v15-8-17,17>>^ Eu os enviei a Ido, chefe em Casifia, e lhes dei as palavras que deveriam dizer a Ido e aos servidores do templo, seus irmãos, em Casifia, para que nos enviassem ministros para o templo do nosso Deus.
+
+[[v15-8-18]]
+
+^<<v15-8-18,18>>^ E, como a mão bondosa de Deus estava sobre nós, eles nos enviaram um homem sábio, dos filhos de Mali, filho de Levi, filho de Israel, a saber, Serebias, com os seus filhos e irmãos, em número de dezoito.
+
+[[v15-8-19]]
+
+^<<v15-8-19,19>>^ Também mandaram Hasabias e, com ele, Jesaías, dos filhos de Merari, com os seus irmãos e os filhos deles, em número de vinte.
+
+[[v15-8-20]]
+
+^<<v15-8-20,20>>^ E dos servidores do templo, que Davi e os príncipes haviam escolhido para ajudar os levitas, duzentos e vinte, todos eles mencionados nominalmente.
+
+[[v15-8-21]]
+
+^<<v15-8-21,21>>^ Então ali, junto ao rio Aava, proclamei um jejum, para nos humilharmos diante do nosso Deus, para lhe pedirmos uma boa viagem para nós, para os nossos filhos e para tudo o que era nosso.
+
+[[v15-8-22]]
+
+^<<v15-8-22,22>>^ Porque tive vergonha de pedir ao rei exército e cavaleiros para nos defenderem do inimigo no caminho, porque já lhe havíamos dito: "A mão do nosso Deus está sobre todos os que o buscam, para o bem deles; mas a sua força e a sua ira são contra todos os que o abandonam."
+
+[[v15-8-23]]
+
+^<<v15-8-23,23>>^ Assim nós jejuamos e pedimos isto ao nosso Deus, e ele nos atendeu.
+
+[[v15-8-24]]
+
+^<<v15-8-24,24>>^ Então separei doze dos principais sacerdotes, isto é, Serebias, Hasabias e dez dos seus irmãos.
+
+[[v15-8-25]]
+
+^<<v15-8-25,25>>^ Pesei-lhes a prata, o ouro e os utensílios que o rei, os seus conselheiros, os seus príncipes e todo o Israel que ali estava tinham contribuído para o templo do nosso Deus.
+
+[[v15-8-26]]
+
+^<<v15-8-26,26>>^ Entreguei-lhes nas mãos vinte e dois mil quilos de prata, três mil e quatrocentos quilos em objetos de prata e três mil e quatrocentos quilos de ouro.
+
+[[v15-8-27]]
+
+^<<v15-8-27,27>>^ Além disso, entreguei vinte taças de ouro de oito quilos e meio e dois objetos de bronze lustroso e fino, tão precioso como ouro.
+
+[[v15-8-28]]
+
+^<<v15-8-28,28>>^ Então eu lhes disse: — Vocês são santos ao Senhor , e santos são estes objetos, bem como esta prata e este ouro, oferta voluntária ao Senhor , Deus dos seus pais.
+
+[[v15-8-29]]
+
+^<<v15-8-29,29>>^ Vigiem e guardem essas coisas até que as pesem na presença dos principais sacerdotes, dos levitas e dos chefes de famílias de Israel, em Jerusalém, nas câmaras da Casa do Senhor .
+
+[[v15-8-30]]
+
+^<<v15-8-30,30>>^ Então os sacerdotes e os levitas receberam a prata, o ouro e os objetos, para os trazerem a Jerusalém, ao templo do nosso Deus.
+
+[[v15-8-31]]
+
+^<<v15-8-31,31>>^ Partimos do rio Aava no dia doze do primeiro mês, a fim de irmos para Jerusalém. E a mão do nosso Deus estava sobre nós e nos livrou das mãos dos inimigos e dos que nos armavam ciladas pelo caminho.
+
+[[v15-8-32]]
+
+^<<v15-8-32,32>>^ Chegamos a Jerusalém e descansamos três dias.
+
+[[v15-8-33]]
+
+^<<v15-8-33,33>>^ No quarto dia, pesamos, no templo do nosso Deus, a prata, o ouro e os objetos e os entregamos a Meremote, filho do sacerdote Urias. Com ele estavam Eleazar, filho de Fineias, e os levitas Jozabade, filho de Jesua, e Noadias, filho de Binui.
+
+[[v15-8-34]]
+
+^<<v15-8-34,34>>^ Tudo foi contado e pesado, e o peso total foi imediatamente registrado.
+
+[[v15-8-35]]
+
+^<<v15-8-35,35>>^ Os exilados que voltaram do cativeiro ofereceram holocaustos ao Deus de Israel: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros e, como oferta pelo pecado, doze bodes; tudo em holocausto ao Senhor .
+
+[[v15-8-36]]
+
+^<<v15-8-36,36>>^ Então deram as ordens do rei aos seus sátrapas e aos governadores da região deste lado do Eufrates, e estes ajudaram o povo na reconstrução da Casa de Deus.
+
+'''
+
+xref:015-esdras/015-esdras-007.adoc#v15-7-0[&#60; Capítulo Anterior] | <<v15-8-0,Topo>> | xref:015-esdras/015-esdras-009.adoc#v15-9-0[Próximo Capítulo &#62;]

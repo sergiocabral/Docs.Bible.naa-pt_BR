@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Provérbios, 28
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ Os ímpios fogem, mesmo quando ninguém os persegue, mas o justo é intrépido como o leão.
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ Por causa da transgressão da terra, mudam-se frequentemente os príncipes, mas por um, sábio e prudente, a ordem é mantida.
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ O pobre que oprime os pobres é como chuva torrencial que destrói as colheitas.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Os que abandonam a lei elogiam os ímpios, mas os que guardam a lei se indignam contra eles.
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Os maus não entendem o que é justo, mas os que buscam o Senhor entendem tudo.
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ Melhor é o pobre que anda na sua integridade do que o perverso, nos seus caminhos, ainda que seja rico.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ Quem guarda a lei é filho inteligente, mas o companheiro dos comilões envergonha o seu pai.
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ Quem aumenta os seus bens com juros e ganância ajunta-os para o que se compadece dos pobres.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ Quem desvia os ouvidos de ouvir a lei, até a sua oração será abominável.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ Quem desvia os retos para o mau caminho, ele mesmo cairá na cova que fez; mas os íntegros herdarão o bem.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ O homem rico é sábio aos seus próprios olhos; mas o pobre que é sábio o conhece muito bem.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ Quando os justos triunfam, há grande alegria; mas, quando os maus se levantam, as pessoas se escondem.
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ Quem encobre as suas transgressões jamais prosperará; mas o que as confessa e abandona alcançará misericórdia.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ Feliz é aquele que sempre teme o Senhor ; mas o que endurece o seu coração cairá na desgraça.
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ Como leão que ruge e urso que ataca, assim é o ímpio que domina sobre um povo pobre.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ O príncipe sem juízo aumenta a opressão, mas o que odeia a avareza viverá muitos anos.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ O assassino carregado de culpa fugirá até a cova; que ninguém o detenha!
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ Quem anda em integridade será salvo, mas o perverso em seus caminhos cairá logo.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ O que lavra a sua terra terá pão em abundância, mas quem corre atrás de coisas sem valor se fartará de pobreza.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ O homem fiel será cumulado de bênçãos, mas quem tem pressa de enriquecer não ficará sem castigo.
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ Parcialidade não é bom, porque uma pessoa é capaz de transgredir até por um bocado de pão.
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ O ganancioso corre atrás das riquezas, mas não sabe que a pobreza há de vir sobre ele.
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ Quem repreende alguém achará depois mais favor do que aquele que só lisonjeia.
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ Quem rouba o seu pai ou a sua mãe e diz: "Não é pecado", esse é companheiro do destruidor.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ O cobiçoso provoca discórdias, mas o que confia no Senhor prosperará.
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ Quem confia no seu próprio coração é tolo, mas o que anda em sabedoria será salvo.
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ Quem dá aos pobres não passará necessidade, mas o que fecha os olhos para eles será coberto de maldições.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ Quando os maus se levantam, as pessoas se escondem, mas, quando eles perecem, os justos se multiplicam.
+
+'''
+
+xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[Próximo Capítulo &#62;]

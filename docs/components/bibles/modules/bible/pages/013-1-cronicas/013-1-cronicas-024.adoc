@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== 1 Crônicas, 24
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ Quanto aos filhos de Arão, foram eles divididos por seus turnos. Os filhos de Arão foram: Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ Nadabe e Abiú morreram antes de seu pai e não tiveram filhos; por isso, Eleazar e Itamar oficiavam como sacerdotes.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ Com a ajuda de Zadoque, que era dos filhos de Eleazar, e de Aimeleque, que era dos filhos de Itamar, Davi os dividiu segundo os seus deveres no seu ministério.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ E verificou-se que, entre os chefes de famílias, havia mais filhos de Eleazar do que filhos de Itamar: dezesseis chefes de famílias dos filhos de Eleazar, e oito chefes de famílias dos filhos de Itamar.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ Foram distribuídos por sorteio, tanto uns como os outros, porque havia oficiais do santuário e oficiais de Deus tanto entre os filhos de Eleazar como entre os filhos de Itamar.
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ Semaías, escrivão, filho de Natanael, levita, registrou-os na presença do rei, dos príncipes, do sacerdote Zadoque, de Aimeleque, filho de Abiatar, e dos chefes das famílias dos sacerdotes e dos levitas, sendo as famílias escolhidas por sorteio, alternadamente, para Eleazar e para Itamar.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ A primeira sorte saiu para Jeoiaribe; a segunda, para Jedaías;
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ a terceira, para Harim; a quarta, para Seorim;
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ a quinta, para Malquias; a sexta, para Miamim;
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ a sétima, para Hacoz; a oitava, para Abias;
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ a nona, para Jesua; a décima, para Secanias;
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ a décima primeira, para Eliasibe; a décima segunda, para Jaquim;
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ a décima terceira, para Hupá; a décima quarta, para Jesebeabe;
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ a décima quinta, para Bilga; a décima sexta, para Imer;
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ a décima sétima, para Hezir; a décima oitava, para Hapises;
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ a décima nona, para Petaías; a vigésima, para Jeezquel;
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ a vigésima primeira, para Jaquim; a vigésima segunda, para Gamul;
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ a vigésima terceira, para Delaías; a vigésima quarta, para Maazias.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ O ofício destes no seu ministério era entrar na Casa do Senhor , segundo a maneira estabelecida por Arão, seu pai, como o Senhor , Deus de Israel, lhe havia ordenado.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ Eis os chefes do restante dos filhos de Levi: dos filhos de Anrão, Subael; dos filhos de Subael, Jedias;
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ dos filhos de Reabias, Issias, o chefe;
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ dos isaritas, Selomite; dos filhos de Selomite, Jaate;
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ dos filhos de Hebrom, Jerias, o primeiro, Amarias, o segundo, Jaaziel, o terceiro, Jecameão, o quarto;
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ dos filhos de Uziel, Mica; dos filhos de Mica, Samir;
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ o irmão de Mica, Issias; dos filhos de Issias, Zacarias;
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ dos filhos de Merari, Mali e Musi; dos filhos de Jaazias, Beno;
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ dos filhos de Merari, da parte de Jaazias: Beno, Soão, Zacur e Ibri;
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ de Mali, Eleazar, que não teve filhos;
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ dos filhos de Quis, Jerameel;
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ dos filhos de Musi, Mali, Éder e Jerimote. Estes foram os filhos dos levitas, segundo as suas famílias.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ Também estes, tanto os chefes das famílias como os seus irmãos menores, como fizeram os seus outros irmãos, filhos de Arão, lançaram sortes na presença do rei Davi, de Zadoque, de Aimeleque e dos chefes das famílias dos sacerdotes e dos levitas.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-84-0]]
+=== Salmos, 84
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-84-1]]
+
+^<<v19-84-1,1>>^ Quão amáveis são os teus tabernáculos, Senhor  dos Exércitos!
+
+[[v19-84-2]]
+
+^<<v19-84-2,2>>^ A minha alma suspira e desfalece pelos átrios do Senhor ; o meu coração e a minha carne exultam pelo Deus vivo!
+
+[[v19-84-3]]
+
+^<<v19-84-3,3>>^ O pardal encontrou casa, e a andorinha, ninho para si, onde acolha os seus filhotes, perto dos teus altares, Senhor  dos Exércitos, Rei meu e Deus meu!
+
+[[v19-84-4]]
+
+^<<v19-84-4,4>>^ Bem-aventurados os que habitam em tua casa; louvam-te perpetuamente.
+
+[[v19-84-5]]
+
+^<<v19-84-5,5>>^ Bem-aventurado é aquele cuja força está em ti, em cujo coração se encontram os caminhos aplanados!
+
+[[v19-84-6]]
+
+^<<v19-84-6,6>>^ Quando passa pelo vale árido, faz dele um manancial; de bênçãos o cobre a primeira chuva.
+
+[[v19-84-7]]
+
+^<<v19-84-7,7>>^ Vão indo de força em força; cada um deles aparece diante de Deus em Sião.
+
+[[v19-84-8]]
+
+^<<v19-84-8,8>>^ Senhor , Deus dos Exércitos, escuta a minha oração; ouve-me, ó Deus de Jacó!
+
+[[v19-84-9]]
+
+^<<v19-84-9,9>>^ Olha, ó Deus, escudo nosso, e contempla o rosto do teu ungido.
+
+[[v19-84-10]]
+
+^<<v19-84-10,10>>^ Pois um dia nos teus átrios vale mais que mil; prefiro estar à porta da casa do meu Deus a permanecer nas tendas da perversidade.
+
+[[v19-84-11]]
+
+^<<v19-84-11,11>>^ Porque o Senhor  Deus é sol e escudo; o Senhor  dá graça e glória; não recusa nenhum bem aos que andam retamente.
+
+[[v19-84-12]]
+
+^<<v19-84-12,12>>^ Ó Senhor  dos Exércitos, feliz é aquele que em ti confia.
+
+'''
+
+xref:019-salmos/019-salmos-083.adoc#v19-83-0[&#60; Capítulo Anterior] | <<v19-84-0,Topo>> | xref:019-salmos/019-salmos-085.adoc#v19-85-0[Próximo Capítulo &#62;]

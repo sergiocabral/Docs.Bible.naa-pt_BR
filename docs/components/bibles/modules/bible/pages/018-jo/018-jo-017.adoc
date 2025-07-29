@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v18-17-0]]
+=== Jó, 17
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v18-17-1]]
+
+^<<v18-17-1,1>>^ "O meu espírito vai se consumindo, os meus dias vão se apagando, e só tenho diante de mim a sepultura.
+
+[[v18-17-2]]
+
+^<<v18-17-2,2>>^ Estou cercado de zombadores, e os meus olhos são obrigados a contemplar as suas provocações."
+
+[[v18-17-3]]
+
+^<<v18-17-3,3>>^ "Dá-me, ó Deus, um penhor, e sê o meu fiador diante de ti; quem mais haverá que possa se comprometer comigo?
+
+[[v18-17-4]]
+
+^<<v18-17-4,4>>^ Fechaste o coração deles para o entendimento, e por isso não os exaltarás.
+
+[[v18-17-5]]
+
+^<<v18-17-5,5>>^ Se alguém entrega os seus amigos como presa, os olhos de seus filhos desfalecerão.
+
+[[v18-17-6]]
+
+^<<v18-17-6,6>>^ Mas ele me pôs por provérbio dos povos; tornei-me como aquele em cujo rosto se cospe.
+
+[[v18-17-7]]
+
+^<<v18-17-7,7>>^ Os meus olhos se escureceram de mágoa, e todos os meus membros são como a sombra.
+
+[[v18-17-8]]
+
+^<<v18-17-8,8>>^ Os retos ficam admirados com isto, e os inocentes se levantam contra os ímpios.
+
+[[v18-17-9]]
+
+^<<v18-17-9,9>>^ O justo segue o seu caminho, e o puro de mãos se torna cada vez mais forte.
+
+[[v18-17-10]]
+
+^<<v18-17-10,10>>^ Mas voltem, todos vocês, e venham cá; porque não acharei nenhum sábio entre vocês."
+
+[[v18-17-11]]
+
+^<<v18-17-11,11>>^ "Os meus dias passaram, e fracassaram os meus planos, os desejos do meu coração.
+
+[[v18-17-12]]
+
+^<<v18-17-12,12>>^ Transformam a noite em dia, e dizem: ‘A luz está perto das trevas.’
+
+[[v18-17-13]]
+
+^<<v18-17-13,13>>^ Mas, se eu aguardo a sepultura por minha casa; se faço a minha cama nas trevas;
+
+[[v18-17-14]]
+
+^<<v18-17-14,14>>^ se digo à cova: ‘Você é o meu pai’, e aos vermes: ‘Vocês são a minha mãe e a minha irmã’,
+
+[[v18-17-15]]
+
+^<<v18-17-15,15>>^ onde está, então, a minha esperança? Sim, a minha esperança, quem a poderá ver?
+
+[[v18-17-16]]
+
+^<<v18-17-16,16>>^ Ela descerá até as portas do mundo dos mortos, quando juntos descansarmos no pó."
+
+'''
+
+xref:018-jo/018-jo-016.adoc#v18-16-0[&#60; Capítulo Anterior] | <<v18-17-0,Topo>> | xref:018-jo/018-jo-018.adoc#v18-18-0[Próximo Capítulo &#62;]

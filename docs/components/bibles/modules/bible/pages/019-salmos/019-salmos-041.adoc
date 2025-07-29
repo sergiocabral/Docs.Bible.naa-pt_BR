@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-41-0]]
+=== Salmos, 41
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-41-1]]
+
+^<<v19-41-1,1>>^ Bem-aventurado é aquele que ajuda os necessitados; o Senhor  o livra no dia do mal.
+
+[[v19-41-2]]
+
+^<<v19-41-2,2>>^ O Senhor  o protege, preserva-lhe a vida e o faz feliz na terra; não o entrega à vontade dos seus inimigos.
+
+[[v19-41-3]]
+
+^<<v19-41-3,3>>^ O Senhor  o assiste no leito da enfermidade. Quando doente, tu lhe restauras a saúde.
+
+[[v19-41-4]]
+
+^<<v19-41-4,4>>^ Eu disse: "Compadece-te de mim, Senhor ; sara a minha alma, porque pequei contra ti."
+
+[[v19-41-5]]
+
+^<<v19-41-5,5>>^ Os meus inimigos falam mal de mim: "Quando é que ele vai morrer e ser esquecido?"
+
+[[v19-41-6]]
+
+^<<v19-41-6,6>>^ Se algum deles vem me visitar, diz coisas vãs, amontoando maldades no coração; ao sair, é disso que fala.
+
+[[v19-41-7]]
+
+^<<v19-41-7,7>>^ Todos os que me odeiam se reúnem e ficam cochichando; pensam o pior a respeito de mim, dizendo:
+
+[[v19-41-8]]
+
+^<<v19-41-8,8>>^ "Foi uma peste que deu nele"; e: "Caiu de cama, e não vai se levantar mais."
+
+[[v19-41-9]]
+
+^<<v19-41-9,9>>^ Até o meu amigo íntimo, em quem eu confiava, que comia do meu pão, levantou contra mim o seu calcanhar.
+
+[[v19-41-10]]
+
+^<<v19-41-10,10>>^ Tu, porém, Senhor , compadece-te de mim e levanta-me, para que eu lhes pague segundo merecem.
+
+[[v19-41-11]]
+
+^<<v19-41-11,11>>^ Com isto saberei que te agradas de mim: em não triunfar contra mim o meu inimigo.
+
+[[v19-41-12]]
+
+^<<v19-41-12,12>>^ Quanto a mim, tu me susténs na minha integridade e me pões na tua presença para sempre.
+
+[[v19-41-13]]
+
+^<<v19-41-13,13>>^ Bendito seja o Senhor , Deus de Israel, de eternidade a eternidade! Amém e amém!
+
+'''
+
+xref:019-salmos/019-salmos-040.adoc#v19-40-0[&#60; Capítulo Anterior] | <<v19-41-0,Topo>> | xref:019-salmos/019-salmos-042.adoc#v19-42-0[Próximo Capítulo &#62;]

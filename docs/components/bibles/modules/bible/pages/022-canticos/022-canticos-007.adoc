@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v22-7-0]]
+=== Cânticos, 7
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v22-7-1]]
+
+^<<v22-7-1,1>>^ Como são bonitos os seus pés nas sandálias, ó filha do príncipe! As curvas dos seus quadris são como colares trabalhados por mãos de artista.
+
+[[v22-7-2]]
+
+^<<v22-7-2,2>>^ O seu umbigo é uma taça redonda onde nunca falta bebida; o seu ventre é um monte de trigo, cercado de lírios.
+
+[[v22-7-3]]
+
+^<<v22-7-3,3>>^ Os seus seios são como duas crias gêmeas de uma gazela.
+
+[[v22-7-4]]
+
+^<<v22-7-4,4>>^ O seu pescoço é como uma torre de marfim. Os seus olhos são como as piscinas de Hesbom, junto ao portão de Bate-Rabim. O seu nariz é como a torre do Líbano, voltada para Damasco.
+
+[[v22-7-5]]
+
+^<<v22-7-5,5>>^ A sua cabeça é como o monte Carmelo; os seus cabelos são como a púrpura; um rei está preso nas suas tranças.
+
+[[v22-7-6]]
+
+^<<v22-7-6,6>>^ Como você é linda! Como você é atraente, meu amor, com as suas delícias!
+
+[[v22-7-7]]
+
+^<<v22-7-7,7>>^ Esse seu porte é semelhante à palmeira, e os seus seios se parecem com os cachos.
+
+[[v22-7-8]]
+
+^<<v22-7-8,8>>^ Eu disse: "Vou subir na palmeira e colher os seus frutos." Sejam os seus seios como os cachos de uvas, e o aroma da sua respiração, como o das maçãs.
+
+[[v22-7-9]]
+
+^<<v22-7-9,9>>^ Os seus beijos são como o bom vinho… … vinho que se escoa suavemente para o meu amado, deslizando entre os seus lábios e dentes.
+
+[[v22-7-10]]
+
+^<<v22-7-10,10>>^ Eu sou do meu amado, e ele tem saudades de mim.
+
+[[v22-7-11]]
+
+^<<v22-7-11,11>>^ Venha, meu amado, vamos para o campo, passemos a noite nas aldeias.
+
+[[v22-7-12]]
+
+^<<v22-7-12,12>>^ Vamos levantar cedo e olhar as parreiras, para ver se já começaram a brotar, se as flores estão se abrindo, se as romãzeiras já estão em flor. Ali eu lhe darei o meu amor.
+
+[[v22-7-13]]
+
+^<<v22-7-13,13>>^ As mandrágoras exalam o seu perfume, e às nossas portas há todo tipo de frutos excelentes, frescos e secos, que reservei para você, meu amado.
+
+'''
+
+xref:022-canticos/022-canticos-006.adoc#v22-6-0[&#60; Capítulo Anterior] | <<v22-7-0,Topo>> | xref:022-canticos/022-canticos-008.adoc#v22-8-0[Próximo Capítulo &#62;]

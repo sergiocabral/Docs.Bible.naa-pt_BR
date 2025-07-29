@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-70-0]]
+=== Salmos, 70
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-70-1]]
+
+^<<v19-70-1,1>>^ Agrada-te, ó Deus, em me livrar; apressa-te, ó Senhor , em me socorrer.
+
+[[v19-70-2]]
+
+^<<v19-70-2,2>>^ Que sejam envergonhados e cobertos de vexame os que buscam tirar-me a vida; retrocedam e cubram-se de vergonha os que se alegram com o meu mal.
+
+[[v19-70-3]]
+
+^<<v19-70-3,3>>^ Retrocedam por causa da sua vergonha os que dizem: "Bem feito! Bem feito!"
+
+[[v19-70-4]]
+
+^<<v19-70-4,4>>^ Exultem e em ti se alegrem todos os que te buscam; e os que amam a tua salvação digam sempre: "Deus seja engrandecido!"
+
+[[v19-70-5]]
+
+^<<v19-70-5,5>>^ Eu sou pobre e necessitado; ó Deus, apressa-te em me socorrer, pois tu és o meu amparo e o meu libertador. Senhor , não te demores!
+
+'''
+
+xref:019-salmos/019-salmos-069.adoc#v19-69-0[&#60; Capítulo Anterior] | <<v19-70-0,Topo>> | xref:019-salmos/019-salmos-071.adoc#v19-71-0[Próximo Capítulo &#62;]

@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Provérbios, 30
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ Palavras de Agur, filho de Jaque, de Massá. O homem disse: "Estou cansado, ó Deus; estou cansado, ó Deus, e exausto
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ porque sou demasiadamente estúpido para ser homem. Não tenho a inteligência de um ser humano,
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ não aprendi a sabedoria, nem tenho o conhecimento do Santo.
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Quem subiu ao céu e desceu? Quem pegou o vento com as suas mãos? Quem amarrou as águas na sua roupa? Quem estabeleceu todas as extremidades da terra? Qual é o seu nome, e qual é o nome de seu filho, se é que você o sabe?
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Toda palavra de Deus é pura. Ele é escudo para os que nele confiam.
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Não acrescente nada às suas palavras, para que ele não o repreenda, e você seja achado mentiroso."
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ Duas coisas te peço, ó Deus; não recuse o meu pedido, antes que eu morra:
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ afasta de mim a falsidade e a mentira; não me dês nem a pobreza nem a riqueza; dá-me o pão que me for necessário,
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ para não acontecer que, estando eu farto, te negue e diga: "Quem é o Senhor ?" Ou que, empobrecido, venha a furtar e profane o nome de Deus.
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Não calunie o servo diante de seu senhor, para que você não seja amaldiçoado por aquele servo e seja visto como culpado.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ Há pessoas que amaldiçoam o próprio pai e que não bendizem a própria mãe.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ Há pessoas que são puras aos próprios olhos e que jamais foram lavadas da sua sujeira.
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ Há pessoas cujos olhos são arrogantes e que olham para os outros com desdém!
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ Há pessoas cujos dentes são espadas, e cujas mandíbulas são facas, para consumirem os aflitos da terra e os necessitados deste mundo.
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ A sanguessuga tem duas filhas, que se chamam Dá e Dá. Há três coisas que nunca se fartam; na verdade, há quatro que nunca dizem: "Basta!"
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ Elas são o mundo dos mortos, o ventre estéril, a terra, que não se farta de água, e o fogo, que nunca diz: "Basta!"
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ Os olhos de quem zomba do pai ou de quem nega obediência à sua mãe, corvos do vale os arrancarão e pelos filhotes da águia serão comidos.
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ Há três coisas que são maravilhosas demais para mim; na verdade, há quatro que eu não entendo:
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ o caminho da águia no céu, o caminho da cobra na rocha, o caminho do navio no meio do mar e o caminho do homem com uma moça.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ Tal é o caminho da mulher adúltera: come, limpa a boca e depois diz: "Não fiz nada de errado!"
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ Três coisas fazem a terra tremer; na verdade, são quatro que ela não pode suportar:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ o escravo que se torna rei; o insensato que anda farto de pão;
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ a mulher desprezada que se casa; e a escrava que se torna herdeira da sua senhora.
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ Há quatro coisas bem pequenas na terra, mas que são mais sábias do que os sábios:
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ as formigas, povo sem força, mas que no verão prepara a sua comida;
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ os arganazes, povo que não é poderoso, mas que faz a sua casa nas rochas;
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ os gafanhotos, que não têm rei, mas que marcham todos em bandos;
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ a lagartixa, que se pode apanhar com as mãos, mas que se encontra até nos palácios dos reis.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ Há três que têm passo elegante; na verdade, quatro que são imponentes no andar:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ o leão, o mais forte dos animais, que não foge diante de nada;
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ o galo, que anda ereto; o bode; e o rei, a quem não se pode resistir.
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ Se você foi tolo a ponto de se exaltar ou se planejou o mal, ponha a mão sobre a sua boca.
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ Porque o bater do leite produz manteiga, o torcer do nariz produz sangue e o instigar a ira produz brigas.
+
+'''
+
+xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbios/020-proverbios-031.adoc#v20-31-0[Próximo Capítulo &#62;]

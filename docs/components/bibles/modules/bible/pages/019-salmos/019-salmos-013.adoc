@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Salmos, 13
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ Até quando, Senhor , te esquecerás de mim? Será para sempre? Até quando esconderás de mim o teu rosto?
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ Até quando estarei relutando em minha alma, com tristeza no coração cada dia? Até quando o meu inimigo se exaltará sobre mim?
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Olha para mim e responde-me, Senhor , meu Deus! Ilumina os meus olhos, para que eu não durma o sono da morte;
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ para que o meu inimigo não diga: "Prevaleci contra ele"; e não se alegrem os meus adversários, se eu for abalado.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ Quanto a mim, confio na tua graça; que o meu coração se alegre na tua salvação.
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ Cantarei ao Senhor , porque ele me tem feito muito bem.
+
+'''
+
+xref:019-salmos/019-salmos-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-salmos/019-salmos-014.adoc#v19-14-0[Próximo Capítulo &#62;]

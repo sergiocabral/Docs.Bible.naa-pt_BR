@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v2-8-0]]
+=== Êxodo, 8
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v2-8-1]]
+
+^<<v2-8-1,1>>^ Depois o Senhor  disse a Moisés: — Vá falar com Faraó e diga-lhe: Assim diz o Senhor : "Deixe o meu povo ir, para que me adore.
+
+[[v2-8-2]]
+
+^<<v2-8-2,2>>^ Se você não quiser deixá-lo ir, eis que castigarei com rãs todo o seu território.
+
+[[v2-8-3]]
+
+^<<v2-8-3,3>>^ O rio produzirá rãs em abundância, que subirão e entrarão em sua casa, no seu quarto de dormir, sobre a sua cama, nas casas dos seus oficiais, sobre o seu povo, nos seus fornos e nas suas amassadeiras.
+
+[[v2-8-4]]
+
+^<<v2-8-4,4>>^ As rãs virão sobre você, sobre o seu povo e sobre todos os seus oficiais."
+
+[[v2-8-5]]
+
+^<<v2-8-5,5>>^ O Senhor  disse ainda a Moisés: — Diga a Arão que estenda a mão com o seu bordão sobre os rios, sobre os canais e sobre as lagoas e faça subir rãs sobre a terra do Egito.
+
+[[v2-8-6]]
+
+^<<v2-8-6,6>>^ Arão estendeu a mão sobre as águas do Egito, e subiram rãs e cobriram a terra do Egito.
+
+[[v2-8-7]]
+
+^<<v2-8-7,7>>^ Então os magos fizeram o mesmo com as suas ciências ocultas e fizeram aparecer rãs sobre a terra do Egito.
+
+[[v2-8-8]]
+
+^<<v2-8-8,8>>^ Faraó chamou Moisés e Arão e lhes disse: — Peçam ao Senhor  que tire as rãs de mim e do meu povo; então deixarei que o povo vá e ofereça sacrifícios ao Senhor .
+
+[[v2-8-9]]
+
+^<<v2-8-9,9>>^ Moisés disse a Faraó: — Tenha a bondade de me dizer quando é que devo orar por você, pelos seus oficiais e pelo seu povo, para que as rãs sejam retiradas de você e das suas casas e fiquem somente no rio.
+
+[[v2-8-10]]
+
+^<<v2-8-10,10>>^ Faraó respondeu: — Amanhã. Moisés disse: — Seja conforme a sua palavra, para que você saiba que não há ninguém como o Senhor , nosso Deus.
+
+[[v2-8-11]]
+
+^<<v2-8-11,11>>^ As rãs se afastarão de você, das suas casas, dos seus oficiais e do seu povo; ficarão somente no rio.
+
+[[v2-8-12]]
+
+^<<v2-8-12,12>>^ Então Moisés e Arão saíram da presença de Faraó. E Moisés clamou ao Senhor  por causa das rãs, conforme havia combinado com Faraó.
+
+[[v2-8-13]]
+
+^<<v2-8-13,13>>^ E o Senhor  fez conforme a palavra de Moisés: morreram as rãs nas casas, nos pátios e nos campos.
+
+[[v2-8-14]]
+
+^<<v2-8-14,14>>^ Os egípcios ajuntaram as rãs em montões e montões, e a terra cheirou mal.
+
+[[v2-8-15]]
+
+^<<v2-8-15,15>>^ Vendo, porém, Faraó que havia alívio, continuou de coração endurecido e não os ouviu, como o Senhor  tinha dito.
+
+[[v2-8-16]]
+
+^<<v2-8-16,16>>^ O Senhor  disse a Moisés: — Diga a Arão que estenda o seu bordão e bata no pó da terra, para que se transforme em piolhos por toda a terra do Egito.
+
+[[v2-8-17]]
+
+^<<v2-8-17,17>>^ Eles assim fizeram. Arão estendeu a mão com seu bordão e bateu no pó da terra, e houve muitos piolhos nas pessoas e no gado; todo o pó da terra se transformou em piolhos por toda a terra do Egito.
+
+[[v2-8-18]]
+
+^<<v2-8-18,18>>^ E os magos fizeram o mesmo com as suas ciências ocultas para produzirem piolhos, mas não conseguiram. E havia piolhos nas pessoas e no gado.
+
+[[v2-8-19]]
+
+^<<v2-8-19,19>>^ Então os magos disseram a Faraó: — Isto é o dedo de Deus. Porém o coração de Faraó se endureceu, e não os ouviu, como o Senhor  tinha dito.
+
+[[v2-8-20]]
+
+^<<v2-8-20,20>>^ O Senhor  disse a Moisés: — Levante-se de manhã cedo e apresente-se a Faraó. Eis que ele sairá às águas. Diga-lhe: Assim diz o Senhor : "Deixe o meu povo ir, para que me adore.
+
+[[v2-8-21]]
+
+^<<v2-8-21,21>>^ Se você não deixar o meu povo ir, eis que eu enviarei enxames de moscas sobre você, sobre os seus oficiais, sobre o seu povo e nas suas casas. As casas dos egípcios se encherão destes enxames, e também a terra em que eles estiverem.
+
+[[v2-8-22]]
+
+^<<v2-8-22,22>>^ Naquele dia, separarei a terra de Gósen, onde mora o meu povo, para que nela não haja enxames de moscas, e você saiba que eu sou o Senhor  no meio desta terra.
+
+[[v2-8-23]]
+
+^<<v2-8-23,23>>^ Farei distinção entre o meu povo e o seu povo; amanhã se dará este sinal."
+
+[[v2-8-24]]
+
+^<<v2-8-24,24>>^ Assim fez o Senhor , e vieram grandes enxames de moscas à casa de Faraó, às casas dos seus oficiais e sobre toda a terra do Egito. E a terra ficou arruinada com estes enxames.
+
+[[v2-8-25]]
+
+^<<v2-8-25,25>>^ Faraó chamou Moisés e Arão e disse: — Vão e ofereçam sacrifícios ao seu Deus, mas sem sair desta terra.
+
+[[v2-8-26]]
+
+^<<v2-8-26,26>>^ Moisés respondeu: — Não convém que façamos assim porque ofereceríamos ao Senhor , nosso Deus, sacrifícios que são abomináveis aos egípcios. Se oferecermos tais sacrifícios diante dos seus olhos, não é verdade que eles nos apedrejarão?
+
+[[v2-8-27]]
+
+^<<v2-8-27,27>>^ Temos de ir caminho de três dias ao deserto e ofereceremos sacrifícios ao Senhor , nosso Deus, como ele nos disser.
+
+[[v2-8-28]]
+
+^<<v2-8-28,28>>^ Então Faraó disse: — Eu os deixarei ir, para que ofereçam sacrifícios ao Senhor , seu Deus, no deserto. Só que vocês não devem ir muito longe. E orem também por mim.
+
+[[v2-8-29]]
+
+^<<v2-8-29,29>>^ Moisés respondeu: — Eis que saio da sua presença e orarei ao Senhor . Amanhã, estes enxames de moscas se afastarão de Faraó, dos seus oficiais e do seu povo. Só que Faraó não deve me enganar outra vez, não deixando o povo ir para que ofereça sacrifícios ao Senhor .
+
+[[v2-8-30]]
+
+^<<v2-8-30,30>>^ Então Moisés saiu da presença de Faraó e orou ao Senhor .
+
+[[v2-8-31]]
+
+^<<v2-8-31,31>>^ E o Senhor  fez conforme a palavra de Moisés, e os enxames de moscas se afastaram de Faraó, dos seus oficiais e do seu povo; não ficou uma só mosca.
+
+[[v2-8-32]]
+
+^<<v2-8-32,32>>^ Mas ainda desta vez Faraó endureceu o coração e não deixou o povo ir.
+
+'''
+
+xref:002-exodo/002-exodo-007.adoc#v2-7-0[&#60; Capítulo Anterior] | <<v2-8-0,Topo>> | xref:002-exodo/002-exodo-009.adoc#v2-9-0[Próximo Capítulo &#62;]

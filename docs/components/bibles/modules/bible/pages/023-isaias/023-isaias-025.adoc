@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v23-25-0]]
+=== Isaías, 25
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-25-1]]
+
+^<<v23-25-1,1>>^ Ó Senhor , tu és o meu Deus; eu te exaltarei e louvarei o teu nome, porque tens feito maravilhas e tens executado os teus conselhos antigos, fiéis e verdadeiros.
+
+[[v23-25-2]]
+
+^<<v23-25-2,2>>^ Porque da cidade fizeste um montão de pedras e da cidade fortificada, uma ruína; a fortaleza dos estrangeiros já não é cidade e jamais será reconstruída.
+
+[[v23-25-3]]
+
+^<<v23-25-3,3>>^ Por isso, um povo forte te glorificará, e a cidade das nações opressoras te temerá.
+
+[[v23-25-4]]
+
+^<<v23-25-4,4>>^ Porque foste a fortaleza do pobre e a fortaleza do necessitado na sua angústia; refúgio contra a tempestade e sombra contra o calor. Porque a fúria dos tiranos é como a tempestade contra o muro,
+
+[[v23-25-5]]
+
+^<<v23-25-5,5>>^ como o calor em lugar seco. Tu farás cessar o tumulto dos estrangeiros. Como o calor se abranda com a sombra de uma nuvem, assim o hino triunfal dos tiranos será silenciado.
+
+[[v23-25-6]]
+
+^<<v23-25-6,6>>^ O Senhor  dos Exércitos dará neste monte um banquete para todos os povos. Será um banquete de carnes suculentas e vinhos envelhecidos: carnes suculentas com tutanos e vinhos envelhecidos bem-clarificados.
+
+[[v23-25-7]]
+
+^<<v23-25-7,7>>^ Neste monte ele acabará com o pano que cobre todos os povos e com o véu que está posto sobre todas as nações.
+
+[[v23-25-8]]
+
+^<<v23-25-8,8>>^ Tragará a morte para sempre, e, assim, o Senhor  Deus enxugará as lágrimas de todos os rostos, e tirará de toda a terra o vexame do seu povo, porque o Senhor  falou.
+
+[[v23-25-9]]
+
+^<<v23-25-9,9>>^ Naquele dia, se dirá: "Eis que este é o nosso Deus, em quem esperávamos, e ele nos salvará; este é o Senhor , a quem aguardávamos; na sua salvação exultaremos e nos alegraremos."
+
+[[v23-25-10]]
+
+^<<v23-25-10,10>>^ Porque a mão do Senhor repousará neste monte; mas Moabe será pisoteado no seu lugar, como se pisa a palha na esterqueira.
+
+[[v23-25-11]]
+
+^<<v23-25-11,11>>^ No meio disto Moabe estenderá os braços, como o nadador os estende para nadar; mas o Senhor  lhe abaterá o orgulho, apesar da perícia dos seus braços.
+
+[[v23-25-12]]
+
+^<<v23-25-12,12>>^ Ele derrubará as altas fortalezas das muralhas de Moabe; irá abatê-las e derrubá-las até o chão, até o pó.
+
+'''
+
+xref:023-isaias/023-isaias-024.adoc#v23-24-0[&#60; Capítulo Anterior] | <<v23-25-0,Topo>> | xref:023-isaias/023-isaias-026.adoc#v23-26-0[Próximo Capítulo &#62;]

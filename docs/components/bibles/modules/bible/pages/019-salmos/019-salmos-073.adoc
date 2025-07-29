@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v19-73-0]]
+=== Salmos, 73
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-73-1]]
+
+^<<v19-73-1,1>>^ De fato, Deus é bom para com Israel, para com os de coração limpo.
+
+[[v19-73-2]]
+
+^<<v19-73-2,2>>^ Quanto a mim, porém, quase me resvalaram os pés; pouco faltou para que se desviassem os meus passos.
+
+[[v19-73-3]]
+
+^<<v19-73-3,3>>^ Pois eu invejava os arrogantes, ao ver a prosperidade dos maus.
+
+[[v19-73-4]]
+
+^<<v19-73-4,4>>^ Para eles não há preocupações, o seu corpo é forte e sadio.
+
+[[v19-73-5]]
+
+^<<v19-73-5,5>>^ Não partilham das canseiras dos mortais, nem são afligidos como os outros.
+
+[[v19-73-6]]
+
+^<<v19-73-6,6>>^ Por isso, a soberba os cinge como um colar, e a violência os envolve como um manto.
+
+[[v19-73-7]]
+
+^<<v19-73-7,7>>^ Os olhos saltam-lhes de tanta gordura; do coração deles brotam fantasias.
+
+[[v19-73-8]]
+
+^<<v19-73-8,8>>^ Zombam e falam com maldade; falam da opressão com arrogância.
+
+[[v19-73-9]]
+
+^<<v19-73-9,9>>^ Abrem a boca para falar contra os céus, e a língua deles percorre a terra.
+
+[[v19-73-10]]
+
+^<<v19-73-10,10>>^ Por isso, o seu povo se volta para eles e os tem por fonte da qual bebe com avidez.
+
+[[v19-73-11]]
+
+^<<v19-73-11,11>>^ Eles dizem: "Como Deus ficará sabendo? Por acaso o Altíssimo tem algum conhecimento?"
+
+[[v19-73-12]]
+
+^<<v19-73-12,12>>^ Eis que estes são os ímpios; e, sempre tranquilos, aumentam as suas riquezas.
+
+[[v19-73-13]]
+
+^<<v19-73-13,13>>^ Com certeza foi inútil conservar puro o meu coração e lavar as minhas mãos na inocência.
+
+[[v19-73-14]]
+
+^<<v19-73-14,14>>^ Pois o dia inteiro sou afligido e cada manhã sou castigado.
+
+[[v19-73-15]]
+
+^<<v19-73-15,15>>^ Se eu tivesse pensado em falar tais palavras, já aí teria traído a geração de teus filhos, ó Deus.
+
+[[v19-73-16]]
+
+^<<v19-73-16,16>>^ Em só refletir para compreender isso, achei que a tarefa era pesada demais para mim;
+
+[[v19-73-17]]
+
+^<<v19-73-17,17>>^ até que entrei no santuário de Deus e descobri qual seria o fim deles.
+
+[[v19-73-18]]
+
+^<<v19-73-18,18>>^ Tu certamente os pões em lugares escorregadios e os fazes cair na destruição.
+
+[[v19-73-19]]
+
+^<<v19-73-19,19>>^ Como são destruídos num instante! São totalmente aniquilados de terror!
+
+[[v19-73-20]]
+
+^<<v19-73-20,20>>^ Como acontece com o sonho, quando alguém acorda, assim, ó Senhor, ao despertares, desprezarás a imagem deles.
+
+[[v19-73-21]]
+
+^<<v19-73-21,21>>^ Quando o meu coração estava cheio de amargura e o meu íntimo se comoveu,
+
+[[v19-73-22]]
+
+^<<v19-73-22,22>>^ eu estava embrutecido e sem entendimento; era como um animal diante de ti.
+
+[[v19-73-23]]
+
+^<<v19-73-23,23>>^ No entanto, estou sempre contigo, tu me seguras pela minha mão direita.
+
+[[v19-73-24]]
+
+^<<v19-73-24,24>>^ Tu me guias com o teu conselho e depois me recebes na glória.
+
+[[v19-73-25]]
+
+^<<v19-73-25,25>>^ Quem tenho eu no céu além de ti? E quem poderia eu querer na terra além de ti?
+
+[[v19-73-26]]
+
+^<<v19-73-26,26>>^ Ainda que a minha carne e o meu coração desfaleçam, Deus é a fortaleza do meu coração e a minha herança para sempre.
+
+[[v19-73-27]]
+
+^<<v19-73-27,27>>^ Os que se afastam de ti certamente perecerão; tu destróis todos os que são infiéis para contigo.
+
+[[v19-73-28]]
+
+^<<v19-73-28,28>>^ Quanto a mim, bom é estar perto de Deus; faço do Senhor  Deus o meu refúgio, para proclamar todas as suas obras.
+
+'''
+
+xref:019-salmos/019-salmos-072.adoc#v19-72-0[&#60; Capítulo Anterior] | <<v19-73-0,Topo>> | xref:019-salmos/019-salmos-074.adoc#v19-74-0[Próximo Capítulo &#62;]

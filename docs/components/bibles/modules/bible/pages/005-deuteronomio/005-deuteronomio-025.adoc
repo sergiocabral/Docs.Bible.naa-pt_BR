@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v5-25-0]]
+=== Deuteronômio, 25
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-25-1]]
+
+^<<v5-25-1,1>>^ — Quando houver desentendimento entre dois homens, e vierem a juízo, os juízes os julgarão, justificando o inocente e condenando o culpado.
+
+[[v5-25-2]]
+
+^<<v5-25-2,2>>^ Se o culpado merecer açoites, o juiz mandará que ele se deite no chão e seja açoitado, na sua presença, com o número de açoites que o caso exigir.
+
+[[v5-25-3]]
+
+^<<v5-25-3,3>>^ Poderá ordenar quarenta açoites, não mais; do contrário, se ordenasse mais do que isso, um compatriota seria humilhado aos olhos de vocês.
+
+[[v5-25-4]]
+
+^<<v5-25-4,4>>^ — Não amarrem a boca do boi quando estiver pisando o trigo.
+
+[[v5-25-5]]
+
+^<<v5-25-5,5>>^ — Se dois irmãos morarem juntos, e um deles morrer sem filhos, a mulher do que morreu não se casará com um estranho, alguém de fora da família; seu cunhado a tomará, a receberá por mulher e exercerá para com ela a obrigação de cunhado.
+
+[[v5-25-6]]
+
+^<<v5-25-6,6>>^ O primogênito que ela lhe der será sucessor do nome do seu irmão falecido, para que o nome deste não se apague em Israel.
+
+[[v5-25-7]]
+
+^<<v5-25-7,7>>^ — Porém, se o homem não quiser se casar com a cunhada, ela irá ao portão da cidade para falar com os anciãos, e dirá: "Meu cunhado se recusa a dar continuidade ao nome de seu irmão em Israel; não quer exercer para comigo a obrigação de cunhado."
+
+[[v5-25-8]]
+
+^<<v5-25-8,8>>^ Então os anciãos da cidade devem chamá-lo e falar com ele. Se ele persistir e disser: "Não quero casar com ela",
+
+[[v5-25-9]]
+
+^<<v5-25-9,9>>^ então a cunhada chegará perto dele, na presença dos anciãos, e lhe descalçará a sandália do pé, e lhe cuspirá no rosto, e protestará, dizendo: "Assim se fará com o homem que não quer edificar a casa de seu irmão."
+
+[[v5-25-10]]
+
+^<<v5-25-10,10>>^ E, em Israel, se dará à casa daquele homem o nome de "A casa do descalçado".
+
+[[v5-25-11]]
+
+^<<v5-25-11,11>>^ — Quando dois homens estiverem brigando, um contra o outro, e a mulher de um chegar para livrar o marido da mão daquele que o fere, e ela estender a mão, e o pegar pelo órgão genital,
+
+[[v5-25-12]]
+
+^<<v5-25-12,12>>^ vocês devem cortar a mão dela; não olhem para ela com piedade.
+
+[[v5-25-13]]
+
+^<<v5-25-13,13>>^ — Não levem na bolsa pesos diferentes, um grande e um pequeno.
+
+[[v5-25-14]]
+
+^<<v5-25-14,14>>^ Não tenham em casa dois tipos de medidas, um grande e um pequeno.
+
+[[v5-25-15]]
+
+^<<v5-25-15,15>>^ Usem um peso integral e justo, e uma medida integral e justa; para que se prolonguem os seus dias na terra que o Senhor , seu Deus, lhes dá.
+
+[[v5-25-16]]
+
+^<<v5-25-16,16>>^ Porque todo aquele que pratica tal injustiça é abominação ao Senhor , o Deus de vocês.
+
+[[v5-25-17]]
+
+^<<v5-25-17,17>>^ — Lembrem-se do que os amalequitas fizeram no caminho, quando vocês estavam saindo do Egito.
+
+[[v5-25-18]]
+
+^<<v5-25-18,18>>^ Eles saíram ao encontro de vocês no caminho e, quando vocês estavam abatidos e cansados, atacaram na retaguarda todos os desfalecidos que vinham atrás; e não temeram a Deus.
+
+[[v5-25-19]]
+
+^<<v5-25-19,19>>^ Portanto, quando o Senhor , seu Deus, lhes houver dado sossego de todos os seus inimigos ao redor, na terra que o Senhor , seu Deus, lhes dá por herança, para que dela tomem posse, apaguem a memória dos amalequitas da face da terra; não se esqueçam disto.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[&#60; Capítulo Anterior] | <<v5-25-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[Próximo Capítulo &#62;]

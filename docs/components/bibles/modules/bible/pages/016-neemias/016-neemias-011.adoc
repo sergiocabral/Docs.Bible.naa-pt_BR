@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v16-11-0]]
+=== Neemias, 11
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v16-11-1]]
+
+^<<v16-11-1,1>>^ Os chefes do povo ficaram morando em Jerusalém, mas o resto do povo fez um sorteio para escolher um de cada dez para morar na santa cidade de Jerusalém; os outros nove permaneceriam em outras cidades.
+
+[[v16-11-2]]
+
+^<<v16-11-2,2>>^ O povo abençoou todos os homens que voluntariamente se ofereciam para morar em Jerusalém.
+
+[[v16-11-3]]
+
+^<<v16-11-3,3>>^ São estes os chefes da província que moraram em Jerusalém; porém nas cidades de Judá cada um morou na sua propriedade, nas suas cidades, a saber, Israel, os sacerdotes, os levitas, os servidores do templo e os filhos dos servos de Salomão.
+
+[[v16-11-4]]
+
+^<<v16-11-4,4>>^ Assim, em Jerusalém ficaram morando alguns dos filhos de Judá e dos filhos de Benjamim. Dos filhos de Judá: Ataías, filho de Uzias, filho de Zacarias, filho de Amarias, filho de Sefatias, filho de Maalalel, dos filhos de Perez;
+
+[[v16-11-5]]
+
+^<<v16-11-5,5>>^ e Maaseias, filho de Baruque, filho de Col-Hozé, filho de Hazaías, filho de Adaías, filho de Joiaribe, filho de Zacarias, filho do silonita.
+
+[[v16-11-6]]
+
+^<<v16-11-6,6>>^ Todos os filhos de Perez que moraram em Jerusalém foram quatrocentos e sessenta e oito homens valentes.
+
+[[v16-11-7]]
+
+^<<v16-11-7,7>>^ São estes os filhos de Benjamim: Salu, filho de Mesulão, filho de Joede, filho de Pedaías, filho de Colaías, filho de Maaseias, filho de Itiel, filho de Jesaías.
+
+[[v16-11-8]]
+
+^<<v16-11-8,8>>^ Depois dele, Gabai e Salai; ao todo, novecentos e vinte e oito.
+
+[[v16-11-9]]
+
+^<<v16-11-9,9>>^ Joel, filho de Zicri, superintendente deles; e Judá, filho de Senua, o segundo sobre a cidade.
+
+[[v16-11-10]]
+
+^<<v16-11-10,10>>^ Dos sacerdotes: Jedaías, filho de Joiaribe, Jaquim,
+
+[[v16-11-11]]
+
+^<<v16-11-11,11>>^ Seraías, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote,
+
+[[v16-11-12]]
+
+^<<v16-11-12,12>>^ filho de Aitube, chefe da Casa de Deus, e os irmãos deles, que faziam o serviço do templo, oitocentos e vinte e dois; e Adaías, filho de Jeroão, filho de Pelalias, filho de Anzi, filho de Zacarias, filho de Pasur, filho de Malquias,
+
+[[v16-11-13]]
+
+^<<v16-11-13,13>>^ e os seus irmãos, chefes de famílias, duzentos e quarenta e dois; e Amasai, filho de Azarel, filho de Azai, filho de Mesilemote, filho de Imer,
+
+[[v16-11-14]]
+
+^<<v16-11-14,14>>^ e os irmãos deles, homens valentes, cento e vinte e oito; e, superintendente deles, Zabdiel, filho de Gedolim.
+
+[[v16-11-15]]
+
+^<<v16-11-15,15>>^ Dos levitas: Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, filho de Buni;
+
+[[v16-11-16]]
+
+^<<v16-11-16,16>>^ Sabetai e Jozabade, dos cabeças dos levitas, que presidiam o serviço no lado de fora da Casa de Deus;
+
+[[v16-11-17]]
+
+^<<v16-11-17,17>>^ Matanias, filho de Mica, filho de Zabdi, filho de Asafe, o chefe, que dirigia os louvores nas orações, e Baquebuquias, o segundo de seus irmãos; depois, Abda, filho de Samua, filho de Galal, filho de Jedutum.
+
+[[v16-11-18]]
+
+^<<v16-11-18,18>>^ Todos os levitas na santa cidade eram duzentos e oitenta e quatro.
+
+[[v16-11-19]]
+
+^<<v16-11-19,19>>^ Dos porteiros: Acube, Talmom e os irmãos deles, os guardas das portas, cento e setenta e dois.
+
+[[v16-11-20]]
+
+^<<v16-11-20,20>>^ O restante de Israel, dos sacerdotes e dos levitas se estabeleceu em todas as cidades de Judá, cada um na sua herança.
+
+[[v16-11-21]]
+
+^<<v16-11-21,21>>^ Os servidores do templo ficaram morando em Ofel e eram dirigidos por Zia e Gispa.
+
+[[v16-11-22]]
+
+^<<v16-11-22,22>>^ O superintendente dos levitas em Jerusalém era Uzi, filho de Bani, filho de Hasabias, filho de Matanias, filho de Mica, dos filhos de Asafe, que eram cantores a serviço da Casa de Deus.
+
+[[v16-11-23]]
+
+^<<v16-11-23,23>>^ Porque havia um mandado do rei a respeito deles e certo acordo com os cantores, concernente às obrigações de cada dia.
+
+[[v16-11-24]]
+
+^<<v16-11-24,24>>^ Petaías, filho de Mesezabel, dos filhos de Zera, filho de Judá, estava à disposição do rei, em todos os negócios do povo.
+
+[[v16-11-25]]
+
+^<<v16-11-25,25>>^ Quanto às aldeias, com os seus campos, alguns dos filhos de Judá foram morar em Quiriate-Arba e suas aldeias, em Dibom e suas aldeias, em Jecabzeel e suas aldeias,
+
+[[v16-11-26]]
+
+^<<v16-11-26,26>>^ e em Jesua, em Moladá, em Bete-Palete,
+
+[[v16-11-27]]
+
+^<<v16-11-27,27>>^ em Hazar-Sual, em Berseba e suas aldeias;
+
+[[v16-11-28]]
+
+^<<v16-11-28,28>>^ em Ziclague, em Mecona e suas aldeias;
+
+[[v16-11-29]]
+
+^<<v16-11-29,29>>^ em En-Rimom, em Zorá, em Jarmute;
+
+[[v16-11-30]]
+
+^<<v16-11-30,30>>^ em Zanoa, em Adulão e nas suas aldeias; em Laquis e em seus campos, em Azeca e suas aldeias. Acamparam desde Berseba até o vale de Hinom.
+
+[[v16-11-31]]
+
+^<<v16-11-31,31>>^ Os filhos de Benjamim também se estabeleceram em Geba e daí em diante, em Micmás, Aia, Betel e suas aldeias;
+
+[[v16-11-32]]
+
+^<<v16-11-32,32>>^ em Anatote, em Nobe, em Ananias,
+
+[[v16-11-33]]
+
+^<<v16-11-33,33>>^ em Hazor, em Ramá, em Gitaim,
+
+[[v16-11-34]]
+
+^<<v16-11-34,34>>^ em Hadide, em Zeboim, em Nebalate,
+
+[[v16-11-35]]
+
+^<<v16-11-35,35>>^ em Lode e em Ono, no vale dos Artífices.
+
+[[v16-11-36]]
+
+^<<v16-11-36,36>>^ Dos levitas, havia grupos tanto em Judá como em Benjamim.
+
+'''
+
+xref:016-neemias/016-neemias-010.adoc#v16-10-0[&#60; Capítulo Anterior] | <<v16-11-0,Topo>> | xref:016-neemias/016-neemias-012.adoc#v16-12-0[Próximo Capítulo &#62;]

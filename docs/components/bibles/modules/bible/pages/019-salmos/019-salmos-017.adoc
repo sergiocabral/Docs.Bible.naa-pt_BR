@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-17-0]]
+=== Salmos, 17
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-17-1]]
+
+^<<v19-17-1,1>>^ Ouve, Senhor , a causa justa, atende o meu clamor! Dá ouvidos à minha oração, pois ela não procede de lábios enganosos.
+
+[[v19-17-2]]
+
+^<<v19-17-2,2>>^ Venha da tua presença o julgamento a meu respeito; os teus olhos veem com equidade.
+
+[[v19-17-3]]
+
+^<<v19-17-3,3>>^ Sondas o meu coração, de noite me visitas, provas-me no fogo e não encontras em mim nenhuma iniquidade; a minha boca não transgride.
+
+[[v19-17-4]]
+
+^<<v19-17-4,4>>^ Quanto às obras humanas, pela palavra dos teus lábios eu tenho me guardado dos caminhos do violento.
+
+[[v19-17-5]]
+
+^<<v19-17-5,5>>^ Os meus passos se acostumaram às tuas veredas, os meus pés não resvalaram.
+
+[[v19-17-6]]
+
+^<<v19-17-6,6>>^ Eu te invoco, ó Deus, pois tu me respondes; inclina os ouvidos para mim e ouve as minhas palavras.
+
+[[v19-17-7]]
+
+^<<v19-17-7,7>>^ Mostra as maravilhas da tua bondade, ó Salvador daqueles que à tua direita se refugiam dos seus adversários.
+
+[[v19-17-8]]
+
+^<<v19-17-8,8>>^ Guarda-me como a menina dos olhos; esconde-me à sombra das tuas asas.
+
+[[v19-17-9]]
+
+^<<v19-17-9,9>>^ Protege-me dos perversos que me oprimem, dos inimigos que me assediam de morte.
+
+[[v19-17-10]]
+
+^<<v19-17-10,10>>^ Insensíveis, eles cerram o coração e falam com lábios insolentes;
+
+[[v19-17-11]]
+
+^<<v19-17-11,11>>^ andam agora cercando os nossos passos e fixam em nós os olhos para nos derrubar.
+
+[[v19-17-12]]
+
+^<<v19-17-12,12>>^ Parecem-se com o leão, ávido por sua presa, ou o leãozinho, que espreita de emboscada.
+
+[[v19-17-13]]
+
+^<<v19-17-13,13>>^ Levanta-te, Senhor ! Enfrenta-os e arrasa-os! Com a tua espada livra a minha alma do ímpio.
+
+[[v19-17-14]]
+
+^<<v19-17-14,14>>^ Com a tua mão, Senhor , livra-me dos homens deste mundo, cuja porção é desta vida e cujo ventre tu enches com os teus tesouros; os quais se fartam de filhos e o que lhes sobra deixam aos seus pequeninos.
+
+[[v19-17-15]]
+
+^<<v19-17-15,15>>^ Eu, porém, na justiça contemplarei a tua face; quando acordar, me satisfarei com a tua semelhança.
+
+'''
+
+xref:019-salmos/019-salmos-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v19-17-0,Topo>> | xref:019-salmos/019-salmos-018.adoc#v19-18-0[Próximo Capítulo &#62;]

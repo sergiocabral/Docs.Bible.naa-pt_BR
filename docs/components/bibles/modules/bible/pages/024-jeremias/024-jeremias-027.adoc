@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v24-27-0]]
+=== Jeremias, 27
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v24-27-1]]
+
+^<<v24-27-1,1>>^ No princípio do reinado de Zedequias, filho de Josias, rei de Judá, veio da parte do Senhor  esta palavra a Jeremias:
+
+[[v24-27-2]]
+
+^<<v24-27-2,2>>^ Assim me disse o Senhor : — Faça cangas com tiras de couro e canzis e coloque-as no seu pescoço.
+
+[[v24-27-3]]
+
+^<<v24-27-3,3>>^ Por meio dos mensageiros que vieram a Jerusalém para se encontrar com Zedequias, rei de Judá, envie essas cangas ao rei de Edom, ao rei de Moabe, ao rei dos filhos de Amom, ao rei de Tiro e ao rei de Sidom.
+
+[[v24-27-4]]
+
+^<<v24-27-4,4>>^ Ordene-lhes que digam aos seus senhores: Assim diz o Senhor  dos Exércitos, o Deus de Israel:
+
+[[v24-27-5]]
+
+^<<v24-27-5,5>>^ — "Eu fiz a terra, os seres humanos e os animais que estão sobre a face da terra, com o meu grande poder e com o meu braço estendido, e a dou a quem eu quiser.
+
+[[v24-27-6]]
+
+^<<v24-27-6,6>>^ Agora eu entreguei todas estas terras nas mãos de Nabucodonosor, rei da Babilônia, meu servo. Até os animais selvagens eu entreguei a ele, para que o sirvam.
+
+[[v24-27-7]]
+
+^<<v24-27-7,7>>^ Todas as nações servirão a ele, a seu filho e ao filho de seu filho, até que também chegue a vez da sua própria terra, quando muitas nações e grandes reis o fizerem seu escravo."
+
+[[v24-27-8]]
+
+^<<v24-27-8,8>>^ — "Se alguma nação ou reino não servir Nabucodonosor, rei da Babilônia, e não puser o pescoço debaixo do jugo do rei da Babilônia, então castigarei essa nação com espada, com fome e com peste, diz o Senhor , até que eu a destrua completamente por meio de Nabucodonosor.
+
+[[v24-27-9]]
+
+^<<v24-27-9,9>>^ Quanto a vocês, não deem ouvidos aos seus profetas, aos seus adivinhos, aos seus sonhadores, aos seus agoureiros e aos seus encantadores, que dizem que vocês não devem servir o rei da Babilônia.
+
+[[v24-27-10]]
+
+^<<v24-27-10,10>>^ Porque eles profetizam mentiras para que vocês sejam mandados para longe da sua terra, e para que vocês sejam expulsos por mim e destruídos.
+
+[[v24-27-11]]
+
+^<<v24-27-11,11>>^ Mas a nação que colocar o pescoço sob o jugo do rei da Babilônia e o servir, eu a deixarei na sua terra, para cultivá-la e morar nela", diz o Senhor .
+
+[[v24-27-12]]
+
+^<<v24-27-12,12>>^ Também a Zedequias, rei de Judá, eu falei nos mesmos termos, dizendo: — Coloquem o pescoço sob o jugo do rei da Babilônia, sirvam a ele e ao seu povo, e vocês viverão.
+
+[[v24-27-13]]
+
+^<<v24-27-13,13>>^ Por que é que você e o seu povo morreriam à espada, de fome e de peste, como o Senhor  disse que acontecerá com a nação que não servir o rei da Babilônia?
+
+[[v24-27-14]]
+
+^<<v24-27-14,14>>^ Não deem ouvidos às palavras dos profetas que dizem que vocês não devem servir o rei da Babilônia. É mentira o que eles profetizam.
+
+[[v24-27-15]]
+
+^<<v24-27-15,15>>^ Porque não os enviei, diz o Senhor , e profetizam falsamente em meu nome, para que vocês sejam expulsos por mim e destruídos, vocês e eles que profetizam essas coisas.
+
+[[v24-27-16]]
+
+^<<v24-27-16,16>>^ Também falei aos sacerdotes e a todo este povo, dizendo: — Assim diz o Senhor : "Não deem ouvidos às palavras dos seus profetas que dizem que em breve os utensílios da Casa do Senhor  serão trazidos de volta da Babilônia. É mentira o que eles profetizam.
+
+[[v24-27-17]]
+
+^<<v24-27-17,17>>^ Não deem ouvidos ao que eles dizem; sirvam o rei da Babilônia e vocês viverão. Por que fazer com que esta cidade se torne um montão de ruínas?
+
+[[v24-27-18]]
+
+^<<v24-27-18,18>>^ Porém, se eles são profetas, e se a palavra do Senhor  está com eles, que orem ao Senhor  dos Exércitos, para que os utensílios que ficaram na Casa do Senhor , e no palácio do rei de Judá, e em Jerusalém não sejam levados para a Babilônia."
+
+[[v24-27-19]]
+
+^<<v24-27-19,19>>^ — Porque assim diz o Senhor  dos Exércitos a respeito das colunas, do mar de fundição, dos suportes e dos outros utensílios que ficaram na cidade,
+
+[[v24-27-20]]
+
+^<<v24-27-20,20>>^ os quais Nabucodonosor, rei da Babilônia, não levou, quando deportou, de Jerusalém para a Babilônia, Jeconias, filho de Jeoaquim, rei de Judá, assim como todos os nobres de Judá e de Jerusalém;
+
+[[v24-27-21]]
+
+^<<v24-27-21,21>>^ sim, isto diz o Senhor  dos Exércitos, o Deus de Israel, a respeito dos utensílios que ficaram na Casa do Senhor , e no palácio do rei de Judá, e em Jerusalém:
+
+[[v24-27-22]]
+
+^<<v24-27-22,22>>^ "Serão levados para a Babilônia, onde ficarão até o dia em que eu atentar para eles, diz o Senhor ; então farei com que sejam trazidos e devolvidos a este lugar."
+
+'''
+
+xref:024-jeremias/024-jeremias-026.adoc#v24-26-0[&#60; Capítulo Anterior] | <<v24-27-0,Topo>> | xref:024-jeremias/024-jeremias-028.adoc#v24-28-0[Próximo Capítulo &#62;]

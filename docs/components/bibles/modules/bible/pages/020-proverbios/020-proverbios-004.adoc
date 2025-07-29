@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-4-0]]
+=== Provérbios, 4
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-4-1]]
+
+^<<v20-4-1,1>>^ Filhos, escutem a instrução do pai; estejam atentos para que obtenham o entendimento.
+
+[[v20-4-2]]
+
+^<<v20-4-2,2>>^ Porque eu lhes dou boa instrução; não abandonem o meu ensino.
+
+[[v20-4-3]]
+
+^<<v20-4-3,3>>^ Quando eu era menino em companhia de meu pai, uma criança inexperiente, mas única aos olhos de minha mãe,
+
+[[v20-4-4]]
+
+^<<v20-4-4,4>>^ ele me ensinava e me dizia: "Que o seu coração retenha as minhas palavras; guarde os meus mandamentos e você viverá.
+
+[[v20-4-5]]
+
+^<<v20-4-5,5>>^ Adquira a sabedoria, adquira o entendimento; não se esqueça nem se afaste das minhas palavras.
+
+[[v20-4-6]]
+
+^<<v20-4-6,6>>^ Não abandone a sabedoria, e ela guardará você; ame-a, e ela o protegerá.
+
+[[v20-4-7]]
+
+^<<v20-4-7,7>>^ O princípio da sabedoria é: adquira a sabedoria; sim, com tudo o que você possui, adquira o entendimento.
+
+[[v20-4-8]]
+
+^<<v20-4-8,8>>^ Valorize a sabedoria, e ela o exaltará; se você a abraçar, ela o honrará.
+
+[[v20-4-9]]
+
+^<<v20-4-9,9>>^ Ela porá um diadema de graça em sua cabeça e lhe entregará uma coroa de glória."
+
+[[v20-4-10]]
+
+^<<v20-4-10,10>>^ Meu filho, escute e aceite as minhas palavras, e os anos de sua vida se multiplicarão.
+
+[[v20-4-11]]
+
+^<<v20-4-11,11>>^ Eu ensinei a você o caminho da sabedoria e o fiz andar pelas veredas da retidão.
+
+[[v20-4-12]]
+
+^<<v20-4-12,12>>^ Se você andar por elas, os seus passos não se embaraçarão; se você correr, não tropeçará.
+
+[[v20-4-13]]
+
+^<<v20-4-13,13>>^ Retenha a instrução e não a deixe; guarde-a, porque ela é a sua vida.
+
+[[v20-4-14]]
+
+^<<v20-4-14,14>>^ Não entre na vereda dos ímpios, nem siga pelo caminho dos maus.
+
+[[v20-4-15]]
+
+^<<v20-4-15,15>>^ Evite esse caminho; não passe por ele; desvie-se dele e passe longe.
+
+[[v20-4-16]]
+
+^<<v20-4-16,16>>^ Os maus não dormem, se não fizerem o mal; o sono foge deles, se não fizerem alguém tropeçar.
+
+[[v20-4-17]]
+
+^<<v20-4-17,17>>^ Porque comem o pão da maldade e bebem o vinho das violências.
+
+[[v20-4-18]]
+
+^<<v20-4-18,18>>^ Mas a vereda dos justos é como a luz do alvorecer, que vai brilhando mais e mais até ser dia claro.
+
+[[v20-4-19]]
+
+^<<v20-4-19,19>>^ O caminho dos ímpios é como a escuridão; nem eles sabem em que tropeçam.
+
+[[v20-4-20]]
+
+^<<v20-4-20,20>>^ Meu filho, escute as minhas palavras; preste atenção aos meus ensinamentos.
+
+[[v20-4-21]]
+
+^<<v20-4-21,21>>^ Não deixe que eles se afastem dos seus olhos; guarde-os no mais íntimo do seu coração.
+
+[[v20-4-22]]
+
+^<<v20-4-22,22>>^ Porque são vida para quem os encontra e saúde para todo o seu corpo.
+
+[[v20-4-23]]
+
+^<<v20-4-23,23>>^ De tudo o que se deve guardar, guarde bem o seu coração, porque dele procedem as fontes da vida.
+
+[[v20-4-24]]
+
+^<<v20-4-24,24>>^ Afaste de você a falsidade da boca e mantenha longe de você a perversidade dos lábios.
+
+[[v20-4-25]]
+
+^<<v20-4-25,25>>^ Que os seus olhos olhem direito, e que as suas vistas se fixem no que está diante de você.
+
+[[v20-4-26]]
+
+^<<v20-4-26,26>>^ Faça plana a vereda de seus pés, para que todos os seus caminhos sejam retos.
+
+[[v20-4-27]]
+
+^<<v20-4-27,27>>^ Não se incline nem para a direita nem para a esquerda; afaste os seus pés do mal.
+
+'''
+
+xref:020-proverbios/020-proverbios-003.adoc#v20-3-0[&#60; Capítulo Anterior] | <<v20-4-0,Topo>> | xref:020-proverbios/020-proverbios-005.adoc#v20-5-0[Próximo Capítulo &#62;]

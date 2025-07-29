@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v3-8-0]]
+=== Levítico, 8
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v3-8-1]]
+
+^<<v3-8-1,1>>^ O Senhor  disse a Moisés:
+
+[[v3-8-2]]
+
+^<<v3-8-2,2>>^ — Leve Arão e os filhos dele, as vestes, o óleo da unção, o novilho da oferta pelo pecado, os dois carneiros e o cesto dos pães sem fermento
+
+[[v3-8-3]]
+
+^<<v3-8-3,3>>^ e reúna toda a congregação à porta da tenda do encontro.
+
+[[v3-8-4]]
+
+^<<v3-8-4,4>>^ Moisés fez como o Senhor  lhe havia ordenado, e a congregação se reuniu à porta da tenda do encontro.
+
+[[v3-8-5]]
+
+^<<v3-8-5,5>>^ Então Moisés disse à congregação: — Isto é o que o Senhor  ordenou que se fizesse.
+
+[[v3-8-6]]
+
+^<<v3-8-6,6>>^ E fez com que Arão e os filhos dele se aproximassem e mandou que se lavassem com água.
+
+[[v3-8-7]]
+
+^<<v3-8-7,7>>^ Vestiu Arão com a túnica, cingiu-o com o cinto e pôs sobre ele a sobrepeliz. Também pôs sobre ele a estola sacerdotal, cingiu-o com o cinto de obra esmerada da estola sacerdotal e o ajustou com esse cinto.
+
+[[v3-8-8]]
+
+^<<v3-8-8,8>>^ Depois, colocou-lhe o peitoral, pondo no peitoral o Urim e o Tumim;
+
+[[v3-8-9]]
+
+^<<v3-8-9,9>>^ e lhe pôs a mitra na cabeça e, na mitra, na sua parte dianteira, pôs a lâmina de ouro, a coroa sagrada, como o Senhor  havia ordenado a Moisés.
+
+[[v3-8-10]]
+
+^<<v3-8-10,10>>^ Então Moisés pegou o óleo da unção, ungiu o tabernáculo e tudo o que havia nele e o consagrou.
+
+[[v3-8-11]]
+
+^<<v3-8-11,11>>^ Sete vezes ele aspergiu do óleo sobre o altar e ungiu o altar e todos os seus utensílios, bem como a bacia e o seu suporte, para os consagrar.
+
+[[v3-8-12]]
+
+^<<v3-8-12,12>>^ Depois, derramou do óleo da unção sobre a cabeça de Arão e ungiu-o, para consagrá-lo.
+
+[[v3-8-13]]
+
+^<<v3-8-13,13>>^ Também Moisés fez chegar os filhos de Arão, vestiu-lhes as túnicas, cingiu-os com o cinto e atou-lhes os turbantes, como o Senhor  lhe havia ordenado.
+
+[[v3-8-14]]
+
+^<<v3-8-14,14>>^ Então fez chegar o novilho da oferta pelo pecado; e Arão e os seus filhos puseram as mãos sobre a cabeça do novilho da oferta pelo pecado.
+
+[[v3-8-15]]
+
+^<<v3-8-15,15>>^ Moisés matou o novilho, pegou um pouco do sangue, pôs isso, com o dedo, sobre os chifres do altar ao redor e purificou o altar. Depois, derramou o resto do sangue na base do altar e o consagrou, para fazer expiação por ele.
+
+[[v3-8-16]]
+
+^<<v3-8-16,16>>^ Depois, pegou toda a gordura que está sobre as entranhas, a membrana do fígado, os dois rins e sua gordura; e Moisés os queimou sobre o altar.
+
+[[v3-8-17]]
+
+^<<v3-8-17,17>>^ Mas queimou o novilho com o seu couro, a sua carne e o seu excremento fora do arraial, como o Senhor  havia ordenado a Moisés.
+
+[[v3-8-18]]
+
+^<<v3-8-18,18>>^ Depois, fez chegar o carneiro do holocausto; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro.
+
+[[v3-8-19]]
+
+^<<v3-8-19,19>>^ Moisés matou o carneiro e aspergiu o sangue sobre o altar, ao redor.
+
+[[v3-8-20]]
+
+^<<v3-8-20,20>>^ Cortou também o carneiro em pedaços; e Moisés queimou a cabeça, os pedaços e a gordura.
+
+[[v3-8-21]]
+
+^<<v3-8-21,21>>^ Porém as entranhas e as pernas lavou com água; e Moisés queimou todo o carneiro sobre o altar; era holocausto de aroma agradável, oferta queimada ao Senhor , como o Senhor  havia ordenado a Moisés.
+
+[[v3-8-22]]
+
+^<<v3-8-22,22>>^ Então fez chegar o outro carneiro, o carneiro da consagração; e Arão e seus filhos puseram as mãos sobre a cabeça do carneiro.
+
+[[v3-8-23]]
+
+^<<v3-8-23,23>>^ Moisés matou o carneiro, pegou um pouco do sangue e o pôs sobre a ponta da orelha direita de Arão, sobre o polegar da sua mão direita e sobre o polegar do seu pé direito.
+
+[[v3-8-24]]
+
+^<<v3-8-24,24>>^ Também fez chegar os filhos de Arão; pôs daquele sangue sobre a ponta da orelha direita deles, sobre o polegar da mão direita e sobre o polegar do pé direito; e Moisés aspergiu o resto do sangue sobre o altar, ao redor.
+
+[[v3-8-25]]
+
+^<<v3-8-25,25>>^ Pegou a gordura, a cauda, toda a gordura que está nas entranhas, a membrana do fígado, ambos os rins, a sua gordura e a coxa direita.
+
+[[v3-8-26]]
+
+^<<v3-8-26,26>>^ Também do cesto dos pães sem fermento, que estava diante do Senhor , pegou um bolo sem fermento, um bolo de pão azeitado e um pãozinho achatado e os pôs sobre a gordura e sobre a coxa direita.
+
+[[v3-8-27]]
+
+^<<v3-8-27,27>>^ E tudo isso pôs nas mãos de Arão e de seus filhos e o moveu por oferta movida diante do Senhor .
+
+[[v3-8-28]]
+
+^<<v3-8-28,28>>^ Depois, Moisés o tomou das mãos deles e o queimou no altar sobre o holocausto; era uma oferta da consagração, por aroma agradável, oferta queimada ao Senhor .
+
+[[v3-8-29]]
+
+^<<v3-8-29,29>>^ Moisés pegou o peito e moveu-o por oferta movida diante do Senhor ; era a porção que cabia a Moisés, do carneiro da consagração, como o Senhor  lhe havia ordenado.
+
+[[v3-8-30]]
+
+^<<v3-8-30,30>>^ Moisés pegou também um pouco do óleo da unção e um pouco do sangue que estava sobre o altar e aspergiu sobre Arão e as suas vestes, bem como sobre os filhos de Arão e as suas vestes; e consagrou Arão e as vestes dele bem como os filhos de Arão e as vestes deles.
+
+[[v3-8-31]]
+
+^<<v3-8-31,31>>^ Moisés disse a Arão e aos seus filhos: — Cozinhem a carne diante da porta da tenda do encontro e a comam ali junto com o pão que está no cesto da consagração, como tenho ordenado, dizendo: "Arão e seus filhos a comerão.
+
+[[v3-8-32]]
+
+^<<v3-8-32,32>>^ Mas o que restar da carne e do pão vocês devem queimar."
+
+[[v3-8-33]]
+
+^<<v3-8-33,33>>^ Não se afastem da porta da tenda do encontro por sete dias, até o dia em que se cumprirem os dias da consagração de vocês; porque o Senhor  consagrará vocês durante sete dias.
+
+[[v3-8-34]]
+
+^<<v3-8-34,34>>^ Como se fez neste dia, assim o Senhor  ordenou que se fizesse, em expiação por vocês.
+
+[[v3-8-35]]
+
+^<<v3-8-35,35>>^ Fiquem, pois, à porta da tenda do encontro dia e noite, por sete dias, e observem as prescrições do Senhor , para que não morram; porque assim me foi ordenado.
+
+[[v3-8-36]]
+
+^<<v3-8-36,36>>^ E Arão e seus filhos fizeram todas as coisas que o Senhor  havia ordenado por meio de Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-007.adoc#v3-7-0[&#60; Capítulo Anterior] | <<v3-8-0,Topo>> | xref:003-levitico/003-levitico-009.adoc#v3-9-0[Próximo Capítulo &#62;]

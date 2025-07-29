@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v20-21-0]]
+=== Provérbios, 21
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-21-1]]
+
+^<<v20-21-1,1>>^ Como correntes de águas, assim é o coração do rei na mão do Senhor ; este o dirige para onde quiser.
+
+[[v20-21-2]]
+
+^<<v20-21-2,2>>^ Todo caminho de uma pessoa é reto aos seus próprios olhos, mas o Senhor  sonda os corações.
+
+[[v20-21-3]]
+
+^<<v20-21-3,3>>^ Fazer justiça e julgar com retidão é mais aceitável ao Senhor do que oferecer sacrifícios.
+
+[[v20-21-4]]
+
+^<<v20-21-4,4>>^ Olhar arrogante e coração orgulhoso — a lâmpada dos ímpios — são pecado.
+
+[[v20-21-5]]
+
+^<<v20-21-5,5>>^ Os planos de quem é esforçado conduzem à fartura, mas a pressa excessiva leva à pobreza.
+
+[[v20-21-6]]
+
+^<<v20-21-6,6>>^ Fazer fortuna por meio da mentira é vaidade e armadilha mortal.
+
+[[v20-21-7]]
+
+^<<v20-21-7,7>>^ A violência dos ímpios os leva à ruína, porque eles se recusam a praticar a justiça.
+
+[[v20-21-8]]
+
+^<<v20-21-8,8>>^ O caminho do culpado é tortuoso, mas, quanto ao inocente, a sua conduta é reta.
+
+[[v20-21-9]]
+
+^<<v20-21-9,9>>^ Melhor é morar no canto do terraço do que com uma mulher briguenta na mesma casa.
+
+[[v20-21-10]]
+
+^<<v20-21-10,10>>^ A alma do ímpio deseja o mal; nem o seu vizinho recebe dele compaixão.
+
+[[v20-21-11]]
+
+^<<v20-21-11,11>>^ Quando o zombador é castigado, os ingênuos se tornam sábios; e, quando o sábio é instruído, cresce no conhecimento.
+
+[[v20-21-12]]
+
+^<<v20-21-12,12>>^ Deus, o justo, observa a casa dos ímpios e os faz cair em desgraça.
+
+[[v20-21-13]]
+
+^<<v20-21-13,13>>^ Quem tapa os ouvidos ao clamor do pobre também clamará e não será ouvido.
+
+[[v20-21-14]]
+
+^<<v20-21-14,14>>^ O presente que se dá em segredo acalma a ira, e a dádiva em sigilo vence a mais forte indignação.
+
+[[v20-21-15]]
+
+^<<v20-21-15,15>>^ Praticar a justiça é uma alegria para o justo, mas espanto para os que praticam o mal.
+
+[[v20-21-16]]
+
+^<<v20-21-16,16>>^ Quem se desvia do caminho do entendimento repousará na congregação dos mortos.
+
+[[v20-21-17]]
+
+^<<v20-21-17,17>>^ Quem ama os prazeres acabará na pobreza; quem ama o vinho e a boa vida nunca ficará rico.
+
+[[v20-21-18]]
+
+^<<v20-21-18,18>>^ O ímpio serve de resgate para o justo, e, em lugar dos retos, é entregue o infiel.
+
+[[v20-21-19]]
+
+^<<v20-21-19,19>>^ Melhor é morar numa terra deserta do que com a mulher briguenta e geniosa.
+
+[[v20-21-20]]
+
+^<<v20-21-20,20>>^ Na casa do sábio há tesouros preciosos e o suficiente para viver, mas o tolo desperdiça tudo o que tem.
+
+[[v20-21-21]]
+
+^<<v20-21-21,21>>^ Quem segue a justiça e a bondade achará a vida, a justiça e a honra.
+
+[[v20-21-22]]
+
+^<<v20-21-22,22>>^ O sábio escala a cidade dos valentes e derruba a fortaleza em que eles confiam.
+
+[[v20-21-23]]
+
+^<<v20-21-23,23>>^ Quem guarda a boca e a língua guarda a sua alma de muitas dificuldades.
+
+[[v20-21-24]]
+
+^<<v20-21-24,24>>^ Quanto ao orgulhoso e arrogante, zombador é o seu nome; ele age com orgulho e arrogância.
+
+[[v20-21-25]]
+
+^<<v20-21-25,25>>^ O preguiçoso morre desejando, porque as suas mãos se recusam a trabalhar.
+
+[[v20-21-26]]
+
+^<<v20-21-26,26>>^ O cobiçoso cobiça todo o dia, porém o justo dá com generosidade.
+
+[[v20-21-27]]
+
+^<<v20-21-27,27>>^ O sacrifício dos ímpios já é abominação; ainda mais quando é oferecido com más intenções!
+
+[[v20-21-28]]
+
+^<<v20-21-28,28>>^ A testemunha falsa perecerá, mas quem sabe ouvir falará sem ser contestado.
+
+[[v20-21-29]]
+
+^<<v20-21-29,29>>^ O ímpio aparenta determinação, mas o justo considera o seu caminho.
+
+[[v20-21-30]]
+
+^<<v20-21-30,30>>^ Não há sabedoria, nem entendimento, nem mesmo conselho contra o Senhor .
+
+[[v20-21-31]]
+
+^<<v20-21-31,31>>^ O cavalo é preparado para o dia da batalha, mas a vitória vem do Senhor .
+
+'''
+
+xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[&#60; Capítulo Anterior] | <<v20-21-0,Topo>> | xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[Próximo Capítulo &#62;]

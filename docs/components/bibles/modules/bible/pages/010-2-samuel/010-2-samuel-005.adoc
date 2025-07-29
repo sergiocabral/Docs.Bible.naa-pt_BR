@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v10-5-0]]
+=== 2 Samuel, 5
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v10-5-1]]
+
+^<<v10-5-1,1>>^ Então todas as tribos de Israel vieram a Davi, em Hebrom, e disseram: — Veja, somos do mesmo povo que o senhor, ó rei.
+
+[[v10-5-2]]
+
+^<<v10-5-2,2>>^ No passado, quando Saul ainda era rei sobre nós, era o senhor quem fazia entradas e saídas militares com Israel. Também o Senhor  Deus lhe disse: "Você apascentará o meu povo de Israel e será príncipe sobre Israel."
+
+[[v10-5-3]]
+
+^<<v10-5-3,3>>^ Assim todos os anciãos de Israel foram falar com o rei, em Hebrom. E o rei Davi fez com eles uma aliança em Hebrom, diante do Senhor . E eles ungiram Davi rei sobre Israel.
+
+[[v10-5-4]]
+
+^<<v10-5-4,4>>^ Davi tinha trinta anos de idade quando começou a reinar; e reinou durante quarenta anos.
+
+[[v10-5-5]]
+
+^<<v10-5-5,5>>^ Em Hebrom, reinou sobre Judá sete anos e seis meses; em Jerusalém, reinou trinta e três anos sobre todo o Israel e Judá.
+
+[[v10-5-6]]
+
+^<<v10-5-6,6>>^ O rei Davi partiu com os seus homens para Jerusalém, para atacar os jebuseus que moravam naquela terra. Os jebuseus disseram a Davi: — Você não entrará aqui. Até os cegos e os coxos poderão impedi-lo de entrar. Com isto queriam dizer: "Davi não entrará neste lugar."
+
+[[v10-5-7]]
+
+^<<v10-5-7,7>>^ Porém Davi tomou a fortaleza de Sião, isto é, a Cidade de Davi.
+
+[[v10-5-8]]
+
+^<<v10-5-8,8>>^ Davi, naquele dia, mandou dizer: — Todo o que está disposto a atacar os jebuseus suba pelo canal subterrâneo e ataque os cegos e os coxos, a quem a alma de Davi odeia. Por isso se diz: "Nem cego nem coxo entrará na casa."
+
+[[v10-5-9]]
+
+^<<v10-5-9,9>>^ Assim, Davi morou na fortaleza e a chamou de Cidade de Davi. Ele foi edificando ao redor, desde Milo e para dentro.
+
+[[v10-5-10]]
+
+^<<v10-5-10,10>>^ Davi ia crescendo em poder cada vez mais, porque o Senhor , o Deus dos Exércitos, estava com ele.
+
+[[v10-5-11]]
+
+^<<v10-5-11,11>>^ Hirão, rei de Tiro, enviou a Davi mensageiros, madeira de cedro, carpinteiros e pedreiros; estes construíram um palácio para Davi.
+
+[[v10-5-12]]
+
+^<<v10-5-12,12>>^ Então Davi reconheceu que o Senhor  o havia confirmado como rei sobre Israel e que tinha exaltado o seu reino por amor do seu povo de Israel.
+
+[[v10-5-13]]
+
+^<<v10-5-13,13>>^ Davi tomou mais concubinas e mulheres de Jerusalém, depois que tinha vindo de Hebrom, e nasceram-lhe mais filhos e filhas.
+
+[[v10-5-14]]
+
+^<<v10-5-14,14>>^ São estes os nomes dos filhos de Davi que nasceram em Jerusalém: Samua, Sobabe, Natã, Salomão,
+
+[[v10-5-15]]
+
+^<<v10-5-15,15>>^ Ibar, Elisua, Nefegue, Jafia,
+
+[[v10-5-16]]
+
+^<<v10-5-16,16>>^ Elisama, Eliada e Elifelete.
+
+[[v10-5-17]]
+
+^<<v10-5-17,17>>^ Quando os filisteus ouviram que Davi tinha sido ungido rei sobre Israel, subiram todos para prendê-lo. Quando soube disso, Davi desceu para a fortaleza.
+
+[[v10-5-18]]
+
+^<<v10-5-18,18>>^ Mas os filisteus vieram e se espalharam pelo vale dos Refains.
+
+[[v10-5-19]]
+
+^<<v10-5-19,19>>^ Então Davi consultou o Senhor , dizendo: — Devo atacar os filisteus? Tu os entregarás nas minhas mãos? O Senhor  respondeu: — Vá, porque certamente entregarei os filisteus nas suas mãos.
+
+[[v10-5-20]]
+
+^<<v10-5-20,20>>^ Então Davi foi até Baal-Perazim e os derrotou ali. E disse: — O Senhor  rompeu as fileiras inimigas diante de mim, como as águas rompem barreiras. Por isso, chamou aquele lugar de Baal-Perazim.
+
+[[v10-5-21]]
+
+^<<v10-5-21,21>>^ Os filisteus deixaram lá os seus ídolos, e Davi e os seus homens os levaram embora.
+
+[[v10-5-22]]
+
+^<<v10-5-22,22>>^ Os filisteus tornaram a subir e se espalharam pelo vale dos Refains.
+
+[[v10-5-23]]
+
+^<<v10-5-23,23>>^ Davi consultou o Senhor , e este lhe respondeu: — Não os ataque de frente, mas rodeie por detrás deles e ataque-os por diante das amoreiras.
+
+[[v10-5-24]]
+
+^<<v10-5-24,24>>^ E, quando você ouvir um barulho de marcha pelas copas das amoreiras, entre logo em ação: é o Senhor  que saiu à sua frente, para atacar o exército dos filisteus.
+
+[[v10-5-25]]
+
+^<<v10-5-25,25>>^ Davi fez como o Senhor  lhe havia ordenado, e atacou os filisteus desde Geba até Gezer.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-004.adoc#v10-4-0[&#60; Capítulo Anterior] | <<v10-5-0,Topo>> | xref:010-2-samuel/010-2-samuel-006.adoc#v10-6-0[Próximo Capítulo &#62;]

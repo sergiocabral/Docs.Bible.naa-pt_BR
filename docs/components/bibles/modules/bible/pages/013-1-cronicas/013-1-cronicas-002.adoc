@@ -1,0 +1,229 @@
+include::./index.adoc[]
+
+[[v13-2-0]]
+=== 1 Crônicas, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v13-2-1]]
+
+^<<v13-2-1,1>>^ Estes foram filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar, Zebulom,
+
+[[v13-2-2]]
+
+^<<v13-2-2,2>>^ Dã, José, Benjamim, Naftali, Gade e Aser.
+
+[[v13-2-3]]
+
+^<<v13-2-3,3>>^ Os filhos de Judá foram: Er, Onã e Selá; estes três lhe nasceram de Bate-Sua, a cananeia. Er, o primogênito de Judá, foi mau aos olhos do Senhor , e por isso o Senhor  o matou.
+
+[[v13-2-4]]
+
+^<<v13-2-4,4>>^ Porém Tamar, nora de Judá, lhe deu à luz Perez e Zera. Todos os filhos de Judá foram cinco.
+
+[[v13-2-5]]
+
+^<<v13-2-5,5>>^ Os filhos de Perez foram: Hezrom e Hamul.
+
+[[v13-2-6]]
+
+^<<v13-2-6,6>>^ Os filhos de Zera foram: Zinri, Etã, Hemã, Calcol e Dara, cinco ao todo.
+
+[[v13-2-7]]
+
+^<<v13-2-7,7>>^ Os filhos de Carmi foram: Acar, o perturbador de Israel, que pecou na coisa condenada.
+
+[[v13-2-8]]
+
+^<<v13-2-8,8>>^ O filho de Etã foi Azarias.
+
+[[v13-2-9]]
+
+^<<v13-2-9,9>>^ Os filhos de Hezrom, que lhe nasceram, foram: Jerameel, Rão e Quelubai.
+
+[[v13-2-10]]
+
+^<<v13-2-10,10>>^ Rão gerou Aminadabe; Aminadabe gerou Naassom, príncipe dos filhos de Judá;
+
+[[v13-2-11]]
+
+^<<v13-2-11,11>>^ Naassom gerou Salma, e Salma gerou Boaz;
+
+[[v13-2-12]]
+
+^<<v13-2-12,12>>^ Boaz gerou Obede, e Obede gerou Jessé;
+
+[[v13-2-13]]
+
+^<<v13-2-13,13>>^ Jessé gerou Eliabe, seu primogênito, Abinadabe, o segundo, Simeia, o terceiro,
+
+[[v13-2-14]]
+
+^<<v13-2-14,14>>^ Natanael, o quarto, Radai, o quinto,
+
+[[v13-2-15]]
+
+^<<v13-2-15,15>>^ Ozém, o sexto, e Davi, o sétimo.
+
+[[v13-2-16]]
+
+^<<v13-2-16,16>>^ As irmãs destes foram Zeruia e Abigail. Os filhos de Zeruia foram três: Abisai, Joabe e Asael.
+
+[[v13-2-17]]
+
+^<<v13-2-17,17>>^ Abigail deu à luz Amasa; e o pai de Amasa foi Jéter, o ismaelita.
+
+[[v13-2-18]]
+
+^<<v13-2-18,18>>^ Calebe, filho de Hezrom, gerou filhos de Azuba, sua mulher, e de Jeriote; os filhos desta foram: Jeser, Sobabe e Ardom.
+
+[[v13-2-19]]
+
+^<<v13-2-19,19>>^ Azuba morreu, e Calebe tomou para si Efrata, da qual lhe nasceu Hur.
+
+[[v13-2-20]]
+
+^<<v13-2-20,20>>^ Hur gerou Uri, e Uri gerou Bezalel.
+
+[[v13-2-21]]
+
+^<<v13-2-21,21>>^ Então Hezrom teve relações com a filha de Maquir, pai de Gileade; ele tinha sessenta anos de idade quando a tomou, e ela deu à luz Segube.
+
+[[v13-2-22]]
+
+^<<v13-2-22,22>>^ Segube gerou Jair, que teve vinte e três cidades na terra de Gileade.
+
+[[v13-2-23]]
+
+^<<v13-2-23,23>>^ Gesur e Arã tomaram as aldeias de Jair, juntamente com Quenate e as suas aldeias, a saber, sessenta lugares; todos estes foram filhos de Maquir, pai de Gileade.
+
+[[v13-2-24]]
+
+^<<v13-2-24,24>>^ Depois da morte de Hezrom, em Calebe-Efrata, Abia, mulher de Hezrom, lhe deu à luz Azur, pai de Tecoa.
+
+[[v13-2-25]]
+
+^<<v13-2-25,25>>^ Os filhos de Jerameel, primogênito de Hezrom, foram: Rão, o primogênito, Buna, Orém, Ozém e Aías.
+
+[[v13-2-26]]
+
+^<<v13-2-26,26>>^ Jerameel teve outra mulher, cujo nome era Atara; esta foi a mãe de Onã.
+
+[[v13-2-27]]
+
+^<<v13-2-27,27>>^ Os filhos de Rão, primogênito de Jerameel, foram: Maaz, Jamim e Equer.
+
+[[v13-2-28]]
+
+^<<v13-2-28,28>>^ Os filhos de Onã foram: Samai e Jada; e os filhos de Samai foram: Nadabe e Abisur.
+
+[[v13-2-29]]
+
+^<<v13-2-29,29>>^ A mulher de Abisur chamava-se Abiail e lhe deu à luz Abã e Molide.
+
+[[v13-2-30]]
+
+^<<v13-2-30,30>>^ Os filhos de Nadabe foram: Selede e Apaim; e Selede morreu sem filhos.
+
+[[v13-2-31]]
+
+^<<v13-2-31,31>>^ O filho de Apaim foi Isi; o filho de Isi foi Sesã. E o filho de Sesã foi Alai.
+
+[[v13-2-32]]
+
+^<<v13-2-32,32>>^ Os filhos de Jada, irmão de Samai, foram: Jéter e Jônatas; e Jéter morreu sem filhos.
+
+[[v13-2-33]]
+
+^<<v13-2-33,33>>^ Os filhos de Jônatas foram: Pelete e Zaza; estes foram os filhos de Jerameel.
+
+[[v13-2-34]]
+
+^<<v13-2-34,34>>^ Sesã não teve filhos, mas filhas; e Sesã tinha um servo egípcio, cujo nome era Jara.
+
+[[v13-2-35]]
+
+^<<v13-2-35,35>>^ Sesã deu sua filha por mulher a Jara, a quem ela deu à luz Atai.
+
+[[v13-2-36]]
+
+^<<v13-2-36,36>>^ Atai gerou Natã, e Natã gerou Zabade.
+
+[[v13-2-37]]
+
+^<<v13-2-37,37>>^ Zabade gerou Eflal, e Eflal gerou Obede.
+
+[[v13-2-38]]
+
+^<<v13-2-38,38>>^ Obede gerou Jeú, e Jeú gerou Azarias.
+
+[[v13-2-39]]
+
+^<<v13-2-39,39>>^ Azarias gerou Heles, e Heles gerou Eleasa.
+
+[[v13-2-40]]
+
+^<<v13-2-40,40>>^ Eleasa gerou Sismai, e Sismai gerou Salum.
+
+[[v13-2-41]]
+
+^<<v13-2-41,41>>^ Salum gerou Jecamias, e Jecamias gerou Elisama.
+
+[[v13-2-42]]
+
+^<<v13-2-42,42>>^ O primogênito de Calebe, irmão de Jerameel, foi Maressa, que foi o pai de Zife; o filho de Maressa foi Abi-Hebrom.
+
+[[v13-2-43]]
+
+^<<v13-2-43,43>>^ Os filhos de Hebrom foram: Coré, Tapua, Requém e Sema.
+
+[[v13-2-44]]
+
+^<<v13-2-44,44>>^ Sema gerou Raão, pai de Jorqueão; e Requém gerou Samai.
+
+[[v13-2-45]]
+
+^<<v13-2-45,45>>^ O filho de Samai foi Maom; e Maom foi o pai de Bete-Zur.
+
+[[v13-2-46]]
+
+^<<v13-2-46,46>>^ Efá, a concubina de Calebe, deu à luz Harã, Mosa e Gazez; e Harã gerou Gazez.
+
+[[v13-2-47]]
+
+^<<v13-2-47,47>>^ Os filhos de Jadai foram: Regém, Jotão, Gesã, Pelete, Efá e Saafe.
+
+[[v13-2-48]]
+
+^<<v13-2-48,48>>^ De Maaca, sua concubina, Calebe gerou Seber e Tiraná.
+
+[[v13-2-49]]
+
+^<<v13-2-49,49>>^ Maaca deu à luz também Saafe, pai de Madmana, e Seva, pai de Macbena e de Gibeá; e Acsa foi filha de Calebe.
+
+[[v13-2-50]]
+
+^<<v13-2-50,50>>^ Estes foram os filhos de Calebe. Os filhos de Hur, primogênito de Efrata, foram: Sobal, pai de Quiriate-Jearim,
+
+[[v13-2-51]]
+
+^<<v13-2-51,51>>^ Salma, pai dos belemitas, e Harefe, pai de Bete-Gader.
+
+[[v13-2-52]]
+
+^<<v13-2-52,52>>^ Os filhos de Sobal, pai de Quiriate-Jearim, foram: Haroé e Hazi-Hamenuote.
+
+[[v13-2-53]]
+
+^<<v13-2-53,53>>^ As famílias de Quiriate-Jearim foram: os itritas, os puítas, os sumateus e os misraeus; destes procederam os zoratitas e os estaoleus.
+
+[[v13-2-54]]
+
+^<<v13-2-54,54>>^ Os filhos de Salma foram: Belém e os netofatitas, Atrote-Bete-Joabe e Hazi-Hamanaate, zoreu.
+
+[[v13-2-55]]
+
+^<<v13-2-55,55>>^ As famílias dos escribas que habitavam em Jabez foram os tiratitas, os simeatitas e os sucatitas; estes são os queneus, que vieram de Hamate, pai da casa de Recabe.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-001.adoc#v13-1-0[&#60; Capítulo Anterior] | <<v13-2-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-003.adoc#v13-3-0[Próximo Capítulo &#62;]

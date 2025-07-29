@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v24-47-0]]
+=== Jeremias, 47
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v24-47-1]]
+
+^<<v24-47-1,1>>^ Palavra do Senhor  que veio ao profeta Jeremias a respeito dos filisteus, antes que Faraó atacasse Gaza.
+
+[[v24-47-2]]
+
+^<<v24-47-2,2>>^ Assim diz o Senhor : "Eis que do Norte se levantam as águas, e se tornarão em torrente transbordante. Inundarão a terra e a sua plenitude, a cidade e os seus habitantes. As pessoas gritarão por socorro, e todos os moradores da terra se lamentarão,
+
+[[v24-47-3]]
+
+^<<v24-47-3,3>>^ ao ruído dos cascos dos seus cavalos, ao barulho de seus carros de guerra, ao estrondo das suas rodas. Os pais não voltarão para socorrer os filhos, porque as mãos deles enfraqueceram,
+
+[[v24-47-4]]
+
+^<<v24-47-4,4>>^ por causa do dia que vem para destruir todos os filisteus, para exterminar todo o resto que poderia socorrer Tiro e Sidom. Porque o Senhor  destruirá os filisteus, o resto que veio da ilha de Caftor.
+
+[[v24-47-5]]
+
+^<<v24-47-5,5>>^ O povo de Gaza rapou a cabeça; Asquelom foi reduzida a silêncio, com o resto do seu vale. Até quando vocês vão fazer cortes na pele em sinal de luto?"
+
+[[v24-47-6]]
+
+^<<v24-47-6,6>>^ "‘Ah! Espada do Senhor , quando é que você vai parar? Volte para a sua bainha, descanse e fique quieta.’
+
+[[v24-47-7]]
+
+^<<v24-47-7,7>>^ Mas como pode ela ficar quieta, se o Senhor  lhe deu ordens? Ele a dirige contra Asquelom e contra a costa do mar."
+
+'''
+
+xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[&#60; Capítulo Anterior] | <<v24-47-0,Topo>> | xref:024-jeremias/024-jeremias-048.adoc#v24-48-0[Próximo Capítulo &#62;]

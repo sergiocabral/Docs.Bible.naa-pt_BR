@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v5-1-0]]
+=== Deuteronômio, 1
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-1-1]]
+
+^<<v5-1-1,1>>^ São estas as palavras que Moisés falou a todo o Israel, a leste do Jordão, no deserto, na Arabá, diante de Sufe, entre Parã, Tofel, Labã, Hazerote e Di-Zaabe.
+
+[[v5-1-2]]
+
+^<<v5-1-2,2>>^ É uma jornada de onze dias desde Horebe até Cades-Barneia, pelo caminho dos montes de Seir.
+
+[[v5-1-3]]
+
+^<<v5-1-3,3>>^ Aconteceu que, no quadragésimo ano, no primeiro dia do décimo primeiro mês, Moisés falou aos filhos de Israel, segundo tudo o que o Senhor  lhe havia ordenado a respeito deles,
+
+[[v5-1-4]]
+
+^<<v5-1-4,4>>^ depois que derrotou Seom, rei dos amorreus, que habitava em Hesbom, e Ogue, rei de Basã, que habitava em Astarote, em Edrei.
+
+[[v5-1-5]]
+
+^<<v5-1-5,5>>^ A leste do Jordão, na terra de Moabe, Moisés encarregou-se de explicar esta lei, dizendo:
+
+[[v5-1-6]]
+
+^<<v5-1-6,6>>^ — O Senhor , nosso Deus, nos falou em Horebe, dizendo: "Vocês já ficaram bastante tempo neste monte.
+
+[[v5-1-7]]
+
+^<<v5-1-7,7>>^ Voltem e sigam viagem. Vão à região montanhosa dos amorreus, a todos os seus vizinhos, na Arabá, à região montanhosa, à Sefelá, ao Neguebe, à costa marítima, terra dos cananeus, e ao Líbano, até o grande rio Eufrates.
+
+[[v5-1-8]]
+
+^<<v5-1-8,8>>^ Eis aqui a terra que eu pus diante de vocês; entrem e tomem posse da terra que o Senhor , com juramento, deu a seus pais, a Abraão, Isaque e Jacó, a eles e à sua descendência depois deles."
+
+[[v5-1-9]]
+
+^<<v5-1-9,9>>^ — Nesse mesmo tempo, eu disse a vocês: "Sozinho não poderei levá-los.
+
+[[v5-1-10]]
+
+^<<v5-1-10,10>>^ O Senhor , o Deus de vocês, fez com que vocês se multiplicassem e eis que hoje vocês são uma multidão como as estrelas dos céus.
+
+[[v5-1-11]]
+
+^<<v5-1-11,11>>^ O Senhor , Deus dos pais de vocês, faça com que vocês sejam mil vezes mais numerosos do que são agora e os abençoe, como prometeu.
+
+[[v5-1-12]]
+
+^<<v5-1-12,12>>^ Mas como poderia eu sozinho suportar o peso e a carga de vocês, e como poderia eu resolver sozinho todas as questões que surgem no meio de vocês?
+
+[[v5-1-13]]
+
+^<<v5-1-13,13>>^ Escolham homens sábios, inteligentes e experimentados, segundo as suas tribos, para que eu os ponha por chefes de vocês."
+
+[[v5-1-14]]
+
+^<<v5-1-14,14>>^ — Então vocês me responderam que era bom fazer o que eu tinha falado.
+
+[[v5-1-15]]
+
+^<<v5-1-15,15>>^ Assim, peguei os chefes de suas tribos, homens sábios e experimentados, e os fiz chefes sobre vocês, chefes de milhares, chefes de cem, chefes de cinquenta, chefes de dez e oficiais, segundo as suas tribos.
+
+[[v5-1-16]]
+
+^<<v5-1-16,16>>^ Nesse mesmo tempo, ordenei aos juízes, dizendo: "Deem atenção às questões que surgem entre os seus irmãos e julguem com justiça entre um homem e seu irmão ou o estrangeiro que está com ele.
+
+[[v5-1-17]]
+
+^<<v5-1-17,17>>^ Não sejam parciais no julgamento. Ouçam tanto o pequeno como o grande; não tenham medo de ninguém, porque o julgamento é de Deus. Porém, se a questão for demasiadamente difícil para vocês, tragam para mim, e eu a ouvirei."
+
+[[v5-1-18]]
+
+^<<v5-1-18,18>>^ — Assim, naquele tempo, eu lhes ordenei todas as coisas que vocês deveriam fazer.
+
+[[v5-1-19]]
+
+^<<v5-1-19,19>>^ — Então partimos de Horebe e caminhamos por todo aquele grande e terrível deserto que vocês viram, pelo caminho da região montanhosa dos amorreus, como o Senhor , nosso Deus, nos havia ordenado; e chegamos a Cades-Barneia.
+
+[[v5-1-20]]
+
+^<<v5-1-20,20>>^ Então eu lhes disse: "Vocês chegaram à região montanhosa dos amorreus, que o Senhor , nosso Deus, nos dá.
+
+[[v5-1-21]]
+
+^<<v5-1-21,21>>^ Eis que o Senhor , seu Deus, colocou esta terra diante de vocês. Vão e tomem posse dessa terra, como o Senhor , o Deus de seus pais, falou. Não tenham medo e não se assustem."
+
+[[v5-1-22]]
+
+^<<v5-1-22,22>>^ — Então todos vocês se aproximaram de mim e disseram: "Vamos mandar alguns homens adiante de nós, para que espiem a terra e nos digam por que caminho devemos seguir e a que cidades devemos ir."
+
+[[v5-1-23]]
+
+^<<v5-1-23,23>>^ Isto me pareceu uma boa ideia, de maneira que escolhi, do meio de vocês, doze homens, um de cada tribo.
+
+[[v5-1-24]]
+
+^<<v5-1-24,24>>^ Eles saíram e foram à região montanhosa, e, espiando a terra, foram até o vale de Escol.
+
+[[v5-1-25]]
+
+^<<v5-1-25,25>>^ Tomaram do fruto da terra nas mãos e o trouxeram até nós. E nos informaram, dizendo: "É boa esta terra que o Senhor , nosso Deus, nos dá."
+
+[[v5-1-26]]
+
+^<<v5-1-26,26>>^ — Porém vocês não quiseram ir, mas foram rebeldes à ordem do Senhor , seu Deus.
+
+[[v5-1-27]]
+
+^<<v5-1-27,27>>^ Ficaram murmurando em suas tendas e disseram: "O Senhor  está com ódio de nós e por isso nos tirou da terra do Egito para nos entregar nas mãos dos amorreus e nos destruir.
+
+[[v5-1-28]]
+
+^<<v5-1-28,28>>^ Para onde iremos? Nossos irmãos nos deixaram com medo, dizendo: ‘Aquele povo é maior e mais alto do que nós. As cidades são grandes e fortificadas até o céu. Também vimos ali os filhos dos anaquins.’"
+
+[[v5-1-29]]
+
+^<<v5-1-29,29>>^ — Então eu lhes disse: "Não fiquem apavorados, nem tenham medo deles.
+
+[[v5-1-30]]
+
+^<<v5-1-30,30>>^ O Senhor , o seu Deus, que vai adiante de vocês, ele lutará por vocês, segundo tudo o que viram que ele fez conosco no Egito,
+
+[[v5-1-31]]
+
+^<<v5-1-31,31>>^ e também no deserto, onde vocês viram que o Senhor , seu Deus, os levou, como um homem leva o seu filho, por todo o caminho pelo qual vocês andaram, até chegar a este lugar."
+
+[[v5-1-32]]
+
+^<<v5-1-32,32>>^ — Mas nem assim vocês creram no Senhor , seu Deus,
+
+[[v5-1-33]]
+
+^<<v5-1-33,33>>^ que foi adiante de vocês por todo o caminho, para procurar o lugar onde deveriam acampar; de noite, estava no fogo, para mostrar o caminho por onde vocês deveriam andar, e, de dia, estava na nuvem.
+
+[[v5-1-34]]
+
+^<<v5-1-34,34>>^ — O Senhor  ouviu o que vocês disseram, ficou irado e jurou, dizendo:
+
+[[v5-1-35]]
+
+^<<v5-1-35,35>>^ "Nenhum dos homens desta geração perversa verá a boa terra que jurei dar aos pais de vocês,
+
+[[v5-1-36]]
+
+^<<v5-1-36,36>>^ com a exceção de Calebe, filho de Jefoné. Ele verá essa terra e darei a ele e aos filhos dele a terra em que ele pisou, porque perseverou em seguir o Senhor ."
+
+[[v5-1-37]]
+
+^<<v5-1-37,37>>^ Também contra mim se indignou o Senhor  por causa de vocês, dizendo: "Também você não entrará nessa terra.
+
+[[v5-1-38]]
+
+^<<v5-1-38,38>>^ Josué, filho de Num, que está diante de você, ele é quem vai entrar; anime-o, porque ele fará com que Israel a receba por herança.
+
+[[v5-1-39]]
+
+^<<v5-1-39,39>>^ E as crianças de vocês, de quem vocês disseram que seriam presa do inimigo, sim, os filhos de vocês, que hoje nem sabem distinguir entre bem e mal, esses ali entrarão, e a eles darei a terra, e eles a possuirão.
+
+[[v5-1-40]]
+
+^<<v5-1-40,40>>^ Mas vocês voltem e sigam para o deserto, pelo caminho do mar Vermelho."
+
+[[v5-1-41]]
+
+^<<v5-1-41,41>>^ — Então vocês responderam: "Pecamos contra o Senhor . Nós iremos e lutaremos, segundo tudo o que o Senhor , nosso Deus, nos ordenou." Vocês se armaram, cada um com os seus instrumentos de guerra, e pensaram que seria fácil entrar na região montanhosa.
+
+[[v5-1-42]]
+
+^<<v5-1-42,42>>^ Mas o Senhor  mandou que eu dissesse a vocês: "Não vão, nem comecem a lutar, pois não estou no meio de vocês, e vocês serão derrotados pelos seus inimigos."
+
+[[v5-1-43]]
+
+^<<v5-1-43,43>>^ Isso eu lhes falei, mas vocês não quiseram escutar; pelo contrário, foram rebeldes às ordens do Senhor  e, presunçosos, foram na direção das montanhas.
+
+[[v5-1-44]]
+
+^<<v5-1-44,44>>^ Os amorreus que habitavam naquela região montanhosa saíram contra vocês e os perseguiram como fazem as abelhas e os derrotaram desde Seir até Horma.
+
+[[v5-1-45]]
+
+^<<v5-1-45,45>>^ Vocês voltaram e foram se queixar diante do Senhor , porém o Senhor  não lhes deu atenção e não inclinou os ouvidos a vocês.
+
+[[v5-1-46]]
+
+^<<v5-1-46,46>>^ Assim, vocês permaneceram muitos dias em Cades.
+
+'''
+
+xref:004-numeros/004-numeros-036.adoc#v4-36-0[&#60; Capítulo Anterior] | <<v5-1-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-002.adoc#v5-2-0[Próximo Capítulo &#62;]

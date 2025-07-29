@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v18-40-0]]
+=== Jó, 40
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v18-40-1]]
+
+^<<v18-40-1,1>>^ O Senhor  disse mais a Jó:
+
+[[v18-40-2]]
+
+^<<v18-40-2,2>>^ "Será que alguém que usa de censuras poderá discutir com o Todo-Poderoso? Que responda a isso aquele que critica Deus!"
+
+[[v18-40-3]]
+
+^<<v18-40-3,3>>^ Então Jó respondeu ao Senhor  e disse:
+
+[[v18-40-4]]
+
+^<<v18-40-4,4>>^ "Sou indigno. Que te responderia eu? Ponho a mão sobre a minha boca.
+
+[[v18-40-5]]
+
+^<<v18-40-5,5>>^ Uma vez falei, e não direi mais nada; aliás, duas vezes, porém não prosseguirei."
+
+[[v18-40-6]]
+
+^<<v18-40-6,6>>^ Então o Senhor , do meio de um redemoinho, respondeu a Jó e disse:
+
+[[v18-40-7]]
+
+^<<v18-40-7,7>>^ "Cinja os lombos como homem, pois eu lhe farei perguntas, e você me responderá.
+
+[[v18-40-8]]
+
+^<<v18-40-8,8>>^ Será que você está querendo anular a minha justiça? Ou me condenará, para se justificar?
+
+[[v18-40-9]]
+
+^<<v18-40-9,9>>^ Você tem um braço tão forte como o braço de Deus? Você pode trovejar com a voz como ele troveja?
+
+[[v18-40-10]]
+
+^<<v18-40-10,10>>^ Adorne-se, então, de excelência e grandeza, e vista-se de majestade e glória.
+
+[[v18-40-11]]
+
+^<<v18-40-11,11>>^ Derrame as torrentes da sua ira; olhe para os orgulhosos e humilhe-os.
+
+[[v18-40-12]]
+
+^<<v18-40-12,12>>^ Sim, olhe para eles e humilhe-os; esmague os ímpios no lugar onde estiverem.
+
+[[v18-40-13]]
+
+^<<v18-40-13,13>>^ Cubra-os todos no pó; prenda todos eles no sepulcro.
+
+[[v18-40-14]]
+
+^<<v18-40-14,14>>^ Então também eu confessarei a seu respeito que a sua mão direita lhe dá vitória."
+
+[[v18-40-15]]
+
+^<<v18-40-15,15>>^ "Contemple agora o Beemote, que eu criei junto com você, e que come capim como o boi.
+
+[[v18-40-16]]
+
+^<<v18-40-16,16>>^ A força dele está nos seus lombos, e o seu poder, nos músculos do seu ventre.
+
+[[v18-40-17]]
+
+^<<v18-40-17,17>>^ Ele endurece a sua cauda como cedro; os tendões das suas coxas estão entretecidos.
+
+[[v18-40-18]]
+
+^<<v18-40-18,18>>^ Os seus ossos são como tubos de bronze; as suas pernas são como barras de ferro.
+
+[[v18-40-19]]
+
+^<<v18-40-19,19>>^ Ele é obra-prima dos feitos de Deus; aquele que o fez o proveu de espada.
+
+[[v18-40-20]]
+
+^<<v18-40-20,20>>^ Na verdade, os montes lhe produzem pasto, onde todos os animais selvagens se divertem.
+
+[[v18-40-21]]
+
+^<<v18-40-21,21>>^ Deita-se debaixo das árvores de lótus, no esconderijo da lama, no meio dos juncos.
+
+[[v18-40-22]]
+
+^<<v18-40-22,22>>^ As árvores de lótus o cobrem com sua sombra; os salgueiros do ribeiro o rodeiam.
+
+[[v18-40-23]]
+
+^<<v18-40-23,23>>^ Se um rio transborda, ele não se apressa; fica tranquilo mesmo que o Jordão se levante até a sua boca.
+
+[[v18-40-24]]
+
+^<<v18-40-24,24>>^ Será que alguém pode apanhá-lo quando ele está olhando? Ou lhe meter um laço pelo nariz?"
+
+'''
+
+xref:018-jo/018-jo-039.adoc#v18-39-0[&#60; Capítulo Anterior] | <<v18-40-0,Topo>> | xref:018-jo/018-jo-041.adoc#v18-41-0[Próximo Capítulo &#62;]

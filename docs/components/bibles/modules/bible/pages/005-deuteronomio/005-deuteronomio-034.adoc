@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v5-34-0]]
+=== Deuteronômio, 34
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-34-1]]
+
+^<<v5-34-1,1>>^ Então Moisés subiu das campinas de Moabe ao monte Nebo, ao alto do monte Pisga, que está em frente de Jericó. E o Senhor  lhe mostrou toda a terra de Gileade até Dã;
+
+[[v5-34-2]]
+
+^<<v5-34-2,2>>^ e todo o Naftali, e a terra de Efraim e Manassés; e toda a terra de Judá até o mar ocidental;
+
+[[v5-34-3]]
+
+^<<v5-34-3,3>>^ e o Neguebe e a campina do vale de Jericó, a cidade das palmeiras, até a região de Zoar.
+
+[[v5-34-4]]
+
+^<<v5-34-4,4>>^ E o Senhor  disse a Moisés: — Esta é a terra que, sob juramento, prometi a Abraão, a Isaque e a Jacó, dizendo que a daria à descendência deles. Estou permitindo que você a veja com os seus próprios olhos, mas você não entrará nela.
+
+[[v5-34-5]]
+
+^<<v5-34-5,5>>^ Assim Moisés, servo do Senhor , morreu ali, na terra de Moabe, segundo a palavra do Senhor .
+
+[[v5-34-6]]
+
+^<<v5-34-6,6>>^ Este o sepultou num vale, na terra de Moabe, diante de Bete-Peor, mas até hoje ninguém sabe o lugar da sua sepultura.
+
+[[v5-34-7]]
+
+^<<v5-34-7,7>>^ Moisés tinha cento e vinte anos quando morreu, mas os seus olhos não se haviam enfraquecido, e ele não havia perdido o vigor.
+
+[[v5-34-8]]
+
+^<<v5-34-8,8>>^ Os filhos de Israel prantearam Moisés durante trinta dias, nas campinas de Moabe; então se cumpriram os dias do pranto do luto por Moisés.
+
+[[v5-34-9]]
+
+^<<v5-34-9,9>>^ Josué, filho de Num, estava cheio do espírito de sabedoria, porque Moisés havia imposto as mãos sobre ele. Assim, os filhos de Israel lhe deram ouvidos e fizeram como o Senhor  havia ordenado a Moisés.
+
+[[v5-34-10]]
+
+^<<v5-34-10,10>>^ Nunca mais se levantou em Israel um profeta como Moisés, com quem o Senhor  tratava face a face.
+
+[[v5-34-11]]
+
+^<<v5-34-11,11>>^ Nunca houve ninguém que fizesse todos os sinais e maravilhas que, por ordem do Senhor , ele fez na terra do Egito, a Faraó, a todos os seus oficiais e a toda a sua terra.
+
+[[v5-34-12]]
+
+^<<v5-34-12,12>>^ Nunca houve quem tivesse tanto poder e fizesse os grandes e terríveis feitos que Moisés realizou à vista de todo o Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[&#60; Capítulo Anterior] | <<v5-34-0,Topo>> | xref:006-josue/006-josue-001.adoc#v6-1-0[Próximo Capítulo &#62;]

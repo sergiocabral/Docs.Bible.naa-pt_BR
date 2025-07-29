@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v3-5-0]]
+=== Levítico, 5
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v3-5-1]]
+
+^<<v3-5-1,1>>^ — Se alguém pecar porque, sendo testemunha de um fato que viu ou ficou sabendo, não o quis revelar, mesmo sob ameaça de maldição, essa pessoa levará a sua iniquidade.
+
+[[v3-5-2]]
+
+^<<v3-5-2,2>>^ Se alguém tocar em alguma coisa impura, como o cadáver de um animal impuro, seja de um animal selvagem, de um animal doméstico ou de um animal que rasteja pelo chão, ainda que não se dê conta disso, e se tornar impuro, então será culpado.
+
+[[v3-5-3]]
+
+^<<v3-5-3,3>>^ Se tocar a impureza de uma pessoa, seja qual for a impureza com que se faça impuro, e não se der conta disso, mas ficar sabendo depois, será culpado.
+
+[[v3-5-4]]
+
+^<<v3-5-4,4>>^ Se alguém jurar de forma precipitada, dizendo que vai fazer alguma coisa má ou boa, seja o que for que alguém pronuncie de forma precipitada com juramento, e ele não se der conta disso, mas ficar sabendo depois, culpado será numa destas coisas.
+
+[[v3-5-5]]
+
+^<<v3-5-5,5>>^ Quem for culpado numa destas coisas, confessará aquilo em que pecou.
+
+[[v3-5-6]]
+
+^<<v3-5-6,6>>^ Como sua oferta pela culpa, pelo pecado que cometeu, essa pessoa trará ao Senhor , do gado miúdo, uma cordeira ou uma cabrita como oferta pelo pecado; assim, o sacerdote, por essa pessoa, fará expiação do seu pecado.
+
+[[v3-5-7]]
+
+^<<v3-5-7,7>>^ — Se as suas posses não lhe permitirem trazer uma cordeira, trará ao Senhor , como oferta pela culpa, pelo pecado que cometeu, duas rolinhas ou dois pombinhos: um como oferta pelo pecado, e o outro como holocausto.
+
+[[v3-5-8]]
+
+^<<v3-5-8,8>>^ Entregará as duas aves ao sacerdote, que primeiro oferecerá a ave que é oferta pelo pecado. O sacerdote destroncará a cabeça da ave, sem a separar do pescoço.
+
+[[v3-5-9]]
+
+^<<v3-5-9,9>>^ Do sangue da oferta pelo pecado aspergirá sobre a parede do altar, e o restante do sangue fará correr na base do altar; é oferta pelo pecado.
+
+[[v3-5-10]]
+
+^<<v3-5-10,10>>^ E da outra ave fará um holocausto, conforme o estabelecido. Assim, o sacerdote, por essa pessoa, fará oferta pelo pecado que ela cometeu, e o pecado lhe será perdoado.
+
+[[v3-5-11]]
+
+^<<v3-5-11,11>>^ — Porém, se as suas posses não lhe permitirem trazer duas rolinhas ou dois pombinhos, então essa pessoa que pecou trará, por sua oferta, dois litros da melhor farinha como oferta pelo pecado; não derramará azeite sobre a farinha, nem lhe porá em cima incenso, pois é oferta pelo pecado.
+
+[[v3-5-12]]
+
+^<<v3-5-12,12>>^ Entregará a oferta ao sacerdote, e o sacerdote pegará um punhado da farinha como porção memorial e a queimará sobre o altar, em cima das ofertas queimadas ao Senhor ; é oferta pelo pecado.
+
+[[v3-5-13]]
+
+^<<v3-5-13,13>>^ Assim, o sacerdote, por essa pessoa, fará oferta pelo pecado que cometeu em alguma destas coisas, e o pecado lhe será perdoado. O restante da farinha será do sacerdote, como no caso da oferta de cereais.
+
+[[v3-5-14]]
+
+^<<v3-5-14,14>>^ O Senhor  disse a Moisés:
+
+[[v3-5-15]]
+
+^<<v3-5-15,15>>^ — Se alguém cometer ofensa e pecar de forma involuntária nas coisas sagradas do Senhor , trará ao Senhor , por oferta, do rebanho, um carneiro sem defeito, conforme avaliação em prata, segundo o peso padrão do santuário, como oferta pela culpa.
+
+[[v3-5-16]]
+
+^<<v3-5-16,16>>^ Assim, restituirá o que tirou das coisas sagradas, e ainda acrescentará o seu quinto, e o dará ao sacerdote; assim, o sacerdote, com o carneiro da oferta pela culpa, fará expiação por essa pessoa, e o pecado lhe será perdoado.
+
+[[v3-5-17]]
+
+^<<v3-5-17,17>>^ — Se alguma pessoa pecar e fizer contra algum dos mandamentos do Senhor  aquilo que não se deve fazer, ainda que não tenha se dado conta disso, será culpada mesmo assim e levará a sua iniquidade.
+
+[[v3-5-18]]
+
+^<<v3-5-18,18>>^ E do rebanho trará ao sacerdote um carneiro sem defeito, conforme avaliação feita, para oferta pela culpa, e o sacerdote, por essa pessoa, fará expiação no que se refere ao erro que, de forma involuntária, cometeu, e lhe será perdoado.
+
+[[v3-5-19]]
+
+^<<v3-5-19,19>>^ É oferta pela culpa, pois certamente se tornou culpada diante do Senhor .
+
+'''
+
+xref:003-levitico/003-levitico-004.adoc#v3-4-0[&#60; Capítulo Anterior] | <<v3-5-0,Topo>> | xref:003-levitico/003-levitico-006.adoc#v3-6-0[Próximo Capítulo &#62;]

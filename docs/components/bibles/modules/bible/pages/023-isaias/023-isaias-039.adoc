@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v23-39-0]]
+=== Isaías, 39
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-39-1]]
+
+^<<v23-39-1,1>>^ Nesse tempo, Merodaque-Baladã, filho de Baladã, rei da Babilônia, enviou cartas e um presente a Ezequias, porque soube que ele havia estado doente, mas que agora já estava recuperado.
+
+[[v23-39-2]]
+
+^<<v23-39-2,2>>^ Ezequias se agradou disso e mostrou aos mensageiros a casa do seu tesouro, a prata, o ouro, as especiarias, os óleos finos, todo o seu arsenal e tudo o que havia nos seus tesouros. Não houve nada em seu palácio nem em todo o seu domínio que Ezequias não lhes mostrasse.
+
+[[v23-39-3]]
+
+^<<v23-39-3,3>>^ Então o profeta Isaías foi falar com o rei Ezequias e lhe disse: — Que foi que aqueles homens disseram e de onde vieram? Ezequias respondeu: — Vieram de uma terra distante, da Babilônia, para me visitar.
+
+[[v23-39-4]]
+
+^<<v23-39-4,4>>^ Isaías perguntou: — O que eles viram no seu palácio? Ezequias respondeu: — Viram tudo o que há em meu palácio. Não houve nada nos meus tesouros que eu não lhes mostrasse.
+
+[[v23-39-5]]
+
+^<<v23-39-5,5>>^ Então Isaías disse a Ezequias: — Ouça a palavra do Senhor  dos Exércitos:
+
+[[v23-39-6]]
+
+^<<v23-39-6,6>>^ "Eis que virão dias em que tudo o que houver no seu palácio, isto é, tudo o que os seus pais ajuntaram até o dia de hoje, será levado para a Babilônia; não ficará coisa alguma, diz o Senhor .
+
+[[v23-39-7]]
+
+^<<v23-39-7,7>>^ Alguns dos seus próprios filhos, gerados por você, serão levados, para que sejam eunucos no palácio do rei da Babilônia."
+
+[[v23-39-8]]
+
+^<<v23-39-8,8>>^ Então Ezequias disse a Isaías: — Boa é a palavra do Senhor  que você falou. Pois ele pensava assim: "Enquanto eu viver haverá paz e segurança."
+
+'''
+
+xref:023-isaias/023-isaias-038.adoc#v23-38-0[&#60; Capítulo Anterior] | <<v23-39-0,Topo>> | xref:023-isaias/023-isaias-040.adoc#v23-40-0[Próximo Capítulo &#62;]

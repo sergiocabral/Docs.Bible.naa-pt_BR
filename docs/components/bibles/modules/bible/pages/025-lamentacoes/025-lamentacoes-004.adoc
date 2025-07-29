@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-4-0]]
+=== Lamentações, 4
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v25-4-1]]
+
+^<<v25-4-1,1>>^ Álefe — Como se escureceu o ouro! Como o ouro refinado perdeu o seu brilho! Como estão espalhadas as pedras do santuário pelas esquinas de todas as ruas! Bete —
+
+[[v25-4-2]]
+
+^<<v25-4-2,2>>^ Os nobres filhos de Sião, comparáveis a ouro puro, agora são tratados como simples objetos de barro, obra das mãos de oleiro! Guímel —
+
+[[v25-4-3]]
+
+^<<v25-4-3,3>>^ Até os chacais dão o peito, dão de mamar aos seus filhotes; mas a filha do meu povo tornou-se cruel como as avestruzes no deserto. Dálete —
+
+[[v25-4-4]]
+
+^<<v25-4-4,4>>^ A língua do bebê que mama fica pegada, pela sede, ao céu da boca; as crianças pedem pão, mas não há quem as alimente. Hê —
+
+[[v25-4-5]]
+
+^<<v25-4-5,5>>^ Os que se alimentavam de comidas finas desfalecem nas ruas; os que se criaram entre escarlate agora vivem entre montes de lixo. Vau —
+
+[[v25-4-6]]
+
+^<<v25-4-6,6>>^ Porque a maldade da filha do meu povo é maior do que o pecado de Sodoma, que foi destruída num momento, sem intervenção humana. Zaine —
+
+[[v25-4-7]]
+
+^<<v25-4-7,7>>^ Os seus príncipes eram mais alvos do que a neve, mais brancos do que o leite; eram mais ruivos de corpo do que os corais e tinham a formosura da safira. Hete —
+
+[[v25-4-8]]
+
+^<<v25-4-8,8>>^ Mas agora o aspecto deles é mais escuro do que a fuligem; não são reconhecidos nas ruas. A sua pele grudou nos ossos, secou-se como a madeira. Tete —
+
+[[v25-4-9]]
+
+^<<v25-4-9,9>>^ Mais felizes foram as vítimas da espada do que as vítimas da fome; porque estas se definham atingidas mortalmente pela falta do produto dos campos. Iode —
+
+[[v25-4-10]]
+
+^<<v25-4-10,10>>^ As mãos das mulheres que antes eram compassivas cozinharam os seus próprios filhos; estes lhes serviram de alimento quando a filha do meu povo foi destruída. Cafe —
+
+[[v25-4-11]]
+
+^<<v25-4-11,11>>^ O Senhor  deu cumprimento à sua indignação, derramou o furor da sua ira; acendeu fogo em Sião, que consumiu os seus alicerces. Lâmede —
+
+[[v25-4-12]]
+
+^<<v25-4-12,12>>^ Nem os reis da terra, nem todos os moradores do mundo acreditavam que o adversário ou inimigo pudesse entrar pelos portões de Jerusalém. Mem —
+
+[[v25-4-13]]
+
+^<<v25-4-13,13>>^ Tudo isso aconteceu por causa dos pecados dos seus profetas e por causa das maldades dos seus sacerdotes, que derramaram no meio dela o sangue dos justos. Num —
+
+[[v25-4-14]]
+
+^<<v25-4-14,14>>^ Vagueiam como cegos pelas ruas, andam contaminados de sangue, de maneira que ninguém pode tocar na roupa deles. Sâmeque —
+
+[[v25-4-15]]
+
+^<<v25-4-15,15>>^ E o povo grita: "Afastem-se, imundos! Afastem-se, afastem-se, não toquem em nada!" Quando fugiram e andaram errantes, dizia-se entre as nações: "Aqui eles não podem morar." Pê —
+
+[[v25-4-16]]
+
+^<<v25-4-16,16>>^ A ira do Senhor  os espalhou; ele já não dá atenção a eles. Não respeitaram os sacerdotes, nem se compadeceram dos anciãos. Aim —
+
+[[v25-4-17]]
+
+^<<v25-4-17,17>>^ Os nossos olhos ainda desfalecem, esperando socorro que nunca chega; de nossas torres, temos olhado para um povo que não nos pode livrar. Tsadê —
+
+[[v25-4-18]]
+
+^<<v25-4-18,18>>^ Espreitavam os nossos passos, de maneira que não podíamos andar pelas nossas ruas. Nosso fim se aproximava, os nossos dias estavam contados, era chegado o nosso fim. Cofe —
+
+[[v25-4-19]]
+
+^<<v25-4-19,19>>^ Os nossos perseguidores foram mais ligeiros do que as águias nos céus; sobre os montes nos perseguiram, no deserto nos armaram ciladas. Rexe —
+
+[[v25-4-20]]
+
+^<<v25-4-20,20>>^ O ungido do Senhor , que era o nosso alento, foi preso nas armadilhas deles. Dele dizíamos: "Debaixo da sua sombra, viveremos entre as nações." Chim —
+
+[[v25-4-21]]
+
+^<<v25-4-21,21>>^ Exulte e alegre-se agora, ó filha de Edom, você que habita na terra de Uz. Logo chegará a sua hora de beber do cálice; você ficará embriagada e despida. Tau —
+
+[[v25-4-22]]
+
+^<<v25-4-22,22>>^ O castigo por causa da sua maldade está consumado, ó filha de Sião; o Senhor  nunca mais a levará para o exílio. Mas ele castigará a sua maldade, ó filha de Edom; porá a descoberto os pecados que você cometeu.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-003.adoc#v25-3-0[&#60; Capítulo Anterior] | <<v25-4-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-005.adoc#v25-5-0[Próximo Capítulo &#62;]

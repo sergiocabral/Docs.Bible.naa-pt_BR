@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v47-13-0]]
+=== 2 Coríntios, 13
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v47-13-1]]
+
+^<<v47-13-1,1>>^ Esta é a terceira vez que vou visitá-los. Por boca de duas ou três testemunhas, toda questão será decidida.
+
+[[v47-13-2]]
+
+^<<v47-13-2,2>>^ Já o disse anteriormente e digo de novo, como fiz quando estive presente pela segunda vez. Mas, agora, estando ausente, digo aos que, no passado, pecaram e a todos os demais: se eu for outra vez, não os pouparei,
+
+[[v47-13-3]]
+
+^<<v47-13-3,3>>^ visto que vocês buscam provas de que Cristo fala em mim. Ele não é fraco quando trata com vocês; pelo contrário, é poderoso entre vocês.
+
+[[v47-13-4]]
+
+^<<v47-13-4,4>>^ Porque, de fato, foi crucificado em fraqueza, mas vive pelo poder de Deus. Porque nós também somos fracos nele, mas viveremos com ele, pelo poder de Deus, para o bem de vocês.
+
+[[v47-13-5]]
+
+^<<v47-13-5,5>>^ Examinem-se para ver se realmente estão na fé; provem a si mesmos. Ou não reconhecem que Jesus Cristo está em vocês? A não ser que já tenham sido reprovados.
+
+[[v47-13-6]]
+
+^<<v47-13-6,6>>^ Mas espero que reconheçam que nós não fomos reprovados.
+
+[[v47-13-7]]
+
+^<<v47-13-7,7>>^ Estamos orando a Deus para que vocês não façam mal algum, não para que, simplesmente, pareça que nós fomos aprovados, mas que vocês façam o bem, mesmo que pareça que nós fomos reprovados.
+
+[[v47-13-8]]
+
+^<<v47-13-8,8>>^ Porque nada podemos contra a verdade, senão a favor da verdade.
+
+[[v47-13-9]]
+
+^<<v47-13-9,9>>^ Porque nos alegramos quando nós estamos fracos e vocês estão fortes; e a nossa oração é esta: que vocês sejam aperfeiçoados.
+
+[[v47-13-10]]
+
+^<<v47-13-10,10>>^ Portanto, escrevo estas coisas, estando ausente, para que, estando presente, não venha a usar de rigor segundo a autoridade que o Senhor me deu para edificação e não para destruição.
+
+[[v47-13-11]]
+
+^<<v47-13-11,11>>^ Quanto ao mais, irmãos, adeus! Procurem aperfeiçoar-se, consolem uns aos outros, tenham o mesmo modo de pensar, vivam em paz. E o Deus de amor e de paz estará com vocês.
+
+[[v47-13-12]]
+
+^<<v47-13-12,12>>^ Saúdem uns aos outros com um beijo santo. Todos os santos mandam saudações.
+
+[[v47-13-13]]
+
+^<<v47-13-13,13>>^ A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo estejam com todos vocês.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-012.adoc#v47-12-0[&#60; Capítulo Anterior] | <<v47-13-0,Topo>> | xref:048-galatas/048-galatas-001.adoc#v48-1-0[Próximo Capítulo &#62;]

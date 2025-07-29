@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-29-0]]
+=== Deuteronômio, 29
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-29-1]]
+
+^<<v5-29-1,1>>^ São estas as palavras da aliança que o Senhor  ordenou que Moisés fizesse com os filhos de Israel na terra de Moabe, além da aliança que havia feito com eles em Horebe.
+
+[[v5-29-2]]
+
+^<<v5-29-2,2>>^ Moisés mandou reunir todo o Israel. Então lhes disse: — Vocês viram com os seus próprios olhos tudo o que o Senhor  fez na terra do Egito com Faraó, com todos os seus servos, e com toda a sua terra.
+
+[[v5-29-3]]
+
+^<<v5-29-3,3>>^ Viram grandes provas, sinais e grandes maravilhas.
+
+[[v5-29-4]]
+
+^<<v5-29-4,4>>^ Mas até o dia de hoje o Senhor  não deu a vocês um coração para entender, nem olhos para ver, nem ouvidos para ouvir.
+
+[[v5-29-5]]
+
+^<<v5-29-5,5>>^ Durante quarenta anos eu os conduzi pelo deserto e, nesse tempo, não envelheceram as roupas que vocês usavam, nem se gastaram as sandálias que vocês calçavam.
+
+[[v5-29-6]]
+
+^<<v5-29-6,6>>^ Vocês não comeram pão, nem beberam vinho ou bebida forte, para que soubessem que eu sou o Senhor , seu Deus.
+
+[[v5-29-7]]
+
+^<<v5-29-7,7>>^ Quando chegaram a este lugar, Seom, rei de Hesbom, e Ogue, rei de Basã, saíram ao nosso encontro para lutar contra nós, e nós os derrotamos.
+
+[[v5-29-8]]
+
+^<<v5-29-8,8>>^ Tomamos a terra deles e a demos por herança aos rubenitas, aos gaditas e à meia tribo dos manassitas.
+
+[[v5-29-9]]
+
+^<<v5-29-9,9>>^ Portanto, guardem e cumpram as palavras desta aliança, para que vocês prosperem em tudo o que fizerem.
+
+[[v5-29-10]]
+
+^<<v5-29-10,10>>^ — Hoje todos vocês estão diante do Senhor , seu Deus: os chefes das tribos, os anciãos e os oficiais, todos os homens de Israel,
+
+[[v5-29-11]]
+
+^<<v5-29-11,11>>^ as crianças, as mulheres e os estrangeiros que se encontram no arraial, desde o rachador de lenha até o tirador de água,
+
+[[v5-29-12]]
+
+^<<v5-29-12,12>>^ para que entrem na aliança do Senhor , seu Deus, e no juramento que hoje o Senhor , seu Deus, está fazendo com vocês,
+
+[[v5-29-13]]
+
+^<<v5-29-13,13>>^ para que hoje os estabeleça por seu povo, e ele seja o Deus de vocês, como ele lhes prometeu e como jurou aos pais de vocês, Abraão, Isaque e Jacó.
+
+[[v5-29-14]]
+
+^<<v5-29-14,14>>^ Não é somente com vocês que faço esta aliança e este juramento,
+
+[[v5-29-15]]
+
+^<<v5-29-15,15>>^ porém com aquele que, hoje, aqui, está conosco diante do Senhor , nosso Deus, e também com aquele que não está aqui, hoje, conosco.
+
+[[v5-29-16]]
+
+^<<v5-29-16,16>>^ — Porque vocês sabem como habitamos na terra do Egito e como passamos pelo meio das nações pelas quais vocês passaram.
+
+[[v5-29-17]]
+
+^<<v5-29-17,17>>^ Viram as suas abominações e os seus ídolos, feitos de madeira e de pedra, e viram também a prata e o ouro que havia entre elas.
+
+[[v5-29-18]]
+
+^<<v5-29-18,18>>^ Que entre vocês não haja homem, nem mulher, nem família, nem tribo cujo coração hoje se desvie do Senhor , nosso Deus, e vá servir os deuses destas nações. Que não haja entre vocês raiz que produza erva venenosa e amarga,
+
+[[v5-29-19]]
+
+^<<v5-29-19,19>>^ ninguém que, ouvindo as palavras desta maldição, se abençoe no seu íntimo, dizendo: "Terei paz, mesmo que eu ande na teimosia do meu coração", pois isso destruiria a terra molhada com a seca.
+
+[[v5-29-20]]
+
+^<<v5-29-20,20>>^ O Senhor  não estará disposto a perdoá-lo; pelo contrário, a ira do Senhor  e o seu zelo se acenderão sobre tal homem, e toda maldição escrita neste livro cairá sobre ele; e o Senhor  apagará o nome desse homem da face da terra.
+
+[[v5-29-21]]
+
+^<<v5-29-21,21>>^ O Senhor  o separará de todas as tribos de Israel para calamidade, segundo todas as maldições da aliança escrita neste Livro da Lei.
+
+[[v5-29-22]]
+
+^<<v5-29-22,22>>^ — Então a geração vindoura, os filhos que vierem depois de vocês e os estrangeiros que virão de terras remotas verão as pragas desta terra e as suas doenças, com que o Senhor  a terá afligido;
+
+[[v5-29-23]]
+
+^<<v5-29-23,23>>^ verão toda a terra abrasada com enxofre e sal, de modo que não será semeada, nada produzirá, nem crescerá nela erva alguma, assim como foi a destruição de Sodoma e de Gomorra, de Admá e de Zeboim, que o Senhor  destruiu na sua ira e no seu furor;
+
+[[v5-29-24]]
+
+^<<v5-29-24,24>>^ sim, todas as nações verão isso e perguntarão: "Por que o Senhor  fez isso com esta terra? Qual foi a causa do furor de tamanha ira?"
+
+[[v5-29-25]]
+
+^<<v5-29-25,25>>^ Então se dirá: "Porque abandonaram a aliança que o Senhor , Deus de seus pais, fez com eles, quando os tirou do Egito.
+
+[[v5-29-26]]
+
+^<<v5-29-26,26>>^ Eles foram e serviram outros deuses, e os adoraram; deuses que não conheceram e que ele não lhes havia designado.
+
+[[v5-29-27]]
+
+^<<v5-29-27,27>>^ Por isso a ira do Senhor  se acendeu contra esta terra, trazendo sobre ela toda a maldição que está escrita neste livro.
+
+[[v5-29-28]]
+
+^<<v5-29-28,28>>^ Com ira, indignação e grande furor, o Senhor  os arrancou de sua terra e os lançou para outra terra, como hoje se vê."
+
+[[v5-29-29]]
+
+^<<v5-29-29,29>>^ — As coisas encobertas pertencem ao Senhor , nosso Deus, porém as reveladas nos pertencem, a nós e aos nossos filhos, para sempre, para que cumpramos todas as palavras desta lei.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[&#60; Capítulo Anterior] | <<v5-29-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[Próximo Capítulo &#62;]

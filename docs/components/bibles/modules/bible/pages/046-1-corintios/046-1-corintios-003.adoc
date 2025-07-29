@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v46-3-0]]
+=== 1 Coríntios, 3
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v46-3-1]]
+
+^<<v46-3-1,1>>^ Eu, porém, irmãos, não pude falar a vocês como a pessoas espirituais, e sim como a pessoas carnais, como a crianças em Cristo.
+
+[[v46-3-2]]
+
+^<<v46-3-2,2>>^ Eu lhes dei leite para beber; não pude alimentá-los com comida sólida, porque vocês ainda não podiam suportar. Nem ainda agora podem, porque vocês ainda são carnais.
+
+[[v46-3-3]]
+
+^<<v46-3-3,3>>^ Porque, se há ciúmes e brigas entre vocês, será que isso não mostra que são carnais e andam segundo os padrões humanos?
+
+[[v46-3-4]]
+
+^<<v46-3-4,4>>^ Quando alguém diz: "Eu sou de Paulo", e outro diz: "Eu sou de Apolo", não é evidente que vocês andam segundo padrões humanos?
+
+[[v46-3-5]]
+
+^<<v46-3-5,5>>^ Quem é Apolo? E quem é Paulo? São servos por meio de quem vocês creram, e isto conforme o Senhor concedeu a cada um.
+
+[[v46-3-6]]
+
+^<<v46-3-6,6>>^ Eu plantei, Apolo regou, mas o crescimento veio de Deus.
+
+[[v46-3-7]]
+
+^<<v46-3-7,7>>^ De modo que nem o que planta é alguma coisa, nem o que rega, mas Deus, que dá o crescimento.
+
+[[v46-3-8]]
+
+^<<v46-3-8,8>>^ Ora, o que planta e o que rega são um, e cada um receberá a sua recompensa de acordo com o seu próprio trabalho.
+
+[[v46-3-9]]
+
+^<<v46-3-9,9>>^ Porque nós somos cooperadores de Deus, e vocês são lavoura de Deus e edifício de Deus.
+
+[[v46-3-10]]
+
+^<<v46-3-10,10>>^ Segundo a graça de Deus que me foi dada, lancei o fundamento como sábio construtor, e outro edifica sobre ele. Porém cada um veja como edifica.
+
+[[v46-3-11]]
+
+^<<v46-3-11,11>>^ Porque ninguém pode lançar outro fundamento, além do que foi posto, o qual é Jesus Cristo.
+
+[[v46-3-12]]
+
+^<<v46-3-12,12>>^ E, se o que alguém edifica sobre o fundamento é ouro, prata, pedras preciosas, madeira, feno ou palha,
+
+[[v46-3-13]]
+
+^<<v46-3-13,13>>^ a obra de cada um se tornará manifesta, pois o Dia a demonstrará. Porque será revelada pelo fogo, e o fogo provará qual é a obra de cada um.
+
+[[v46-3-14]]
+
+^<<v46-3-14,14>>^ Se aquilo que alguém edificou sobre o fundamento permanecer, esse receberá recompensa.
+
+[[v46-3-15]]
+
+^<<v46-3-15,15>>^ Se a obra de alguém se queimar, esse sofrerá dano. Porém ele mesmo será salvo, mas como que através do fogo.
+
+[[v46-3-16]]
+
+^<<v46-3-16,16>>^ Vocês não sabem que são santuário de Deus e que o Espírito de Deus habita em vocês?
+
+[[v46-3-17]]
+
+^<<v46-3-17,17>>^ Se alguém destruir o santuário de Deus, Deus o destruirá. Porque o santuário de Deus, que são vocês, é sagrado.
+
+[[v46-3-18]]
+
+^<<v46-3-18,18>>^ Que ninguém engane a si mesmo! Se algum de vocês pensa que é sábio neste mundo, faça-se louco para se tornar sábio.
+
+[[v46-3-19]]
+
+^<<v46-3-19,19>>^ Porque a sabedoria deste mundo é loucura diante de Deus. Pois está escrito: "Ele apanha os sábios na própria astúcia deles."
+
+[[v46-3-20]]
+
+^<<v46-3-20,20>>^ E também: "O Senhor conhece os pensamentos dos sábios, e sabe que são pensamentos vãos."
+
+[[v46-3-21]]
+
+^<<v46-3-21,21>>^ Portanto, ninguém se glorie nos homens. Porque tudo é de vocês:
+
+[[v46-3-22]]
+
+^<<v46-3-22,22>>^ seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, sejam as coisas presentes, sejam as futuras, tudo é de vocês,
+
+[[v46-3-23]]
+
+^<<v46-3-23,23>>^ e vocês são de Cristo, e Cristo é de Deus.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-002.adoc#v46-2-0[&#60; Capítulo Anterior] | <<v46-3-0,Topo>> | xref:046-1-corintios/046-1-corintios-004.adoc#v46-4-0[Próximo Capítulo &#62;]

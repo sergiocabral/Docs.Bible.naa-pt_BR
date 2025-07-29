@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v58-1-0]]
+=== Hebreus, 1
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v58-1-1]]
+
+^<<v58-1-1,1>>^ Antigamente, Deus falou, muitas vezes e de muitas maneiras, aos pais, pelos profetas,
+
+[[v58-1-2]]
+
+^<<v58-1-2,2>>^ mas, nestes últimos dias, nos falou pelo Filho, a quem constituiu herdeiro de todas as coisas e pelo qual também fez o universo.
+
+[[v58-1-3]]
+
+^<<v58-1-3,3>>^ O Filho, que é o resplendor da glória de Deus e a expressão exata do seu Ser, sustentando todas as coisas pela sua palavra poderosa, depois de ter feito a purificação dos pecados, assentou-se à direita da Majestade, nas alturas,
+
+[[v58-1-4]]
+
+^<<v58-1-4,4>>^ tendo-se tornado tão superior aos anjos quanto herdou mais excelente nome do que eles.
+
+[[v58-1-5]]
+
+^<<v58-1-5,5>>^ Pois a qual dos anjos Deus em algum momento disse: "Você é meu Filho, hoje eu gerei você"? E, outra vez: "Eu lhe serei Pai, e ele me será Filho"?
+
+[[v58-1-6]]
+
+^<<v58-1-6,6>>^ E, novamente, ao introduzir o Primogênito no mundo, diz: "E todos os anjos de Deus o adorem."
+
+[[v58-1-7]]
+
+^<<v58-1-7,7>>^ Ainda, quanto aos anjos, diz: "Aquele que a seus anjos faz ventos, e a seus ministros, labareda de fogo."
+
+[[v58-1-8]]
+
+^<<v58-1-8,8>>^ Mas, a respeito do Filho, diz: "O teu trono, ó Deus, é para todo o sempre; cetro de justiça é o cetro do teu reino.
+
+[[v58-1-9]]
+
+^<<v58-1-9,9>>^ Amaste a justiça e odiaste a iniquidade; por isso, Deus, o teu Deus, te ungiu com o óleo de alegria como a nenhum dos teus companheiros."
+
+[[v58-1-10]]
+
+^<<v58-1-10,10>>^ Diz ainda: "No princípio, Senhor, lançaste os fundamentos da terra, e os céus são obra das tuas mãos.
+
+[[v58-1-11]]
+
+^<<v58-1-11,11>>^ Eles perecerão, mas tu permaneces; todos eles envelhecerão como veste;
+
+[[v58-1-12]]
+
+^<<v58-1-12,12>>^ como manto tu os enrolarás, e, como roupas, serão igualmente mudados. Tu, porém, és o mesmo, e os teus anos jamais terão fim."
+
+[[v58-1-13]]
+
+^<<v58-1-13,13>>^ Ora, a qual dos anjos Deus em algum momento disse: "Sente-se à minha direita, até que eu ponha os seus inimigos por estrado dos seus pés"?
+
+[[v58-1-14]]
+
+^<<v58-1-14,14>>^ Não são todos eles espíritos ministradores, enviados para serviço a favor dos que hão de herdar a salvação?
+
+'''
+
+xref:057-filemom/057-filemom-001.adoc#v57-1-0[&#60; Capítulo Anterior] | <<v58-1-0,Topo>> | xref:058-hebreus/058-hebreus-002.adoc#v58-2-0[Próximo Capítulo &#62;]

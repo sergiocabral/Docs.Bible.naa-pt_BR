@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v40-7-0]]
+=== Mateus, 7
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v40-7-1]]
+
+^<<v40-7-1,1>>^ — Não julguem, para que vocês não sejam julgados.
+
+[[v40-7-2]]
+
+^<<v40-7-2,2>>^ Pois com o critério com que vocês julgarem vocês serão julgados; e com a medida com que vocês tiverem medido vocês também serão medidos.
+
+[[v40-7-3]]
+
+^<<v40-7-3,3>>^ — Por que você vê o cisco no olho do seu irmão, mas não repara na trave que está no seu próprio?
+
+[[v40-7-4]]
+
+^<<v40-7-4,4>>^ Ou como você dirá a seu irmão: "Deixe que eu tire o cisco do seu olho", quando você tem uma trave no seu próprio?
+
+[[v40-7-5]]
+
+^<<v40-7-5,5>>^ Hipócrita! Tire primeiro a trave do seu olho e então você verá claramente para tirar o cisco do olho do seu irmão.
+
+[[v40-7-6]]
+
+^<<v40-7-6,6>>^ — Não deem aos cães o que é santo, nem joguem as suas pérolas diante dos porcos, para que estes não as pisem com os pés e aqueles, voltando-se, não estraçalhem vocês.
+
+[[v40-7-7]]
+
+^<<v40-7-7,7>>^ — Peçam e lhes será dado; busquem e acharão; batam, e a porta será aberta para vocês.
+
+[[v40-7-8]]
+
+^<<v40-7-8,8>>^ Pois todo o que pede recebe; o que busca encontra; e, a quem bate, a porta será aberta.
+
+[[v40-7-9]]
+
+^<<v40-7-9,9>>^ Ou quem de vocês, se o filho pedir pão, lhe dará uma pedra?
+
+[[v40-7-10]]
+
+^<<v40-7-10,10>>^ Ou, se pedir um peixe, lhe dará uma cobra?
+
+[[v40-7-11]]
+
+^<<v40-7-11,11>>^ Ora, se vocês, que são maus, sabem dar coisas boas aos seus filhos, quanto mais o Pai de vocês, que está nos céus, dará coisas boas aos que lhe pedirem?
+
+[[v40-7-12]]
+
+^<<v40-7-12,12>>^ — Portanto, tudo o que vocês querem que os outros façam a vocês, façam também vocês a eles; porque esta é a Lei e os Profetas.
+
+[[v40-7-13]]
+
+^<<v40-7-13,13>>^ — Entrem pela porta estreita! Porque larga é a porta e espaçoso é o caminho que conduz para a perdição, e são muitos os que entram por ela.
+
+[[v40-7-14]]
+
+^<<v40-7-14,14>>^ Estreita é a porta e apertado é o caminho que conduz para a vida, e são poucos os que o encontram.
+
+[[v40-7-15]]
+
+^<<v40-7-15,15>>^ — Cuidado com os falsos profetas, que se apresentam a vocês disfarçados de ovelhas, mas por dentro são lobos vorazes.
+
+[[v40-7-16]]
+
+^<<v40-7-16,16>>^ Pelos seus frutos vocês os conhecerão. Por acaso se colhem uvas de espinheiros ou figos de ervas daninhas?
+
+[[v40-7-17]]
+
+^<<v40-7-17,17>>^ Assim, toda árvore boa produz frutos bons, porém a árvore má produz frutos maus.
+
+[[v40-7-18]]
+
+^<<v40-7-18,18>>^ A árvore boa não pode produzir frutos maus, e a árvore má não pode produzir frutos bons.
+
+[[v40-7-19]]
+
+^<<v40-7-19,19>>^ Toda árvore que não produz bom fruto é cortada e jogada no fogo.
+
+[[v40-7-20]]
+
+^<<v40-7-20,20>>^ Assim, pois, pelos seus frutos vocês os conhecerão.
+
+[[v40-7-21]]
+
+^<<v40-7-21,21>>^ — Nem todo o que me diz: "Senhor, Senhor!" entrará no Reino dos Céus, mas aquele que faz a vontade de meu Pai, que está nos céus.
+
+[[v40-7-22]]
+
+^<<v40-7-22,22>>^ Muitos, naquele dia, vão me dizer: "Senhor, Senhor, nós não profetizamos em seu nome? E em seu nome não expulsamos demônios? E em seu nome não fizemos muitos milagres?"
+
+[[v40-7-23]]
+
+^<<v40-7-23,23>>^ Então lhes direi claramente: "Eu nunca conheci vocês. Afastem-se de mim, vocês que praticam o mal."
+
+[[v40-7-24]]
+
+^<<v40-7-24,24>>^ — Todo aquele, pois, que ouve estas minhas palavras e as pratica será comparado a um homem prudente que construiu a sua casa sobre a rocha.
+
+[[v40-7-25]]
+
+^<<v40-7-25,25>>^ Caiu a chuva, transbordaram os rios, sopraram os ventos e bateram com força contra aquela casa, e ela não desabou, porque tinha sido construída sobre a rocha.
+
+[[v40-7-26]]
+
+^<<v40-7-26,26>>^ E todo aquele que ouve estas minhas palavras e não as pratica será comparado a um homem insensato que construiu a sua casa sobre a areia.
+
+[[v40-7-27]]
+
+^<<v40-7-27,27>>^ Caiu a chuva, transbordaram os rios, sopraram os ventos e bateram com força contra aquela casa, e ela desabou, sendo grande a sua ruína.
+
+[[v40-7-28]]
+
+^<<v40-7-28,28>>^ Quando Jesus acabou de proferir estas palavras, as multidões estavam maravilhadas com a sua doutrina,
+
+[[v40-7-29]]
+
+^<<v40-7-29,29>>^ porque ele as ensinava como quem tem autoridade, e não como os escribas.
+
+'''
+
+xref:040-mateus/040-mateus-006.adoc#v40-6-0[&#60; Capítulo Anterior] | <<v40-7-0,Topo>> | xref:040-mateus/040-mateus-008.adoc#v40-8-0[Próximo Capítulo &#62;]

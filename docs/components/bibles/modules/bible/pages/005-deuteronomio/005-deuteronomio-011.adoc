@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v5-11-0]]
+=== Deuteronômio, 11
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-11-1]]
+
+^<<v5-11-1,1>>^ — Amem o Senhor , o Deus de vocês, e sempre guardem os seus preceitos, os seus estatutos, os seus juízos e os seus mandamentos.
+
+[[v5-11-2]]
+
+^<<v5-11-2,2>>^ Considerem hoje — e não me dirijo aos filhos de vocês, que não conheceram nem viram a disciplina do Senhor , seu Deus —, sim, considerem a grandeza do Senhor , a sua mão poderosa e o seu braço estendido.
+
+[[v5-11-3]]
+
+^<<v5-11-3,3>>^ Considerem também os sinais e as obras que ele fez no meio do Egito contra Faraó, rei do Egito, e contra toda a sua terra.
+
+[[v5-11-4]]
+
+^<<v5-11-4,4>>^ Também o que ele fez com o exército do Egito, com os seus cavalos e os seus carros de guerra, fazendo passar sobre eles as águas do mar Vermelho, quando estavam perseguindo vocês, e como o Senhor  os destruiu até o dia de hoje.
+
+[[v5-11-5]]
+
+^<<v5-11-5,5>>^ Considerem o que ele fez no deserto, até que vocês chegassem a este lugar.
+
+[[v5-11-6]]
+
+^<<v5-11-6,6>>^ E ainda o que ele fez com Datã e Abirão, filhos de Eliabe, filho de Rúben; como a terra abriu a boca e os engoliu, junto com as famílias deles, as tendas e tudo o que os seguia, no meio de todo o Israel.
+
+[[v5-11-7]]
+
+^<<v5-11-7,7>>^ Porque vocês viram com os seus próprios olhos todas as grandes obras que o Senhor  fez.
+
+[[v5-11-8]]
+
+^<<v5-11-8,8>>^ — Portanto, guardem todos os mandamentos que hoje lhes ordeno, para que vocês sejam fortes, entrem e tomem posse da terra para onde estão indo,
+
+[[v5-11-9]]
+
+^<<v5-11-9,9>>^ e para que se prolonguem os seus dias na terra que o Senhor , sob juramento, prometeu dar aos pais de vocês e à descendência deles, terra que mana leite e mel.
+
+[[v5-11-10]]
+
+^<<v5-11-10,10>>^ Porque a terra da qual vocês tomarão posse não é como a terra do Egito, de onde vocês saíram, em que semeavam as suas sementes e depois tinham de regar com o pé, como se a plantação fosse uma horta.
+
+[[v5-11-11]]
+
+^<<v5-11-11,11>>^ Mas a terra da qual vocês tomarão posse é terra de montes e de vales, que bebe a água da chuva dos céus.
+
+[[v5-11-12]]
+
+^<<v5-11-12,12>>^ É terra da qual o Senhor , seu Deus, cuida; os olhos do Senhor , Deus de vocês, estão sobre ela continuamente, desde o princípio até o fim do ano.
+
+[[v5-11-13]]
+
+^<<v5-11-13,13>>^ — Se vocês de fato obedecerem aos meus mandamentos que hoje lhes ordeno, de amar o Senhor , seu Deus, e de o servir de todo o coração e de toda a alma,
+
+[[v5-11-14]]
+
+^<<v5-11-14,14>>^ então no devido tempo darei as chuvas que a terra de vocês precisa, tanto as primeiras como as últimas, para que vocês recolham o seu cereal, o vinho e o azeite.
+
+[[v5-11-15]]
+
+^<<v5-11-15,15>>^ Nos campos, darei pasto ao gado, e vocês comerão e se fartarão.
+
+[[v5-11-16]]
+
+^<<v5-11-16,16>>^ — Tenham cuidado para que não aconteça que o coração de vocês se engane, e vocês se desviem, sirvam outros deuses e se prostrem diante deles.
+
+[[v5-11-17]]
+
+^<<v5-11-17,17>>^ Se isso acontecer, a ira do Senhor  se acenderá contra vocês, ele fechará o céu para que não chova, a terra não dará a sua colheita, e em pouco tempo vocês serão eliminados da boa terra que o Senhor  lhes dá.
+
+[[v5-11-18]]
+
+^<<v5-11-18,18>>^ — Ponham estas minhas palavras no seu coração e na sua alma. Amarrem-nas como sinal na mão, para que sejam por frontal entre os olhos.
+
+[[v5-11-19]]
+
+^<<v5-11-19,19>>^ Ensinem essas palavras aos seus filhos, falando delas quando estiverem sentados em casa, andando pelo caminho, quando se deitarem e quando se levantarem.
+
+[[v5-11-20]]
+
+^<<v5-11-20,20>>^ Devem escrevê-las nos umbrais de sua casa e nas suas portas,
+
+[[v5-11-21]]
+
+^<<v5-11-21,21>>^ para que se multipliquem os seus dias e os dias de seus filhos na terra que o Senhor , sob juramento, prometeu dar aos pais de vocês, e para que esses dias sejam tão numerosos como os dias do céu acima da terra.
+
+[[v5-11-22]]
+
+^<<v5-11-22,22>>^ Porque, se vocês de fato guardarem todos estes mandamentos que lhes ordeno, amando o Senhor , o Deus de vocês, andando em todos os seus caminhos, e sendo fiéis a ele,
+
+[[v5-11-23]]
+
+^<<v5-11-23,23>>^ o Senhor  expulsará todas estas nações e vocês tomarão posse de nações maiores e mais poderosas do que vocês.
+
+[[v5-11-24]]
+
+^<<v5-11-24,24>>^ Todo lugar onde puserem a planta do pé, desde o deserto, desde o Líbano, desde o rio, o rio Eufrates, até o mar ocidental, será de vocês.
+
+[[v5-11-25]]
+
+^<<v5-11-25,25>>^ Ninguém poderá resistir a vocês. O Senhor , seu Deus, espalhará o terror e o temor de vocês por toda terra que vocês pisarem, como ele já lhes prometeu.
+
+[[v5-11-26]]
+
+^<<v5-11-26,26>>^ — Eis que hoje eu ponho diante de vocês a bênção e a maldição:
+
+[[v5-11-27]]
+
+^<<v5-11-27,27>>^ a bênção, se cumprirem os mandamentos do Senhor , seu Deus, que hoje eu lhes ordeno;
+
+[[v5-11-28]]
+
+^<<v5-11-28,28>>^ a maldição, se não cumprirem os mandamentos do Senhor , seu Deus, mas se desviarem do caminho que hoje eu lhes ordeno, para seguirem outros deuses que vocês não conheciam.
+
+[[v5-11-29]]
+
+^<<v5-11-29,29>>^ Quando o Senhor , o Deus de vocês, os tiver levado para a terra da qual tomarão posse, vocês pronunciarão a bênção sobre o monte Gerizim e a maldição sobre o monte Ebal.
+
+[[v5-11-30]]
+
+^<<v5-11-30,30>>^ Esses montes estão do outro lado do Jordão, na direção do pôr do sol, na terra dos cananeus, que habitam na Arabá, em frente de Gilgal, junto aos carvalhais de Moré.
+
+[[v5-11-31]]
+
+^<<v5-11-31,31>>^ Porque vocês vão atravessar o Jordão para entrar e tomar posse da terra que o Senhor , seu Deus, está dando a vocês; vocês tomarão posse da terra e vão morar nela.
+
+[[v5-11-32]]
+
+^<<v5-11-32,32>>^ Portanto, tenham o cuidado de cumprir todos os estatutos e juízos que eu hoje lhes prescrevo.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[&#60; Capítulo Anterior] | <<v5-11-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-012.adoc#v5-12-0[Próximo Capítulo &#62;]

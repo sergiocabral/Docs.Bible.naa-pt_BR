@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v4-10-0]]
+=== Números, 10
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v4-10-1]]
+
+^<<v4-10-1,1>>^ O Senhor  disse a Moisés:
+
+[[v4-10-2]]
+
+^<<v4-10-2,2>>^ — Faça duas trombetas de prata batida. Elas serão usadas por você para convocar a congregação e para dar o sinal de partida dos arraiais.
+
+[[v4-10-3]]
+
+^<<v4-10-3,3>>^ Quando tocarem as duas trombetas, toda a congregação se ajuntará a você à porta da tenda do encontro.
+
+[[v4-10-4]]
+
+^<<v4-10-4,4>>^ Mas, quando tocar uma só, se ajuntarão a você os chefes, os cabeças dos milhares de Israel.
+
+[[v4-10-5]]
+
+^<<v4-10-5,5>>^ Quando vocês derem um toque de alarme, partirão os arraiais que estão acampados do lado leste.
+
+[[v4-10-6]]
+
+^<<v4-10-6,6>>^ E, quando derem um segundo toque de alarme, então partirão os arraiais que estão acampados do lado sul. Para a partida, deve soar um toque de alarme.
+
+[[v4-10-7]]
+
+^<<v4-10-7,7>>^ Para reunir a congregação, devem tocar as trombetas, mas não na forma de alarme.
+
+[[v4-10-8]]
+
+^<<v4-10-8,8>>^ Os filhos de Arão, sacerdotes, tocarão as trombetas; e isto será para vocês por estatuto perpétuo de geração em geração.
+
+[[v4-10-9]]
+
+^<<v4-10-9,9>>^ — Quando, na sua terra, vocês saírem a lutar contra os inimigos que os oprimem, também tocarão as trombetas na forma de alarme, e diante do Senhor , o Deus de vocês, haverá lembrança de vocês, e serão salvos de seus inimigos.
+
+[[v4-10-10]]
+
+^<<v4-10-10,10>>^ Também nos dias de alegria, e nas festas fixas, e no princípio de cada mês, toquem as suas trombetas sobre os seus holocaustos e sobre os seus sacrifícios pacíficos, para que sejam por memorial diante do seu Deus. Eu sou o Senhor , o Deus de vocês.
+
+[[v4-10-11]]
+
+^<<v4-10-11,11>>^ No segundo ano, no segundo mês, aos vinte dias do mês, a nuvem se ergueu de sobre o tabernáculo da congregação.
+
+[[v4-10-12]]
+
+^<<v4-10-12,12>>^ Os filhos de Israel puseram-se em marcha, partindo do deserto do Sinai, jornada após jornada; e a nuvem repousou no deserto de Parã.
+
+[[v4-10-13]]
+
+^<<v4-10-13,13>>^ Assim, pela primeira vez, se puseram em marcha, segundo o mandado do Senhor , por Moisés.
+
+[[v4-10-14]]
+
+^<<v4-10-14,14>>^ Primeiramente partiu o estandarte do arraial dos filhos de Judá, segundo as suas turmas; e sobre o seu exército estava Naassom, filho de Aminadabe.
+
+[[v4-10-15]]
+
+^<<v4-10-15,15>>^ Sobre o exército da tribo dos filhos de Issacar estava Natanael, filho de Zuar,
+
+[[v4-10-16]]
+
+^<<v4-10-16,16>>^ e sobre o exército da tribo dos filhos de Zebulom estava Eliabe, filho de Helom.
+
+[[v4-10-17]]
+
+^<<v4-10-17,17>>^ Então desarmaram o tabernáculo, e os filhos de Gérson e os filhos de Merari partiram, levando o tabernáculo.
+
+[[v4-10-18]]
+
+^<<v4-10-18,18>>^ Depois, partiu o estandarte do arraial de Rúben, segundo as suas turmas; e sobre o seu exército estava Elizur, filho de Sedeur.
+
+[[v4-10-19]]
+
+^<<v4-10-19,19>>^ Sobre o exército da tribo dos filhos de Simeão estava Selumiel, filho de Zurisadai,
+
+[[v4-10-20]]
+
+^<<v4-10-20,20>>^ e sobre o exército da tribo dos filhos de Gade estava Eliasafe, filho de Deuel.
+
+[[v4-10-21]]
+
+^<<v4-10-21,21>>^ Então partiram os coatitas, levando as coisas santas; e o tabernáculo era levantado até que estes chegassem.
+
+[[v4-10-22]]
+
+^<<v4-10-22,22>>^ Depois, partiu o estandarte do arraial dos filhos de Efraim, segundo as suas turmas; e sobre o seu exército estava Elisama, filho de Amiúde.
+
+[[v4-10-23]]
+
+^<<v4-10-23,23>>^ Sobre o exército da tribo dos filhos de Manassés estava Gamaliel, filho de Pedazur,
+
+[[v4-10-24]]
+
+^<<v4-10-24,24>>^ e sobre o exército da tribo dos filhos de Benjamim estava Abidã, filho de Gideoni.
+
+[[v4-10-25]]
+
+^<<v4-10-25,25>>^ Então partiu o estandarte do arraial dos filhos de Dã, formando a retaguarda de todos os arraiais, segundo as suas turmas; e sobre o seu exército estava Aiezer, filho de Amisadai.
+
+[[v4-10-26]]
+
+^<<v4-10-26,26>>^ Sobre o exército da tribo dos filhos de Aser estava Pagiel, filho de Ocrã.
+
+[[v4-10-27]]
+
+^<<v4-10-27,27>>^ E sobre o exército da tribo dos filhos de Naftali estava Aira, filho de Enã.
+
+[[v4-10-28]]
+
+^<<v4-10-28,28>>^ Nesta ordem, puseram-se em marcha os filhos de Israel, segundo os seus exércitos.
+
+[[v4-10-29]]
+
+^<<v4-10-29,29>>^ Moisés disse a Hobabe, filho de Reuel, o midianita, sogro de Moisés: — Estamos de viagem para o lugar de que o Senhor  disse: "Eu o darei a vocês." Venha conosco! Nós o trataremos bem, porque o Senhor  prometeu boas coisas a Israel.
+
+[[v4-10-30]]
+
+^<<v4-10-30,30>>^ Mas Hobabe respondeu: — Não irei. Prefiro voltar à minha terra e à minha parentela.
+
+[[v4-10-31]]
+
+^<<v4-10-31,31>>^ Moisés insistiu: — Por favor, não nos deixe, porque você sabe que devemos acampar no deserto; e você nos servirá de guia.
+
+[[v4-10-32]]
+
+^<<v4-10-32,32>>^ Se vier conosco, faremos a você o mesmo bem que o Senhor  Deus fizer a nós.
+
+[[v4-10-33]]
+
+^<<v4-10-33,33>>^ Assim, partiram do monte do Senhor  e caminharam durante três dias. A arca da aliança do Senhor  ia adiante deles durante esses três dias, para encontrar um lugar de descanso para eles.
+
+[[v4-10-34]]
+
+^<<v4-10-34,34>>^ A nuvem do Senhor  pairava sobre eles de dia, quando partiam do arraial.
+
+[[v4-10-35]]
+
+^<<v4-10-35,35>>^ Quando a arca partia, Moisés falava: "Levanta-te, Senhor , sejam espalhados os teus inimigos e fujam diante de ti os que te odeiam."
+
+[[v4-10-36]]
+
+^<<v4-10-36,36>>^ E, quando a arca parava, Moisés dizia: "Volta, ó Senhor , para os milhares de milhares de Israel."
+
+'''
+
+xref:004-numeros/004-numeros-009.adoc#v4-9-0[&#60; Capítulo Anterior] | <<v4-10-0,Topo>> | xref:004-numeros/004-numeros-011.adoc#v4-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-91-0]]
+=== Salmos, 91
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-91-1]]
+
+^<<v19-91-1,1>>^ Aquele que habita no esconderijo do Altíssimo e descansa à sombra do Onipotente
+
+[[v19-91-2]]
+
+^<<v19-91-2,2>>^ diz ao Senhor : "Tu és o meu refúgio e a minha fortaleza, o meu Deus, em quem confio."
+
+[[v19-91-3]]
+
+^<<v19-91-3,3>>^ Pois ele livrará você do laço do passarinheiro e da peste perniciosa.
+
+[[v19-91-4]]
+
+^<<v19-91-4,4>>^ Ele o cobrirá com as suas penas, e, sob as suas asas, você estará seguro; a sua verdade é proteção e escudo.
+
+[[v19-91-5]]
+
+^<<v19-91-5,5>>^ Você não terá medo do terror noturno, nem da flecha que voa de dia,
+
+[[v19-91-6]]
+
+^<<v19-91-6,6>>^ nem da peste que se propaga nas trevas, nem da mortandade que assola ao meio-dia.
+
+[[v19-91-7]]
+
+^<<v19-91-7,7>>^ Caiam mil ao seu lado, e dez mil, à sua direita; você não será atingido.
+
+[[v19-91-8]]
+
+^<<v19-91-8,8>>^ Somente com os seus olhos você contemplará e verá o castigo dos ímpios.
+
+[[v19-91-9]]
+
+^<<v19-91-9,9>>^ Você disse: "O Senhor  é o meu refúgio." Você fez do Altíssimo a sua morada.
+
+[[v19-91-10]]
+
+^<<v19-91-10,10>>^ Nenhum mal lhe sucederá, praga nenhuma chegará à sua tenda.
+
+[[v19-91-11]]
+
+^<<v19-91-11,11>>^ Porque aos seus anjos ele dará ordens a seu respeito, para que guardem você em todos os seus caminhos.
+
+[[v19-91-12]]
+
+^<<v19-91-12,12>>^ Eles o sustentarão nas suas mãos, para que você não tropece em alguma pedra.
+
+[[v19-91-13]]
+
+^<<v19-91-13,13>>^ Você pisará o leão e a cobra; com os pés esmagará o leãozinho e a serpente.
+
+[[v19-91-14]]
+
+^<<v19-91-14,14>>^ Deus diz: "Porque a mim se apegou com amor, eu o livrarei; eu o protegerei, porque conhece o meu nome.
+
+[[v19-91-15]]
+
+^<<v19-91-15,15>>^ Ele me invocará, e eu lhe responderei; na sua angústia eu estarei com ele; eu o livrarei e o glorificarei.
+
+[[v19-91-16]]
+
+^<<v19-91-16,16>>^ Vou saciá-lo com longevidade e lhe mostrarei a minha salvação."
+
+'''
+
+xref:019-salmos/019-salmos-090.adoc#v19-90-0[&#60; Capítulo Anterior] | <<v19-91-0,Topo>> | xref:019-salmos/019-salmos-092.adoc#v19-92-0[Próximo Capítulo &#62;]

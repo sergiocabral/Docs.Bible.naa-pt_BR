@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v23-32-0]]
+=== Isaías, 32
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-32-1]]
+
+^<<v23-32-1,1>>^ Eis aí um rei que irá reinar com justiça, e príncipes que irão governar com retidão.
+
+[[v23-32-2]]
+
+^<<v23-32-2,2>>^ Cada um deles servirá de esconderijo contra o vento, de refúgio contra a tempestade, de torrentes de água em lugares secos e de sombra de uma grande rocha em terra sedenta.
+
+[[v23-32-3]]
+
+^<<v23-32-3,3>>^ Os olhos dos que veem não se fecharão, e os ouvidos dos que ouvem estarão atentos.
+
+[[v23-32-4]]
+
+^<<v23-32-4,4>>^ O coração dos apressados saberá compreender, e a língua dos gagos falará com rapidez e clareza.
+
+[[v23-32-5]]
+
+^<<v23-32-5,5>>^ O tolo nunca mais será chamado de nobre, e do fraudulento nunca mais se dirá que é generoso.
+
+[[v23-32-6]]
+
+^<<v23-32-6,6>>^ Porque o tolo fala tolices, e o seu coração só pensa em fazer o mal, para praticar a iniquidade e para proferir mentiras contra o Senhor , para deixar o faminto sem comida e o sedento sem ter o que beber.
+
+[[v23-32-7]]
+
+^<<v23-32-7,7>>^ Quanto ao fraudulento, os seus projetos são maus. Ele planeja intrigas para, com palavras mentirosas, arruinar os necessitados, mesmo quando a causa dos pobres é justa.
+
+[[v23-32-8]]
+
+^<<v23-32-8,8>>^ Mas o nobre projeta coisas nobres e pela sua nobreza se mantém em pé.
+
+[[v23-32-9]]
+
+^<<v23-32-9,9>>^ Vocês, mulheres que vivem tranquilas, levantem-se e ouçam a minha voz; e vocês, filhas que estão confiantes, escutem o que vou dizer.
+
+[[v23-32-10]]
+
+^<<v23-32-10,10>>^ Daqui a pouco mais de um ano, vocês, que estão confiantes, vão tremer de medo, porque a vindima se acabará, e não haverá colheita.
+
+[[v23-32-11]]
+
+^<<v23-32-11,11>>^ Vocês, mulheres que vivem tranquilas, comecem a sentir pavor; e vocês, que estão confiantes, tremam de medo. Tirem as suas roupas, fiquem nuas, e vistam-se de pano de saco.
+
+[[v23-32-12]]
+
+^<<v23-32-12,12>>^ Batam no peito e chorem por causa dos campos aprazíveis e por causa das vinhas frutíferas.
+
+[[v23-32-13]]
+
+^<<v23-32-13,13>>^ Sobre a terra do meu povo virão espinheiros e ervas daninhas. Chorem também por causa de todas as casas onde há júbilo, na cidade cheia de alegria.
+
+[[v23-32-14]]
+
+^<<v23-32-14,14>>^ O palácio será abandonado, a cidade populosa ficará deserta. Ofel e a torre da guarda servirão de cavernas para sempre, para alegria dos jumentos selvagens e pastagem dos rebanhos.
+
+[[v23-32-15]]
+
+^<<v23-32-15,15>>^ Isso será assim até que se derrame sobre nós o Espírito lá do alto. Então o deserto se tornará em pomar, e o pomar será tido por bosque;
+
+[[v23-32-16]]
+
+^<<v23-32-16,16>>^ a retidão habitará no deserto, e a justiça morará no pomar.
+
+[[v23-32-17]]
+
+^<<v23-32-17,17>>^ O efeito da justiça será paz, e o fruto da justiça será repouso e segurança, para sempre.
+
+[[v23-32-18]]
+
+^<<v23-32-18,18>>^ O meu povo habitará em moradas de paz, em moradas bem seguras e em lugares quietos e tranquilos,
+
+[[v23-32-19]]
+
+^<<v23-32-19,19>>^ mesmo que haja granizo, caia o bosque e a cidade seja inteiramente arrasada.
+
+[[v23-32-20]]
+
+^<<v23-32-20,20>>^ Bem-aventurados são vocês, que semeiam junto a todas as águas e deixam os bois e jumentos pastar em liberdade.
+
+'''
+
+xref:023-isaias/023-isaias-031.adoc#v23-31-0[&#60; Capítulo Anterior] | <<v23-32-0,Topo>> | xref:023-isaias/023-isaias-033.adoc#v23-33-0[Próximo Capítulo &#62;]

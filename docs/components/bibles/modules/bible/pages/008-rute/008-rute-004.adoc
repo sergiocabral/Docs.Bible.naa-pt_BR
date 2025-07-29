@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v8-4-0]]
+=== Rute, 4
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v8-4-1]]
+
+^<<v8-4-1,1>>^ Boaz foi até o portão da cidade e sentou-se ali. Eis que o resgatador de que Boaz havia falado ia passando. Então ele o chamou: — Ó fulano, chegue até aqui e sente-se. Ele foi e se sentou.
+
+[[v8-4-2]]
+
+^<<v8-4-2,2>>^ Então Boaz chamou dez homens dos anciãos da cidade e disse: — Sentem-se aqui. E eles se sentaram.
+
+[[v8-4-3]]
+
+^<<v8-4-3,3>>^ Boaz disse ao resgatador: — Noemi, que voltou da terra dos moabitas, pôs à venda aquele pedaço de terra que foi de nosso parente Elimeleque.
+
+[[v8-4-4]]
+
+^<<v8-4-4,4>>^ Então resolvi informá-lo disso e dizer a você: compre essas terras na presença dos que estão sentados aqui e na presença dos anciãos do povo. Se você quer resgatá-las, faça isto; se não, diga, para que eu o saiba. Porque não há outro que possa resgatá-las a não ser você; e, depois de você, eu. Então ele respondeu: — Eu vou resgatar essas terras.
+
+[[v8-4-5]]
+
+^<<v8-4-5,5>>^ Boaz, porém, lhe disse: — No dia em que você receber essas terras da mão de Noemi, também terá de receber Rute, a moabita, já viúva, para perpetuar o nome do esposo falecido na herança dele.
+
+[[v8-4-6]]
+
+^<<v8-4-6,6>>^ Então o resgatador disse: — Nesse caso, não poderei fazer o resgate, para não prejudicar a minha própria herança. Faça você uso desse meu direito, porque eu não poderei fazê-lo.
+
+[[v8-4-7]]
+
+^<<v8-4-7,7>>^ Este era, antigamente, o costume em Israel, quanto a resgates e permutas: quem queria confirmar um negócio tirava a sandália do pé e a entregava ao outro. Era assim que se confirmava um negócio em Israel.
+
+[[v8-4-8]]
+
+^<<v8-4-8,8>>^ Por isso, quando o resgatador disse a Boaz: "Faça você o resgate", tirou a sandália do pé.
+
+[[v8-4-9]]
+
+^<<v8-4-9,9>>^ Então Boaz disse aos anciãos e a todo o povo: — Hoje vocês são testemunhas de que comprei de Noemi tudo o que pertencia a Elimeleque, a Quiliom e a Malom.
+
+[[v8-4-10]]
+
+^<<v8-4-10,10>>^ E também tomo por mulher Rute, a moabita, que foi esposa de Malom, para perpetuar o nome deste sobre a sua herança, para que este nome não seja exterminado dentre seus irmãos e do portão da sua cidade. Hoje vocês são testemunhas disso.
+
+[[v8-4-11]]
+
+^<<v8-4-11,11>>^ Todo o povo que estava no portão e os anciãos disseram: — Somos testemunhas. E disseram a Boaz: — Que o Senhor  faça a esta mulher, que está entrando na sua família, como fez a Raquel e Lia, que edificaram a casa de Israel. E que você, Boaz, seja um homem poderoso em Efrata, e que o seu nome se torne famoso em Belém.
+
+[[v8-4-12]]
+
+^<<v8-4-12,12>>^ Que, com os filhos que o Senhor  lhe der dessa jovem, a sua casa seja como a de Perez, o filho que Tamar deu a Judá.
+
+[[v8-4-13]]
+
+^<<v8-4-13,13>>^ Assim Boaz recebeu Rute, e ela passou a ser a sua mulher. Ele teve relações com ela, e o Senhor  concedeu que ela ficasse grávida e tivesse um filho.
+
+[[v8-4-14]]
+
+^<<v8-4-14,14>>^ Então as mulheres disseram a Noemi: — Bendito seja o Senhor , que não deixou hoje de lhe dar um neto que será o seu resgatador. Que o nome dele venha a ser famoso em Israel!
+
+[[v8-4-15]]
+
+^<<v8-4-15,15>>^ Nele você terá renovação da vida e consolo na velhice, pois a sua nora, que ama você, o deu à luz, e para você ela é melhor do que sete filhos.
+
+[[v8-4-16]]
+
+^<<v8-4-16,16>>^ Noemi pegou o menino no colo e passou a cuidar dele.
+
+[[v8-4-17]]
+
+^<<v8-4-17,17>>^ As vizinhas lhe deram nome, dizendo: — Nasceu um filho para Noemi! E o chamaram de Obede. Este veio a ser o pai de Jessé, pai de Davi.
+
+[[v8-4-18]]
+
+^<<v8-4-18,18>>^ E estas são as gerações de Perez: Perez gerou Esrom,
+
+[[v8-4-19]]
+
+^<<v8-4-19,19>>^ Esrom gerou Rão, Rão gerou Aminadabe,
+
+[[v8-4-20]]
+
+^<<v8-4-20,20>>^ Aminadabe gerou Naassom, Naassom gerou Salmom,
+
+[[v8-4-21]]
+
+^<<v8-4-21,21>>^ Salmom gerou Boaz, Boaz gerou Obede,
+
+[[v8-4-22]]
+
+^<<v8-4-22,22>>^ Obede gerou Jessé, e Jessé gerou Davi.
+
+'''
+
+xref:008-rute/008-rute-003.adoc#v8-3-0[&#60; Capítulo Anterior] | <<v8-4-0,Topo>> | xref:009-1-samuel/009-1-samuel-001.adoc#v9-1-0[Próximo Capítulo &#62;]

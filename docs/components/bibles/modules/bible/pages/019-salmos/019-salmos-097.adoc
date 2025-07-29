@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-97-0]]
+=== Salmos, 97
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-97-1]]
+
+^<<v19-97-1,1>>^ Reina o Senhor . Alegre-se a terra, exultem as muitas ilhas.
+
+[[v19-97-2]]
+
+^<<v19-97-2,2>>^ Nuvens e escuridão o rodeiam, justiça e juízo são a base do seu trono.
+
+[[v19-97-3]]
+
+^<<v19-97-3,3>>^ Adiante dele vai um fogo que consome os inimigos ao seu redor.
+
+[[v19-97-4]]
+
+^<<v19-97-4,4>>^ Os seus relâmpagos iluminam o mundo; a terra os vê e estremece.
+
+[[v19-97-5]]
+
+^<<v19-97-5,5>>^ Os montes se derretem como cera na presença do Senhor , na presença do Senhor de toda a terra.
+
+[[v19-97-6]]
+
+^<<v19-97-6,6>>^ Os céus anunciam a sua justiça, e todos os povos veem a sua glória.
+
+[[v19-97-7]]
+
+^<<v19-97-7,7>>^ Sejam envergonhados todos os que adoram imagens de escultura, os que se gloriam de ídolos. Todos os deuses prostrem-se diante dele.
+
+[[v19-97-8]]
+
+^<<v19-97-8,8>>^ Sião ouve e se alegra, as filhas de Judá exultam, por causa da tua justiça, ó Senhor .
+
+[[v19-97-9]]
+
+^<<v19-97-9,9>>^ Pois tu, Senhor , és o Altíssimo sobre toda a terra; tu estás muito acima de todos os deuses.
+
+[[v19-97-10]]
+
+^<<v19-97-10,10>>^ Vocês que amam o Senhor , odeiem o mal; ele protege a vida dos seus santos, e os livra das mãos dos ímpios.
+
+[[v19-97-11]]
+
+^<<v19-97-11,11>>^ A luz se difunde para o justo, e a alegria, para os retos de coração.
+
+[[v19-97-12]]
+
+^<<v19-97-12,12>>^ Alegrem-se no Senhor , ó justos, e deem graças ao seu santo nome.
+
+'''
+
+xref:019-salmos/019-salmos-096.adoc#v19-96-0[&#60; Capítulo Anterior] | <<v19-97-0,Topo>> | xref:019-salmos/019-salmos-098.adoc#v19-98-0[Próximo Capítulo &#62;]

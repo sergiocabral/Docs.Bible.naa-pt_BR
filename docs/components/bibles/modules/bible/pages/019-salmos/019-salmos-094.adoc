@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-94-0]]
+=== Salmos, 94
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-94-1]]
+
+^<<v19-94-1,1>>^ Ó Senhor , Deus das vinganças, ó Deus das vinganças, resplandece.
+
+[[v19-94-2]]
+
+^<<v19-94-2,2>>^ Levanta-te, ó juiz da terra, e dá aos soberbos o castigo que eles merecem.
+
+[[v19-94-3]]
+
+^<<v19-94-3,3>>^ Até quando, Senhor , os ímpios, até quando os ímpios exultarão?
+
+[[v19-94-4]]
+
+^<<v19-94-4,4>>^ Fazem alarde e falam com arrogância; todos os que praticam a iniquidade se vangloriam.
+
+[[v19-94-5]]
+
+^<<v19-94-5,5>>^ Esmagam o teu povo, Senhor , e oprimem a tua herança.
+
+[[v19-94-6]]
+
+^<<v19-94-6,6>>^ Matam as viúvas e os estrangeiros e assassinam os órfãos.
+
+[[v19-94-7]]
+
+^<<v19-94-7,7>>^ E dizem: "O Senhor  não está vendo; o Deus de Jacó não faz caso disso."
+
+[[v19-94-8]]
+
+^<<v19-94-8,8>>^ Prestem atenção, ó estúpidos dentre o povo; e vocês, tolos, quando se tornarão sábios?
+
+[[v19-94-9]]
+
+^<<v19-94-9,9>>^ Aquele que fez o ouvido será que não ouve? Aquele que formou os olhos será que não enxerga?
+
+[[v19-94-10]]
+
+^<<v19-94-10,10>>^ Aquele que repreende as nações será que não vai punir? Aquele que dá aos seres humanos o conhecimento será que não tem sabedoria?
+
+[[v19-94-11]]
+
+^<<v19-94-11,11>>^ O Senhor  conhece os pensamentos do ser humano, e sabe que são pensamentos vãos.
+
+[[v19-94-12]]
+
+^<<v19-94-12,12>>^ Bem-aventurado, Senhor , é aquele a quem tu repreendes, a quem ensinas a tua lei,
+
+[[v19-94-13]]
+
+^<<v19-94-13,13>>^ para lhe dares descanso dos dias maus, até que se abra a cova para o ímpio.
+
+[[v19-94-14]]
+
+^<<v19-94-14,14>>^ Pois o Senhor  não abandonará o seu povo; ele não irá desamparar a sua herança.
+
+[[v19-94-15]]
+
+^<<v19-94-15,15>>^ Nos tribunais voltará a imperar a justiça, e todos os de coração reto a seguirão.
+
+[[v19-94-16]]
+
+^<<v19-94-16,16>>^ Quem se levantará a meu favor contra os perversos? Quem estará comigo contra os que praticam a iniquidade?
+
+[[v19-94-17]]
+
+^<<v19-94-17,17>>^ Se não fosse o auxílio do Senhor , a minha alma já estaria na região do silêncio.
+
+[[v19-94-18]]
+
+^<<v19-94-18,18>>^ Quando eu digo: "Os meus pés vão resvalar", a tua bondade, Senhor , me sustém.
+
+[[v19-94-19]]
+
+^<<v19-94-19,19>>^ Multiplicando-se em mim as inquietações, as tuas consolações me alegram a alma.
+
+[[v19-94-20]]
+
+^<<v19-94-20,20>>^ Será que pode associar-se contigo o trono da perversidade, que forja o mal, tendo uma lei por pretexto?
+
+[[v19-94-21]]
+
+^<<v19-94-21,21>>^ Ajuntam-se contra a vida dos justos e condenam à morte os inocentes.
+
+[[v19-94-22]]
+
+^<<v19-94-22,22>>^ Mas o Senhor é o meu alto refúgio; o meu Deus é o rochedo em que me abrigo.
+
+[[v19-94-23]]
+
+^<<v19-94-23,23>>^ Sobre eles faz recair a sua iniquidade e pela maldade deles próprios os destruirá; o Senhor , nosso Deus, os destruirá.
+
+'''
+
+xref:019-salmos/019-salmos-093.adoc#v19-93-0[&#60; Capítulo Anterior] | <<v19-94-0,Topo>> | xref:019-salmos/019-salmos-095.adoc#v19-95-0[Próximo Capítulo &#62;]

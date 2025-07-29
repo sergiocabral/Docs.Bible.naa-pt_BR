@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v42-14-0]]
+=== Lucas, 14
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v42-14-1]]
+
+^<<v42-14-1,1>>^ Num sábado, ao entrar Jesus na casa de um dos principais fariseus para tomar uma refeição, eles o estavam observando.
+
+[[v42-14-2]]
+
+^<<v42-14-2,2>>^ E eis que diante dele se achava um homem hidrópico.
+
+[[v42-14-3]]
+
+^<<v42-14-3,3>>^ Então Jesus, dirigindo-se aos intérpretes da Lei e aos fariseus, perguntou: — É ou não é lícito curar no sábado?
+
+[[v42-14-4]]
+
+^<<v42-14-4,4>>^ Eles, porém, não disseram nada. Então Jesus pegou na mão daquele homem, curou-o e o mandou embora.
+
+[[v42-14-5]]
+
+^<<v42-14-5,5>>^ A seguir, Jesus lhes perguntou: — Quem de vocês, se o filho ou o boi cair num poço, não irá tirá-lo imediatamente, mesmo em dia de sábado?
+
+[[v42-14-6]]
+
+^<<v42-14-6,6>>^ A isto nada puderam responder.
+
+[[v42-14-7]]
+
+^<<v42-14-7,7>>^ Reparando como os convidados escolhiam os primeiros lugares, Jesus contou-lhes uma parábola:
+
+[[v42-14-8]]
+
+^<<v42-14-8,8>>^ — Quando alguém convidá-lo para um casamento, não sente no lugar de honra, pois pode haver um convidado mais importante do que você.
+
+[[v42-14-9]]
+
+^<<v42-14-9,9>>^ Então aquele que convidou os dois dirá a você: "Dê o lugar a este aqui." Então você irá, envergonhado, ocupar o último lugar.
+
+[[v42-14-10]]
+
+^<<v42-14-10,10>>^ Pelo contrário, quando alguém convidá-lo, vá sentar no último lugar, para que, quando vier aquele que o convidou, diga a você: "Amigo, venha sentar num lugar melhor." Isso será uma honra para você diante de todos os demais convidados.
+
+[[v42-14-11]]
+
+^<<v42-14-11,11>>^ Porque todo o que se exalta será humilhado; e o que se humilha será exaltado.
+
+[[v42-14-12]]
+
+^<<v42-14-12,12>>^ Depois Jesus disse ao que o havia convidado: — Quando você der um jantar ou uma ceia, não convide os seus amigos, nem os seus irmãos, nem os seus parentes, nem os vizinhos ricos; para não acontecer que eles retribuam o convite e você seja recompensado.
+
+[[v42-14-13]]
+
+^<<v42-14-13,13>>^ Pelo contrário, ao dar um banquete, convide os pobres, os aleijados, os coxos e os cegos,
+
+[[v42-14-14]]
+
+^<<v42-14-14,14>>^ e você será bem-aventurado, pelo fato de não terem eles com que recompensá-lo. A sua recompensa você receberá na ressurreição dos justos.
+
+[[v42-14-15]]
+
+^<<v42-14-15,15>>^ Ao ouvir tais palavras, um dos que estavam à mesa com Jesus lhe disse: — Bem-aventurado aquele que participar do banquete no Reino de Deus.
+
+[[v42-14-16]]
+
+^<<v42-14-16,16>>^ Jesus, porém, respondeu: — Certo homem deu uma grande ceia e convidou muitos.
+
+[[v42-14-17]]
+
+^<<v42-14-17,17>>^ À hora da ceia, enviou o seu servo para avisar aos convidados: "Venham, porque tudo já está preparado."
+
+[[v42-14-18]]
+
+^<<v42-14-18,18>>^ Mas todos eles, um por um, começaram a apresentar desculpas. O primeiro disse: "Comprei um campo e preciso ir vê-lo; peço que me desculpe."
+
+[[v42-14-19]]
+
+^<<v42-14-19,19>>^ Outro disse: "Comprei cinco juntas de bois e vou experimentá-las; peço que me desculpe."
+
+[[v42-14-20]]
+
+^<<v42-14-20,20>>^ E outro disse: "Casei-me e, por isso, não posso ir."
+
+[[v42-14-21]]
+
+^<<v42-14-21,21>>^ — O servo voltou e, contou tudo ao seu senhor. Então, irado, o dono da casa disse ao seu servo: "Saia depressa para as ruas e becos da cidade e traga para cá os pobres, os aleijados, os cegos e os coxos."
+
+[[v42-14-22]]
+
+^<<v42-14-22,22>>^ Mais tarde, o servo lhe disse: "Patrão, já fiz o que o senhor mandou, e ainda há lugar."
+
+[[v42-14-23]]
+
+^<<v42-14-23,23>>^ Então o senhor disse ao servo: "Saia pelos caminhos e atalhos e obrigue todos a entrar, para que a minha casa fique cheia.
+
+[[v42-14-24]]
+
+^<<v42-14-24,24>>^ Porque digo a vocês que nenhum daqueles homens que foram convidados provará a minha ceia."
+
+[[v42-14-25]]
+
+^<<v42-14-25,25>>^ Grandes multidões acompanhavam Jesus, e ele, voltando-se, lhes disse:
+
+[[v42-14-26]]
+
+^<<v42-14-26,26>>^ — Se alguém vem a mim e não me ama mais do que ama o seu pai, a sua mãe, a sua mulher, os seus filhos, os seus irmãos, as suas irmãs e até a sua própria vida, não pode ser meu discípulo.
+
+[[v42-14-27]]
+
+^<<v42-14-27,27>>^ E quem não tomar a sua cruz e vier após mim não pode ser meu discípulo.
+
+[[v42-14-28]]
+
+^<<v42-14-28,28>>^ Pois qual de vocês, pretendendo construir uma torre, não se assenta primeiro para calcular a despesa e verificar se tem os meios para a concluir?
+
+[[v42-14-29]]
+
+^<<v42-14-29,29>>^ Para não acontecer que, tendo lançado os alicerces e não podendo terminar a construção, todos os que a virem zombem dele,
+
+[[v42-14-30]]
+
+^<<v42-14-30,30>>^ dizendo: "Este homem começou a construir e não pôde acabar."
+
+[[v42-14-31]]
+
+^<<v42-14-31,31>>^ Ou qual é o rei que, indo para combater outro rei, não se assenta primeiro para calcular se com dez mil homens poderá enfrentar o que vem contra ele com vinte mil?
+
+[[v42-14-32]]
+
+^<<v42-14-32,32>>^ Caso contrário, estando o outro ainda longe, envia-lhe uma embaixada, pedindo condições de paz.
+
+[[v42-14-33]]
+
+^<<v42-14-33,33>>^ Assim, pois, qualquer um de vocês que não renuncia a tudo o que tem não pode ser meu discípulo.
+
+[[v42-14-34]]
+
+^<<v42-14-34,34>>^ — O sal é certamente bom; mas, se o sal se tornar insípido, como lhe restaurar o sabor?
+
+[[v42-14-35]]
+
+^<<v42-14-35,35>>^ Não presta mais nem para a terra nem para o monte de estrume; lançam-no fora. Quem tem ouvidos para ouvir, ouça.
+
+'''
+
+xref:042-lucas/042-lucas-013.adoc#v42-13-0[&#60; Capítulo Anterior] | <<v42-14-0,Topo>> | xref:042-lucas/042-lucas-015.adoc#v42-15-0[Próximo Capítulo &#62;]

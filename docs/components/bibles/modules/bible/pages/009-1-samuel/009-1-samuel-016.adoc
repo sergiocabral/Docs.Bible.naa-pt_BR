@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v9-16-0]]
+=== 1 Samuel, 16
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v9-16-1]]
+
+^<<v9-16-1,1>>^ O Senhor  disse a Samuel: — Até quando você terá pena de Saul, se eu o rejeitei como rei de Israel? Encha um chifre de azeite e ponha-se a caminho; vou enviar você a Jessé, o belemita, porque escolhi um dos filhos dele para ser rei.
+
+[[v9-16-2]]
+
+^<<v9-16-2,2>>^ Samuel respondeu: — Como posso fazer isso? Saul ficará sabendo e me matará. Então o Senhor  disse: — Leve um novilho e diga: "Vim para oferecer um sacrifício ao Senhor ."
+
+[[v9-16-3]]
+
+^<<v9-16-3,3>>^ Convide Jessé para o sacrifício. Eu lhe mostrarei o que você deve fazer, e você ungirá para mim aquele que eu indicar.
+
+[[v9-16-4]]
+
+^<<v9-16-4,4>>^ Samuel fez o que o Senhor  tinha dito e foi a Belém. Os anciãos da cidade saíram ao encontro dele, tremendo, e perguntaram: — É de paz a sua vinda?
+
+[[v9-16-5]]
+
+^<<v9-16-5,5>>^ Samuel respondeu: — Sim, é de paz. Vim oferecer sacrifício ao Senhor . Consagrem-se e venham comigo ao sacrifício. Então ele consagrou Jessé e os filhos dele e os convidou para o sacrifício.
+
+[[v9-16-6]]
+
+^<<v9-16-6,6>>^ Aconteceu que, quando eles chegaram, Samuel viu Eliabe e disse consigo: — Certamente está diante do Senhor  o seu ungido.
+
+[[v9-16-7]]
+
+^<<v9-16-7,7>>^ Porém o Senhor  disse a Samuel: — Não olhe para a sua aparência nem para a sua altura, porque eu o rejeitei. Porque o Senhor  não vê como o ser humano vê. O ser humano vê o exterior, porém o Senhor  vê o coração.
+
+[[v9-16-8]]
+
+^<<v9-16-8,8>>^ Então Jessé chamou Abinadabe e o fez passar diante de Samuel, que disse: — Nem a este o Senhor  escolheu.
+
+[[v9-16-9]]
+
+^<<v9-16-9,9>>^ Então Jessé fez passar Samá. Porém Samuel disse: — Tampouco a este o Senhor  escolheu.
+
+[[v9-16-10]]
+
+^<<v9-16-10,10>>^ Assim Jessé fez passar os seus sete filhos diante de Samuel. Porém Samuel disse a Jessé: — O Senhor  não escolheu nenhum destes.
+
+[[v9-16-11]]
+
+^<<v9-16-11,11>>^ E perguntou a Jessé: — Esses são todos os seus filhos? Jessé respondeu: — Ainda falta um, o mais moço; ele está apascentando as ovelhas. Então Samuel disse a Jessé: — Mande chamá-lo, pois não nos sentaremos à mesa sem que ele venha.
+
+[[v9-16-12]]
+
+^<<v9-16-12,12>>^ Então mandou chamá-lo e o fez entrar. Davi era ruivo, de belos olhos e boa aparência. E o Senhor  disse a Samuel: — Levante-se e unja-o, pois este é ele.
+
+[[v9-16-13]]
+
+^<<v9-16-13,13>>^ Samuel pegou o chifre do azeite e ungiu Davi no meio de seus irmãos. E, daquele dia em diante, o Espírito do Senhor  se apossou de Davi. Então Samuel se levantou e foi para Ramá.
+
+[[v9-16-14]]
+
+^<<v9-16-14,14>>^ Depois que o Espírito do Senhor  se retirou de Saul, um espírito mau, vindo da parte do Senhor , o atormentava.
+
+[[v9-16-15]]
+
+^<<v9-16-15,15>>^ Então os servos de Saul lhe disseram: — Eis que, agora, um espírito mau, enviado por Deus, está atormentando o senhor, ó rei.
+
+[[v9-16-16]]
+
+^<<v9-16-16,16>>^ Por isso, mande que estes seus servos, que estão em sua presença, busquem um homem que saiba tocar harpa. Assim, quando o espírito mau, enviado por Deus, vier sobre o senhor, o homem dedilhará a harpa e o senhor se sentirá melhor.
+
+[[v9-16-17]]
+
+^<<v9-16-17,17>>^ E Saul disse aos seus servos: — Então procurem um homem que saiba tocar bem harpa e tragam-no para cá.
+
+[[v9-16-18]]
+
+^<<v9-16-18,18>>^ Um dos moços disse: — Conheço um filho de Jessé, o belemita, que sabe tocar harpa. Ele é forte e valente, homem de guerra, fala com sensatez e tem boa aparência; e o Senhor  Deus está com ele.
+
+[[v9-16-19]]
+
+^<<v9-16-19,19>>^ Saul enviou mensageiros a Jessé, dizendo: — Mande-me o seu filho Davi, aquele que está com as ovelhas.
+
+[[v9-16-20]]
+
+^<<v9-16-20,20>>^ Então Jessé pegou um jumento e o carregou de pão, um odre de vinho e um cabrito, e enviou-os a Saul por meio de Davi, seu filho.
+
+[[v9-16-21]]
+
+^<<v9-16-21,21>>^ Assim Davi foi a Saul e esteve diante dele. Saul gostou muito dele e fez dele o seu escudeiro.
+
+[[v9-16-22]]
+
+^<<v9-16-22,22>>^ Saul mandou dizer a Jessé: — Deixe que Davi fique aqui, pois alcançou favor diante de mim.
+
+[[v9-16-23]]
+
+^<<v9-16-23,23>>^ E sempre que o espírito mau, enviado por Deus, vinha sobre Saul, Davi pegava a harpa e a dedilhava. Então Saul sentia alívio e se achava melhor, e o espírito mau se retirava dele.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-015.adoc#v9-15-0[&#60; Capítulo Anterior] | <<v9-16-0,Topo>> | xref:009-1-samuel/009-1-samuel-017.adoc#v9-17-0[Próximo Capítulo &#62;]

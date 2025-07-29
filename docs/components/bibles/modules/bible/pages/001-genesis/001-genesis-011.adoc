@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ Em toda a terra havia apenas uma língua e uma só maneira de falar.
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ Os homens partiram do Oriente, encontraram uma planície na terra de Sinar e habitaram ali.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ E disseram uns aos outros: — Venham, vamos fazer tijolos e queimá-los bem. Os tijolos lhes serviram de pedra, e o betume, de argamassa.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ Disseram: — Venham, vamos construir uma cidade e uma torre cujo topo chegue até os céus e tornemos célebre o nosso nome, para que não sejamos espalhados por toda a terra.
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ Então o Senhor  desceu para ver a cidade e a torre, que os filhos dos homens estavam construindo.
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ E o Senhor  disse: — Eis que o povo é um, e todos têm a mesma língua. Isto é apenas o começo; agora não haverá restrição para tudo o que planejam fazer.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Venham, vamos descer e confundir a língua que eles falam, para que um não entenda o que o outro está dizendo.
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Assim o Senhor  os dispersou dali pela superfície da terra; e pararam de edificar a cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ Por isso a cidade foi chamada de Babel, porque ali o Senhor  confundiu a língua de toda a terra e dali o Senhor  os dispersou por toda a superfície dela.
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ São estas as gerações de Sem. Ele tinha cem anos de idade quando gerou Arfaxade, dois anos depois do dilúvio.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ E, depois que gerou Arfaxade, Sem viveu quinhentos anos; e gerou filhos e filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ Arfaxade viveu trinta e cinco anos e gerou Salá.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ E, depois que gerou Salá, Arfaxade viveu quatrocentos e três anos; e gerou filhos e filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ Salá viveu trinta anos e gerou Héber;
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ e, depois que gerou Héber, Salá viveu quatrocentos e três anos; e gerou filhos e filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ Héber viveu trinta e quatro anos e gerou Pelegue;
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ e, depois que gerou Pelegue, Héber viveu quatrocentos e trinta anos; e gerou filhos e filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ Pelegue viveu trinta anos e gerou Reú;
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ e, depois que gerou Reú, Pelegue viveu duzentos e nove anos; e gerou filhos e filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ Reú viveu trinta e dois anos e gerou Serugue;
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ e, depois que gerou Serugue, Reú viveu duzentos e sete anos; e gerou filhos e filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ Serugue viveu trinta anos e gerou Naor;
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ e, depois que gerou Naor, Serugue viveu duzentos anos; e gerou filhos e filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ Naor viveu vinte e nove anos e gerou Tera;
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ e, depois que gerou Tera, Naor viveu cento e dezenove anos; e gerou filhos e filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ Tera viveu setenta anos e gerou Abrão, Naor e Harã.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ São estas as gerações de Tera. Tera gerou Abrão, Naor e Harã; e Harã gerou Ló.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ Harã morreu na terra de seu nascimento, em Ur dos caldeus, estando Tera, seu pai, ainda vivo.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ Abrão e Naor tomaram para si mulheres. A mulher de Abrão se chamava Sarai, e a mulher de Naor era Milca, filha de Harã, que foi pai de Milca e de Iscá.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Sarai era estéril, não tinha filhos.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Tera tomou Abrão, seu filho, e Ló, filho de Harã, filho de seu filho, e Sarai, sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos caldeus, para ir à terra de Canaã. Foram até Harã, onde ficaram.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ E, havendo Tera vivido duzentos e cinco anos ao todo, morreu em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

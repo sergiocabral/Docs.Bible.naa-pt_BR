@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-71-0]]
+=== Salmos, 71
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-71-1]]
+
+^<<v19-71-1,1>>^ Em ti, Senhor , me refugio; não seja eu jamais envergonhado.
+
+[[v19-71-2]]
+
+^<<v19-71-2,2>>^ Livra-me por tua justiça e resgata-me; inclina-me os ouvidos e salva-me.
+
+[[v19-71-3]]
+
+^<<v19-71-3,3>>^ Sê tu para mim uma rocha habitável em que eu sempre possa me refugiar. Ordenaste que eu me salve, pois tu és a minha rocha e a minha fortaleza.
+
+[[v19-71-4]]
+
+^<<v19-71-4,4>>^ Livra-me, Deus meu, das mãos do ímpio, das garras do homem injusto e cruel.
+
+[[v19-71-5]]
+
+^<<v19-71-5,5>>^ Pois tu és a minha esperança, Senhor  Deus, a minha confiança desde a minha mocidade.
+
+[[v19-71-6]]
+
+^<<v19-71-6,6>>^ Em ti eu tenho me apoiado desde o meu nascimento; tu me tiraste do ventre materno. A ti se dirige constantemente o meu louvor.
+
+[[v19-71-7]]
+
+^<<v19-71-7,7>>^ Para muitos sou motivo de espanto, mas tu és o meu forte refúgio.
+
+[[v19-71-8]]
+
+^<<v19-71-8,8>>^ Os meus lábios estão repletos do teu louvor e da tua glória continuamente.
+
+[[v19-71-9]]
+
+^<<v19-71-9,9>>^ Não me rejeites na minha velhice; quando me faltarem as forças, não me desampares.
+
+[[v19-71-10]]
+
+^<<v19-71-10,10>>^ Pois os meus inimigos falam contra mim; e os que querem matar-me conspiram,
+
+[[v19-71-11]]
+
+^<<v19-71-11,11>>^ dizendo: "Deus o abandonou. Persigam-no e prendam-no, pois não há quem o possa livrar."
+
+[[v19-71-12]]
+
+^<<v19-71-12,12>>^ Ó Deus, não te ausentes de mim; Deus meu, apressa-te em me socorrer.
+
+[[v19-71-13]]
+
+^<<v19-71-13,13>>^ Que sejam envergonhados e consumidos os que são adversários de minha alma; cubram-se de vergonha e de vexame os que procuram o meu mal.
+
+[[v19-71-14]]
+
+^<<v19-71-14,14>>^ Quanto a mim, esperarei sempre e te louvarei cada vez mais.
+
+[[v19-71-15]]
+
+^<<v19-71-15,15>>^ A minha boca proclamará a tua justiça; o dia inteiro contarei os feitos da tua salvação, ainda que eu não saiba o seu número.
+
+[[v19-71-16]]
+
+^<<v19-71-16,16>>^ Irei na força do Senhor  Deus; anunciarei a tua justiça, a tua somente.
+
+[[v19-71-17]]
+
+^<<v19-71-17,17>>^ Tu me tens ensinado, ó Deus, desde a minha mocidade; e até agora tenho anunciado as tuas maravilhas.
+
+[[v19-71-18]]
+
+^<<v19-71-18,18>>^ Não me desampares, ó Deus, agora que estou velho e de cabelos brancos, até que eu tenha declarado à presente geração a tua força e às gerações vindouras o teu poder.
+
+[[v19-71-19]]
+
+^<<v19-71-19,19>>^ A tua justiça, ó Deus, se eleva até os céus. Grandes coisas tens feito, ó Deus; quem é semelhante a ti?
+
+[[v19-71-20]]
+
+^<<v19-71-20,20>>^ Tu, que me tens feito ver muitas angústias e males, me restaurarás ainda a vida e de novo me tirarás dos abismos da terra.
+
+[[v19-71-21]]
+
+^<<v19-71-21,21>>^ Aumenta a minha grandeza e consola-me novamente.
+
+[[v19-71-22]]
+
+^<<v19-71-22,22>>^ Eu também te louvo com a lira por tua verdade, ó Deus meu; cantarei louvores a ti ao som da harpa, ó Santo de Israel.
+
+[[v19-71-23]]
+
+^<<v19-71-23,23>>^ Os meus lábios exultarão quando eu cantar louvores a ti; também exultará a minha alma, que remiste.
+
+[[v19-71-24]]
+
+^<<v19-71-24,24>>^ Igualmente a minha língua celebrará a tua justiça todo o dia; pois estão envergonhados e confundidos os que procuram o meu mal.
+
+'''
+
+xref:019-salmos/019-salmos-070.adoc#v19-70-0[&#60; Capítulo Anterior] | <<v19-71-0,Topo>> | xref:019-salmos/019-salmos-072.adoc#v19-72-0[Próximo Capítulo &#62;]

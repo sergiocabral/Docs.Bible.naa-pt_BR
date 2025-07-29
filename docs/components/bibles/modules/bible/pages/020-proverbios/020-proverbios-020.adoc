@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Provérbios, 20
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ O vinho é zombador e a bebida forte causa alvoroço; todo aquele que é vencido por eles não é sábio.
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ A fúria do rei é como o rugido do leão; quem o provoca peca contra a própria vida.
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ É uma honra para alguém ficar longe de conflitos, mas os insensatos envolvem-se neles.
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ O preguiçoso não ara as terras porque é inverno; por isso, no tempo da colheita, procura e não encontra nada.
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ Os propósitos do coração humano são como águas profundas, mas quem é inteligente sabe como trazê-los à tona.
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ Muitos proclamam a sua própria bondade, mas alguém que é digno de confiança, quem o achará?
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ O justo anda na sua integridade; felizes são os seus filhos depois dele.
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ Quando o rei se assenta no trono para julgar, com os seus olhos dispersa todo mal.
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ Quem pode dizer: "Purifiquei o meu coração; estou limpo do meu pecado"?
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ O Senhor  detesta o uso de dois pesos e duas medidas; ele detesta tanto uma coisa quanto a outra.
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Até a criança se dá a conhecer pelas suas ações, se o que faz é puro e reto.
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ O ouvido que ouve e o olho que vê, o Senhor  os fez, tanto um como o outro.
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ Não ame o sono, para que você não empobreça; abra os olhos e você terá pão de sobra.
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ "Não presta! Não vale tanto!" — diz o comprador; mas, quando vai embora, então se gaba do negócio que fez.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ Há ouro e abundância de pérolas, mas palavras que transmitem conhecimento são joia preciosa.
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Que se tome a roupa daquele que fica por fiador de um estranho; que ela sirva de penhor, quando ele se compromete por estrangeiros.
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ O pão que se ganha com fraude pode ser gostoso, mas depois a boca se encherá de areia.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ Os planos são estabelecidos mediante os conselhos; faça a guerra com prudência.
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ O mexeriqueiro revela os segredos; portanto, não se meta com quem fala demais.
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ Se alguém amaldiçoa o seu pai ou a sua mãe, a sua lâmpada se apagará na mais densa escuridão.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ A posse antecipada de uma herança no fim não será abençoada.
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ Não diga: "Vou me vingar do mal"; espere no Senhor , e ele o livrará.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ O Senhor  detesta o uso de dois pesos, e uma balança desonesta não é boa.
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ Os passos de cada pessoa são dirigidos pelo Senhor ; como poderá alguém entender o seu próprio caminho?
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ É uma armadilha dizer precipitadamente: "Isto é santo!", e só refletir depois de fazer o voto.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ O rei sábio peneira os maus e faz passar sobre eles a roda.
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ O espírito do ser humano é a lâmpada do Senhor , a qual examina o mais profundo do seu ser.
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Bondade e fidelidade preservam o rei; é com bondade que ele sustém o seu trono.
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ A glória dos jovens é a sua força, e a beleza dos velhos são os seus cabelos brancos.
+
+[[v20-20-30]]
+
+^<<v20-20-30,30>>^ Os vergões das feridas purificam do mal, e os açoites limpam o mais íntimo do corpo.
+
+'''
+
+xref:020-proverbios/020-proverbios-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-proverbios/020-proverbios-021.adoc#v20-21-0[Próximo Capítulo &#62;]

@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v13-1-0]]
+=== 1 Crônicas, 1
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v13-1-1]]
+
+^<<v13-1-1,1>>^ Adão, Sete, Enos,
+
+[[v13-1-2]]
+
+^<<v13-1-2,2>>^ Cainã, Maalalel, Jarede,
+
+[[v13-1-3]]
+
+^<<v13-1-3,3>>^ Enoque, Metusalém, Lameque,
+
+[[v13-1-4]]
+
+^<<v13-1-4,4>>^ Noé, Sem, Cam e Jafé.
+
+[[v13-1-5]]
+
+^<<v13-1-5,5>>^ Os filhos de Jafé foram: Gomer, Magogue, Madai, Javã, Tubal, Meseque e Tiras.
+
+[[v13-1-6]]
+
+^<<v13-1-6,6>>^ Os filhos de Gomer foram: Asquenaz, Rifate e Togarma.
+
+[[v13-1-7]]
+
+^<<v13-1-7,7>>^ Os filhos de Javã foram: Elisá, Társis, Quitim e Rodanim.
+
+[[v13-1-8]]
+
+^<<v13-1-8,8>>^ Os filhos de Cam foram: Cuxe, Mizraim, Pute e Canaã.
+
+[[v13-1-9]]
+
+^<<v13-1-9,9>>^ Os filhos de Cuxe foram: Sebá, Havilá, Sabtá, Raamá e Sabtecá. Os filhos de Raamá foram: Sabá e Dedã.
+
+[[v13-1-10]]
+
+^<<v13-1-10,10>>^ Cuxe gerou Ninrode, que começou a ser poderoso na terra.
+
+[[v13-1-11]]
+
+^<<v13-1-11,11>>^ Mizraim gerou Ludim, Anamim, Leabim, Naftuim,
+
+[[v13-1-12]]
+
+^<<v13-1-12,12>>^ Patrusim, Casluim (de quem descendem os filisteus) e Caftorim.
+
+[[v13-1-13]]
+
+^<<v13-1-13,13>>^ Canaã gerou Sidom, seu primogênito, e Hete,
+
+[[v13-1-14]]
+
+^<<v13-1-14,14>>^ e também os jebuseus, os amorreus, os girgaseus,
+
+[[v13-1-15]]
+
+^<<v13-1-15,15>>^ os heveus, os arqueus, os sineus,
+
+[[v13-1-16]]
+
+^<<v13-1-16,16>>^ os arvadeus, os zemareus e os hamateus.
+
+[[v13-1-17]]
+
+^<<v13-1-17,17>>^ Os filhos de Sem foram: Elão, Assur, Arfaxade, Lude, Arã, Uz, Hul, Geter e Meseque.
+
+[[v13-1-18]]
+
+^<<v13-1-18,18>>^ Arfaxade gerou Selá, e Selá gerou Héber.
+
+[[v13-1-19]]
+
+^<<v13-1-19,19>>^ A Héber nasceram dois filhos: o nome de um foi Pelegue, porque em seus dias se repartiu a terra; e o nome de seu irmão foi Joctã.
+
+[[v13-1-20]]
+
+^<<v13-1-20,20>>^ Joctã gerou Almodá, Salefe, Hazar-Mavé, Jerá,
+
+[[v13-1-21]]
+
+^<<v13-1-21,21>>^ Hadorão, Uzal, Dicla,
+
+[[v13-1-22]]
+
+^<<v13-1-22,22>>^ Ebal, Abimael, Sabá,
+
+[[v13-1-23]]
+
+^<<v13-1-23,23>>^ Ofir, Havilá e Jobabe. Todos estes foram filhos de Joctã.
+
+[[v13-1-24]]
+
+^<<v13-1-24,24>>^ Sem, Arfaxade, Selá,
+
+[[v13-1-25]]
+
+^<<v13-1-25,25>>^ Héber, Pelegue, Reú,
+
+[[v13-1-26]]
+
+^<<v13-1-26,26>>^ Serugue, Naor, Tera
+
+[[v13-1-27]]
+
+^<<v13-1-27,27>>^ e Abrão, que é Abraão.
+
+[[v13-1-28]]
+
+^<<v13-1-28,28>>^ Os filhos de Abraão foram: Isaque e Ismael.
+
+[[v13-1-29]]
+
+^<<v13-1-29,29>>^ São estas as suas gerações: o primogênito de Ismael foi Nebaiote; depois Quedar, Adbeel, Mibsão,
+
+[[v13-1-30]]
+
+^<<v13-1-30,30>>^ Misma, Dumá, Massá, Hadade, Temá,
+
+[[v13-1-31]]
+
+^<<v13-1-31,31>>^ Jetur, Nafis e Quedemá. Estes foram os filhos de Ismael.
+
+[[v13-1-32]]
+
+^<<v13-1-32,32>>^ Quanto aos filhos de Quetura, concubina de Abraão, esta deu à luz Zinrã, Jocsã, Medã, Midiã, Isbaque e Sua. Os filhos de Jocsã foram: Sabá e Dedã.
+
+[[v13-1-33]]
+
+^<<v13-1-33,33>>^ Os filhos de Midiã foram: Efá, Éfer, Enoque, Abida e Elda. Todos estes foram filhos de Quetura.
+
+[[v13-1-34]]
+
+^<<v13-1-34,34>>^ Abraão, pois, gerou Isaque. Os filhos de Isaque foram: Esaú e Israel.
+
+[[v13-1-35]]
+
+^<<v13-1-35,35>>^ Os filhos de Esaú foram: Elifaz, Reuel, Jeús, Jalão e Coré.
+
+[[v13-1-36]]
+
+^<<v13-1-36,36>>^ Os filhos de Elifaz foram: Temã, Omar, Zefi, Gaetã, Quenaz, Timna e Amaleque.
+
+[[v13-1-37]]
+
+^<<v13-1-37,37>>^ Os filhos de Reuel foram: Naate, Zerá, Samá e Mizá.
+
+[[v13-1-38]]
+
+^<<v13-1-38,38>>^ Os filhos de Seir foram: Lotã, Sobal, Zibeão, Aná, Diso, Eser e Disã.
+
+[[v13-1-39]]
+
+^<<v13-1-39,39>>^ Os filhos de Lotã foram: Hori e Homã; e a irmã de Lotã foi Timna.
+
+[[v13-1-40]]
+
+^<<v13-1-40,40>>^ Os filhos de Sobal foram Aliã, Manaate, Ebal, Sefô e Onã. Os filhos de Zibeão foram: Aías e Aná.
+
+[[v13-1-41]]
+
+^<<v13-1-41,41>>^ O filho de Aná foi Disom. Os filhos de Disom foram: Hanrão, Esbã, Itrã e Querã.
+
+[[v13-1-42]]
+
+^<<v13-1-42,42>>^ Os filhos de Eser foram: Bilã, Zaavã e Jaacã. Os filhos de Disã foram: Uz e Arã.
+
+[[v13-1-43]]
+
+^<<v13-1-43,43>>^ Estes são os reis que reinaram na terra de Edom, antes que houvesse rei sobre os filhos de Israel: Belá, filho de Beor. E o nome da sua cidade era Dinabá.
+
+[[v13-1-44]]
+
+^<<v13-1-44,44>>^ Belá morreu e, em seu lugar, reinou Jobabe, filho de Zera, de Bozra.
+
+[[v13-1-45]]
+
+^<<v13-1-45,45>>^ Jobabe morreu e, em seu lugar, reinou Husão, da terra dos temanitas.
+
+[[v13-1-46]]
+
+^<<v13-1-46,46>>^ Husão morreu e, em seu lugar, reinou Hadade, filho de Bedade. Este derrotou Midiã no campo de Moabe. O nome da sua cidade era Avite.
+
+[[v13-1-47]]
+
+^<<v13-1-47,47>>^ Hadade morreu e, em seu lugar, reinou Samlá, de Masreca.
+
+[[v13-1-48]]
+
+^<<v13-1-48,48>>^ Samlá morreu e, em seu lugar, reinou Saul, de Reobote, junto ao Eufrates.
+
+[[v13-1-49]]
+
+^<<v13-1-49,49>>^ Saul morreu e, em seu lugar, reinou Baal-Hanã, filho de Acbor.
+
+[[v13-1-50]]
+
+^<<v13-1-50,50>>^ Baal-Hanã morreu e, em seu lugar, reinou Hadade. O nome de sua cidade era Paú, e o de sua mulher era Meetabel, filha de Matrede, filha de Me-Zaabe.
+
+[[v13-1-51]]
+
+^<<v13-1-51,51>>^ Hadade morreu. Estes são os nomes dos chefes de Edom: Timna, Alva, Jetete,
+
+[[v13-1-52]]
+
+^<<v13-1-52,52>>^ Oolibama, Elá, Pinom,
+
+[[v13-1-53]]
+
+^<<v13-1-53,53>>^ Quenaz, Temã, Mibzar,
+
+[[v13-1-54]]
+
+^<<v13-1-54,54>>^ Magdiel e Irão. Estes são os chefes de Edom.
+
+'''
+
+xref:012-2-reis/012-2-reis-025.adoc#v12-25-0[&#60; Capítulo Anterior] | <<v13-1-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-002.adoc#v13-2-0[Próximo Capítulo &#62;]

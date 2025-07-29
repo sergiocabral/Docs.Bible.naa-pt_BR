@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v23-61-0]]
+=== Isaías, 61
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-61-1]]
+
+^<<v23-61-1,1>>^ O Espírito do Senhor  Deus está sobre mim, porque o Senhor  me ungiu para pregar boas-novas aos pobres, enviou-me a curar os quebrantados de coração, a proclamar libertação aos cativos e a pôr em liberdade os algemados,
+
+[[v23-61-2]]
+
+^<<v23-61-2,2>>^ a apregoar o ano aceitável do Senhor e o dia da vingança do nosso Deus, a consolar todos os que choram
+
+[[v23-61-3]]
+
+^<<v23-61-3,3>>^ e a pôr sobre os que choram em Sião uma coroa em vez de cinzas, óleo de alegria em vez de pranto, manto de louvor em vez de espírito angustiado. Eles serão chamados carvalhos de justiça, plantados pelo Senhor para a sua glória.
+
+[[v23-61-4]]
+
+^<<v23-61-4,4>>^ Reconstruirão as antigas ruínas, restaurarão os lugares anteriormente destruídos e renovarão as cidades arruinadas, destruídas de geração em geração.
+
+[[v23-61-5]]
+
+^<<v23-61-5,5>>^ Estranhos se apresentarão e apascentarão os rebanhos de vocês; estrangeiros serão os seus lavradores e vinhateiros.
+
+[[v23-61-6]]
+
+^<<v23-61-6,6>>^ Mas vocês serão chamados sacerdotes do Senhor , e serão conhecidos como ministros do nosso Deus. Comerão as riquezas das nações e se orgulharão do que era a glória delas.
+
+[[v23-61-7]]
+
+^<<v23-61-7,7>>^ Em lugar de vergonha, vocês terão dupla honra; em lugar da afronta, exultarão na herança recebida; por isso, em sua terra possuirão o dobro e terão perpétua alegria.
+
+[[v23-61-8]]
+
+^<<v23-61-8,8>>^ "Porque eu, o Senhor , amo a justiça e odeio a iniquidade do roubo; em fidelidade lhes darei a sua recompensa e com eles farei aliança eterna.
+
+[[v23-61-9]]
+
+^<<v23-61-9,9>>^ A posteridade deles será conhecida entre as nações, os seus descendentes, no meio dos povos; todos os que os virem reconhecerão que eles são família bendita do Senhor ."
+
+[[v23-61-10]]
+
+^<<v23-61-10,10>>^ Tenho grande alegria no Senhor ! A minha alma se alegra no meu Deus, porque me cobriu de vestes de salvação e me envolveu com o manto de justiça, como noivo que se adorna de turbante, como noiva que se enfeita com as suas joias.
+
+[[v23-61-11]]
+
+^<<v23-61-11,11>>^ Porque, como a terra produz os seus renovos, e como o jardim faz brotar o que nele se semeia, assim o Senhor  Deus fará brotar a justiça e o louvor diante de todas as nações.
+
+'''
+
+xref:023-isaias/023-isaias-060.adoc#v23-60-0[&#60; Capítulo Anterior] | <<v23-61-0,Topo>> | xref:023-isaias/023-isaias-062.adoc#v23-62-0[Próximo Capítulo &#62;]

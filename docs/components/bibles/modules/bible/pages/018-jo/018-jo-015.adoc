@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v18-15-0]]
+=== Jó, 15
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v18-15-1]]
+
+^<<v18-15-1,1>>^ Então Elifaz, o temanita, tomou a palavra e disse:
+
+[[v18-15-2]]
+
+^<<v18-15-2,2>>^ "Será que um sábio daria respostas vazias? Será que encheria a si mesmo de vento leste?
+
+[[v18-15-3]]
+
+^<<v18-15-3,3>>^ Argumentaria com palavras que de nada servem e com razões das quais nada se aproveita?
+
+[[v18-15-4]]
+
+^<<v18-15-4,4>>^ Mas você destrói o temor de Deus e diminui a devoção a ele devida.
+
+[[v18-15-5]]
+
+^<<v18-15-5,5>>^ Pois o que você fala se inspira em sua iniquidade, e você adota a língua dos astutos.
+
+[[v18-15-6]]
+
+^<<v18-15-6,6>>^ A sua própria boca o condena, e não eu; os seus lábios dão testemunho contra você."
+
+[[v18-15-7]]
+
+^<<v18-15-7,7>>^ "Será que você é o primeiro homem que nasceu? Por acaso, você foi formado antes dos montes?
+
+[[v18-15-8]]
+
+^<<v18-15-8,8>>^ Será que você ouviu o conselho secreto de Deus e detém toda a sabedoria?
+
+[[v18-15-9]]
+
+^<<v18-15-9,9>>^ O que você sabe, que nós não sabemos? O que você entende, que nós não entendemos?
+
+[[v18-15-10]]
+
+^<<v18-15-10,10>>^ Também há entre nós homens idosos e de cabelos brancos, muito mais velhos do que o seu pai."
+
+[[v18-15-11]]
+
+^<<v18-15-11,11>>^ "Você faz pouco caso das consolações de Deus e das suaves palavras que dirigimos a você?
+
+[[v18-15-12]]
+
+^<<v18-15-12,12>>^ Por que você se deixa levar pelo seu coração? Por que os seus olhos flamejam,
+
+[[v18-15-13]]
+
+^<<v18-15-13,13>>^ para que você dirija contra Deus o seu furor? E por que deixa que tais palavras saiam de sua boca?"
+
+[[v18-15-14]]
+
+^<<v18-15-14,14>>^ "Que é o homem, para que seja puro? E o que nasce de mulher, para ser justo?
+
+[[v18-15-15]]
+
+^<<v18-15-15,15>>^ Eis que Deus não confia nem nos seus santos! Nem os céus são puros aos seus olhos,
+
+[[v18-15-16]]
+
+^<<v18-15-16,16>>^ quanto menos o homem, que é abominável e corrupto, que bebe a iniquidade como a água!"
+
+[[v18-15-17]]
+
+^<<v18-15-17,17>>^ "Escute o que eu vou explicar; vou contar-lhe o que eu vi,
+
+[[v18-15-18]]
+
+^<<v18-15-18,18>>^ o que os sábios anunciaram, sem ocultar nada, tendo-o recebido dos pais deles,
+
+[[v18-15-19]]
+
+^<<v18-15-19,19>>^ aos quais somente foi dada esta terra, sem que nenhum estrangeiro passasse entre eles."
+
+[[v18-15-20]]
+
+^<<v18-15-20,20>>^ "O ímpio é atormentado todos os dias, no curto número de anos que se reservam para o opressor.
+
+[[v18-15-21]]
+
+^<<v18-15-21,21>>^ O som dos horrores está nos seus ouvidos; na prosperidade lhe sobrevém o destruidor.
+
+[[v18-15-22]]
+
+^<<v18-15-22,22>>^ Não crê que possa escapar das trevas, e sim que a espada o espera.
+
+[[v18-15-23]]
+
+^<<v18-15-23,23>>^ Anda vagando, em busca de pão, dizendo: ‘Onde está?’ Bem sabe que o dia das trevas está perto.
+
+[[v18-15-24]]
+
+^<<v18-15-24,24>>^ A angústia e a tribulação o assombram; prevalecem contra ele, como o rei preparado para a batalha.
+
+[[v18-15-25]]
+
+^<<v18-15-25,25>>^ Porque ele levantou a mão contra Deus e desafiou o Todo-Poderoso;
+
+[[v18-15-26]]
+
+^<<v18-15-26,26>>^ arremete contra ele obstinadamente, protegido por um grosso escudo.
+
+[[v18-15-27]]
+
+^<<v18-15-27,27>>^ Porque cobriu o rosto com a sua gordura, que se acumulou também na cintura;
+
+[[v18-15-28]]
+
+^<<v18-15-28,28>>^ morou em cidades assoladas, em casas em que ninguém devia morar, que estavam prestes a virar ruínas.
+
+[[v18-15-29]]
+
+^<<v18-15-29,29>>^ Por isso, não ficará rico, nem subsistirá a sua riqueza; nem se estenderão os seus bens pela terra.
+
+[[v18-15-30]]
+
+^<<v18-15-30,30>>^ Não escapará das trevas; a chama do fogo secará os seus rebentos, e ao sopro da boca de Deus será arrebatado.
+
+[[v18-15-31]]
+
+^<<v18-15-31,31>>^ Que ele não confie na vaidade, enganando a si mesmo, porque a vaidade será a sua recompensa.
+
+[[v18-15-32]]
+
+^<<v18-15-32,32>>^ Esta lhe chegará antes da hora, e o seu ramo não reverdecerá.
+
+[[v18-15-33]]
+
+^<<v18-15-33,33>>^ Será como a videira que perde as uvas ainda verdes, como a oliveira que deixa cair a sua flor.
+
+[[v18-15-34]]
+
+^<<v18-15-34,34>>^ Porque a companhia dos ímpios será estéril, e o fogo consumirá as tendas do suborno.
+
+[[v18-15-35]]
+
+^<<v18-15-35,35>>^ Concebem o mal e dão à luz a iniquidade; o coração deles só prepara enganos."
+
+'''
+
+xref:018-jo/018-jo-014.adoc#v18-14-0[&#60; Capítulo Anterior] | <<v18-15-0,Topo>> | xref:018-jo/018-jo-016.adoc#v18-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v34-1-0]]
+=== Naum, 1
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v34-1-1]]
+
+^<<v34-1-1,1>>^ Sentença contra Nínive. Livro da visão de Naum, da cidade de Elcos.
+
+[[v34-1-2]]
+
+^<<v34-1-2,2>>^ O Senhor  é Deus zeloso e vingador, o Senhor  é vingador e cheio de ira; o Senhor  toma vingança contra os seus adversários e reserva indignação para os seus inimigos.
+
+[[v34-1-3]]
+
+^<<v34-1-3,3>>^ O Senhor  é tardio em irar-se, mas grande em poder e jamais inocenta o culpado. O Senhor  tem o seu caminho na tormenta e na tempestade, e as nuvens são a poeira dos seus pés.
+
+[[v34-1-4]]
+
+^<<v34-1-4,4>>^ Repreende o mar, e ele seca; faz com que todos os rios fiquem secos. Basã e o Carmelo desfalecem, e as flores do Líbano murcham.
+
+[[v34-1-5]]
+
+^<<v34-1-5,5>>^ Os montes tremem diante dele, e as colinas se derretem. A terra se levanta diante dele, sim, o mundo e todos os seus moradores.
+
+[[v34-1-6]]
+
+^<<v34-1-6,6>>^ Quem pode suportar a sua indignação? E quem subsistirá diante do furor da sua ira? A sua cólera se derrama como fogo, e as rochas são por ele demolidas.
+
+[[v34-1-7]]
+
+^<<v34-1-7,7>>^ O Senhor  é bom, é fortaleza no dia da angústia e conhece os que nele se refugiam.
+
+[[v34-1-8]]
+
+^<<v34-1-8,8>>^ Mas, com inundação transbordante, acabará de uma vez com o lugar dessa cidade; com trevas, o Senhor  perseguirá os seus inimigos.
+
+[[v34-1-9]]
+
+^<<v34-1-9,9>>^ O que é que vocês estão planejando contra o Senhor ? Ele mesmo os consumirá completamente; a angústia não se levantará duas vezes!
+
+[[v34-1-10]]
+
+^<<v34-1-10,10>>^ Porque, ainda que eles se entrelacem como os espinhos e se saturem de vinho como bêbados, serão inteiramente consumidos como palha seca.
+
+[[v34-1-11]]
+
+^<<v34-1-11,11>>^ De você, Nínive, saiu um que planeja o mal contra o Senhor , alguém que aconselha a maldade.
+
+[[v34-1-12]]
+
+^<<v34-1-12,12>>^ Assim diz o Senhor : "Por mais seguros que estejam e por mais numerosos que eles sejam, ainda assim serão exterminados e passarão. Meu povo, embora eu o tenha afligido, não o afligirei mais.
+
+[[v34-1-13]]
+
+^<<v34-1-13,13>>^ Quebrarei o jugo deles que pesa sobre você e romperei os laços que o prendem."
+
+[[v34-1-14]]
+
+^<<v34-1-14,14>>^ Porém contra você, Assíria, o Senhor  deu ordem para que não haja posteridade que leve o seu nome; do templo dos seus deuses exterminarei as imagens de escultura e de fundição. Farei a sua sepultura, porque você é desprezível.
+
+[[v34-1-15]]
+
+^<<v34-1-15,15>>^ Eis sobre os montes os pés do que anuncia boas-novas, do que anuncia a paz! Celebre as suas festas, ó Judá, cumpra os seus votos, porque o ímpio não mais passará por você; ele foi inteiramente exterminado.
+
+'''
+
+xref:033-miqueias/033-miqueias-007.adoc#v33-7-0[&#60; Capítulo Anterior] | <<v34-1-0,Topo>> | xref:034-naum/034-naum-002.adoc#v34-2-0[Próximo Capítulo &#62;]

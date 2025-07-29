@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-110-0]]
+=== Salmos, 110
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-110-1]]
+
+^<<v19-110-1,1>>^ Disse o Senhor ao meu senhor: "Sente-se à minha direita, até que eu ponha os seus inimigos por estrado dos seus pés."
+
+[[v19-110-2]]
+
+^<<v19-110-2,2>>^ O Senhor  lhe enviará de Sião o cetro do poder, dizendo: "Domine entre os seus inimigos."
+
+[[v19-110-3]]
+
+^<<v19-110-3,3>>^ O seu povo se apresentará voluntariamente, no dia em que você manifestar o seu poder; com santos ornamentos, como o orvalho do alvorecer, virão os seus jovens.
+
+[[v19-110-4]]
+
+^<<v19-110-4,4>>^ O Senhor  jurou e não voltará atrás: Você é sacerdote para sempre, segundo a ordem de Melquisedeque.
+
+[[v19-110-5]]
+
+^<<v19-110-5,5>>^ O Senhor, à sua direita, no dia em que se irar, esmagará os reis.
+
+[[v19-110-6]]
+
+^<<v19-110-6,6>>^ Ele julgará entre as nações, enchendo-as de cadáveres; esmagará cabeças por toda a terra.
+
+[[v19-110-7]]
+
+^<<v19-110-7,7>>^ No caminho, beberá água na torrente e passará de cabeça erguida.
+
+'''
+
+xref:019-salmos/019-salmos-109.adoc#v19-109-0[&#60; Capítulo Anterior] | <<v19-110-0,Topo>> | xref:019-salmos/019-salmos-111.adoc#v19-111-0[Próximo Capítulo &#62;]

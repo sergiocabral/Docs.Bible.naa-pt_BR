@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v1-13-0]]
+=== Gênesis, 13
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v1-13-1]]
+
+^<<v1-13-1,1>>^ Abrão saiu do Egito e foi para o Neguebe, ele e a sua mulher e tudo o que tinha. E Ló foi com ele.
+
+[[v1-13-2]]
+
+^<<v1-13-2,2>>^ Abrão era muito rico; possuía gado, prata e ouro.
+
+[[v1-13-3]]
+
+^<<v1-13-3,3>>^ Fez as suas jornadas do Neguebe até Betel, até o lugar onde primeiro tinha armado a sua tenda, entre Betel e Ai,
+
+[[v1-13-4]]
+
+^<<v1-13-4,4>>^ até o lugar do altar, que anteriormente tinha feito. E ali Abrão invocou o nome do Senhor .
+
+[[v1-13-5]]
+
+^<<v1-13-5,5>>^ Ló, que ia com Abrão, também tinha rebanhos, gado e tendas.
+
+[[v1-13-6]]
+
+^<<v1-13-6,6>>^ E a terra não podia sustentá-los, para que morassem juntos, porque eram muitos os seus bens, de maneira que não podiam morar um na companhia do outro.
+
+[[v1-13-7]]
+
+^<<v1-13-7,7>>^ Houve desentendimento entre os pastores do gado de Abrão e os pastores do gado de Ló. Nesse tempo os cananeus e os ferezeus habitavam essa terra.
+
+[[v1-13-8]]
+
+^<<v1-13-8,8>>^ Então Abrão disse a Ló: — Não deveria haver conflito entre mim e você e entre os meus pastores e os seus pastores, porque somos parentes chegados.
+
+[[v1-13-9]]
+
+^<<v1-13-9,9>>^ Não está toda a terra aí diante de você? Peço que você se afaste de mim. Se você for para a esquerda, irei para a direita; se você for para a direita, irei para a esquerda.
+
+[[v1-13-10]]
+
+^<<v1-13-10,10>>^ Ló ergueu os olhos e viu toda a campina do Jordão, que era toda bem-regada, como o jardim do Senhor , como a terra do Egito, até a região de Zoar. Isto foi antes de haver o Senhor  destruído Sodoma e Gomorra.
+
+[[v1-13-11]]
+
+^<<v1-13-11,11>>^ Então Ló escolheu para si toda a campina do Jordão e partiu para o Oriente. E assim separaram-se um do outro.
+
+[[v1-13-12]]
+
+^<<v1-13-12,12>>^ Abrão habitou na terra de Canaã, e Ló foi morar nas cidades da campina. E ia armando as suas tendas até Sodoma.
+
+[[v1-13-13]]
+
+^<<v1-13-13,13>>^ Ora, os moradores de Sodoma eram maus e grandes pecadores contra o Senhor .
+
+[[v1-13-14]]
+
+^<<v1-13-14,14>>^ O Senhor  disse a Abrão, depois que Ló se separou dele: — Erga os olhos e olhe de onde você está para o norte, para o sul, para o leste e para o oeste;
+
+[[v1-13-15]]
+
+^<<v1-13-15,15>>^ porque toda essa terra que você está vendo, eu a darei a você e à sua descendência, para sempre.
+
+[[v1-13-16]]
+
+^<<v1-13-16,16>>^ Farei a sua descendência como o pó da terra, de maneira que, se alguém puder contar o pó da terra, então será possível também contar os seus descendentes.
+
+[[v1-13-17]]
+
+^<<v1-13-17,17>>^ Levante-se e percorra essa terra no seu comprimento e na sua largura, porque eu a darei a você.
+
+[[v1-13-18]]
+
+^<<v1-13-18,18>>^ E Abrão, mudando as suas tendas, foi morar nos carvalhais de Manre, que estão junto a Hebrom. E ali edificou um altar ao Senhor .
+
+'''
+
+xref:001-genesis/001-genesis-012.adoc#v1-12-0[&#60; Capítulo Anterior] | <<v1-13-0,Topo>> | xref:001-genesis/001-genesis-014.adoc#v1-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Salmos, 139
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ Senhor , tu me sondas e me conheces.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ Sabes quando me sento e quando me levanto; de longe conheces os meus pensamentos.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ Observas o meu andar e o meu deitar e conheces todos os meus caminhos.
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ A palavra ainda nem chegou à minha língua, e tu, Senhor , já a conheces toda.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Tu me cercas por todos os lados e pões a tua mão sobre mim.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ Tal conhecimento é maravilhoso demais para mim: é tão elevado, que não o posso atingir.
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Para onde me ausentarei do teu Espírito? Para onde fugirei da tua face?
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ Se subo aos céus, lá estás; se faço a minha cama no mais profundo abismo, lá estás também;
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ se tomo as asas da alvorada e me detenho nos confins dos mares,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ ainda ali a tua mão me guiará, e a tua mão direita me susterá.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ Se eu digo: "As trevas, com certeza, me encobrirão, e a luz ao redor de mim se fará noite",
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ até as próprias trevas não te serão escuras, e a noite é tão clara como o dia. Para ti, as trevas e a luz são a mesma coisa.
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ Pois tu formaste o meu interior, tu me teceste no ventre de minha mãe.
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ Graças te dou, visto que de modo assombrosamente maravilhoso me formaste; as tuas obras são admiráveis, e a minha alma o sabe muito bem.
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ Os meus ossos não te foram encobertos, quando no oculto fui formado e entretecido como nas profundezas da terra.
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Os teus olhos viram a minha substância ainda informe, e no teu livro foram escritos todos os meus dias, cada um deles escrito e determinado, quando nem um deles ainda existia.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ Que preciosos para mim, ó Deus, são os teus pensamentos! E como é grande a soma deles!
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Se os contasse, seriam mais do que os grãos de areia; quando acordo, ainda estou contigo.
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ Como eu gostaria, ó Deus, que acabasses com os perversos; afastem-se, pois, de mim, homens violentos.
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Eles se rebelam contra ti e como teus inimigos falam coisas ruins.
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Acaso não odeio os que te odeiam, Senhor ? E não desprezo os que se levantam contra ti?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ Eu os detesto com ódio completo; para mim são inimigos de fato.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Sonda-me, ó Deus, e conhece o meu coração, prova-me e conhece os meus pensamentos;
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ vê se há em mim algum caminho mau e guia-me pelo caminho eterno.
+
+'''
+
+xref:019-salmos/019-salmos-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-salmos/019-salmos-140.adoc#v19-140-0[Próximo Capítulo &#62;]

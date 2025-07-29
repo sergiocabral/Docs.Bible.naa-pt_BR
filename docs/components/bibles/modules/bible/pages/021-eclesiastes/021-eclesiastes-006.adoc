@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Eclesiastes, 6
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ Há um mal que vi debaixo do sol e que pesa sobre a humanidade:
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ aquele a quem Deus conferiu riquezas, bens e honra, e nada lhe falta de tudo o que a sua alma deseja, mas Deus não lhe concede que desfrute disso; ficará para um estranho. Também isto é vaidade e grande mal.
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ Se alguém gerar cem filhos e viver muitos anos, até uma idade avançada, e se a sua alma não se fartar do bem, e além disso não tiver sepultura, digo que um aborto é mais feliz do que ele.
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ Pois o aborto vem ao mundo para nada e desaparece na calada da noite, e as trevas encobrem o seu nome.
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ Não viu o sol, nada conhece, porém tem mais descanso do que o outro,
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ ainda que aquele vivesse duas vezes mil anos, mas não desfrutasse do bem. Por acaso, não vão todos para o mesmo lugar?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ Todo trabalho do ser humano é para a sua boca; contudo, o seu apetite nunca se satisfaz.
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ Pois que vantagem tem o sábio sobre o tolo? Ou o pobre que sabe como sobreviver?
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Melhor é o que os olhos veem do que aquilo que a alma deseja. Também isto é vaidade e correr atrás do vento.
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ Tudo o que agora existe já recebeu um nome há muito tempo. E sabe-se o que é o ser humano, e que não pode enfrentar quem é mais forte do que ele.
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ Quando aumentam as palavras, aumenta a vaidade. Qual o proveito que se tem disso?
+
+[[v21-6-12]]
+
+^<<v21-6-12,12>>^ Pois quem sabe o que é bom para uma pessoa durante os poucos dias da sua vida de vaidade, os quais ela gasta como sombra? Quem poderá lhe dizer o que vai acontecer debaixo do sol depois que ela morrer?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[Próximo Capítulo &#62;]

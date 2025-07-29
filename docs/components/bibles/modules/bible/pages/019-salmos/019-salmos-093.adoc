@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-93-0]]
+=== Salmos, 93
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-93-1]]
+
+^<<v19-93-1,1>>^ Reina o Senhor . Ele se revestiu de majestade; o Senhor  se revestiu de poder e se cingiu. Firmou o mundo, que não vacila.
+
+[[v19-93-2]]
+
+^<<v19-93-2,2>>^ O teu trono está firme desde a antiguidade; tu és desde a eternidade.
+
+[[v19-93-3]]
+
+^<<v19-93-3,3>>^ Levantam os rios, ó Senhor , levantam os rios o seu bramido; levantam os rios o seu fragor.
+
+[[v19-93-4]]
+
+^<<v19-93-4,4>>^ Mas o Senhor  nas alturas é mais poderoso do que o bramido das grandes águas, do que as poderosas ondas do mar.
+
+[[v19-93-5]]
+
+^<<v19-93-5,5>>^ Os teus testemunhos são fidelíssimos; à tua casa convém a santidade, Senhor , para todo o sempre.
+
+'''
+
+xref:019-salmos/019-salmos-092.adoc#v19-92-0[&#60; Capítulo Anterior] | <<v19-93-0,Topo>> | xref:019-salmos/019-salmos-094.adoc#v19-94-0[Próximo Capítulo &#62;]

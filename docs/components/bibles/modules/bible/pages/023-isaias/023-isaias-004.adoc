@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== Isaías, 4
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ Naquele dia, sete mulheres hão de agarrar um só homem, dizendo: "Nós providenciaremos a nossa comida e as nossas roupas; apenas queremos ser chamadas pelo seu nome; livre-nos da nossa vergonha."
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ Naquele dia, o Renovo do Senhor  será de beleza e de glória; e o fruto da terra será o orgulho e a glória para os de Israel que forem salvos.
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ Os restantes de Sião e os que ficarem em Jerusalém serão chamados santos, isto é, todos os que estão inscritos em Jerusalém, para a vida.
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ Naquele tempo, o Senhor lavará a impureza das filhas de Sião e limpará Jerusalém da culpa do sangue que há no meio dela, com o Espírito de justiça e com o Espírito purificador.
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ Sobre todos os lugares do monte Sião e sobre todas as suas assembleias, o Senhor  criará uma nuvem durante o dia e fumaça e um clarão de fogo aceso durante a noite. Porque sobre toda a glória se estenderá uma proteção.
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ E haverá um tabernáculo para sombra contra o calor do dia e para refúgio e esconderijo contra a tempestade e a chuva.
+
+'''
+
+xref:023-isaias/023-isaias-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-isaias/023-isaias-005.adoc#v23-5-0[Próximo Capítulo &#62;]

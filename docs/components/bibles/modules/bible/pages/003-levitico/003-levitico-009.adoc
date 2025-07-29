@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v3-9-0]]
+=== Levítico, 9
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v3-9-1]]
+
+^<<v3-9-1,1>>^ No oitavo dia, Moisés chamou Arão e os filhos dele, e os anciãos de Israel
+
+[[v3-9-2]]
+
+^<<v3-9-2,2>>^ e disse a Arão: — Pegue um bezerro, para oferta pelo pecado, e um carneiro, para holocausto, ambos sem defeito, e apresente-os ao Senhor .
+
+[[v3-9-3]]
+
+^<<v3-9-3,3>>^ Depois, você dirá aos filhos de Israel: "Tragam um bode, para oferta pelo pecado, um bezerro e um cordeiro, ambos de um ano e sem defeito, como holocausto;
+
+[[v3-9-4]]
+
+^<<v3-9-4,4>>^ e um boi e um carneiro, por oferta pacífica, para sacrificar diante do Senhor , e oferta de cereais amassada com azeite; porque hoje o Senhor  aparecerá a vocês."
+
+[[v3-9-5]]
+
+^<<v3-9-5,5>>^ Então trouxeram o que Moisés havia ordenado, diante da tenda do encontro, e toda a congregação se aproximou e se pôs diante do Senhor .
+
+[[v3-9-6]]
+
+^<<v3-9-6,6>>^ Então Moisés disse: — Isto é o que o Senhor  ordenou que vocês fizessem, e a glória do Senhor  aparecerá a vocês.
+
+[[v3-9-7]]
+
+^<<v3-9-7,7>>^ Depois Moisés disse a Arão: — Aproxime-se do altar, faça a sua oferta pelo pecado e o seu holocausto; e faça expiação por você mesmo e pelo povo; depois, faça a oferta do povo e a expiação por ele, como o Senhor  ordenou.
+
+[[v3-9-8]]
+
+^<<v3-9-8,8>>^ Arão se aproximou do altar e matou o bezerro da oferta pelo pecado que estava oferecendo por si mesmo.
+
+[[v3-9-9]]
+
+^<<v3-9-9,9>>^ Os filhos de Arão trouxeram-lhe o sangue; ele molhou o dedo no sangue e o pôs sobre os chifres do altar; e o resto do sangue derramou na base do altar.
+
+[[v3-9-10]]
+
+^<<v3-9-10,10>>^ Mas queimou sobre o altar a gordura, os rins e a membrana do fígado da oferta pelo pecado, como o Senhor  havia ordenado a Moisés.
+
+[[v3-9-11]]
+
+^<<v3-9-11,11>>^ Porém a carne e o couro queimou fora do arraial.
+
+[[v3-9-12]]
+
+^<<v3-9-12,12>>^ Depois, Arão matou o animal para o holocausto, e os filhos de Arão lhe entregaram o sangue, e ele o aspergiu sobre o altar, ao redor.
+
+[[v3-9-13]]
+
+^<<v3-9-13,13>>^ Também lhe entregaram o holocausto nos seus pedaços, com a cabeça; e queimou-o sobre o altar.
+
+[[v3-9-14]]
+
+^<<v3-9-14,14>>^ E lavou as entranhas e as pernas e as queimou sobre o holocausto, no altar.
+
+[[v3-9-15]]
+
+^<<v3-9-15,15>>^ Depois, apresentou a oferta do povo, e, pegando o bode da oferta pelo pecado, que era pelo povo, o matou e o preparou por oferta pelo pecado, como tinha feito com o primeiro.
+
+[[v3-9-16]]
+
+^<<v3-9-16,16>>^ Também apresentou o holocausto e o ofereceu segundo o rito.
+
+[[v3-9-17]]
+
+^<<v3-9-17,17>>^ Apresentou a oferta de cereais, e dela pegou um punhado e queimou sobre o altar, além do holocausto da manhã.
+
+[[v3-9-18]]
+
+^<<v3-9-18,18>>^ Depois, Arão matou o boi e o carneiro em sacrifício pacífico, que era pelo povo; e os filhos de Arão entregaram-lhe o sangue, que aspergiu sobre o altar, ao redor.
+
+[[v3-9-19]]
+
+^<<v3-9-19,19>>^ Entregaram-lhe também a gordura do boi e do carneiro, a cauda, o que cobre as entranhas, os rins e a membrana do fígado.
+
+[[v3-9-20]]
+
+^<<v3-9-20,20>>^ E puseram a gordura sobre o peito dos animais, e ele a queimou sobre o altar;
+
+[[v3-9-21]]
+
+^<<v3-9-21,21>>^ mas o peito e a coxa direita Arão moveu por oferta movida diante do Senhor , como Moisés havia ordenado.
+
+[[v3-9-22]]
+
+^<<v3-9-22,22>>^ Depois, Arão levantou as mãos para o povo e o abençoou; então desceu do altar, havendo feito a oferta pelo pecado, o holocausto e a oferta pacífica.
+
+[[v3-9-23]]
+
+^<<v3-9-23,23>>^ Então Moisés e Arão entraram na tenda do encontro. Quando saíram, abençoaram o povo; e a glória do Senhor  apareceu a todo o povo.
+
+[[v3-9-24]]
+
+^<<v3-9-24,24>>^ E eis que, saindo fogo de diante do Senhor , consumiu o holocausto e a gordura sobre o altar. Quando todo o povo viu isso, deu gritos de alegria e se prostrou com o rosto em terra.
+
+'''
+
+xref:003-levitico/003-levitico-008.adoc#v3-8-0[&#60; Capítulo Anterior] | <<v3-9-0,Topo>> | xref:003-levitico/003-levitico-010.adoc#v3-10-0[Próximo Capítulo &#62;]

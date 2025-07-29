@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v34-2-0]]
+=== Naum, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v34-2-1]]
+
+^<<v34-2-1,1>>^ O destruidor avança contra você, Nínive! Guarde a fortaleza, vigie o caminho, prepare-se para lutar, reúna todas as suas forças!
+
+[[v34-2-2]]
+
+^<<v34-2-2,2>>^ Porque o Senhor  restaurará a glória de Jacó, como a glória de Israel; porque saqueadores os saquearam e destruíram os seus ramos.
+
+[[v34-2-3]]
+
+^<<v34-2-3,3>>^ Os escudos dos seus heróis são vermelhos; os homens valentes vestem escarlate. Os carros de guerra brilham como fogo no dia da sua preparação, e as lanças são agitadas.
+
+[[v34-2-4]]
+
+^<<v34-2-4,4>>^ Os carros de guerra passam furiosamente pelas ruas e se cruzam velozes pelas praças; parecem tochas, correm como relâmpago.
+
+[[v34-2-5]]
+
+^<<v34-2-5,5>>^ Os nobres são chamados, mas tropeçam no seu caminho; apressam-se para chegar à muralha e preparam a defesa.
+
+[[v34-2-6]]
+
+^<<v34-2-6,6>>^ As comportas dos rios se abrem, e o palácio é destruído.
+
+[[v34-2-7]]
+
+^<<v34-2-7,7>>^ Está decretado: a cidade-rainha está despida, levada em cativeiro; as suas servas gemem como pombas e batem no peito.
+
+[[v34-2-8]]
+
+^<<v34-2-8,8>>^ Nínive, desde que existe, tem sido como um tanque de águas; mas, agora, o seu povo foge. Alguém grita: "Parem! Parem!", mas ninguém se volta.
+
+[[v34-2-9]]
+
+^<<v34-2-9,9>>^ Saqueiem a prata, saqueiem o ouro, porque os tesouros não têm fim; a cidade está repleta de objetos de valor.
+
+[[v34-2-10]]
+
+^<<v34-2-10,10>>^ Vazio, desolação, ruína! O coração se derrete, os joelhos tremem, acabam-se as forças, e o rosto de todos empalidece.
+
+[[v34-2-11]]
+
+^<<v34-2-11,11>>^ Onde está, agora, o covil dos leões e o lugar onde os leõezinhos se alimentavam, onde passeavam o leão, a leoa e o filhote do leão, sem que ninguém os espantasse?
+
+[[v34-2-12]]
+
+^<<v34-2-12,12>>^ O leão arrebatava o bastante para os seus filhotes, estrangulava a presa para as suas leoas, e enchia de vítimas as suas cavernas, e os seus covis, de rapina.
+
+[[v34-2-13]]
+
+^<<v34-2-13,13>>^ "Eis que eu estou contra você", diz o Senhor  dos Exércitos; "queimarei os seus carros de guerra, a espada devorará os seus leõezinhos, arrancarei da terra a sua presa, e nunca mais se ouvirá a voz dos seus embaixadores."
+
+'''
+
+xref:034-naum/034-naum-001.adoc#v34-1-0[&#60; Capítulo Anterior] | <<v34-2-0,Topo>> | xref:034-naum/034-naum-003.adoc#v34-3-0[Próximo Capítulo &#62;]

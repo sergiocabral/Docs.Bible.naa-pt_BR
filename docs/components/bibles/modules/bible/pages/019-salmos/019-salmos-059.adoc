@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-59-0]]
+=== Salmos, 59
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-59-1]]
+
+^<<v19-59-1,1>>^ Livra-me, Deus meu, dos meus inimigos; põe-me fora do alcance dos meus adversários.
+
+[[v19-59-2]]
+
+^<<v19-59-2,2>>^ Livra-me dos que praticam a iniquidade e salva-me dos homens sanguinários.
+
+[[v19-59-3]]
+
+^<<v19-59-3,3>>^ Pois eis que armam ciladas à minha alma; contra mim se reúnem os fortes, sem que eu tenha cometido qualquer transgressão ou pecado, ó Senhor .
+
+[[v19-59-4]]
+
+^<<v19-59-4,4>>^ Sem culpa minha, eles se apressam para me atacar; desperta, vem ao meu encontro e vê.
+
+[[v19-59-5]]
+
+^<<v19-59-5,5>>^ Tu, Senhor , Deus dos Exércitos, és o Deus de Israel; desperta, pois, e castiga todas as nações; não te compadeças de nenhum dos que traiçoeiramente praticam a iniquidade.
+
+[[v19-59-6]]
+
+^<<v19-59-6,6>>^ Ao anoitecer, uivam como cães, à volta da cidade.
+
+[[v19-59-7]]
+
+^<<v19-59-7,7>>^ Proferem ameaças; em seus lábios há espadas. Pois dizem: "Quem vai ouvir?"
+
+[[v19-59-8]]
+
+^<<v19-59-8,8>>^ Mas tu, Senhor , vais rir deles; zombarás de todas as nações.
+
+[[v19-59-9]]
+
+^<<v19-59-9,9>>^ Em ti, força minha, esperarei; pois Deus é meu alto refúgio.
+
+[[v19-59-10]]
+
+^<<v19-59-10,10>>^ Meu Deus virá ao meu encontro com a sua misericórdia, Deus me fará ver a derrota dos meus inimigos.
+
+[[v19-59-11]]
+
+^<<v19-59-11,11>>^ Não os mates, para que o meu povo não se esqueça; dispersa-os pelo teu poder e abate-os, ó Senhor, escudo nosso.
+
+[[v19-59-12]]
+
+^<<v19-59-12,12>>^ Pelo pecado de sua boca, pelas palavras dos seus lábios, na sua própria soberba sejam enredados e pelas maldições e mentiras que proferem.
+
+[[v19-59-13]]
+
+^<<v19-59-13,13>>^ Consome-os com indignação, consome-os, para que deixem de existir e se saiba que Deus reina em Jacó, até os confins da terra.
+
+[[v19-59-14]]
+
+^<<v19-59-14,14>>^ Ao anoitecer, uivam como cães, à volta da cidade.
+
+[[v19-59-15]]
+
+^<<v19-59-15,15>>^ Vagueiam à procura de comida e, se não se fartam, então rosnam.
+
+[[v19-59-16]]
+
+^<<v19-59-16,16>>^ Eu, porém, cantarei a tua força; pela manhã louvarei com alegria a tua misericórdia, pois tu me tens sido alto refúgio e proteção no dia da minha angústia.
+
+[[v19-59-17]]
+
+^<<v19-59-17,17>>^ A ti, força minha, cantarei louvores, porque Deus é meu alto refúgio, é o Deus da minha misericórdia.
+
+'''
+
+xref:019-salmos/019-salmos-058.adoc#v19-58-0[&#60; Capítulo Anterior] | <<v19-59-0,Topo>> | xref:019-salmos/019-salmos-060.adoc#v19-60-0[Próximo Capítulo &#62;]

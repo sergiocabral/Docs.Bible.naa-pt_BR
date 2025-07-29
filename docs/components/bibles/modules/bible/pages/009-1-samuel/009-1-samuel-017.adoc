@@ -1,0 +1,241 @@
+include::./index.adoc[]
+
+[[v9-17-0]]
+=== 1 Samuel, 17
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v9-17-1]]
+
+^<<v9-17-1,1>>^ Os filisteus reuniram as suas tropas para a guerra em Socó, que fica em Judá. Eles acamparam entre Socó e Azeca, em Efes-Damim.
+
+[[v9-17-2]]
+
+^<<v9-17-2,2>>^ Saul e os homens de Israel se reuniram e acamparam no vale de Elá, e ali ordenaram a batalha contra os filisteus.
+
+[[v9-17-3]]
+
+^<<v9-17-3,3>>^ Os filisteus estavam num monte e os israelitas estavam no outro monte, ficando o vale no meio deles.
+
+[[v9-17-4]]
+
+^<<v9-17-4,4>>^ Então do arraial dos filisteus saiu um guerreiro chamado Golias. Ele era da cidade de Gate e tinha quase três metros de altura.
+
+[[v9-17-5]]
+
+^<<v9-17-5,5>>^ Trazia na cabeça um capacete de bronze e vestia uma couraça de escamas de bronze, que pesava uns sessenta quilos.
+
+[[v9-17-6]]
+
+^<<v9-17-6,6>>^ Trazia caneleiras de bronze nas pernas e um dardo de bronze sobre os ombros.
+
+[[v9-17-7]]
+
+^<<v9-17-7,7>>^ A haste da sua lança era como o eixo do tecelão, e a ponta da sua lança era de ferro e pesava mais de sete quilos. E diante dele ia o escudeiro.
+
+[[v9-17-8]]
+
+^<<v9-17-8,8>>^ Golias parou e gritou para as tropas de Israel: — Para que vocês saíram para formar a linha de batalha? Não sou eu filisteu, e vocês, servos de Saul? Escolham entre vocês um homem que venha lutar comigo.
+
+[[v9-17-9]]
+
+^<<v9-17-9,9>>^ Se ele puder lutar comigo e me matar, seremos servos de vocês. Mas, se eu o vencer e o matar, vocês serão nossos servos e nos servirão.
+
+[[v9-17-10]]
+
+^<<v9-17-10,10>>^ E o filisteu continuou: — Hoje eu desafio as tropas de Israel. Deem-me um homem, para que lute comigo.
+
+[[v9-17-11]]
+
+^<<v9-17-11,11>>^ Quando Saul e todo o Israel ouviram estas palavras do filisteu, ficaram assustados e com muito medo.
+
+[[v9-17-12]]
+
+^<<v9-17-12,12>>^ Davi era filho daquele efrateu de Belém de Judá cujo nome era Jessé e que tinha oito filhos. Nos dias de Saul, Jessé já era bastante idoso entre os homens.
+
+[[v9-17-13]]
+
+^<<v9-17-13,13>>^ Os três filhos mais velhos de Jessé tinham ido com Saul para a guerra. Esses três, que tinham ido para a guerra, se chamavam Eliabe, que era o primogênito; Abinadabe, que era o segundo; e Samá, que era o terceiro.
+
+[[v9-17-14]]
+
+^<<v9-17-14,14>>^ Davi era o mais moço; só os três mais velhos seguiram Saul.
+
+[[v9-17-15]]
+
+^<<v9-17-15,15>>^ Davi, porém, ia a Saul e voltava, para apascentar as ovelhas de seu pai, em Belém.
+
+[[v9-17-16]]
+
+^<<v9-17-16,16>>^ O filisteu vinha de manhã e de tarde, apresentando-se durante quarenta dias.
+
+[[v9-17-17]]
+
+^<<v9-17-17,17>>^ Jessé disse a Davi, seu filho: — Peço que você leve para os seus irmãos uma medida deste trigo tostado e estes dez pães. Corra e leve isso para os seus irmãos, no acampamento.
+
+[[v9-17-18]]
+
+^<<v9-17-18,18>>^ Porém estes dez queijos, leve-os para o comandante de mil. Veja como os seus irmãos estão passando e traga uma prova de que estão bem.
+
+[[v9-17-19]]
+
+^<<v9-17-19,19>>^ Saul, eles e todos os homens de Israel estão no vale de Elá, lutando contra os filisteus.
+
+[[v9-17-20]]
+
+^<<v9-17-20,20>>^ No dia seguinte, Davi se levantou de madrugada, deixou as ovelhas com um guarda, carregou o que havia sido preparado e partiu, como Jessé lhe havia ordenado. Chegou ao acampamento quando as tropas estavam saindo para colocar-se em ordem de combate e, aos gritos, chamavam para a batalha.
+
+[[v9-17-21]]
+
+^<<v9-17-21,21>>^ Os israelitas e filisteus se puseram em ordem, fileira contra fileira.
+
+[[v9-17-22]]
+
+^<<v9-17-22,22>>^ Davi deixou o que havia trazido aos cuidados do guarda da bagagem e correu para a batalha. Quando chegou lá, perguntou a seus irmãos se estavam bem.
+
+[[v9-17-23]]
+
+^<<v9-17-23,23>>^ Enquanto Davi ainda falava com eles, eis que vinha subindo do exército dos filisteus o guerreiro, cujo nome era Golias, o filisteu de Gate. E falou as mesmas coisas que havia falado anteriormente. E Davi escutou.
+
+[[v9-17-24]]
+
+^<<v9-17-24,24>>^ Todos os israelitas, vendo aquele homem, fugiam dele, com muito medo.
+
+[[v9-17-25]]
+
+^<<v9-17-25,25>>^ E diziam uns aos outros: — Vocês viram aquele homem? Ele veio para afrontar Israel. O rei dará muitas riquezas para quem matar aquele homem. Também lhe dará a filha em casamento, e à casa de seu pai isentará de impostos em Israel.
+
+[[v9-17-26]]
+
+^<<v9-17-26,26>>^ Então Davi perguntou aos homens que estavam perto dele: — O que será dado ao homem que matar esse filisteu e livrar Israel de tal afronta? Quem é esse filisteu incircunciso para afrontar os exércitos do Deus vivo?
+
+[[v9-17-27]]
+
+^<<v9-17-27,27>>^ E o povo lhe repetiu as mesmas palavras, dizendo: — É isso que será dado ao homem que o matar.
+
+[[v9-17-28]]
+
+^<<v9-17-28,28>>^ Eliabe, o irmão mais velho, ouviu Davi falando com aqueles homens. Ele ficou irado com Davi e disse: — Por que você veio para cá? E com quem você deixou aquelas poucas ovelhas no deserto? Sei que você é presunçoso e mau. Você veio aqui só para ver a batalha.
+
+[[v9-17-29]]
+
+^<<v9-17-29,29>>^ Davi respondeu: — O que foi que eu fiz agora? Apenas fiz uma pergunta.
+
+[[v9-17-30]]
+
+^<<v9-17-30,30>>^ Então Davi se desviou dele na direção de outro e fez a mesma pergunta. E o povo lhe deu a mesma resposta de antes.
+
+[[v9-17-31]]
+
+^<<v9-17-31,31>>^ Alguns homens que tinham ouvido as palavras de Davi foram anunciá-las a Saul, que mandou chamar Davi.
+
+[[v9-17-32]]
+
+^<<v9-17-32,32>>^ Davi disse a Saul: — Que ninguém desanime por causa dele. Este seu servo irá e lutará contra esse filisteu.
+
+[[v9-17-33]]
+
+^<<v9-17-33,33>>^ Porém Saul disse a Davi: — Você não poderá ir contra esse filisteu para lutar contra ele. Você ainda é jovem, e ele é guerreiro desde a sua mocidade.
+
+[[v9-17-34]]
+
+^<<v9-17-34,34>>^ Davi respondeu: — Este seu servo apascentava as ovelhas do pai. Quando vinha um leão ou um urso e levava um cordeiro do rebanho,
+
+[[v9-17-35]]
+
+^<<v9-17-35,35>>^ eu saía atrás dele, batia nele e livrava o cordeiro da sua boca. Se ele se levantava contra mim, eu o agarrava pela barba e o golpeava até matá-lo.
+
+[[v9-17-36]]
+
+^<<v9-17-36,36>>^ Este seu servo matou tanto o leão como o urso. Este filisteu incircunciso será como um deles, porque afrontou os exércitos do Deus vivo.
+
+[[v9-17-37]]
+
+^<<v9-17-37,37>>^ E Davi continuou: — O Senhor  me livrou das garras do leão e das garras do urso; ele me livrará das mãos desse filisteu. Então Saul disse a Davi: — Vá, e que o Senhor  esteja com você.
+
+[[v9-17-38]]
+
+^<<v9-17-38,38>>^ Saul vestiu Davi com a sua própria armadura, pôs um capacete de bronze na cabeça dele, e o vestiu com uma couraça.
+
+[[v9-17-39]]
+
+^<<v9-17-39,39>>^ Davi cingiu a espada sobre a armadura e tentou andar, pois jamais a havia usado. Então Davi disse a Saul: — Não posso andar com isto, porque nunca o usei. E Davi tirou aquilo de sobre si.
+
+[[v9-17-40]]
+
+^<<v9-17-40,40>>^ Pegou o seu cajado na mão, escolheu cinco pedras lisas do ribeiro, e as pôs no alforje de pastor, que trazia consigo. E, com a sua funda na mão, foi na direção do filisteu.
+
+[[v9-17-41]]
+
+^<<v9-17-41,41>>^ O filisteu também vinha caminhando e se aproximava de Davi, tendo à frente dele o seu escudeiro.
+
+[[v9-17-42]]
+
+^<<v9-17-42,42>>^ O filisteu olhou e, vendo Davi, o desprezou, porque era apenas um moço ruivo e de boa aparência.
+
+[[v9-17-43]]
+
+^<<v9-17-43,43>>^ O filisteu disse a Davi: — Será que eu sou um cachorro, para que você venha contra mim com pedaços de pau? E, pelos seus deuses, o filisteu amaldiçoou Davi.
+
+[[v9-17-44]]
+
+^<<v9-17-44,44>>^ E disse mais a Davi: — Venha aqui, que eu darei a sua carne às aves dos céus e aos animais do campo.
+
+[[v9-17-45]]
+
+^<<v9-17-45,45>>^ Davi, porém, disse ao filisteu: — Você vem contra mim com espada, com lança e com escudo. Eu, porém, vou contra você em nome do Senhor  dos Exércitos, o Deus dos exércitos de Israel, a quem você afrontou.
+
+[[v9-17-46]]
+
+^<<v9-17-46,46>>^ Hoje mesmo o Senhor  entregará você nas minhas mãos. Eu o matarei, cortarei a sua cabeça e hoje mesmo darei os cadáveres do arraial dos filisteus às aves dos céus e às feras da terra. E toda a terra saberá que há Deus em Israel.
+
+[[v9-17-47]]
+
+^<<v9-17-47,47>>^ Toda esta multidão saberá que o Senhor  salva, não com espada, nem com lança. Porque do Senhor  é a guerra, e ele entregará todos vocês nas nossas mãos.
+
+[[v9-17-48]]
+
+^<<v9-17-48,48>>^ E aconteceu que, quando o filisteu se levantou e começou a se aproximar de Davi, este se apressou e, deixando as suas fileiras, correu de encontro ao filisteu.
+
+[[v9-17-49]]
+
+^<<v9-17-49,49>>^ Davi meteu a mão no alforje, tirou dali uma pedra e, com a sua funda, a atirou contra o filisteu, atingindo-o na testa. A pedra se encravou na testa, e ele caiu com o rosto no chão.
+
+[[v9-17-50]]
+
+^<<v9-17-50,50>>^ Assim Davi derrotou o filisteu, com uma funda e com uma pedra. Ele o derrubou e o matou. Não havia nenhuma espada na mão de Davi.
+
+[[v9-17-51]]
+
+^<<v9-17-51,51>>^ Por isso, Davi correu e, lançando-se sobre o filisteu, pegou a espada dele, tirou-a da bainha e o matou, cortando com ela a cabeça dele. Quando os filisteus viram que o seu herói estava morto, fugiram.
+
+[[v9-17-52]]
+
+^<<v9-17-52,52>>^ Então os homens de Israel e Judá se levantaram, deram um grito e perseguiram os filisteus até Gate e até os portões de Ecrom. E os filisteus caíram feridos pelo caminho, de Saaraim até Gate e até Ecrom.
+
+[[v9-17-53]]
+
+^<<v9-17-53,53>>^ Então os filhos de Israel voltaram da perseguição aos filisteus e saquearam os acampamentos deles.
+
+[[v9-17-54]]
+
+^<<v9-17-54,54>>^ Davi pegou a cabeça do filisteu e a levou para Jerusalém. Porém as armas dele Davi colocou em sua própria tenda.
+
+[[v9-17-55]]
+
+^<<v9-17-55,55>>^ Quando Saul viu Davi saindo para encontrar-se com o filisteu, perguntou a Abner, o comandante do exército: — Abner, aquele jovem é filho de quem? Abner respondeu: — Juro pela sua vida, ó rei, que não sei.
+
+[[v9-17-56]]
+
+^<<v9-17-56,56>>^ E o rei disse: — Então pergunte de quem esse jovem é filho.
+
+[[v9-17-57]]
+
+^<<v9-17-57,57>>^ Quando Davi voltou, depois de matar o filisteu, Abner o tomou e o levou à presença de Saul. Davi ainda trazia na mão a cabeça do filisteu.
+
+[[v9-17-58]]
+
+^<<v9-17-58,58>>^ Então Saul lhe perguntou: — Meu jovem, de quem você é filho? Davi respondeu: — Sou filho de seu servo Jessé, o belemita.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-016.adoc#v9-16-0[&#60; Capítulo Anterior] | <<v9-17-0,Topo>> | xref:009-1-samuel/009-1-samuel-018.adoc#v9-18-0[Próximo Capítulo &#62;]

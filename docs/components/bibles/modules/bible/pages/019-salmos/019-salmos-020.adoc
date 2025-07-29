@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-20-0]]
+=== Salmos, 20
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-20-1]]
+
+^<<v19-20-1,1>>^ Que o Senhor  lhe responda no dia da tribulação; que o nome do Deus de Jacó o proteja!
+
+[[v19-20-2]]
+
+^<<v19-20-2,2>>^ Que do seu santuário lhe envie socorro e que desde Sião o sustenha.
+
+[[v19-20-3]]
+
+^<<v19-20-3,3>>^ Que ele se lembre de todas as suas ofertas de cereais e aceite os holocaustos que você ofereceu.
+
+[[v19-20-4]]
+
+^<<v19-20-4,4>>^ Que Deus lhe conceda o que o seu coração almeja e realize tudo o que você planejou.
+
+[[v19-20-5]]
+
+^<<v19-20-5,5>>^ Celebraremos com júbilo a sua vitória e em nome do nosso Deus hastearemos pendões. Que o Senhor  satisfaça todos os seus desejos.
+
+[[v19-20-6]]
+
+^<<v19-20-6,6>>^ Agora sei que o Senhor salva o seu ungido; ele lhe responderá do seu santo céu com a vitoriosa força da sua mão direita.
+
+[[v19-20-7]]
+
+^<<v19-20-7,7>>^ Uns confiam em carros de guerra, e outros, em seus cavalos; nós, porém, invocaremos o nome do Senhor , nosso Deus.
+
+[[v19-20-8]]
+
+^<<v19-20-8,8>>^ Eles se prostram e caem; nós, porém, nos levantamos e nos mantemos em pé.
+
+[[v19-20-9]]
+
+^<<v19-20-9,9>>^ Ó Senhor , dá vitória ao rei; responde-nos quando clamarmos.
+
+'''
+
+xref:019-salmos/019-salmos-019.adoc#v19-19-0[&#60; Capítulo Anterior] | <<v19-20-0,Topo>> | xref:019-salmos/019-salmos-021.adoc#v19-21-0[Próximo Capítulo &#62;]

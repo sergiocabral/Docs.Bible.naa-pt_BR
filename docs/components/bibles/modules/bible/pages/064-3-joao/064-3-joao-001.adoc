@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v64-1-0]]
+=== 3 João, 1
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v64-1-1]]
+
+^<<v64-1-1,1>>^ O presbítero ao amado Gaio, a quem eu amo na verdade.
+
+[[v64-1-2]]
+
+^<<v64-1-2,2>>^ Amado, peço a Deus que tudo corra bem com você e que esteja com boa saúde, assim como vai bem a sua alma.
+
+[[v64-1-3]]
+
+^<<v64-1-3,3>>^ Pois fiquei muito alegre quando os irmãos vieram e deram testemunho de que você é fiel à verdade e vive de acordo com a verdade.
+
+[[v64-1-4]]
+
+^<<v64-1-4,4>>^ Não tenho maior alegria do que esta, a de ouvir que os meus filhos vivem de acordo com a verdade.
+
+[[v64-1-5]]
+
+^<<v64-1-5,5>>^ Amado, você tem sido fiel no que faz pelos irmãos, mesmo quando são estrangeiros.
+
+[[v64-1-6]]
+
+^<<v64-1-6,6>>^ Estes deram testemunho, diante da igreja, do amor que você tem. Você fará bem encaminhando-os em sua jornada de um modo que agrada a Deus.
+
+[[v64-1-7]]
+
+^<<v64-1-7,7>>^ Pois foi por causa do Nome que eles saíram, sem receber nada dos gentios.
+
+[[v64-1-8]]
+
+^<<v64-1-8,8>>^ Portanto, devemos acolher esses irmãos, para que nos tornemos cooperadores com eles na proclamação da verdade.
+
+[[v64-1-9]]
+
+^<<v64-1-9,9>>^ Escrevi algumas palavras à igreja, mas Diótrefes, que gosta de exercer a primazia entre eles, não nos dá acolhida.
+
+[[v64-1-10]]
+
+^<<v64-1-10,10>>^ Por isso, quando eu for aí, farei com que se lembre das obras que ele pratica, proferindo contra nós palavras caluniosas. E, não satisfeito com isso, ele não recebe os irmãos, impede os que querem recebê-los e os expulsa da igreja.
+
+[[v64-1-11]]
+
+^<<v64-1-11,11>>^ Amado, não imite o que é mau, e sim o que é bom. Quem pratica o bem procede de Deus; quem pratica o mal jamais viu a Deus.
+
+[[v64-1-12]]
+
+^<<v64-1-12,12>>^ Quanto a Demétrio, todos dão bom testemunho dele, até a própria verdade. E nós também damos testemunho, e você sabe que o nosso testemunho é verdadeiro.
+
+[[v64-1-13]]
+
+^<<v64-1-13,13>>^ Muitas coisas tinha para lhe escrever, mas não quis fazê-lo com tinta e pena,
+
+[[v64-1-14]]
+
+^<<v64-1-14,14>>^ pois espero vê-lo em breve. Então conversaremos pessoalmente.
+
+[[v64-1-15]]
+
+^<<v64-1-15,15>>^ A paz esteja com você. Os amigos mandam saudações. Dê saudações aos amigos, um por um.
+
+'''
+
+xref:063-2-joao/063-2-joao-001.adoc#v63-1-0[&#60; Capítulo Anterior] | <<v64-1-0,Topo>> | xref:065-judas/065-judas-001.adoc#v65-1-0[Próximo Capítulo &#62;]

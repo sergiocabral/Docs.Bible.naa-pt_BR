@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-55-0]]
+=== Isaías, 55
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-55-1]]
+
+^<<v23-55-1,1>>^ "Ah! Todos vocês que têm sede, venham às águas; e vocês que não têm dinheiro, venham, comprem e comam! Sim, venham e comprem, sem dinheiro e sem preço, vinho e leite.
+
+[[v23-55-2]]
+
+^<<v23-55-2,2>>^ Por que vocês gastam o dinheiro naquilo que não é pão, e o seu suor, naquilo que não satisfaz? Ouçam com atenção o que eu digo, comam o que é bom e vocês irão saborear comidas deliciosas.
+
+[[v23-55-3]]
+
+^<<v23-55-3,3>>^ Deem ouvidos e venham a mim; escutem, e vocês viverão. Porque farei uma aliança eterna com vocês, que consiste nas fiéis misericórdias prometidas a Davi.
+
+[[v23-55-4]]
+
+^<<v23-55-4,4>>^ Eis que eu fiz dele uma testemunha aos povos, um príncipe e governador dos povos.
+
+[[v23-55-5]]
+
+^<<v23-55-5,5>>^ Eis que você chamará uma nação que você não conhece, e uma nação que nunca o conheceu virá correndo para junto de você, por causa do Senhor , seu Deus, e do Santo de Israel, porque este o glorificou."
+
+[[v23-55-6]]
+
+^<<v23-55-6,6>>^ Busquem o Senhor enquanto ele pode ser encontrado; invoquem-no enquanto ele está perto.
+
+[[v23-55-7]]
+
+^<<v23-55-7,7>>^ Que o ímpio abandone o seu mau caminho, e o homem mau, os seus pensamentos; converta-se ao Senhor , que se compadecerá dele, e volte-se para o nosso Deus, porque é rico em perdoar.
+
+[[v23-55-8]]
+
+^<<v23-55-8,8>>^ "Porque os meus pensamentos não são os pensamentos de vocês, e os caminhos de vocês não são os meus caminhos", diz o Senhor .
+
+[[v23-55-9]]
+
+^<<v23-55-9,9>>^ "Porque, assim como os céus são mais altos do que a terra, assim os meus caminhos são mais altos do que os seus caminhos, e os meus pensamentos são mais altos do que os pensamentos de vocês.
+
+[[v23-55-10]]
+
+^<<v23-55-10,10>>^ Porque, assim como a chuva e a neve descem dos céus e para lá não voltam, sem que primeiro reguem a terra, e a fecundem, e a façam brotar, para dar semente ao semeador e pão ao que come,
+
+[[v23-55-11]]
+
+^<<v23-55-11,11>>^ assim será a palavra que sair da minha boca: não voltará para mim vazia, mas fará o que me apraz e prosperará naquilo para que a designei."
+
+[[v23-55-12]]
+
+^<<v23-55-12,12>>^ "Vocês sairão com alegria e em paz serão guiados; os montes e as colinas romperão em cânticos diante de vocês, e todas as árvores do campo baterão palmas.
+
+[[v23-55-13]]
+
+^<<v23-55-13,13>>^ Em lugar do espinheiro, crescerá o cipreste, e em lugar da sarça crescerá a murta. E isso será glória para o Senhor e sinal eterno, que nunca se apagará."
+
+'''
+
+xref:023-isaias/023-isaias-054.adoc#v23-54-0[&#60; Capítulo Anterior] | <<v23-55-0,Topo>> | xref:023-isaias/023-isaias-056.adoc#v23-56-0[Próximo Capítulo &#62;]

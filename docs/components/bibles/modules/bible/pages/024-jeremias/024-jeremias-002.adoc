@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v24-2-0]]
+=== Jeremias, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v24-2-1]]
+
+^<<v24-2-1,1>>^ A palavra do Senhor  veio a mim, dizendo:
+
+[[v24-2-2]]
+
+^<<v24-2-2,2>>^ — Vá e proclame diante do povo de Jerusalém: Assim diz o Senhor : "Lembro-me de você, meu povo, da sua afeição quando era jovem, do seu amor quando noiva e de como você me seguia no deserto, numa terra que não é semeada.
+
+[[v24-2-3]]
+
+^<<v24-2-3,3>>^ Israel era consagrado ao Senhor e era as primícias da sua colheita; todos os que o devoraram se faziam culpados; o mal vinha sobre eles", diz o Senhor .
+
+[[v24-2-4]]
+
+^<<v24-2-4,4>>^ Escutem a palavra do Senhor , ó casa de Jacó e todas as famílias da casa de Israel.
+
+[[v24-2-5]]
+
+^<<v24-2-5,5>>^ Assim diz o Senhor : "Que injustiça os pais de vocês acharam em mim, para que se afastassem de mim, seguindo os ídolos sem valor e se tornando eles mesmos sem valor?
+
+[[v24-2-6]]
+
+^<<v24-2-6,6>>^ Eles não perguntaram: ‘Onde está o Senhor , que nos tirou da terra do Egito e nos guiou pelo deserto, por uma terra árida e cheia de covas, por uma terra de sequidão e sombras de morte, por uma terra em que ninguém passava e na qual não morava ninguém?’
+
+[[v24-2-7]]
+
+^<<v24-2-7,7>>^ Eu os trouxe para uma terra fértil, para que vocês comessem o seu fruto e as coisas boas que ela tem. Mas, depois de entrar, vocês contaminaram a minha terra e fizeram da minha herança uma abominação.
+
+[[v24-2-8]]
+
+^<<v24-2-8,8>>^ Os sacerdotes não perguntaram: ‘Onde está o Senhor ?’ E os que tratavam da lei não me conheceram, os pastores se revoltaram contra mim, os profetas profetizaram por Baal e andaram atrás de coisas que não têm proveito algum."
+
+[[v24-2-9]]
+
+^<<v24-2-9,9>>^ "Portanto, ainda entrarei em litígio com vocês", diz o Senhor , "e até com os filhos dos filhos de vocês entrarei em litígio.
+
+[[v24-2-10]]
+
+^<<v24-2-10,10>>^ Vão até as terras do mar de Chipre e vejam; mandem mensageiros a Quedar e observem com atenção. Vejam se já aconteceu coisa semelhante.
+
+[[v24-2-11]]
+
+^<<v24-2-11,11>>^ Houve alguma nação que trocasse os seus deuses, mesmo que não fossem deuses de verdade? Mas o meu povo trocou a sua Glória por aquilo que não tem proveito algum.
+
+[[v24-2-12]]
+
+^<<v24-2-12,12>>^ Fiquem espantados com isto, ó céus! Fiquem horrorizados e cheios de espanto", diz o Senhor .
+
+[[v24-2-13]]
+
+^<<v24-2-13,13>>^ "Porque o meu povo cometeu dois males: abandonaram a mim, a fonte de água viva, e cavaram cisternas, cisternas rachadas, que não retêm as águas."
+
+[[v24-2-14]]
+
+^<<v24-2-14,14>>^ "Por acaso Israel é escravo ou servo nascido em casa? Por que, então, veio a ser presa de outros?
+
+[[v24-2-15]]
+
+^<<v24-2-15,15>>^ Os leões novos rugiram contra ele e levantaram a sua voz. Fizeram da terra de Israel uma desolação; as suas cidades estão queimadas, e não há quem nelas habite.
+
+[[v24-2-16]]
+
+^<<v24-2-16,16>>^ Até os moradores de Mênfis e de Tafnes raparam o alto da cabeça de Israel.
+
+[[v24-2-17]]
+
+^<<v24-2-17,17>>^ Por acaso isso não aconteceu com você porque você abandonou o Senhor , seu Deus, quando ele o guiava pelo caminho?
+
+[[v24-2-18]]
+
+^<<v24-2-18,18>>^ E, agora, que lucro você terá indo ao Egito para beber as águas do Nilo? Ou indo à Assíria para beber as águas do Eufrates?
+
+[[v24-2-19]]
+
+^<<v24-2-19,19>>^ A sua própria maldade o castigará, e as suas infidelidades o repreenderão. Saiba, pois, e veja como é mau e quão amargo é deixar o Senhor , seu Deus, e não ter temor de mim", diz o Senhor, o Senhor  dos Exércitos.
+
+[[v24-2-20]]
+
+^<<v24-2-20,20>>^ "Porque há muito tempo quebrei o seu jugo e rompi as ataduras que o prendiam, mas você disse: ‘Não quero te servir.’ Pois, em todos os montes altos e debaixo de todas as árvores frondosas, você se deitava e se prostituía.
+
+[[v24-2-21]]
+
+^<<v24-2-21,21>>^ Eu mesmo a plantei como videira excelente, da semente mais pura. Como, então, você se tornou uma planta degenerada, como de videira brava?
+
+[[v24-2-22]]
+
+^<<v24-2-22,22>>^ Mesmo que você se lave com salitre e use muito sabão, a mancha da sua iniquidade continua diante de mim", diz o Senhor  Deus.
+
+[[v24-2-23]]
+
+^<<v24-2-23,23>>^ "Como é que você pode dizer: ‘Não estou manchada, nem fui atrás dos baalins’? Veja os seus rastros no vale e reconheça o que você fez! Você é como uma jovem camela de pés ligeiros, que anda ziguezagueando pelo caminho.
+
+[[v24-2-24]]
+
+^<<v24-2-24,24>>^ Você é como uma jumenta selvagem, acostumada ao deserto e que, no ardor do cio, fareja o vento. Quem a impediria de satisfazer o seu desejo? Os que a procuram não têm de fatigar-se; no mês dela a acharão.
+
+[[v24-2-25]]
+
+^<<v24-2-25,25>>^ Evite andar por aí com pés descalços e não deixe a sua garganta com sede. Mas você diz: ‘Não! É inútil! Porque amo os estranhos e é atrás deles que eu vou.’"
+
+[[v24-2-26]]
+
+^<<v24-2-26,26>>^ "Como um ladrão se envergonha quando o apanham, assim ficarão envergonhados os da casa de Israel: eles, os seus reis, os seus príncipes, os seus sacerdotes e os seus profetas.
+
+[[v24-2-27]]
+
+^<<v24-2-27,27>>^ Eles dizem a um pedaço de madeira: ‘Você é o meu pai’, e à pedra: ‘Você me deu à luz’. Pois me viraram as costas e não o rosto; mas, na hora da angústia, dizem: ‘Levanta-te e salva-nos!’
+
+[[v24-2-28]]
+
+^<<v24-2-28,28>>^ Onde estão os deuses que vocês fizeram para vocês mesmos? Eles que se levantem, se é que podem salvá-los na hora da calamidade! Porque os seus deuses, ó Judá, são tantos quantas as suas cidades."
+
+[[v24-2-29]]
+
+^<<v24-2-29,29>>^ "Por que vocês querem discutir comigo? Todos vocês transgrediram contra mim", diz o Senhor .
+
+[[v24-2-30]]
+
+^<<v24-2-30,30>>^ "Em vão castiguei os filhos de vocês; eles não aceitaram a minha disciplina. Como leão destruidor, a espada que está na mão de vocês devorou os seus profetas.
+
+[[v24-2-31]]
+
+^<<v24-2-31,31>>^ Vocês, desta geração, considerem a palavra do Senhor . Será que eu tenho sido um deserto para Israel? Ou uma terra da mais espessa escuridão? Por que, então, o meu povo diz: ‘Somos livres para fazer o que quisermos! Jamais voltaremos para ti’?
+
+[[v24-2-32]]
+
+^<<v24-2-32,32>>^ Por acaso, uma virgem se esquece dos seus enfeites? Ou uma noiva se esquece do seu véu? Mas o meu povo se esqueceu de mim por dias sem fim."
+
+[[v24-2-33]]
+
+^<<v24-2-33,33>>^ "Como você sabe dispor bem os seus caminhos, para buscar o amor! Pois você poderia ensinar até as mulheres perdidas.
+
+[[v24-2-34]]
+
+^<<v24-2-34,34>>^ Nas bordas das suas roupas se achou também o sangue de pobres e inocentes, que não foram surpreendidos no ato de roubar. Apesar de todas estas coisas,
+
+[[v24-2-35]]
+
+^<<v24-2-35,35>>^ você ainda diz: ‘Estou inocente. Certamente a sua ira se desviou de mim.’ Eis que entrarei em juízo contra você, porque você diz: ‘Não pequei.’
+
+[[v24-2-36]]
+
+^<<v24-2-36,36>>^ Por que você é tão leviana e fica sempre mudando de rumo? Também pelo Egito você será envergonhada, assim como foi envergonhada pela Assíria.
+
+[[v24-2-37]]
+
+^<<v24-2-37,37>>^ Também do Egito você sairá com as mãos sobre a cabeça. Porque o Senhor  rejeitou aqueles em quem você confia, e você não será bem-sucedida com a ajuda deles."
+
+'''
+
+xref:024-jeremias/024-jeremias-001.adoc#v24-1-0[&#60; Capítulo Anterior] | <<v24-2-0,Topo>> | xref:024-jeremias/024-jeremias-003.adoc#v24-3-0[Próximo Capítulo &#62;]

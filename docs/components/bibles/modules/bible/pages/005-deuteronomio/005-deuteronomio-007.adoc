@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v5-7-0]]
+=== Deuteronômio, 7
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-7-1]]
+
+^<<v5-7-1,1>>^ — Quando o Senhor , seu Deus, os levar para a terra que vocês vão possuir, e tiver expulsado muitas nações de diante de vocês: os heteus, os girgaseus, os amorreus, os cananeus, os ferezeus, os heveus e os jebuseus — sete nações mais numerosas e mais poderosas do que vocês;
+
+[[v5-7-2]]
+
+^<<v5-7-2,2>>^ e, quando o Senhor , seu Deus, as tiver entregue nas mãos de vocês, para que as ataquem, vocês devem destruí-las totalmente. Não façam aliança com essas nações, nem tenham piedade delas.
+
+[[v5-7-3]]
+
+^<<v5-7-3,3>>^ Não casem com pessoas dessas nações; não deem as suas filhas aos filhos dessa gente, nem tomem as filhas deles para os filhos de vocês,
+
+[[v5-7-4]]
+
+^<<v5-7-4,4>>^ pois elas levariam os filhos de vocês a se desviar de mim, para que servissem outros deuses. Assim, a ira do Senhor  se acenderia contra vocês e depressa ele os destruiria.
+
+[[v5-7-5]]
+
+^<<v5-7-5,5>>^ Mas o que vocês devem fazer é derrubar os altares dessas nações, quebrar as suas colunas sagradas, cortar os postes da deusa Aserá e queimar as suas imagens de escultura.
+
+[[v5-7-6]]
+
+^<<v5-7-6,6>>^ — Porque vocês são povo santo para o Senhor , seu Deus. O Senhor , seu Deus, os escolheu, para que, de todos os povos que há sobre a terra, vocês fossem o seu povo próprio.
+
+[[v5-7-7]]
+
+^<<v5-7-7,7>>^ O Senhor  os amou e os escolheu, não porque vocês eram mais numerosos do que outros povos, pois vocês eram o menor de todos os povos.
+
+[[v5-7-8]]
+
+^<<v5-7-8,8>>^ Mas porque o Senhor  os amava e, para cumprir o juramento que tinha feito aos pais de vocês, o Senhor  os tirou com mão poderosa e os resgatou da casa da servidão, do poder de Faraó, rei do Egito.
+
+[[v5-7-9]]
+
+^<<v5-7-9,9>>^ Portanto, saibam que o Senhor , seu Deus, é Deus; ele é o Deus fiel, que guarda a aliança e a misericórdia até mil gerações aos que o amam e cumprem os seus mandamentos.
+
+[[v5-7-10]]
+
+^<<v5-7-10,10>>^ Porém ele retribui diretamente aos que o odeiam, fazendo-os perecer. Ele não demora em castigar aqueles que o odeiam; prontamente lhes retribuirá.
+
+[[v5-7-11]]
+
+^<<v5-7-11,11>>^ Portanto, guardem os mandamentos, os estatutos e os juízos que hoje lhes mando cumprir.
+
+[[v5-7-12]]
+
+^<<v5-7-12,12>>^ — Portanto, se vocês derem ouvidos a estes juízos, e os guardarem e cumprirem, o Senhor , seu Deus, guardará a aliança e a misericórdia prometida sob juramento aos seus pais.
+
+[[v5-7-13]]
+
+^<<v5-7-13,13>>^ Ele os amará, os abençoará e fará com que vocês se multipliquem. Também abençoará os filhos de vocês, o fruto da terra, o cereal, o vinho, o azeite e as crias das vacas e das ovelhas, na terra que prometeu dar a vocês, conforme o juramento que fez aos seus pais.
+
+[[v5-7-14]]
+
+^<<v5-7-14,14>>^ Vocês serão mais abençoados do que todos os povos. Não haverá no meio de vocês nenhum homem ou mulher que seja estéril, nem entre os seus animais.
+
+[[v5-7-15]]
+
+^<<v5-7-15,15>>^ O Senhor  afastará de vocês toda enfermidade; não porá sobre vocês nenhuma das terríveis doenças dos egípcios, que vocês conheceram tão bem; pelo contrário, ele as porá sobre todos os que os odeiam.
+
+[[v5-7-16]]
+
+^<<v5-7-16,16>>^ Vocês devem destruir todos os povos que o Senhor , seu Deus, entregar nas mãos de vocês. Não tenham piedade deles, nem adorem os seus deuses, pois isso seria uma armadilha para vocês.
+
+[[v5-7-17]]
+
+^<<v5-7-17,17>>^ — Não fiquem pensando: "Estas nações são mais numerosas do que nós; como poderemos expulsá-las de lá?"
+
+[[v5-7-18]]
+
+^<<v5-7-18,18>>^ Não tenham medo delas; lembrem-se do que o Senhor , seu Deus, fez a Faraó e a todo o Egito.
+
+[[v5-7-19]]
+
+^<<v5-7-19,19>>^ Lembrem-se das grandes provas que vocês viram com os seus próprios olhos, dos sinais, das maravilhas, da mão poderosa e do braço estendido, com que o Senhor , seu Deus, os tirou do Egito; assim o Senhor , seu Deus, fará com todos os povos, dos quais vocês estão com medo.
+
+[[v5-7-20]]
+
+^<<v5-7-20,20>>^ Além disso, o Senhor , seu Deus, mandará vespões para o meio deles, até que pereçam os que ficarem e se esconderem de vocês.
+
+[[v5-7-21]]
+
+^<<v5-7-21,21>>^ — Não fiquem apavorados diante deles, porque o Senhor , seu Deus, está no meio de vocês, Deus grande e temível.
+
+[[v5-7-22]]
+
+^<<v5-7-22,22>>^ O Senhor , seu Deus, expulsará estas nações, pouco a pouco, de diante de vocês. Vocês não poderão destruí-las todas de uma só vez, para que as feras do campo não se multipliquem contra vocês.
+
+[[v5-7-23]]
+
+^<<v5-7-23,23>>^ Mas o Senhor , seu Deus, as entregará nas mãos de vocês e causará grande confusão entre elas, até que sejam destruídas.
+
+[[v5-7-24]]
+
+^<<v5-7-24,24>>^ Entregará também nas mãos de vocês os reis dessas nações, para que vocês apaguem o nome deles da face da terra; ninguém poderá resistir a vocês, até que os destruam.
+
+[[v5-7-25]]
+
+^<<v5-7-25,25>>^ Queimem as imagens de escultura dos deuses desses povos. Não cobicem a prata e o ouro que estão sobre essas imagens, nem fiquem com isso para vocês, para que não sejam uma armadilha para vocês; pois são abominação ao Senhor , seu Deus.
+
+[[v5-7-26]]
+
+^<<v5-7-26,26>>^ Não levem nenhuma coisa abominável para casa, para que vocês não sejam amaldiçoados juntamente com ela; pelo contrário, devem, de todo, detestar e abominar essa coisa, pois é amaldiçoada.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[&#60; Capítulo Anterior] | <<v5-7-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[Próximo Capítulo &#62;]

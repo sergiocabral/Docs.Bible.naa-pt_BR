@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v5-23-0]]
+=== Deuteronômio, 23
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-23-1]]
+
+^<<v5-23-1,1>>^ — Aquele a quem forem esmagados os testículos ou cortado o membro viril não entrará na assembleia do Senhor .
+
+[[v5-23-2]]
+
+^<<v5-23-2,2>>^ — Nenhum bastardo entrará na assembleia do Senhor ; nem ainda a sua décima geração entrará nela.
+
+[[v5-23-3]]
+
+^<<v5-23-3,3>>^ — Nenhum amonita ou moabita entrará na assembleia do Senhor ; nem ainda a sua décima geração entrará na assembleia do Senhor , eternamente.
+
+[[v5-23-4]]
+
+^<<v5-23-4,4>>^ Porque não foram ao encontro de vocês com pão e água, no caminho, quando vocês estavam saindo do Egito; e porque contrataram Balaão, filho de Beor, de Petor, da Mesopotâmia, para amaldiçoar vocês.
+
+[[v5-23-5]]
+
+^<<v5-23-5,5>>^ Porém o Senhor , o Deus de vocês, não quis ouvir Balaão; pelo contrário, mudou a maldição em bênção, porque o Senhor , seu Deus, amava vocês.
+
+[[v5-23-6]]
+
+^<<v5-23-6,6>>^ Não procurem nem paz nem bem para os amonitas e moabitas enquanto vocês viverem, para sempre.
+
+[[v5-23-7]]
+
+^<<v5-23-7,7>>^ — Não odeiem os edomitas, porque são irmãos de vocês; nem odeiem os egípcios, porque vocês viveram como estrangeiros na terra deles.
+
+[[v5-23-8]]
+
+^<<v5-23-8,8>>^ Os filhos que lhes nascerem na terceira geração, cada um deles poderá entrar na assembleia do Senhor .
+
+[[v5-23-9]]
+
+^<<v5-23-9,9>>^ — Quando o exército sair para lutar contra os inimigos de vocês, então vocês devem se guardar de toda coisa má.
+
+[[v5-23-10]]
+
+^<<v5-23-10,10>>^ — Se houver entre vocês alguém que, por motivo de polução noturna, não esteja puro, sairá do acampamento; não poderá permanecer nele.
+
+[[v5-23-11]]
+
+^<<v5-23-11,11>>^ Porém, ao cair da tarde, ele se lavará com água; e, depois do pôr do sol, poderá voltar ao acampamento.
+
+[[v5-23-12]]
+
+^<<v5-23-12,12>>^ — Também haverá um lugar fora do acampamento, para onde vocês devem ir e fazer as suas necessidades.
+
+[[v5-23-13]]
+
+^<<v5-23-13,13>>^ Tenham entre as suas armas uma pá; e, quando alguém se abaixar, fora do acampamento, cavará um buraco com a pá e, virando-se, cobrirá as fezes com terra.
+
+[[v5-23-14]]
+
+^<<v5-23-14,14>>^ Porque o Senhor , seu Deus, anda no meio do acampamento de vocês para livrá-los e para entregar os inimigos de vocês em suas mãos; portanto, o acampamento de vocês deve ser santo, para que ele não veja em vocês coisa indecente e se afaste de vocês.
+
+[[v5-23-15]]
+
+^<<v5-23-15,15>>^ — Não entreguem ao seu senhor o escravo que, tendo fugido dele, se refugiar entre vocês.
+
+[[v5-23-16]]
+
+^<<v5-23-16,16>>^ Poderá ficar morando com vocês, no lugar que escolher, em alguma das cidades de vocês que for do seu agrado; não o oprimam.
+
+[[v5-23-17]]
+
+^<<v5-23-17,17>>^ — Das filhas de Israel não haverá quem se prostitua no serviço do templo, nem dos filhos de Israel haverá quem o faça.
+
+[[v5-23-18]]
+
+^<<v5-23-18,18>>^ Não permitam que o salário pago a prostituta ou a prostituto, por qualquer voto, seja trazido à Casa do Senhor , seu Deus; porque uma e outra coisa são igualmente abomináveis ao Senhor , seu Deus.
+
+[[v5-23-19]]
+
+^<<v5-23-19,19>>^ — De um compatriota vocês não devem cobrar juros, ao emprestarem dinheiro, comida ou qualquer coisa que se costuma emprestar com juros.
+
+[[v5-23-20]]
+
+^<<v5-23-20,20>>^ Aos estrangeiros vocês podem emprestar com juros, porém aos seus compatriotas vocês não devem emprestar com juros, para que o Senhor , seu Deus, os abençoe em todos os seus empreendimentos na terra que vocês vão possuir.
+
+[[v5-23-21]]
+
+^<<v5-23-21,21>>^ — Se fizerem um voto ao Senhor , seu Deus, não devem demorar a cumpri-lo, porque o Senhor , seu Deus, certamente o exigirá de vocês, e vocês serão culpados de pecado.
+
+[[v5-23-22]]
+
+^<<v5-23-22,22>>^ Mas, se vocês se abstiverem de fazer um voto, não serão culpados de pecado.
+
+[[v5-23-23]]
+
+^<<v5-23-23,23>>^ O que proferiram os seus lábios, isso vocês têm de guardar e cumprir, porque livremente fizeram um voto ao Senhor , seu Deus, com as palavras que disseram.
+
+[[v5-23-24]]
+
+^<<v5-23-24,24>>^ — Quando entrarem na vinha do seu próximo, podem comer uvas à vontade, até ficarem fartos, porém não devem levá-las embora num cesto.
+
+[[v5-23-25]]
+
+^<<v5-23-25,25>>^ Quando entrarem na plantação do seu próximo, podem arrancar as espigas com as mãos; porém não devem colher nada com a foice.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[&#60; Capítulo Anterior] | <<v5-23-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[Próximo Capítulo &#62;]

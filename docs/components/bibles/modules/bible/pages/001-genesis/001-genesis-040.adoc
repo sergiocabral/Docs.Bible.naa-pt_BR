@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Gênesis, 40
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ Passadas estas coisas, aconteceu que o copeiro e o padeiro do rei do Egito ofenderam o seu senhor, o rei do Egito.
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ O Faraó indignou-se contra os seus dois oficiais, o copeiro-chefe e o padeiro-chefe,
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ e mandou prendê-los na casa do comandante da guarda, no cárcere onde José estava.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ O comandante da guarda os deixou aos cuidados de José, para que os servisse; e por algum tempo estiveram na prisão.
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ E os dois sonharam, cada um o seu sonho, na mesma noite; cada sonho com o seu próprio significado, o copeiro e o padeiro do rei do Egito, que se achavam encarcerados.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ Quando José chegou pela manhã, viu-os, e eis que estavam preocupados.
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ Então perguntou aos oficiais de Faraó, que estavam com ele no cárcere da casa do seu senhor: — Por que vocês estão com a cara triste hoje?
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ Eles responderam: — Tivemos um sonho, e não há quem o interprete. José lhes disse: — Não pertencem a Deus as interpretações? Contem-me o sonho que tiveram.
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ Então o copeiro-chefe contou o seu sonho a José. Ele disse: — Em meu sonho havia uma videira diante de mim.
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ E na videira havia três ramos. Ao brotar a videira, havia flores, e seus cachos produziam uvas maduras.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ O copo de Faraó estava na minha mão. Peguei as uvas e as espremi no copo de Faraó, e o entreguei a Faraó.
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ Então José disse: — Esta é a interpretação do sonho: os três ramos são três dias.
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ Dentro de três dias, Faraó vai reabilitar você e reintegrá-lo no seu cargo, e você lhe dará o copo na mão dele, segundo o costume antigo, quando era seu copeiro.
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Porém lembre-se de mim, quando tudo lhe correr bem. Peço que você seja bondoso para comigo e fale a meu respeito com Faraó, e me tire desta prisão;
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ porque, de fato, fui roubado da terra dos hebreus; e aqui nada fiz, para que me pusessem nesta masmorra.
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ Vendo o padeiro-chefe que a interpretação era boa, disse a José: — Eu também sonhei, e eis que três cestos de pão branco estavam sobre a minha cabeça.
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ No cesto mais alto havia todo tipo de comida que um padeiro faz para Faraó. E as aves comiam do cesto que estava sobre a minha cabeça.
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ Então José disse: — Esta é a interpretação do sonho: os três cestos são três dias.
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ Dentro de três dias, Faraó vai mandar cortar a sua cabeça e pendurá-lo numa árvore, e as aves comerão a sua carne.
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ No terceiro dia, que era aniversário de nascimento de Faraó, ele deu um banquete a todos os seus servos. E, no meio destes, reabilitou o copeiro-chefe e condenou o padeiro-chefe.
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ Reintegrou o copeiro-chefe no seu cargo, no qual dava o copo na mão de Faraó,
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ mas mandou enforcar o padeiro-chefe, como José havia interpretado.
+
+[[v1-40-23]]
+
+^<<v1-40-23,23>>^ Porém o copeiro-chefe não se lembrou de José; esqueceu-se dele.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

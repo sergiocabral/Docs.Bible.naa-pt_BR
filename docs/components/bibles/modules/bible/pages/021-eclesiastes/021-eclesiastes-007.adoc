@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-7-0]]
+=== Eclesiastes, 7
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v21-7-1]]
+
+^<<v21-7-1,1>>^ A boa fama é melhor do que um bom perfume, e o dia da morte é melhor do que o dia do nascimento.
+
+[[v21-7-2]]
+
+^<<v21-7-2,2>>^ Melhor é ir à casa onde há luto do que ir à casa onde há banquete, pois naquela se vê o fim de todas as pessoas; e que os vivos o tomem em consideração.
+
+[[v21-7-3]]
+
+^<<v21-7-3,3>>^ Melhor é a mágoa do que o riso, porque com a tristeza do rosto se melhora o coração.
+
+[[v21-7-4]]
+
+^<<v21-7-4,4>>^ O coração dos sábios está na casa do luto, mas o dos insensatos, na casa da alegria.
+
+[[v21-7-5]]
+
+^<<v21-7-5,5>>^ Melhor é ouvir a repreensão do sábio do que ouvir a canção dos tolos.
+
+[[v21-7-6]]
+
+^<<v21-7-6,6>>^ Pois, como o crepitar dos espinhos debaixo de uma panela, assim é a risada dos tolos. Também isto é vaidade.
+
+[[v21-7-7]]
+
+^<<v21-7-7,7>>^ Certamente a opressão faz do sábio um tolo, e o suborno corrompe o coração.
+
+[[v21-7-8]]
+
+^<<v21-7-8,8>>^ Melhor é o fim das coisas do que o seu princípio; a paciência é melhor do que a arrogância.
+
+[[v21-7-9]]
+
+^<<v21-7-9,9>>^ Não se apresse em ficar irado, porque a ira se abriga no íntimo dos tolos.
+
+[[v21-7-10]]
+
+^<<v21-7-10,10>>^ Nunca pergunte: "Por que os dias passados foram melhores que os de agora?" Pois não é sábio fazer essa pergunta.
+
+[[v21-7-11]]
+
+^<<v21-7-11,11>>^ Boa é a sabedoria, havendo herança; ela é proveitosa para os que veem o sol.
+
+[[v21-7-12]]
+
+^<<v21-7-12,12>>^ A sabedoria protege, do mesmo modo que o dinheiro; mas a vantagem da sabedoria é que ela dá vida a quem a possui.
+
+[[v21-7-13]]
+
+^<<v21-7-13,13>>^ Observe as obras de Deus, pois quem poderá endireitar o que ele fez torto?
+
+[[v21-7-14]]
+
+^<<v21-7-14,14>>^ No dia da prosperidade, seja feliz; mas, no dia da adversidade, considere que Deus fez tanto este como aquele, para que o ser humano não descubra nada do que há de vir depois dele.
+
+[[v21-7-15]]
+
+^<<v21-7-15,15>>^ Tudo isto vi nos dias da minha vaidade: há justos que perecem na sua justiça, e há ímpios que prolongam os seus dias na sua maldade.
+
+[[v21-7-16]]
+
+^<<v21-7-16,16>>^ Não seja demasiadamente justo, nem exageradamente sábio; por que você destruiria a si mesmo?
+
+[[v21-7-17]]
+
+^<<v21-7-17,17>>^ Não seja demasiadamente perverso, nem seja tolo; por que você morreria antes da sua hora?
+
+[[v21-7-18]]
+
+^<<v21-7-18,18>>^ Bom é que você retenha isto e também não abra mão daquilo; pois quem teme a Deus sai ileso de tudo isto.
+
+[[v21-7-19]]
+
+^<<v21-7-19,19>>^ A sabedoria fortalece o sábio, mais do que dez poderosos que se encontram numa cidade.
+
+[[v21-7-20]]
+
+^<<v21-7-20,20>>^ Não há nenhum justo sobre a terra que faça o bem e que não peque.
+
+[[v21-7-21]]
+
+^<<v21-7-21,21>>^ Não dê atenção a todas as palavras que se dizem, para que você não venha a ouvir o seu servo amaldiçoando você.
+
+[[v21-7-22]]
+
+^<<v21-7-22,22>>^ E você sabe que muitas vezes você mesmo já amaldiçoou os outros.
+
+[[v21-7-23]]
+
+^<<v21-7-23,23>>^ Tudo isto examinei por meio da sabedoria. Eu disse: "Serei sábio." Mas a sabedoria estava longe de mim.
+
+[[v21-7-24]]
+
+^<<v21-7-24,24>>^ O que está longe e é muito profundo, quem o poderá encontrar?
+
+[[v21-7-25]]
+
+^<<v21-7-25,25>>^ Procurei conhecer, investigar, buscar a sabedoria e a razão, e compreender que a maldade é estupidez e a tolice é loucura.
+
+[[v21-7-26]]
+
+^<<v21-7-26,26>>^ Achei coisa mais amarga do que a morte: a mulher cujo coração é rede e armadilha e cujas mãos são correntes. Quem agrada a Deus fugirá dela, mas o pecador virá a ser seu prisioneiro.
+
+[[v21-7-27]]
+
+^<<v21-7-27,27>>^ Eis o que descobri, diz o Pregador, conferindo uma coisa com outra, para a respeito delas formar o meu juízo,
+
+[[v21-7-28]]
+
+^<<v21-7-28,28>>^ juízo que ainda procuro e não encontrei: entre mil homens achei um como esperava, mas entre tantas mulheres não achei nem sequer uma.
+
+[[v21-7-29]]
+
+^<<v21-7-29,29>>^ O que descobri é tão somente isto: que Deus fez o ser humano reto, mas ele se meteu em muitos problemas.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[&#60; Capítulo Anterior] | <<v21-7-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[Próximo Capítulo &#62;]

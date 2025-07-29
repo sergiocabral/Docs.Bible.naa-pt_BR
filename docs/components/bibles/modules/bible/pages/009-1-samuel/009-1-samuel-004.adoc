@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v9-4-0]]
+=== 1 Samuel, 4
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v9-4-1]]
+
+^<<v9-4-1,1>>^ A palavra de Samuel veio a todo o Israel. Israel saiu à batalha contra os filisteus e acampou em Ebenézer; e os filisteus acamparam em Afeca.
+
+[[v9-4-2]]
+
+^<<v9-4-2,2>>^ Os filisteus se dispuseram em ordem de batalha, para enfrentar Israel, e, quando a guerra começou, Israel foi derrotado pelos filisteus, que mataram, no campo aberto, cerca de quatro mil homens.
+
+[[v9-4-3]]
+
+^<<v9-4-3,3>>^ Quando o povo voltou ao arraial, os anciãos de Israel disseram: — Por que o Senhor  nos derrotou hoje diante dos filisteus? Vamos trazer de Siló a arca da aliança do Senhor , para que esteja no meio de nós e nos livre das mãos dos nossos inimigos.
+
+[[v9-4-4]]
+
+^<<v9-4-4,4>>^ Então o povo mandou trazer de Siló a arca do Senhor  dos Exércitos, entronizado entre os querubins. E os dois filhos de Eli, Hofni e Fineias, estavam ali com a arca da aliança de Deus.
+
+[[v9-4-5]]
+
+^<<v9-4-5,5>>^ Quando a arca da aliança do Senhor  chegou ao arraial, os israelitas gritaram tão alto, que o chão tremeu.
+
+[[v9-4-6]]
+
+^<<v9-4-6,6>>^ Os filisteus ouviram a voz do júbilo e disseram: — Que voz de grande júbilo é esta no arraial dos hebreus? Então souberam que a arca do Senhor  havia chegado ao arraial.
+
+[[v9-4-7]]
+
+^<<v9-4-7,7>>^ E os filisteus ficaram com medo e disseram: — Os deuses vieram ao arraial. E diziam mais: — Ai de nós! Porque nunca antes aconteceu uma coisa dessas.
+
+[[v9-4-8]]
+
+^<<v9-4-8,8>>^ Ai de nós! Quem nos livrará das mãos desses deuses poderosos? São os deuses que atacaram os egípcios com todo tipo de pragas no deserto.
+
+[[v9-4-9]]
+
+^<<v9-4-9,9>>^ Sejam fortes, filisteus! Comportem-se como homens, para que não venham a ser escravos dos hebreus, como eles já foram escravos de vocês! Comportem-se como homens e lutem!
+
+[[v9-4-10]]
+
+^<<v9-4-10,10>>^ Então os filisteus lutaram. E Israel foi derrotado, e cada um fugiu para a sua tenda. Foi uma grande derrota, pois foram mortos de Israel trinta mil homens.
+
+[[v9-4-11]]
+
+^<<v9-4-11,11>>^ A arca de Deus foi tomada, e os dois filhos de Eli, Hofni e Fineias, foram mortos.
+
+[[v9-4-12]]
+
+^<<v9-4-12,12>>^ Então um homem de Benjamim, saído das fileiras, correu e, no mesmo dia, chegou a Siló. Ele havia rasgado as suas roupas e espalhado terra sobre a cabeça.
+
+[[v9-4-13]]
+
+^<<v9-4-13,13>>^ Quando chegou, Eli estava sentado numa cadeira, perto da estrada, olhando como quem espera, porque o seu coração estava tremendo pela arca de Deus. Depois que o homem entrou na cidade e deu a notícia, toda a cidade começou a gritar.
+
+[[v9-4-14]]
+
+^<<v9-4-14,14>>^ Eli, ouvindo os gritos, perguntou: — Que alvoroço é esse? Então o homem correu e deu as notícias a Eli.
+
+[[v9-4-15]]
+
+^<<v9-4-15,15>>^ Ora, Eli estava com noventa e oito anos. Os seus olhos já não se moviam, e ele não podia ver.
+
+[[v9-4-16]]
+
+^<<v9-4-16,16>>^ O homem disse a Eli: — Eu venho da frente de batalha. Eu fugi de lá hoje mesmo. Eli perguntou-lhe: — O que aconteceu, meu filho?
+
+[[v9-4-17]]
+
+^<<v9-4-17,17>>^ Então o mensageiro respondeu: — Israel fugiu dos filisteus. Houve grande matança entre o povo. Além disso, os seus dois filhos, Hofni e Fineias, foram mortos, e a arca de Deus foi tomada.
+
+[[v9-4-18]]
+
+^<<v9-4-18,18>>^ Quando ele fez menção da arca de Deus, Eli caiu da cadeira para trás, junto ao portão da cidade, quebrou o pescoço e morreu. Ele era um homem velho e pesado, e havia julgado Israel durante quarenta anos.
+
+[[v9-4-19]]
+
+^<<v9-4-19,19>>^ A nora de Eli, a mulher de Fineias, estava grávida e próxima do parto. Quando ela ouviu estas notícias, de que a arca de Deus havia sido tomada e de que seu sogro e seu marido tinham morrido, encurvou-se e deu à luz; porque as dores lhe sobrevieram.
+
+[[v9-4-20]]
+
+^<<v9-4-20,20>>^ Quando ela estava morrendo, as mulheres que a ajudavam disseram: — Não tema, porque você teve um filho. Ela, porém, não respondeu, nem fez caso disso.
+
+[[v9-4-21]]
+
+^<<v9-4-21,21>>^ Mas deu ao menino o nome de Icabô, dizendo: — Foi-se a glória de Israel. Ela disse isto, porque a arca de Deus havia sido tomada e por causa de seu sogro e de seu marido.
+
+[[v9-4-22]]
+
+^<<v9-4-22,22>>^ E falou mais: — Foi-se a glória de Israel, pois a arca de Deus foi tomada.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-003.adoc#v9-3-0[&#60; Capítulo Anterior] | <<v9-4-0,Topo>> | xref:009-1-samuel/009-1-samuel-005.adoc#v9-5-0[Próximo Capítulo &#62;]

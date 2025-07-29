@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-17-0]]
+=== Deuteronômio, 17
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-17-1]]
+
+^<<v5-17-1,1>>^ — Não sacrifiquem ao Senhor , seu Deus, um novilho ou uma ovelha em que haja imperfeição ou algum defeito grave, pois isto é abominação ao Senhor , seu Deus.
+
+[[v5-17-2]]
+
+^<<v5-17-2,2>>^ — Se no meio de vocês, em alguma das cidades que o Senhor , seu Deus, lhes dá, aparecer algum homem ou mulher que proceda mal aos olhos do Senhor , seu Deus, transgredindo a sua aliança,
+
+[[v5-17-3]]
+
+^<<v5-17-3,3>>^ que vá, sirva outros deuses e os adore, ou faça isso com o sol, a lua, ou todo o exército do céu, o que eu não ordenei;
+
+[[v5-17-4]]
+
+^<<v5-17-4,4>>^ e se isto lhes for denunciado e vocês o ouvirem, então devem indagar bem e, se for verdade e certo que se fez tal abominação em Israel,
+
+[[v5-17-5]]
+
+^<<v5-17-5,5>>^ devem levar o homem ou a mulher que fez este malefício aos portões da cidade e apedrejá-los, até que morram.
+
+[[v5-17-6]]
+
+^<<v5-17-6,6>>^ Por depoimento de duas ou três testemunhas, será morto o que houver de morrer; por depoimento de uma só testemunha, não morrerá.
+
+[[v5-17-7]]
+
+^<<v5-17-7,7>>^ A mão das testemunhas será a primeira contra ele, para matá-lo; e, depois, a mão de todo o povo. E assim eliminarão o mal do meio de vocês.
+
+[[v5-17-8]]
+
+^<<v5-17-8,8>>^ — Se aparecer alguma coisa difícil demais para ser julgada — um caso de homicídio, uma demanda, um caso de violência ou outras questões de litígio —, então vocês devem se dirigir ao lugar que o Senhor , seu Deus, escolher.
+
+[[v5-17-9]]
+
+^<<v5-17-9,9>>^ Vocês virão aos sacerdotes levitas e ao juiz que houver naqueles dias, buscando uma solução, e eles anunciarão a sentença do juízo.
+
+[[v5-17-10]]
+
+^<<v5-17-10,10>>^ E vocês farão segundo o mandado da palavra que anunciarem do lugar que o Senhor  escolher e terão cuidado de fazer tudo o que eles ensinarem.
+
+[[v5-17-11]]
+
+^<<v5-17-11,11>>^ Façam segundo o mandado da lei que eles ensinarem e de acordo com o juízo que eles disserem. Da sentença que eles anunciarem vocês não devem se desviar, nem para a direita nem para a esquerda.
+
+[[v5-17-12]]
+
+^<<v5-17-12,12>>^ A pessoa que se mostrar orgulhosa e não der ouvidos ao sacerdote, que está ali a serviço do Senhor , seu Deus, nem ao juiz, essa será morta. E assim vocês eliminarão o mal de Israel,
+
+[[v5-17-13]]
+
+^<<v5-17-13,13>>^ para que todo o povo ouça, tema e jamais se encha de orgulho.
+
+[[v5-17-14]]
+
+^<<v5-17-14,14>>^ — Quando vocês entrarem na terra que o Senhor , seu Deus, está dando a vocês para que dela tomem posse, e estiverem morando nela, e disserem: "Poremos sobre nós um rei, tal como todas as nações que estão ao nosso redor",
+
+[[v5-17-15]]
+
+^<<v5-17-15,15>>^ vocês certamente porão como rei sobre vocês aquele que o Senhor , seu Deus, escolher. Homem estranho, que não seja do meio dos seus compatriotas, vocês não devem pôr como rei sobre vocês, e sim um do meio dos seus compatriotas.
+
+[[v5-17-16]]
+
+^<<v5-17-16,16>>^ Porém esse rei não deve multiplicar para si cavalos, nem fazer o povo voltar ao Egito, para multiplicar cavalos, pois o Senhor  já lhes disse: "Nunca mais vocês devem voltar por este caminho."
+
+[[v5-17-17]]
+
+^<<v5-17-17,17>>^ Esse rei também não deve tomar para si muitas mulheres, para que o seu coração não se desvie; nem deve acumular muita prata e muito ouro.
+
+[[v5-17-18]]
+
+^<<v5-17-18,18>>^ — Também, quando se assentar no trono do seu reino, mandará escrever num livro uma cópia desta lei, feita a partir do livro que está com os sacerdotes levitas.
+
+[[v5-17-19]]
+
+^<<v5-17-19,19>>^ O rei terá esse livro consigo e nele lerá todos os dias da sua vida, para que aprenda a temer o Senhor , seu Deus, a fim de guardar todas as palavras desta lei e estes estatutos, para os cumprir.
+
+[[v5-17-20]]
+
+^<<v5-17-20,20>>^ Ele fará isso para que o seu coração não se exalte sobre os seus irmãos e não se desvie do mandamento, nem para a direita nem para a esquerda. Assim prolongará os dias no seu reino, ele e os filhos dele no meio de Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[&#60; Capítulo Anterior] | <<v5-17-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[Próximo Capítulo &#62;]

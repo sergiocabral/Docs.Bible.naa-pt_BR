@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v5-13-0]]
+=== Deuteronômio, 13
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-13-1]]
+
+^<<v5-13-1,1>>^ — Se aparecer no meio de vocês um profeta ou sonhador e anunciar um sinal ou prodígio,
+
+[[v5-13-2]]
+
+^<<v5-13-2,2>>^ e se acontecer esse sinal ou prodígio de que ele falou, e ele disser: "Vamos seguir e adorar outros deuses", deuses esses que vocês não conheceram,
+
+[[v5-13-3]]
+
+^<<v5-13-3,3>>^ não deem ouvidos às palavras desse profeta ou sonhador. Porque o Senhor , seu Deus, está pondo vocês à prova, para saber se vocês amam o Senhor , seu Deus, de todo o coração e de toda a alma.
+
+[[v5-13-4]]
+
+^<<v5-13-4,4>>^ Sigam o Senhor , seu Deus, e temam somente a ele. Guardem os seus mandamentos, deem ouvidos à sua voz, sirvam-no e sejam fiéis a ele.
+
+[[v5-13-5]]
+
+^<<v5-13-5,5>>^ Esse profeta ou sonhador será morto, pois pregou rebeldia contra o Senhor , o Deus de vocês, que os tirou da terra do Egito e os resgatou da casa da servidão. Esse profeta ou sonhador quis afastá-los do caminho que o Senhor , seu Deus, lhes ordenou, para que andassem nele. Assim eliminarão o mal do meio de vocês.
+
+[[v5-13-6]]
+
+^<<v5-13-6,6>>^ — Caso se aproximar de você o seu irmão, filho de sua mãe, ou o seu filho, ou a sua filha, ou a mulher que você ama, ou um amigo íntimo, e, em segredo, disser: "Vamos servir outros deuses", deuses que você não conhecia e que nem os seus pais conheceram,
+
+[[v5-13-7]]
+
+^<<v5-13-7,7>>^ deuses dos povos que estão ao redor de você, tanto os que estão perto como os que estão longe, desde uma até a outra extremidade da terra,
+
+[[v5-13-8]]
+
+^<<v5-13-8,8>>^ não concorde com ele, nem dê ouvidos a ele. Não olhe para ele com piedade, não o poupe, nem o esconda;
+
+[[v5-13-9]]
+
+^<<v5-13-9,9>>^ pelo contrário, você certamente o matará. Você será o primeiro a levantar a mão contra ele, para o matar, e depois todo o povo levantará a mão contra ele.
+
+[[v5-13-10]]
+
+^<<v5-13-10,10>>^ Vocês devem apedrejá-lo até que morra, porque ele procurou afastá-los do Senhor , seu Deus, que os tirou da terra do Egito, da casa da servidão.
+
+[[v5-13-11]]
+
+^<<v5-13-11,11>>^ E todo o Israel ouvirá e temerá, e não se tornará a praticar maldade como esta no meio de vocês.
+
+[[v5-13-12]]
+
+^<<v5-13-12,12>>^ — Se em alguma das cidades que o Senhor , seu Deus, lhes dá para morar vocês ouvirem dizer
+
+[[v5-13-13]]
+
+^<<v5-13-13,13>>^ que homens malignos saíram do meio de vocês e incitaram os moradores da cidade, dizendo: "Vamos servir outros deuses", deuses que vocês não conheceram,
+
+[[v5-13-14]]
+
+^<<v5-13-14,14>>^ então vocês devem inquirir, investigar e perguntar com diligência. E eis que, se for verdade e certo que tal abominação foi praticada no meio de vocês,
+
+[[v5-13-15]]
+
+^<<v5-13-15,15>>^ então certamente vocês deverão matar a fio de espada os moradores daquela cidade, destruindo-a completamente e tudo o que nela houver, até os animais.
+
+[[v5-13-16]]
+
+^<<v5-13-16,16>>^ Depois ajuntem todo o seu despojo no meio da praça e queimem a cidade e todo o seu despojo como oferta total ao Senhor , seu Deus. E a cidade ficará um montão de ruínas para sempre; nunca mais deverá ser edificada.
+
+[[v5-13-17]]
+
+^<<v5-13-17,17>>^ Também nada do que for condenado deverá ficar nas mãos de vocês, para que o Senhor  se afaste do furor da sua ira, seja misericordioso, e tenha piedade de vocês, e os multiplique, como jurou aos pais de vocês.
+
+[[v5-13-18]]
+
+^<<v5-13-18,18>>^ Isto se vocês ouvirem a voz do Senhor , seu Deus, e guardarem todos os seus mandamentos que hoje lhes ordeno, para que façam o que é reto aos olhos do Senhor , seu Deus.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-012.adoc#v5-12-0[&#60; Capítulo Anterior] | <<v5-13-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-014.adoc#v5-14-0[Próximo Capítulo &#62;]

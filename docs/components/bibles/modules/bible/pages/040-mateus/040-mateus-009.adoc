@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v40-9-0]]
+=== Mateus, 9
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v40-9-1]]
+
+^<<v40-9-1,1>>^ Entrando num barco, Jesus passou para o outro lado do mar e foi para a sua própria cidade.
+
+[[v40-9-2]]
+
+^<<v40-9-2,2>>^ E eis que lhe trouxeram um paralítico deitado num leito. Jesus, vendo a fé que eles tinham, disse ao paralítico: — Coragem, filho; os seus pecados estão perdoados.
+
+[[v40-9-3]]
+
+^<<v40-9-3,3>>^ Mas alguns escribas diziam entre si: — Ele está blasfemando.
+
+[[v40-9-4]]
+
+^<<v40-9-4,4>>^ Jesus, porém, conhecendo os pensamentos deles, disse: — Por que vocês estão pensando o mal em seu coração?
+
+[[v40-9-5]]
+
+^<<v40-9-5,5>>^ Pois o que é mais fácil? Dizer: "Os seus pecados estão perdoados", ou dizer: "Levante-se e ande"?
+
+[[v40-9-6]]
+
+^<<v40-9-6,6>>^ Mas isto é para que vocês saibam que o Filho do Homem tem autoridade sobre a terra para perdoar pecados. Então disse ao paralítico: — Levante-se, pegue o seu leito e vá para casa.
+
+[[v40-9-7]]
+
+^<<v40-9-7,7>>^ E o homem se levantou e voltou para casa.
+
+[[v40-9-8]]
+
+^<<v40-9-8,8>>^ Vendo isto, as multidões, possuídas de temor, deram glória a Deus, que tinha dado tal autoridade aos homens.
+
+[[v40-9-9]]
+
+^<<v40-9-9,9>>^ Quando Jesus saiu dali, viu um homem chamado Mateus sentado na coletoria e lhe disse: — Siga-me! Ele se levantou e o seguiu.
+
+[[v40-9-10]]
+
+^<<v40-9-10,10>>^ Estando Jesus à mesa, na casa de Mateus, muitos publicanos e pecadores vieram e tomaram lugares com Jesus e os seus discípulos.
+
+[[v40-9-11]]
+
+^<<v40-9-11,11>>^ Vendo isto, os fariseus perguntavam aos discípulos de Jesus: — Por que o Mestre de vocês come com os publicanos e pecadores?
+
+[[v40-9-12]]
+
+^<<v40-9-12,12>>^ Mas Jesus, ouvindo, disse: — Os sãos não precisam de médico, e sim os doentes.
+
+[[v40-9-13]]
+
+^<<v40-9-13,13>>^ Vão e aprendam o que significa: "Quero misericórdia, e não sacrifício." Pois não vim chamar justos, e sim pecadores.
+
+[[v40-9-14]]
+
+^<<v40-9-14,14>>^ Vieram, depois, os discípulos de João e perguntaram a Jesus: — Por que nós e os fariseus jejuamos muitas vezes, mas os seus discípulos não jejuam?
+
+[[v40-9-15]]
+
+^<<v40-9-15,15>>^ Jesus respondeu: — Como podem os convidados para o casamento estar tristes enquanto o noivo está com eles? No entanto, virão dias em que o noivo lhes será tirado, e então eles vão jejuar.
+
+[[v40-9-16]]
+
+^<<v40-9-16,16>>^ Ninguém põe remendo de pano novo em roupa velha; porque o remendo tira um pedaço da roupa, e o buraco fica ainda maior.
+
+[[v40-9-17]]
+
+^<<v40-9-17,17>>^ Nem se põe vinho novo em odres velhos, porque, se alguém fizer isso, os odres se rompem, o vinho se derrama, e os odres se perdem. Mas põe-se vinho novo em odres novos, e ambos se conservam.
+
+[[v40-9-18]]
+
+^<<v40-9-18,18>>^ Enquanto Jesus lhes dizia estas coisas, eis que um chefe da sinagoga, aproximando-se, o adorou e disse: — Minha filha morreu agora mesmo; mas venha impor a mão sobre ela, e ela viverá.
+
+[[v40-9-19]]
+
+^<<v40-9-19,19>>^ E Jesus se levantou e o seguiu, juntamente com os seus discípulos.
+
+[[v40-9-20]]
+
+^<<v40-9-20,20>>^ E eis que uma mulher, que durante doze anos vinha sofrendo de uma hemorragia, veio por trás de Jesus e tocou na borda da capa dele.
+
+[[v40-9-21]]
+
+^<<v40-9-21,21>>^ Porque dizia consigo mesma: "Se eu apenas tocar na capa dele, ficarei curada."
+
+[[v40-9-22]]
+
+^<<v40-9-22,22>>^ Então Jesus, voltando-se e vendo-a, disse: — Coragem, filha, a sua fé salvou você. E, desde aquele instante, a mulher ficou sã.
+
+[[v40-9-23]]
+
+^<<v40-9-23,23>>^ Tendo Jesus chegado à casa do chefe e vendo os tocadores de flauta e o povo em alvoroço, disse:
+
+[[v40-9-24]]
+
+^<<v40-9-24,24>>^ — Saiam daqui! Porque a menina não está morta, mas dorme. E riam-se dele.
+
+[[v40-9-25]]
+
+^<<v40-9-25,25>>^ Mas, quando o povo tinha sido colocado para fora, Jesus entrou, tomou a menina pela mão, e ela se levantou.
+
+[[v40-9-26]]
+
+^<<v40-9-26,26>>^ E a notícia deste acontecimento se espalhou por toda aquela terra.
+
+[[v40-9-27]]
+
+^<<v40-9-27,27>>^ Saindo Jesus dali, dois cegos o seguiram, gritando: — Tenha compaixão de nós, Filho de Davi!
+
+[[v40-9-28]]
+
+^<<v40-9-28,28>>^ Quando ele entrou em casa, os cegos se aproximaram, e Jesus lhes perguntou: — Vocês creem que eu posso fazer isso? Eles responderam: — Sim, Senhor!
+
+[[v40-9-29]]
+
+^<<v40-9-29,29>>^ Então Jesus tocou nos olhos deles, dizendo: — Que se faça com vocês conforme a fé que vocês têm.
+
+[[v40-9-30]]
+
+^<<v40-9-30,30>>^ E os olhos deles se abriram. Jesus, porém, os advertiu severamente, dizendo: — Tenham cuidado para que ninguém fique sabendo disto.
+
+[[v40-9-31]]
+
+^<<v40-9-31,31>>^ Eles, porém, saíram e espalharam a notícia a respeito de Jesus por toda aquela terra.
+
+[[v40-9-32]]
+
+^<<v40-9-32,32>>^ Quando eles saíram, eis que trouxeram a Jesus um mudo endemoniado.
+
+[[v40-9-33]]
+
+^<<v40-9-33,33>>^ E, assim que o demônio foi expulso, o mudo passou a falar. E as multidões se admiravam, dizendo: — Jamais se viu tal coisa em Israel!
+
+[[v40-9-34]]
+
+^<<v40-9-34,34>>^ Mas os fariseus diziam: — Ele expulsa os demônios pelo poder do maioral dos demônios.
+
+[[v40-9-35]]
+
+^<<v40-9-35,35>>^ E Jesus percorria todas as cidades e aldeias, ensinando nas sinagogas, pregando o evangelho do Reino e curando todo tipo de doenças e enfermidades.
+
+[[v40-9-36]]
+
+^<<v40-9-36,36>>^ Ao ver as multidões, Jesus se compadeceu delas, porque estavam aflitas e exaustas como ovelhas que não têm pastor.
+
+[[v40-9-37]]
+
+^<<v40-9-37,37>>^ Então Jesus disse aos seus discípulos: — A seara é grande, mas os trabalhadores são poucos.
+
+[[v40-9-38]]
+
+^<<v40-9-38,38>>^ Por isso, peçam ao Senhor da seara que mande trabalhadores para a sua seara.
+
+'''
+
+xref:040-mateus/040-mateus-008.adoc#v40-8-0[&#60; Capítulo Anterior] | <<v40-9-0,Topo>> | xref:040-mateus/040-mateus-010.adoc#v40-10-0[Próximo Capítulo &#62;]

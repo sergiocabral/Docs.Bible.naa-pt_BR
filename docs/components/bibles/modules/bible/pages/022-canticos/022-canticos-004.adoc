@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v22-4-0]]
+=== Cânticos, 4
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v22-4-1]]
+
+^<<v22-4-1,1>>^ Como você é bela, minha querida! Como você é linda! Os seus olhos são como pombas e brilham através do véu. Os seus cabelos são como um rebanho de cabras que descem ondeantes do monte de Gileade.
+
+[[v22-4-2]]
+
+^<<v22-4-2,2>>^ Os seus dentes são como um rebanho de ovelhas recém-tosquiadas, que sobem do lavadouro; cada uma tem o seu par, e nenhuma está faltando.
+
+[[v22-4-3]]
+
+^<<v22-4-3,3>>^ Os seus lábios são como um fio de escarlate, e a sua boca é linda. As suas faces, como romã partida, brilham através do véu.
+
+[[v22-4-4]]
+
+^<<v22-4-4,4>>^ O seu pescoço é como a torre de Davi, edificada para arsenal; mil escudos pendem dela, todos escudos de soldados valentes.
+
+[[v22-4-5]]
+
+^<<v22-4-5,5>>^ Os seus seios são como duas crias gêmeas de uma gazela, que pastam entre os lírios.
+
+[[v22-4-6]]
+
+^<<v22-4-6,6>>^ Antes que rompa o dia, e fujam as sombras, irei ao monte da mirra e à colina do incenso.
+
+[[v22-4-7]]
+
+^<<v22-4-7,7>>^ Você é toda linda, minha querida, e em você não há defeito.
+
+[[v22-4-8]]
+
+^<<v22-4-8,8>>^ Venha comigo do Líbano, minha noiva, venha comigo do Líbano. Desça do alto do monte Amana, do alto do Senir e do Hermom, dos covis dos leões, dos montes dos leopardos.
+
+[[v22-4-9]]
+
+^<<v22-4-9,9>>^ Você roubou meu coração, meu amor, minha noiva; roubou meu coração com um só dos seus olhares, com uma só pérola do seu colar.
+
+[[v22-4-10]]
+
+^<<v22-4-10,10>>^ Como são agradáveis as suas carícias, meu amor, minha noiva! O seu amor é melhor do que o vinho, e o aroma do seu perfume é mais suave do que todas as especiarias!
+
+[[v22-4-11]]
+
+^<<v22-4-11,11>>^ Os seus lábios destilam mel, minha noiva. Mel e leite se acham debaixo da sua língua, e o cheiro dos seus vestidos é como o cheiro do Líbano.
+
+[[v22-4-12]]
+
+^<<v22-4-12,12>>^ Meu amor, minha noiva, você é um jardim fechado, um manancial recluso, uma fonte selada.
+
+[[v22-4-13]]
+
+^<<v22-4-13,13>>^ Os seus renovos são um pomar de romãs com frutos excelentes: henas com nardos,
+
+[[v22-4-14]]
+
+^<<v22-4-14,14>>^ nardo e açafrão, cálamo e cinamomo, com todo tipo de árvores de incenso, mirra e aloés, com todas as principais especiarias.
+
+[[v22-4-15]]
+
+^<<v22-4-15,15>>^ Você é fonte dos jardins, poço de águas vivas que correm do Líbano!
+
+[[v22-4-16]]
+
+^<<v22-4-16,16>>^ Desperte, vento norte, e venha, vento sul! Soprem no meu jardim, para que se derramem os seus aromas. Que o meu amado venha ao seu jardim e coma os seus frutos excelentes!
+
+'''
+
+xref:022-canticos/022-canticos-003.adoc#v22-3-0[&#60; Capítulo Anterior] | <<v22-4-0,Topo>> | xref:022-canticos/022-canticos-005.adoc#v22-5-0[Próximo Capítulo &#62;]

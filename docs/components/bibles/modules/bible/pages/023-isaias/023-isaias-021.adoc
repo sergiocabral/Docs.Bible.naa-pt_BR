@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v23-21-0]]
+=== Isaías, 21
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-21-1]]
+
+^<<v23-21-1,1>>^ Sentença contra o deserto junto ao mar. Como as tempestades vêm do Sul, ele virá do deserto, de uma terra horrível.
+
+[[v23-21-2]]
+
+^<<v23-21-2,2>>^ Uma visão terrível me foi anunciada: o traidor procede traiçoeiramente, e o destruidor anda destruindo. Ao ataque, ó Elão! Feche o cerco, ó Média! Já fiz cessar todo gemido.
+
+[[v23-21-3]]
+
+^<<v23-21-3,3>>^ Por isso, os meus lombos estão cheios de angústia; tive dores como as dores da mulher que está dando à luz; contorço-me de dores e não posso ouvir, desfaleço e não posso ver.
+
+[[v23-21-4]]
+
+^<<v23-21-4,4>>^ O meu coração bate forte, o horror me apavora; o crepúsculo que eu aguardava só me trouxe tremor.
+
+[[v23-21-5]]
+
+^<<v23-21-5,5>>^ Põe-se a mesa, estendem-se tapetes, come-se e bebe-se. Levantem-se, príncipes, e untem os escudos.
+
+[[v23-21-6]]
+
+^<<v23-21-6,6>>^ Porque assim me disse o Senhor: "Vá e ponha uma sentinela, que fique olhando e anuncie o que enxergar.
+
+[[v23-21-7]]
+
+^<<v23-21-7,7>>^ Se ela enxergar uma tropa de cavaleiros de dois a dois, uma tropa de jumentos e uma tropa de camelos, ela que escute atentamente, com muita atenção."
+
+[[v23-21-8]]
+
+^<<v23-21-8,8>>^ Então o que estava olhando gritou: "Senhor, durante o dia estou continuamente sobre a torre de vigia e fico de guarda durante noites inteiras.
+
+[[v23-21-9]]
+
+^<<v23-21-9,9>>^ Eis que agora vem uma tropa de homens, cavaleiros de dois a dois." Então ele ergueu a voz e disse: "Caiu! Babilônia caiu! Todas as imagens de escultura dos seus deuses jazem despedaçadas no chão!"
+
+[[v23-21-10]]
+
+^<<v23-21-10,10>>^ Ah, meu povo, debulhado e batido como o trigo na eira! O que ouvi do Senhor  dos Exércitos, o Deus de Israel, isso lhes anunciei.
+
+[[v23-21-11]]
+
+^<<v23-21-11,11>>^ Sentença contra Dumá. Alguém me chama desde Seir: "Guarda, falta muito para acabar a noite? Guarda, falta muito?"
+
+[[v23-21-12]]
+
+^<<v23-21-12,12>>^ O guarda responde: "O dia vai chegar, e também a noite. Se quiserem perguntar de novo, voltem e perguntem."
+
+[[v23-21-13]]
+
+^<<v23-21-13,13>>^ Sentença contra a Arábia. Nos bosques da Arábia, vocês passarão a noite, ó caravanas de dedanitas.
+
+[[v23-21-14]]
+
+^<<v23-21-14,14>>^ Levem água para os sedentos. Ó moradores da terra de Tema, levem pão aos fugitivos.
+
+[[v23-21-15]]
+
+^<<v23-21-15,15>>^ Porque eles fogem da espada, da espada desembainhada, do arco entesado e do furor da guerra.
+
+[[v23-21-16]]
+
+^<<v23-21-16,16>>^ Porque assim me disse o Senhor: — Dentro de exatamente um ano, toda a glória de Quedar desaparecerá.
+
+[[v23-21-17]]
+
+^<<v23-21-17,17>>^ E o que restar do número dos flecheiros, homens valentes dos filhos de Quedar, será diminuto, porque assim o disse o Senhor , o Deus de Israel.
+
+'''
+
+xref:023-isaias/023-isaias-020.adoc#v23-20-0[&#60; Capítulo Anterior] | <<v23-21-0,Topo>> | xref:023-isaias/023-isaias-022.adoc#v23-22-0[Próximo Capítulo &#62;]

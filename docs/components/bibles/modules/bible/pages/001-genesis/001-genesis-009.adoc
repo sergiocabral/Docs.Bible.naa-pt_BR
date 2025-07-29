@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v1-9-0]]
+=== Gênesis, 9
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v1-9-1]]
+
+^<<v1-9-1,1>>^ Deus abençoou Noé e os seus filhos, dizendo: — Sejam fecundos, multipliquem-se e encham a terra.
+
+[[v1-9-2]]
+
+^<<v1-9-2,2>>^ Todos os animais da terra e todas as aves dos céus terão medo e pavor de vocês. Tudo o que se move sobre a terra e todos os peixes do mar serão entregues nas mãos de vocês.
+
+[[v1-9-3]]
+
+^<<v1-9-3,3>>^ Tudo o que se move e vive servirá de alimento para vocês. Assim como lhes dei a erva verde, agora lhes dou todas as coisas.
+
+[[v1-9-4]]
+
+^<<v1-9-4,4>>^ Carne, porém, com sua vida, isto é, com seu sangue, vocês não devem comer.
+
+[[v1-9-5]]
+
+^<<v1-9-5,5>>^ Certamente requererei o sangue de vocês, o sangue da vida de vocês; de todo animal o requererei, bem como do ser humano; sim, de cada um requererei a vida de seu semelhante.
+
+[[v1-9-6]]
+
+^<<v1-9-6,6>>^ Se alguém derramar o sangue de uma pessoa, o sangue dele será derramado por outra pessoa; porque Deus fez o ser humano segundo a sua imagem.
+
+[[v1-9-7]]
+
+^<<v1-9-7,7>>^ Mas sejam fecundos e multipliquem-se; povoem a terra e multipliquem-se sobre ela.
+
+[[v1-9-8]]
+
+^<<v1-9-8,8>>^ Deus também disse a Noé e aos seus filhos:
+
+[[v1-9-9]]
+
+^<<v1-9-9,9>>^ — Eis que estabeleço a minha aliança com vocês, e com a descendência de vocês,
+
+[[v1-9-10]]
+
+^<<v1-9-10,10>>^ e com todos os seres vivos que estão com vocês: tanto as aves, os animais domésticos e os animais selvagens que saíram da arca como todos os animais da terra.
+
+[[v1-9-11]]
+
+^<<v1-9-11,11>>^ Estabeleço a minha aliança com vocês: nunca mais os seres vivos serão destruídos pelas águas de um dilúvio; nunca mais haverá dilúvio para destruir a terra.
+
+[[v1-9-12]]
+
+^<<v1-9-12,12>>^ Deus disse: — Este é o sinal da minha aliança que faço entre mim e vocês e entre todos os seres vivos que estão com vocês, para todas as futuras gerações:
+
+[[v1-9-13]]
+
+^<<v1-9-13,13>>^ porei o meu arco nas nuvens e ele será por sinal da aliança entre mim e a terra.
+
+[[v1-9-14]]
+
+^<<v1-9-14,14>>^ Quando eu trouxer nuvens sobre a terra, e nelas aparecer o arco,
+
+[[v1-9-15]]
+
+^<<v1-9-15,15>>^ então me lembrarei da minha aliança, firmada entre mim e vocês e todos os seres vivos de todas as espécies; e as águas não mais se tornarão em dilúvio para destruir todos os seres vivos.
+
+[[v1-9-16]]
+
+^<<v1-9-16,16>>^ O arco estará nas nuvens; eu o verei e me lembrarei da aliança eterna entre Deus e todos os seres vivos de todas as espécies que há sobre a terra.
+
+[[v1-9-17]]
+
+^<<v1-9-17,17>>^ Deus disse a Noé: — Este é o sinal da aliança estabelecida entre mim e todos os seres vivos sobre a terra.
+
+[[v1-9-18]]
+
+^<<v1-9-18,18>>^ Os filhos de Noé, que saíram da arca, foram Sem, Cam e Jafé. Cam é o pai de Canaã.
+
+[[v1-9-19]]
+
+^<<v1-9-19,19>>^ Esses três são os filhos de Noé; e a partir deles se povoou toda a terra.
+
+[[v1-9-20]]
+
+^<<v1-9-20,20>>^ Sendo Noé agricultor, passou a plantar uma vinha.
+
+[[v1-9-21]]
+
+^<<v1-9-21,21>>^ Bebendo do vinho, embriagou-se e ficou nu dentro de sua tenda.
+
+[[v1-9-22]]
+
+^<<v1-9-22,22>>^ Cam, pai de Canaã, vendo a nudez do pai, foi contar isso aos seus dois irmãos, que estavam do lado de fora.
+
+[[v1-9-23]]
+
+^<<v1-9-23,23>>^ Então Sem e Jafé pegaram uma capa, puseram-na sobre os seus próprios ombros e, andando de costas e com os rostos desviados, cobriram a nudez do pai, sem que a vissem.
+
+[[v1-9-24]]
+
+^<<v1-9-24,24>>^ Quando Noé despertou do seu vinho, soube o que o filho mais moço havia feito.
+
+[[v1-9-25]]
+
+^<<v1-9-25,25>>^ Então disse: "Maldito seja Canaã; seja servo dos servos para os seus irmãos."
+
+[[v1-9-26]]
+
+^<<v1-9-26,26>>^ E continuou: "Bendito seja o Senhor , Deus de Sem; e Canaã lhe seja servo.
+
+[[v1-9-27]]
+
+^<<v1-9-27,27>>^ Que Deus engrandeça Jafé, e que ele habite nas tendas de Sem; e Canaã lhe seja servo."
+
+[[v1-9-28]]
+
+^<<v1-9-28,28>>^ Noé, depois do dilúvio, viveu ainda trezentos e cinquenta anos.
+
+[[v1-9-29]]
+
+^<<v1-9-29,29>>^ Todos os dias de Noé foram novecentos e cinquenta anos; e morreu.
+
+'''
+
+xref:001-genesis/001-genesis-008.adoc#v1-8-0[&#60; Capítulo Anterior] | <<v1-9-0,Topo>> | xref:001-genesis/001-genesis-010.adoc#v1-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v32-2-0]]
+=== Jonas, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v32-2-1]]
+
+^<<v32-2-1,1>>^ Então Jonas, do ventre do peixe, orou ao Senhor , seu Deus,
+
+[[v32-2-2]]
+
+^<<v32-2-2,2>>^ e disse: "Na minha angústia, clamei ao Senhor , e ele me respondeu; do ventre do abismo, gritei, e tu ouviste a minha voz.
+
+[[v32-2-3]]
+
+^<<v32-2-3,3>>^ Pois me lançaste nas profundezas, no coração dos mares, e a corrente das águas me cercou; todas as tuas ondas e as tuas vagas passaram sobre mim.
+
+[[v32-2-4]]
+
+^<<v32-2-4,4>>^ Então eu disse: ‘Estou excluído da tua presença; será que tornarei a ver o teu santo templo?’"
+
+[[v32-2-5]]
+
+^<<v32-2-5,5>>^ "As águas me cercaram até a alma, o abismo me rodeou; e as algas se enrolaram na minha cabeça.
+
+[[v32-2-6]]
+
+^<<v32-2-6,6>>^ Desci até os fundamentos dos montes; desci até a terra, cujos ferrolhos se fecharam atrás de mim para sempre. Tu, porém, fizeste a minha vida subir da sepultura, ó Senhor , meu Deus!
+
+[[v32-2-7]]
+
+^<<v32-2-7,7>>^ Quando, dentro de mim, desfalecia a minha alma, eu me lembrei do Senhor ; e subiu a ti a minha oração, no teu santo templo.
+
+[[v32-2-8]]
+
+^<<v32-2-8,8>>^ Os que adoram ídolos vãos abandonam aquele que lhes é misericordioso.
+
+[[v32-2-9]]
+
+^<<v32-2-9,9>>^ Mas, com a voz do agradecimento, eu te oferecerei sacrifício; o que prometi cumprirei. Ao Senhor  pertence a salvação!"
+
+[[v32-2-10]]
+
+^<<v32-2-10,10>>^ E o Senhor  falou ao peixe, e este vomitou Jonas na terra.
+
+'''
+
+xref:032-jonas/032-jonas-001.adoc#v32-1-0[&#60; Capítulo Anterior] | <<v32-2-0,Topo>> | xref:032-jonas/032-jonas-003.adoc#v32-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v21-3-0]]
+=== Eclesiastes, 3
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v21-3-1]]
+
+^<<v21-3-1,1>>^ Tudo tem o seu tempo determinado, e há tempo para todo propósito debaixo do céu:
+
+[[v21-3-2]]
+
+^<<v21-3-2,2>>^ há tempo de nascer e tempo de morrer; tempo de plantar e tempo de arrancar o que se plantou;
+
+[[v21-3-3]]
+
+^<<v21-3-3,3>>^ tempo de matar e tempo de curar; tempo de derrubar e tempo de construir;
+
+[[v21-3-4]]
+
+^<<v21-3-4,4>>^ tempo de chorar e tempo de rir; tempo de prantear e tempo de saltar de alegria;
+
+[[v21-3-5]]
+
+^<<v21-3-5,5>>^ tempo de espalhar pedras e tempo de ajuntar pedras; tempo de abraçar e tempo de deixar de abraçar;
+
+[[v21-3-6]]
+
+^<<v21-3-6,6>>^ tempo de procurar e tempo de perder; tempo de guardar e tempo de jogar fora;
+
+[[v21-3-7]]
+
+^<<v21-3-7,7>>^ tempo de rasgar e tempo de costurar; tempo de ficar calado e tempo de falar;
+
+[[v21-3-8]]
+
+^<<v21-3-8,8>>^ tempo de amar e tempo de odiar; tempo de guerra e tempo de paz.
+
+[[v21-3-9]]
+
+^<<v21-3-9,9>>^ Que proveito tem o trabalhador naquilo com que se afadiga?
+
+[[v21-3-10]]
+
+^<<v21-3-10,10>>^ Vi o trabalho que Deus impôs aos filhos dos homens, para com ele os afligir.
+
+[[v21-3-11]]
+
+^<<v21-3-11,11>>^ Deus fez tudo formoso no seu devido tempo. Também pôs a eternidade no coração do ser humano, sem que este possa descobrir as obras que Deus fez desde o princípio até o fim.
+
+[[v21-3-12]]
+
+^<<v21-3-12,12>>^ Sei que não há nada melhor para o ser humano do que alegrar-se e aproveitar a vida ao máximo.
+
+[[v21-3-13]]
+
+^<<v21-3-13,13>>^ Sei também que poder comer, beber e desfrutar o que se conseguiu com todo o trabalho é dom de Deus.
+
+[[v21-3-14]]
+
+^<<v21-3-14,14>>^ Sei que tudo o que Deus faz durará eternamente, sem que nada possa ser acrescentado nem tirado, e que Deus faz isto para que as pessoas o temam.
+
+[[v21-3-15]]
+
+^<<v21-3-15,15>>^ O que é já foi, e o que será também já foi; Deus fará vir outra vez o que já passou.
+
+[[v21-3-16]]
+
+^<<v21-3-16,16>>^ Vi ainda debaixo do sol que no lugar do juízo reinava a maldade e no lugar da justiça havia mais maldade.
+
+[[v21-3-17]]
+
+^<<v21-3-17,17>>^ Então eu disse a mim mesmo: "Deus julgará o justo e o ímpio; porque há um tempo para todo propósito e para toda obra."
+
+[[v21-3-18]]
+
+^<<v21-3-18,18>>^ Eu disse mais: "Isto é por causa dos filhos dos homens, para que Deus os prove, e eles vejam que são em si mesmos como os animais."
+
+[[v21-3-19]]
+
+^<<v21-3-19,19>>^ Porque o mesmo que acontece com os filhos dos homens acontece com os animais: como morre um, assim morre o outro. Todos têm o mesmo fôlego de vida, e o ser humano não tem nenhuma vantagem sobre os animais. Porque tudo é vaidade.
+
+[[v21-3-20]]
+
+^<<v21-3-20,20>>^ Todos vão para o mesmo lugar; todos procedem do pó e ao pó voltarão.
+
+[[v21-3-21]]
+
+^<<v21-3-21,21>>^ Quem sabe se o fôlego de vida dos filhos dos homens se dirige para cima e o dos animais para baixo, para a terra?
+
+[[v21-3-22]]
+
+^<<v21-3-22,22>>^ Assim, percebi que não há nada melhor para o ser humano do que desfrutar do seu trabalho, porque essa é a sua recompensa. Pois quem o fará voltar para ver o que será depois dele?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-002.adoc#v21-2-0[&#60; Capítulo Anterior] | <<v21-3-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Números, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ O Senhor  disse a Moisés e a Arão:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ — Os filhos de Israel acamparão junto ao seu estandarte, segundo as insígnias da casa de seus pais; eles acamparão ao redor da tenda do encontro e de frente para ela.
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ Os que acamparem ao leste, para o lado do nascente, serão os do estandarte do arraial de Judá, segundo as suas turmas; e Naassom, filho de Aminadabe, será chefe dos filhos de Judá.
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ E o seu exército, segundo o censo, foram setenta e quatro mil e seiscentos.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ E junto a ele acampará a tribo de Issacar; e Natanael, filho de Zuar, será chefe dos filhos de Issacar.
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ E o seu exército, segundo o censo, foram cinquenta e quatro mil e quatrocentos.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ Depois, a tribo de Zebulom; e Eliabe, filho de Helom, será chefe dos filhos de Zebulom.
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ E o seu exército, segundo o censo, foram cinquenta e sete mil e quatrocentos.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ Todos os que foram contados do arraial de Judá foram cento e oitenta e seis mil e quatrocentos, segundo as suas turmas; e estes marcharão primeiro.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ O estandarte do arraial de Rúben, segundo as suas turmas, estará para o lado sul; e Elizur, filho de Sedeur, será chefe dos filhos de Rúben.
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ E o seu exército, segundo o censo, foram quarenta e seis mil e quinhentos.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ E junto a ele acampará a tribo de Simeão; e Selumiel, filho de Zurisadai, será chefe dos filhos de Simeão.
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ E o seu exército, segundo o censo, foram cinquenta e nove mil e trezentos.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ Depois, a tribo de Gade; e Eliasafe, filho de Deuel, será chefe dos filhos de Gade.
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ E o seu exército, segundo o censo, foram quarenta e cinco mil seiscentos e cinquenta.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ Todos os que foram contados no arraial de Rúben foram cento e cinquenta e um mil quatrocentos e cinquenta, segundo as suas turmas; e estes marcharão em segundo lugar.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ Então partirá a tenda do encontro com o arraial dos levitas no meio dos arraiais; como acamparem, assim marcharão, cada um no seu lugar, segundo os seus estandartes.
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ O estandarte do arraial de Efraim, segundo as suas turmas, estará para o lado oeste; e Elisama, filho de Amiúde, será chefe dos filhos de Efraim.
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ E o seu exército, segundo o censo, foram quarenta mil e quinhentos.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ E junto a ele, a tribo de Manassés; e Gamaliel, filho de Pedazur, será chefe dos filhos de Manassés.
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ E o seu exército, segundo o censo, foram trinta e dois mil e duzentos.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ Depois, a tribo de Benjamim; e Abidã, filho de Gideoni, será chefe dos filhos de Benjamim.
+
+[[v4-2-23]]
+
+^<<v4-2-23,23>>^ O seu exército, segundo o censo, foram trinta e cinco mil e quatrocentos.
+
+[[v4-2-24]]
+
+^<<v4-2-24,24>>^ Todos os que foram contados no arraial de Efraim foram cento e oito mil e cem, segundo as suas turmas; e estes marcharão em terceiro lugar.
+
+[[v4-2-25]]
+
+^<<v4-2-25,25>>^ O estandarte do arraial de Dã estará para o norte, segundo as suas turmas; e Aiezer, filho de Amisadai, será chefe dos filhos de Dã.
+
+[[v4-2-26]]
+
+^<<v4-2-26,26>>^ E o seu exército, segundo o censo, foram sessenta e dois mil e setecentos.
+
+[[v4-2-27]]
+
+^<<v4-2-27,27>>^ E junto a ele acampará a tribo de Aser; e Pagiel, filho de Ocrã, será chefe dos filhos de Aser.
+
+[[v4-2-28]]
+
+^<<v4-2-28,28>>^ E o seu exército, segundo o censo, foram quarenta e um mil e quinhentos.
+
+[[v4-2-29]]
+
+^<<v4-2-29,29>>^ Depois, a tribo de Naftali; e Aira, filho de Enã, será chefe dos filhos de Naftali.
+
+[[v4-2-30]]
+
+^<<v4-2-30,30>>^ E o seu exército, segundo o censo, foram cinquenta e três mil e quatrocentos.
+
+[[v4-2-31]]
+
+^<<v4-2-31,31>>^ Todos os que foram contados no arraial de Dã foram cento e cinquenta e sete mil e seiscentos; e estes marcharão no último lugar, segundo os seus estandartes.
+
+[[v4-2-32]]
+
+^<<v4-2-32,32>>^ São estes os que foram contados dos filhos de Israel, segundo a casa de seus pais; todos os que foram contados dos arraiais pelas suas turmas foram seiscentos e três mil quinhentos e cinquenta.
+
+[[v4-2-33]]
+
+^<<v4-2-33,33>>^ Mas os levitas não foram contados entre os filhos de Israel, como o Senhor  havia ordenado a Moisés.
+
+[[v4-2-34]]
+
+^<<v4-2-34,34>>^ Assim fizeram os filhos de Israel. Segundo tudo o que o Senhor  havia ordenado a Moisés, assim acamparam conforme os seus estandartes e assim marcharam, cada qual segundo as suas famílias, segundo a casa de seus pais.
+
+'''
+
+xref:004-numeros/004-numeros-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numeros/004-numeros-003.adoc#v4-3-0[Próximo Capítulo &#62;]

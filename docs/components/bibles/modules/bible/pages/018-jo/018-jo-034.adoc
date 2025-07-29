@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v18-34-0]]
+=== Jó, 34
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v18-34-1]]
+
+^<<v18-34-1,1>>^ Eliú disse mais:
+
+[[v18-34-2]]
+
+^<<v18-34-2,2>>^ "Vocês que são sábios, ouçam as minhas palavras; vocês que são instruídos, escutem o que vou dizer.
+
+[[v18-34-3]]
+
+^<<v18-34-3,3>>^ Porque o ouvido avalia as palavras, assim como o paladar prova a comida.
+
+[[v18-34-4]]
+
+^<<v18-34-4,4>>^ Escolhamos para nós o que é direito; conheçamos entre nós o que é bom."
+
+[[v18-34-5]]
+
+^<<v18-34-5,5>>^ "Porque Jó disse: ‘Sou justo, e Deus tirou o meu direito.
+
+[[v18-34-6]]
+
+^<<v18-34-6,6>>^ Apesar do meu direito, sou considerado mentiroso; a minha ferida é incurável, embora não tenha cometido nenhum pecado.’"
+
+[[v18-34-7]]
+
+^<<v18-34-7,7>>^ "Será que existe outro homem semelhante a Jó que bebe a zombaria como se fosse água?
+
+[[v18-34-8]]
+
+^<<v18-34-8,8>>^ Ele segue o caminho dos que praticam a iniquidade e anda com homens perversos.
+
+[[v18-34-9]]
+
+^<<v18-34-9,9>>^ Pois disse: ‘De nada adianta ao homem ter o seu prazer em Deus.’"
+
+[[v18-34-10]]
+
+^<<v18-34-10,10>>^ "Por isso, vocês que têm entendimento, me escutem: longe de Deus o praticar ele a maldade, e longe do Todo-Poderoso o cometer injustiça.
+
+[[v18-34-11]]
+
+^<<v18-34-11,11>>^ Pois Deus retribui ao homem segundo as suas obras e paga a cada um conforme o seu caminho.
+
+[[v18-34-12]]
+
+^<<v18-34-12,12>>^ Na verdade, Deus não pratica o mal; o Todo-Poderoso não perverte o direito.
+
+[[v18-34-13]]
+
+^<<v18-34-13,13>>^ Quem lhe entregou o governo da terra? Quem lhe confiou o universo?
+
+[[v18-34-14]]
+
+^<<v18-34-14,14>>^ Se Deus pensasse apenas em si mesmo e fizesse voltar para si o seu espírito e o seu sopro,
+
+[[v18-34-15]]
+
+^<<v18-34-15,15>>^ toda a humanidade morreria ao mesmo tempo, e o homem voltaria para o pó."
+
+[[v18-34-16]]
+
+^<<v18-34-16,16>>^ "Portanto, se você tem entendimento, escute isto; dê ouvidos ao som das minhas palavras.
+
+[[v18-34-17]]
+
+^<<v18-34-17,17>>^ Se Deus odiasse o direito, será que poderia governar? E será que você quer condenar aquele que é justo e poderoso?
+
+[[v18-34-18]]
+
+^<<v18-34-18,18>>^ Será que alguém diria a um rei: ‘Você não vale nada!’? Ou diria aos príncipes: ‘Seus perversos!’?
+
+[[v18-34-19]]
+
+^<<v18-34-19,19>>^ Quanto menos dirá isso àquele que não privilegia os príncipes, e que não favorece o rico em prejuízo do pobre; porque todos são obra de suas mãos.
+
+[[v18-34-20]]
+
+^<<v18-34-20,20>>^ De repente, morrem; no meio da noite, as pessoas são abaladas e passam, e os poderosos são levados por uma força invisível.
+
+[[v18-34-21]]
+
+^<<v18-34-21,21>>^ Os olhos de Deus estão sobre os caminhos do homem e veem todos os seus passos.
+
+[[v18-34-22]]
+
+^<<v18-34-22,22>>^ Não há trevas nem sombra profunda o bastante, onde os que praticam a iniquidade possam se esconder.
+
+[[v18-34-23]]
+
+^<<v18-34-23,23>>^ Pois Deus não precisa observar o homem por muito tempo antes de o fazer comparecer em juízo diante dele.
+
+[[v18-34-24]]
+
+^<<v18-34-24,24>>^ Deus arrasa os poderosos, sem os inquirir, e põe outros em seu lugar.
+
+[[v18-34-25]]
+
+^<<v18-34-25,25>>^ Porque ele conhece as obras deles; de noite, os transtorna e eles são esmagados.
+
+[[v18-34-26]]
+
+^<<v18-34-26,26>>^ Ele os castiga como se fossem ímpios, à vista de todos,
+
+[[v18-34-27]]
+
+^<<v18-34-27,27>>^ porque se afastaram de Deus, e não quiseram compreender nenhum de seus caminhos,
+
+[[v18-34-28]]
+
+^<<v18-34-28,28>>^ e assim fizeram com que o grito dos pobres subisse até Deus, e este ouviu o lamento dos aflitos."
+
+[[v18-34-29]]
+
+^<<v18-34-29,29>>^ "Se ele se calar, quem o condenará? Se encobrir o rosto, quem poderá vê-lo? Mas ele está acima dos povos e das pessoas,
+
+[[v18-34-30]]
+
+^<<v18-34-30,30>>^ para que o ímpio não reine, e não haja quem iluda o povo."
+
+[[v18-34-31]]
+
+^<<v18-34-31,31>>^ "Se alguém se dirige a Deus, dizendo: ‘Sofri, não vou pecar mais;
+
+[[v18-34-32]]
+
+^<<v18-34-32,32>>^ ensina-me o que não consigo ver; se cometi injustiça, jamais voltarei a praticá-la’,
+
+[[v18-34-33]]
+
+^<<v18-34-33,33>>^ será que Deus deve recompensá-lo segundo o que você quer ou não quer? Será que ele deve dizer: ‘Escolha você, e não eu; diga o que você sabe; fale’?"
+
+[[v18-34-34]]
+
+^<<v18-34-34,34>>^ "Os homens que têm entendimento me responderão, o sábio que me ouve dirá:
+
+[[v18-34-35]]
+
+^<<v18-34-35,35>>^ ‘Jó falou sem conhecimento, e nas palavras dele não há sabedoria.’
+
+[[v18-34-36]]
+
+^<<v18-34-36,36>>^ Quem dera Jó fosse provado até o fim, porque ele respondeu como homem iníquo.
+
+[[v18-34-37]]
+
+^<<v18-34-37,37>>^ Pois ao seu pecado acrescenta rebelião; entre nós, em tom de zombaria, bate palmas e multiplica as suas palavras contra Deus."
+
+'''
+
+xref:018-jo/018-jo-033.adoc#v18-33-0[&#60; Capítulo Anterior] | <<v18-34-0,Topo>> | xref:018-jo/018-jo-035.adoc#v18-35-0[Próximo Capítulo &#62;]

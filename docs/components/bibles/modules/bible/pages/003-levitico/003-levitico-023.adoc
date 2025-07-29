@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v3-23-0]]
+=== Levítico, 23
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v3-23-1]]
+
+^<<v3-23-1,1>>^ O Senhor  disse a Moisés:
+
+[[v3-23-2]]
+
+^<<v3-23-2,2>>^ — Fale aos filhos de Israel e diga-lhes: As festas fixas do Senhor , que vocês proclamarão, serão santas convocações; são estas as minhas festas.
+
+[[v3-23-3]]
+
+^<<v3-23-3,3>>^ — Seis dias vocês trabalharão, mas o sétimo dia será o sábado de descanso solene, santa convocação; não façam nenhuma obra; é sábado dedicado ao Senhor  onde quer que vocês morarem.
+
+[[v3-23-4]]
+
+^<<v3-23-4,4>>^ — São estas as festas fixas do Senhor , as santas convocações, que vocês proclamarão no seu tempo determinado:
+
+[[v3-23-5]]
+
+^<<v3-23-5,5>>^ no primeiro mês, aos catorze do mês, no crepúsculo da tarde, é a Páscoa do Senhor .
+
+[[v3-23-6]]
+
+^<<v3-23-6,6>>^ E aos quinze dias deste mês é a Festa dos Pães sem Fermento do Senhor ; durante sete dias vocês comerão pães sem fermento.
+
+[[v3-23-7]]
+
+^<<v3-23-7,7>>^ No primeiro dia vocês terão uma santa convocação; não façam nenhum trabalho.
+
+[[v3-23-8]]
+
+^<<v3-23-8,8>>^ Durante sete dias vocês apresentarão oferta queimada ao Senhor ; no sétimo dia haverá uma santa convocação; não façam nenhum trabalho nesse dia.
+
+[[v3-23-9]]
+
+^<<v3-23-9,9>>^ O Senhor  disse a Moisés:
+
+[[v3-23-10]]
+
+^<<v3-23-10,10>>^ — Fale aos filhos de Israel e diga-lhes: Quando entrarem na terra que eu lhes dou e fizerem a colheita, vocês trarão um feixe das primícias da colheita ao sacerdote;
+
+[[v3-23-11]]
+
+^<<v3-23-11,11>>^ este moverá o feixe diante do Senhor , para que vocês sejam aceitos;
+
+[[v3-23-12]]
+
+^<<v3-23-12,12>>^ o sacerdote moverá o feixe no dia imediatamente após o sábado. No dia em que moverem o feixe, vocês oferecerão um cordeiro sem defeito, de um ano, em holocausto ao Senhor .
+
+[[v3-23-13]]
+
+^<<v3-23-13,13>>^ A oferta de cereais que acompanha o holocausto serão quatro litros da melhor farinha, amassada com azeite, para oferta queimada de aroma agradável ao Senhor , e a libação que acompanha será de um litro de vinho.
+
+[[v3-23-14]]
+
+^<<v3-23-14,14>>^ Vocês não deverão comer pão, nem trigo torrado, nem espigas de trigo verdes, até o dia em que vocês trouxerem a oferta ao seu Deus; este é um estatuto perpétuo durante as gerações de vocês, onde quer que morarem.
+
+[[v3-23-15]]
+
+^<<v3-23-15,15>>^ — Contem sete semanas a partir do dia imediatamente após o sábado, a partir do dia em que trouxerem o feixe da oferta movida; deverão ser semanas inteiras.
+
+[[v3-23-16]]
+
+^<<v3-23-16,16>>^ Até o dia que vem depois do sétimo sábado, contem cinquenta dias; então apresentem nova oferta de cereais ao Senhor .
+
+[[v3-23-17]]
+
+^<<v3-23-17,17>>^ De onde estiverem morando tragam dois pães para serem movidos. Os pães serão feitos com quatro litros da melhor farinha, assados com fermento; são primícias ao Senhor .
+
+[[v3-23-18]]
+
+^<<v3-23-18,18>>^ Junto com o pão ofereçam sete cordeiros de um ano, sem defeito, um novilho e dois carneiros; serão holocausto ao Senhor , acompanhado da oferta de cereais e das libações, que serão apresentadas como oferta queimada de aroma agradável ao Senhor .
+
+[[v3-23-19]]
+
+^<<v3-23-19,19>>^ Ofereçam também um bode como oferta pelo pecado, e dois cordeiros de um ano como oferta pacífica.
+
+[[v3-23-20]]
+
+^<<v3-23-20,20>>^ O sacerdote os moverá, com o pão das primícias, por oferta movida diante do Senhor , com os dois cordeiros; santos serão ao Senhor , para o uso do sacerdote.
+
+[[v3-23-21]]
+
+^<<v3-23-21,21>>^ No mesmo dia, se proclamará que vocês terão santa convocação; não façam nenhum trabalho nesse dia; é estatuto perpétuo onde quer que vocês morarem, de geração em geração.
+
+[[v3-23-22]]
+
+^<<v3-23-22,22>>^ — Quando fizerem a colheita na terra de vocês, não colham até as beiradas do seu campo, nem recolham as espigas que caíram durante a colheita; deixem essas espigas para os pobres e para os estrangeiros. Eu sou o Senhor , o Deus de vocês.
+
+[[v3-23-23]]
+
+^<<v3-23-23,23>>^ O Senhor  disse a Moisés:
+
+[[v3-23-24]]
+
+^<<v3-23-24,24>>^ — Fale aos filhos de Israel, dizendo: No primeiro dia do sétimo mês, vocês terão um descanso solene, memorial, com toques de trombetas, santa convocação.
+
+[[v3-23-25]]
+
+^<<v3-23-25,25>>^ Nesse dia não farão nenhum trabalho, mas trarão oferta queimada ao Senhor .
+
+[[v3-23-26]]
+
+^<<v3-23-26,26>>^ O Senhor  disse ainda a Moisés:
+
+[[v3-23-27]]
+
+^<<v3-23-27,27>>^ — Mas, aos dez dias deste sétimo mês, será o Dia da Expiação; façam uma santa convocação e humilhem-se; tragam uma oferta queimada ao Senhor .
+
+[[v3-23-28]]
+
+^<<v3-23-28,28>>^ Nesse mesmo dia, vocês não farão nenhum trabalho, porque é o Dia da Expiação, para fazer expiação por vocês diante do Senhor , o seu Deus.
+
+[[v3-23-29]]
+
+^<<v3-23-29,29>>^ Qualquer pessoa que, nesse dia, não se humilhar será eliminada do seu povo.
+
+[[v3-23-30]]
+
+^<<v3-23-30,30>>^ Quem, nesse dia, fizer algum trabalho, a esse eu destruirei do meio do seu povo.
+
+[[v3-23-31]]
+
+^<<v3-23-31,31>>^ Não façam nenhum trabalho nesse dia; é estatuto perpétuo pelas gerações de vocês, onde quer que morarem.
+
+[[v3-23-32]]
+
+^<<v3-23-32,32>>^ Será um sábado de descanso solene para vocês e vocês se humilharão; da tarde do dia nove desse mês até a tarde do dia seguinte vocês celebrarão esse sábado.
+
+[[v3-23-33]]
+
+^<<v3-23-33,33>>^ O Senhor  disse a Moisés:
+
+[[v3-23-34]]
+
+^<<v3-23-34,34>>^ — Fale aos filhos de Israel, dizendo: Aos quinze dias deste sétimo mês será a Festa dos Tabernáculos ao Senhor , durante sete dias.
+
+[[v3-23-35]]
+
+^<<v3-23-35,35>>^ No primeiro dia, haverá santa convocação; não façam nenhum trabalho.
+
+[[v3-23-36]]
+
+^<<v3-23-36,36>>^ Durante sete dias, apresentem ofertas queimadas ao Senhor . No oitavo dia, vocês terão uma santa convocação e apresentarão ofertas queimadas ao Senhor ; é reunião solene, não façam nenhum trabalho nesse dia.
+
+[[v3-23-37]]
+
+^<<v3-23-37,37>>^ — São estas as festas fixas do Senhor , que vocês proclamarão para santas convocações, para apresentar ao Senhor  oferta queimada, holocausto e oferta de cereais, sacrifício e libações, cada qual em seu dia próprio,
+
+[[v3-23-38]]
+
+^<<v3-23-38,38>>^ além dos sábados do Senhor , das dádivas, de todos os votos de vocês e de todas as ofertas voluntárias que vocês darão ao Senhor .
+
+[[v3-23-39]]
+
+^<<v3-23-39,39>>^ — Porém, aos quinze dias do sétimo mês, quando tiverem recolhido os produtos da terra, vocês celebrarão a festa do Senhor , durante sete dias. No primeiro dia e também no oitavo, haverá descanso solene.
+
+[[v3-23-40]]
+
+^<<v3-23-40,40>>^ No primeiro dia, peguem para vocês frutos das melhores árvores, ramos de palmeiras, ramos de árvores frondosas e de salgueiros; e, durante sete dias, vocês se alegrarão diante do Senhor , o seu Deus.
+
+[[v3-23-41]]
+
+^<<v3-23-41,41>>^ Celebrem esta festa ao Senhor  durante sete dias cada ano; é estatuto perpétuo de geração em geração; no sétimo mês, vocês celebrarão esta festa.
+
+[[v3-23-42]]
+
+^<<v3-23-42,42>>^ Durante sete dias vocês habitarão em tendas de ramos; todos os naturais de Israel habitarão em tendas,
+
+[[v3-23-43]]
+
+^<<v3-23-43,43>>^ para que as gerações de vocês saibam que eu fiz com que os filhos de Israel habitassem em tendas, quando os tirei da terra do Egito. Eu sou o Senhor , o Deus de vocês.
+
+[[v3-23-44]]
+
+^<<v3-23-44,44>>^ Assim, Moisés declarou as festas fixas do Senhor  aos filhos de Israel.
+
+'''
+
+xref:003-levitico/003-levitico-022.adoc#v3-22-0[&#60; Capítulo Anterior] | <<v3-23-0,Topo>> | xref:003-levitico/003-levitico-024.adoc#v3-24-0[Próximo Capítulo &#62;]

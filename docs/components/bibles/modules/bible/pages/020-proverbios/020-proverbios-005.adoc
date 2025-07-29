@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v20-5-0]]
+=== Provérbios, 5
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-5-1]]
+
+^<<v20-5-1,1>>^ Meu filho, dê atenção à minha sabedoria; incline os ouvidos à minha inteligência,
+
+[[v20-5-2]]
+
+^<<v20-5-2,2>>^ para que você conserve o discernimento, e para que os seus lábios guardem o conhecimento.
+
+[[v20-5-3]]
+
+^<<v20-5-3,3>>^ Porque os lábios da mulher imoral destilam mel, e as suas palavras são mais suaves do que o azeite;
+
+[[v20-5-4]]
+
+^<<v20-5-4,4>>^ mas o seu fim é amargo como fel, e cortante como uma espada de dois gumes.
+
+[[v20-5-5]]
+
+^<<v20-5-5,5>>^ Os seus pés descem para a morte; os seus passos conduzem ao inferno.
+
+[[v20-5-6]]
+
+^<<v20-5-6,6>>^ Ela não faz plana a vereda da vida; anda errante nos seus caminhos e não o sabe.
+
+[[v20-5-7]]
+
+^<<v20-5-7,7>>^ E agora, meu filho, escute o que eu digo e não se desvie das palavras da minha boca.
+
+[[v20-5-8]]
+
+^<<v20-5-8,8>>^ Afaste o seu caminho dessa mulher; não se aproxime da porta da casa dela,
+
+[[v20-5-9]]
+
+^<<v20-5-9,9>>^ para que você não dê a outros a sua honra, nem a sua vida a homens cruéis;
+
+[[v20-5-10]]
+
+^<<v20-5-10,10>>^ para que os estranhos não se fartem dos seus bens, e o fruto do seu trabalho não acabe em casa alheia.
+
+[[v20-5-11]]
+
+^<<v20-5-11,11>>^ No fim de sua vida você ficará gemendo, quando a sua carne e o seu corpo se consumirem.
+
+[[v20-5-12]]
+
+^<<v20-5-12,12>>^ Então você dirá: "Como foi que eu pude odiar o ensino? E por que o meu coração desprezou a disciplina?
+
+[[v20-5-13]]
+
+^<<v20-5-13,13>>^ Não escutei a voz dos que me ensinavam, nem dei ouvidos aos meus mestres!
+
+[[v20-5-14]]
+
+^<<v20-5-14,14>>^ Quase caí em ruína completa no meio da congregação reunida."
+
+[[v20-5-15]]
+
+^<<v20-5-15,15>>^ Beba a água da sua própria cisterna e das correntes do seu poço.
+
+[[v20-5-16]]
+
+^<<v20-5-16,16>>^ Por que você derramaria as suas fontes lá fora, e os seus ribeiros de água pelas praças?
+
+[[v20-5-17]]
+
+^<<v20-5-17,17>>^ Que sejam para você somente e não para os estranhos que estão com você.
+
+[[v20-5-18]]
+
+^<<v20-5-18,18>>^ Seja bendito o seu manancial, e alegre-se com a mulher da sua mocidade,
+
+[[v20-5-19]]
+
+^<<v20-5-19,19>>^ corça amorosa e gazela graciosa. Que os seios dela saciem você em todo o tempo; embriague-se sempre com as suas carícias.
+
+[[v20-5-20]]
+
+^<<v20-5-20,20>>^ Meu filho, por que você andaria cego atrás de uma estranha e abraçaria os seios de outra?
+
+[[v20-5-21]]
+
+^<<v20-5-21,21>>^ Porque os caminhos do homem estão diante dos olhos do Senhor , e ele considera todas as suas veredas.
+
+[[v20-5-22]]
+
+^<<v20-5-22,22>>^ Quanto ao ímpio, as suas iniquidades o prenderão, e com as cordas do seu pecado será detido.
+
+[[v20-5-23]]
+
+^<<v20-5-23,23>>^ Ele morrerá pela falta de disciplina, e, pelo excesso de sua loucura, sai cambaleando por aí.
+
+'''
+
+xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[&#60; Capítulo Anterior] | <<v20-5-0,Topo>> | xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[Próximo Capítulo &#62;]

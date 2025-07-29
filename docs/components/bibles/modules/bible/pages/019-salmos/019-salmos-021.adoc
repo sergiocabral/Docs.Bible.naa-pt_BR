@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-21-0]]
+=== Salmos, 21
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-21-1]]
+
+^<<v19-21-1,1>>^ Na tua força, Senhor , o rei se alegra! E como exulta com a tua salvação!
+
+[[v19-21-2]]
+
+^<<v19-21-2,2>>^ Tu lhe satisfizeste o desejo do coração e não lhe negaste as súplicas dos seus lábios.
+
+[[v19-21-3]]
+
+^<<v19-21-3,3>>^ Pois o supres das bênçãos de bondade; e lhe pões na cabeça uma coroa de ouro puro.
+
+[[v19-21-4]]
+
+^<<v19-21-4,4>>^ Ele te pediu vida, e tu lhe deste; sim, longevidade para todo o sempre.
+
+[[v19-21-5]]
+
+^<<v19-21-5,5>>^ Grande é a glória dele por causa da tua salvação; de esplendor e majestade o cobriste.
+
+[[v19-21-6]]
+
+^<<v19-21-6,6>>^ Pois o puseste por bênção para sempre e o encheste de alegria com a tua presença.
+
+[[v19-21-7]]
+
+^<<v19-21-7,7>>^ O rei confia no Senhor e pela misericórdia do Altíssimo jamais vacilará.
+
+[[v19-21-8]]
+
+^<<v19-21-8,8>>^ A mão dele alcançará todos os seus inimigos, a sua mão direita apanhará os que o odeiam.
+
+[[v19-21-9]]
+
+^<<v19-21-9,9>>^ Tu os farás como uma fornalha ardente, quando te manifestares; o Senhor , na sua indignação, os consumirá, o fogo os devorará.
+
+[[v19-21-10]]
+
+^<<v19-21-10,10>>^ Destruirás da terra a sua posteridade e a sua descendência, de entre os filhos dos homens.
+
+[[v19-21-11]]
+
+^<<v19-21-11,11>>^ Se contra ti planejarem o mal e armarem ciladas, não obterão êxito;
+
+[[v19-21-12]]
+
+^<<v19-21-12,12>>^ porque tu os porás em fuga e mirarás o rosto deles com o teu arco.
+
+[[v19-21-13]]
+
+^<<v19-21-13,13>>^ Exalta-te, Senhor , na tua força! Nós cantaremos e louvaremos o teu poder.
+
+'''
+
+xref:019-salmos/019-salmos-020.adoc#v19-20-0[&#60; Capítulo Anterior] | <<v19-21-0,Topo>> | xref:019-salmos/019-salmos-022.adoc#v19-22-0[Próximo Capítulo &#62;]

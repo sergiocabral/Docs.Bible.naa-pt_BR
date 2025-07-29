@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v3-12-0]]
+=== Levítico, 12
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v3-12-1]]
+
+^<<v3-12-1,1>>^ O Senhor  disse a Moisés:
+
+[[v3-12-2]]
+
+^<<v3-12-2,2>>^ — Diga aos filhos de Israel: Se uma mulher conceber e tiver um menino, ficará impura durante sete dias; como nos dias da sua menstruação, ficará impura.
+
+[[v3-12-3]]
+
+^<<v3-12-3,3>>^ E, no oitavo dia, o menino será circuncidado.
+
+[[v3-12-4]]
+
+^<<v3-12-4,4>>^ Depois, ela ficará trinta e três dias a purificar-se do seu sangue; nenhuma coisa santa tocará, nem entrará no santuário até que se cumpram os dias da sua purificação.
+
+[[v3-12-5]]
+
+^<<v3-12-5,5>>^ Mas, se tiver uma menina, ficará impura durante duas semanas, como na sua menstruação; depois, ficará sessenta e seis dias a purificar-se do seu sangue.
+
+[[v3-12-6]]
+
+^<<v3-12-6,6>>^ — E, cumpridos os dias da sua purificação pelo nascimento de um filho ou de uma filha, trará ao sacerdote, à porta da tenda do encontro, um cordeiro de um ano, por holocausto, e um pombinho ou uma rolinha, por oferta pelo pecado;
+
+[[v3-12-7]]
+
+^<<v3-12-7,7>>^ o sacerdote oferecerá esse sacrifício diante do Senhor  e, pela mulher, fará expiação; e ela será purificada do fluxo do seu sangue. Esta é a lei a respeito da que der à luz um menino ou uma menina.
+
+[[v3-12-8]]
+
+^<<v3-12-8,8>>^ Mas, se as suas posses não lhe permitirem trazer um cordeiro, então a mulher trará duas rolinhas ou dois pombinhos, um para o holocausto e o outro para a oferta pelo pecado; assim, o sacerdote fará expiação pela mulher, e ela ficará pura.
+
+'''
+
+xref:003-levitico/003-levitico-011.adoc#v3-11-0[&#60; Capítulo Anterior] | <<v3-12-0,Topo>> | xref:003-levitico/003-levitico-013.adoc#v3-13-0[Próximo Capítulo &#62;]

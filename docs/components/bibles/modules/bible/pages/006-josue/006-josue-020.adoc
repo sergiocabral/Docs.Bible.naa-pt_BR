@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Josué, 20
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ O Senhor  ordenou a Josué:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ — Diga aos filhos de Israel: "Escolham as cidades de refúgio de que lhes falei por meio de Moisés,
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ para que possa fugir para lá o homicida que matar uma pessoa por engano ou sem querer. Essas cidades serão para vocês um lugar de refúgio contra o vingador do sangue.
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ Ao fugir para uma dessas cidades, o homicida involuntário se colocará junto ao portão da cidade e exporá o seu caso aos anciãos daquela cidade. Então eles o levarão para dentro da cidade e lhe darão lugar, para que habite com eles.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ Se o vingador do sangue o perseguir, não lhe entregarão nas mãos o homicida, porque matou o seu próximo sem querer e não porque o odiava.
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ Habitará nessa cidade até que compareça em juízo diante da congregação, até que morra o sumo sacerdote que estiver servindo naqueles dias. Então o homicida poderá voltar à sua cidade e à sua casa, à cidade de onde fugiu."
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ Assim, designaram solenemente Quedes, na Galileia, na região montanhosa de Naftali, Siquém, na região montanhosa de Efraim, e Quiriate-Arba, ou seja, Hebrom, na região montanhosa de Judá.
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ Do outro lado do Jordão, na altura de Jericó, para o leste, designaram Bezer, no deserto, no planalto da tribo de Rúben; e Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés.
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ São estas as cidades que foram designadas para todos os filhos de Israel e para os estrangeiros que moravam entre eles, para que nelas pudesse se refugiar todo aquele que, por engano, matasse uma pessoa, para que não morresse às mãos do vingador do sangue, até comparecer diante da congregação.
+
+'''
+
+xref:006-josue/006-josue-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-josue/006-josue-021.adoc#v6-21-0[Próximo Capítulo &#62;]

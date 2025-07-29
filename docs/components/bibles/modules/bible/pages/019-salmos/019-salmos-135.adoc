@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-135-0]]
+=== Salmos, 135
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-135-1]]
+
+^<<v19-135-1,1>>^ Aleluia! Louvem o nome do Senhor ! Louvem-no vocês, servos do Senhor ,
+
+[[v19-135-2]]
+
+^<<v19-135-2,2>>^ que estão na Casa do Senhor , nos átrios da casa do nosso Deus.
+
+[[v19-135-3]]
+
+^<<v19-135-3,3>>^ Louvem o Senhor , porque o Senhor  é bom; cantem louvores ao seu nome, porque é agradável.
+
+[[v19-135-4]]
+
+^<<v19-135-4,4>>^ Pois o Senhor  escolheu Jacó para ser dele, e Israel, para ser o seu tesouro especial.
+
+[[v19-135-5]]
+
+^<<v19-135-5,5>>^ De fato, eu sei que o Senhor  é grande e que o nosso Deus está acima de todos os deuses.
+
+[[v19-135-6]]
+
+^<<v19-135-6,6>>^ Tudo o que agrada ao Senhor , ele o faz, nos céus e na terra, no mar e em todos os abismos.
+
+[[v19-135-7]]
+
+^<<v19-135-7,7>>^ Faz subir as nuvens dos confins da terra, faz os relâmpagos para a chuva, faz sair o vento dos seus reservatórios.
+
+[[v19-135-8]]
+
+^<<v19-135-8,8>>^ Foi ele quem matou os primogênitos no Egito, tanto das pessoas como dos animais.
+
+[[v19-135-9]]
+
+^<<v19-135-9,9>>^ Foi ele quem fez sinais e maravilhas em seu meio, ó Egito, contra Faraó e todos os seus servos.
+
+[[v19-135-10]]
+
+^<<v19-135-10,10>>^ Ele destruiu muitas nações e matou reis poderosos:
+
+[[v19-135-11]]
+
+^<<v19-135-11,11>>^ Seom, rei dos amorreus, Ogue, rei de Basã, e todos os reinos de Canaã.
+
+[[v19-135-12]]
+
+^<<v19-135-12,12>>^ E a terra deles deu em herança, em herança a Israel, seu povo.
+
+[[v19-135-13]]
+
+^<<v19-135-13,13>>^ O teu nome, Senhor , permanece para sempre; a tua memória, Senhor , passará de geração em geração.
+
+[[v19-135-14]]
+
+^<<v19-135-14,14>>^ Pois o Senhor  julga o seu povo e se compadece dos seus servos.
+
+[[v19-135-15]]
+
+^<<v19-135-15,15>>^ Os ídolos das nações são prata e ouro, obra de mãos humanas.
+
+[[v19-135-16]]
+
+^<<v19-135-16,16>>^ Têm boca e não falam; têm olhos e não veem;
+
+[[v19-135-17]]
+
+^<<v19-135-17,17>>^ têm ouvidos e não ouvem; pois não há alento de vida em sua boca.
+
+[[v19-135-18]]
+
+^<<v19-135-18,18>>^ Tornam-se semelhantes a eles os que os fazem, e todos os que neles confiam.
+
+[[v19-135-19]]
+
+^<<v19-135-19,19>>^ Casa de Israel, bendigam o Senhor ! Casa de Arão, bendigam o Senhor !
+
+[[v19-135-20]]
+
+^<<v19-135-20,20>>^ Casa de Levi, bendigam o Senhor ! Vocês que temem o Senhor , bendigam o Senhor !
+
+[[v19-135-21]]
+
+^<<v19-135-21,21>>^ Desde Sião bendito seja o Senhor , que habita em Jerusalém! Aleluia!
+
+'''
+
+xref:019-salmos/019-salmos-134.adoc#v19-134-0[&#60; Capítulo Anterior] | <<v19-135-0,Topo>> | xref:019-salmos/019-salmos-136.adoc#v19-136-0[Próximo Capítulo &#62;]

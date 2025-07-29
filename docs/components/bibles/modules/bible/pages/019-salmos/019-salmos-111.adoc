@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-111-0]]
+=== Salmos, 111
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-111-1]]
+
+^<<v19-111-1,1>>^ Aleluia! De todo o coração louvarei o Senhor , na companhia dos justos e na assembleia.
+
+[[v19-111-2]]
+
+^<<v19-111-2,2>>^ Grandes são as obras do Senhor , consideradas por todos os que se alegram por causa delas.
+
+[[v19-111-3]]
+
+^<<v19-111-3,3>>^ Em suas obras há glória e majestade, e a sua justiça permanece para sempre.
+
+[[v19-111-4]]
+
+^<<v19-111-4,4>>^ Ele fez memoráveis as suas maravilhas; bondoso e compassivo é o Senhor .
+
+[[v19-111-5]]
+
+^<<v19-111-5,5>>^ Ele dá sustento aos que o temem; sempre se lembra da sua aliança.
+
+[[v19-111-6]]
+
+^<<v19-111-6,6>>^ Manifestou ao seu povo o poder das suas obras, dando-lhe a herança das nações.
+
+[[v19-111-7]]
+
+^<<v19-111-7,7>>^ As obras de suas mãos são verdade e justiça; fiéis são todos os seus preceitos.
+
+[[v19-111-8]]
+
+^<<v19-111-8,8>>^ Estáveis são eles para todo o sempre, instituídos em fidelidade e retidão.
+
+[[v19-111-9]]
+
+^<<v19-111-9,9>>^ Enviou ao seu povo a redenção; estabeleceu para sempre a sua aliança; santo e tremendo é o seu nome.
+
+[[v19-111-10]]
+
+^<<v19-111-10,10>>^ O temor do Senhor é o princípio da sabedoria; revelam prudência todos os que o praticam. O seu louvor permanece para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-110.adoc#v19-110-0[&#60; Capítulo Anterior] | <<v19-111-0,Topo>> | xref:019-salmos/019-salmos-112.adoc#v19-112-0[Próximo Capítulo &#62;]

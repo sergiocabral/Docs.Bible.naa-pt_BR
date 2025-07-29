@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-120-0]]
+=== Salmos, 120
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-120-1]]
+
+^<<v19-120-1,1>>^ Na minha angústia, clamo ao Senhor , e ele me ouve.
+
+[[v19-120-2]]
+
+^<<v19-120-2,2>>^ Senhor , livra-me dos lábios mentirosos, da língua enganadora.
+
+[[v19-120-3]]
+
+^<<v19-120-3,3>>^ O que lhe será dado ou o que lhe será acrescentado, ó língua enganadora?
+
+[[v19-120-4]]
+
+^<<v19-120-4,4>>^ Flechas afiadas de guerreiro e brasas vivas de zimbro.
+
+[[v19-120-5]]
+
+^<<v19-120-5,5>>^ Ai de mim, que peregrino em Meseque e habito nas tendas de Quedar.
+
+[[v19-120-6]]
+
+^<<v19-120-6,6>>^ Já há tempo demais que habito com aqueles que odeiam a paz.
+
+[[v19-120-7]]
+
+^<<v19-120-7,7>>^ Sou pela paz; quando, porém, eu falo, eles teimam pela guerra.
+
+'''
+
+xref:019-salmos/019-salmos-119.adoc#v19-119-0[&#60; Capítulo Anterior] | <<v19-120-0,Topo>> | xref:019-salmos/019-salmos-121.adoc#v19-121-0[Próximo Capítulo &#62;]

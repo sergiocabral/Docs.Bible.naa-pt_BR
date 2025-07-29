@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v42-2-0]]
+=== Lucas, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v42-2-1]]
+
+^<<v42-2-1,1>>^ Naqueles dias, foi publicado um decreto de César Augusto, convocando toda a população do Império para recensear-se.
+
+[[v42-2-2]]
+
+^<<v42-2-2,2>>^ Este, o primeiro recenseamento, foi feito quando Quirino era governador da Síria.
+
+[[v42-2-3]]
+
+^<<v42-2-3,3>>^ Todos iam alistar-se, cada um à sua própria cidade.
+
+[[v42-2-4]]
+
+^<<v42-2-4,4>>^ José também saiu da Galileia, da cidade de Nazaré, e foi para a Judeia, até a cidade de Davi, chamada Belém, por ser ele da casa e família de Davi,
+
+[[v42-2-5]]
+
+^<<v42-2-5,5>>^ a fim de alistar-se com Maria, sua esposa, que estava grávida.
+
+[[v42-2-6]]
+
+^<<v42-2-6,6>>^ E aconteceu que, estando eles ali, chegou o tempo de ela ter a criança.
+
+[[v42-2-7]]
+
+^<<v42-2-7,7>>^ Então Maria deu à luz o seu filho primogênito, enfaixou o menino e o deitou numa manjedoura, porque não havia lugar para eles na hospedaria.
+
+[[v42-2-8]]
+
+^<<v42-2-8,8>>^ Havia, naquela mesma região, pastores que viviam nos campos e guardavam os seus rebanhos durante as vigílias da noite.
+
+[[v42-2-9]]
+
+^<<v42-2-9,9>>^ E um anjo do Senhor desceu aonde eles estavam, e a glória do Senhor brilhou ao redor deles; e ficaram tomados de grande temor.
+
+[[v42-2-10]]
+
+^<<v42-2-10,10>>^ O anjo, porém, lhes disse: — Não tenham medo! Estou aqui para lhes trazer boa-nova de grande alegria, que será para todo o povo:
+
+[[v42-2-11]]
+
+^<<v42-2-11,11>>^ é que hoje, na cidade de Davi, lhes nasceu o Salvador, que é Cristo, o Senhor.
+
+[[v42-2-12]]
+
+^<<v42-2-12,12>>^ E isto servirá a vocês de sinal: vocês encontrarão uma criança envolta em faixas e deitada em manjedoura.
+
+[[v42-2-13]]
+
+^<<v42-2-13,13>>^ E, de repente, apareceu com o anjo uma multidão do exército celestial, louvando a Deus e dizendo:
+
+[[v42-2-14]]
+
+^<<v42-2-14,14>>^ "Glória a Deus nas maiores alturas, e paz na terra entre os homens, a quem ele quer bem."
+
+[[v42-2-15]]
+
+^<<v42-2-15,15>>^ Quando os anjos se afastaram deles e voltaram para o céu, os pastores disseram uns aos outros: — Vamos até Belém e vejamos os acontecimentos que o Senhor nos deu a conhecer.
+
+[[v42-2-16]]
+
+^<<v42-2-16,16>>^ Foram depressa e encontraram Maria e José, e a criança deitada na manjedoura.
+
+[[v42-2-17]]
+
+^<<v42-2-17,17>>^ E, vendo isso, divulgaram o que lhes tinha sido dito a respeito deste menino.
+
+[[v42-2-18]]
+
+^<<v42-2-18,18>>^ Todos os que ouviram se admiraram das coisas relatadas pelos pastores.
+
+[[v42-2-19]]
+
+^<<v42-2-19,19>>^ Maria, porém, guardava todas estas palavras, meditando-as no coração.
+
+[[v42-2-20]]
+
+^<<v42-2-20,20>>^ E os pastores voltaram, glorificando e louvando a Deus por tudo o que tinham ouvido e visto, como lhes tinha sido anunciado.
+
+[[v42-2-21]]
+
+^<<v42-2-21,21>>^ E ao se completarem oito dias, quando o menino foi circuncidado, deram-lhe o nome de Jesus . Esse nome tinha sido dado pelo anjo, antes de o menino ser concebido.
+
+[[v42-2-22]]
+
+^<<v42-2-22,22>>^ Passados os dias da purificação deles segundo a Lei de Moisés, levaram o menino a Jerusalém para o apresentar ao Senhor,
+
+[[v42-2-23]]
+
+^<<v42-2-23,23>>^ conforme o que está escrito na Lei do Senhor: "Todo primogênito será consagrado ao Senhor."
+
+[[v42-2-24]]
+
+^<<v42-2-24,24>>^ E também foram para oferecer um sacrifício, segundo o que está escrito na referida Lei: "Um par de rolinhas ou dois pombinhos."
+
+[[v42-2-25]]
+
+^<<v42-2-25,25>>^ Em Jerusalém havia um homem chamado Simeão. Este homem era justo e piedoso e esperava a consolação de Israel; e o Espírito Santo estava sobre ele.
+
+[[v42-2-26]]
+
+^<<v42-2-26,26>>^ Ele tinha recebido uma revelação do Espírito Santo de que não morreria antes de ver o Cristo do Senhor.
+
+[[v42-2-27]]
+
+^<<v42-2-27,27>>^ Movido pelo Espírito, ele foi ao templo. Quando os pais trouxeram o menino Jesus para fazerem com ele o que a Lei ordenava,
+
+[[v42-2-28]]
+
+^<<v42-2-28,28>>^ Simeão o tomou nos braços e louvou a Deus, dizendo:
+
+[[v42-2-29]]
+
+^<<v42-2-29,29>>^ "Agora, Senhor, podes despedir em paz o teu servo, segundo a tua palavra;
+
+[[v42-2-30]]
+
+^<<v42-2-30,30>>^ porque os meus olhos já viram a tua salvação,
+
+[[v42-2-31]]
+
+^<<v42-2-31,31>>^ a qual preparaste diante de todos os povos:
+
+[[v42-2-32]]
+
+^<<v42-2-32,32>>^ luz para revelação aos gentios, e para glória do teu povo de Israel."
+
+[[v42-2-33]]
+
+^<<v42-2-33,33>>^ E o pai e a mãe do menino estavam admirados com o que se dizia a respeito dele.
+
+[[v42-2-34]]
+
+^<<v42-2-34,34>>^ Simeão os abençoou e disse a Maria, mãe do menino: — Eis que este menino está destinado tanto para ruína como para elevação de muitos em Israel e para ser alvo de contradição,
+
+[[v42-2-35]]
+
+^<<v42-2-35,35>>^ para que se manifestem os pensamentos de muitos corações. Quanto a você, Maria, uma espada atravessará a sua alma.
+
+[[v42-2-36]]
+
+^<<v42-2-36,36>>^ Havia uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser. Ela era bem idosa, tendo vivido com o marido sete anos desde que tinha se casado.
+
+[[v42-2-37]]
+
+^<<v42-2-37,37>>^ Agora era viúva de oitenta e quatro anos. Ela não deixava o templo, mas adorava noite e dia, com jejuns e orações.
+
+[[v42-2-38]]
+
+^<<v42-2-38,38>>^ E, chegando naquela hora, dava graças a Deus e falava a respeito do menino a todos os que esperavam a redenção de Jerusalém.
+
+[[v42-2-39]]
+
+^<<v42-2-39,39>>^ Depois de terem cumprido tudo conforme a Lei do Senhor, voltaram para a Galileia, para a sua cidade de Nazaré.
+
+[[v42-2-40]]
+
+^<<v42-2-40,40>>^ O menino crescia e se fortalecia, enchendo-se de sabedoria; e a graça de Deus estava sobre ele.
+
+[[v42-2-41]]
+
+^<<v42-2-41,41>>^ Todos os anos os pais de Jesus iam a Jerusalém, para a Festa da Páscoa.
+
+[[v42-2-42]]
+
+^<<v42-2-42,42>>^ Quando ele atingiu os doze anos, foram a Jerusalém, segundo o costume da festa.
+
+[[v42-2-43]]
+
+^<<v42-2-43,43>>^ Terminados os dias da festa, ao regressarem, o menino Jesus ficou em Jerusalém, sem que os pais dele o soubessem.
+
+[[v42-2-44]]
+
+^<<v42-2-44,44>>^ Pensando, porém, que ele estava entre os companheiros de viagem, andaram um dia inteiro e, então, começaram a procurá-lo entre os parentes e os conhecidos.
+
+[[v42-2-45]]
+
+^<<v42-2-45,45>>^ E, como não o encontraram, voltaram a Jerusalém à sua procura.
+
+[[v42-2-46]]
+
+^<<v42-2-46,46>>^ Três dias depois, o acharam no templo, assentado no meio dos doutores, ouvindo-os e fazendo-lhes perguntas.
+
+[[v42-2-47]]
+
+^<<v42-2-47,47>>^ E todos os que ouviam o menino se admiravam muito da sua inteligência e das suas respostas.
+
+[[v42-2-48]]
+
+^<<v42-2-48,48>>^ Logo que os pais o viram, ficaram maravilhados. E a sua mãe lhe disse: — Filho, por que você fez isso conosco? Seu pai e eu estávamos aflitos à sua procura.
+
+[[v42-2-49]]
+
+^<<v42-2-49,49>>^ Ele respondeu: — Por que me procuravam? Não sabiam que eu tinha de estar na casa de meu Pai?
+
+[[v42-2-50]]
+
+^<<v42-2-50,50>>^ Não compreenderam, porém, as palavras que lhes disse.
+
+[[v42-2-51]]
+
+^<<v42-2-51,51>>^ E voltou com eles para Nazaré e era submisso a eles. E a mãe dele guardava todas estas coisas no coração.
+
+[[v42-2-52]]
+
+^<<v42-2-52,52>>^ E Jesus crescia em sabedoria, estatura e graça, diante de Deus e dos homens.
+
+'''
+
+xref:042-lucas/042-lucas-001.adoc#v42-1-0[&#60; Capítulo Anterior] | <<v42-2-0,Topo>> | xref:042-lucas/042-lucas-003.adoc#v42-3-0[Próximo Capítulo &#62;]

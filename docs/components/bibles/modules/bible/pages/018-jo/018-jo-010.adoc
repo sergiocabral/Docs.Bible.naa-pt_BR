@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-10-0]]
+=== Jó, 10
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v18-10-1]]
+
+^<<v18-10-1,1>>^ "Estou cansado de viver. Darei livre curso à minha queixa, falarei na amargura da minha alma.
+
+[[v18-10-2]]
+
+^<<v18-10-2,2>>^ Pedirei a Deus: ‘Não me condenes!’ Faze-me saber o que tens contra mim.
+
+[[v18-10-3]]
+
+^<<v18-10-3,3>>^ Será que tens prazer em me oprimir, em rejeitar a obra das tuas mãos e em favorecer o conselho dos ímpios?
+
+[[v18-10-4]]
+
+^<<v18-10-4,4>>^ Por acaso, tens olhos de gente? Ou vês tu como vê uma pessoa?
+
+[[v18-10-5]]
+
+^<<v18-10-5,5>>^ São os teus dias como os dias de um mortal? Ou são os teus anos como os anos de um ser humano,
+
+[[v18-10-6]]
+
+^<<v18-10-6,6>>^ para te informares da minha iniquidade e indagares o meu pecado?
+
+[[v18-10-7]]
+
+^<<v18-10-7,7>>^ Bem sabes que eu não sou culpado; todavia, não há ninguém que possa me livrar da tua mão."
+
+[[v18-10-8]]
+
+^<<v18-10-8,8>>^ "As tuas mãos me plasmaram e me fizeram, porém, agora, queres destruir-me.
+
+[[v18-10-9]]
+
+^<<v18-10-9,9>>^ Lembra-te de que me formaste como em barro. E, agora, queres reduzir-me a pó?
+
+[[v18-10-10]]
+
+^<<v18-10-10,10>>^ Por acaso, não me derramaste como leite e não me coalhaste como queijo?
+
+[[v18-10-11]]
+
+^<<v18-10-11,11>>^ De pele e carne me vestiste e de ossos e tendões me teceste.
+
+[[v18-10-12]]
+
+^<<v18-10-12,12>>^ Tu me deste vida e bondade, e o teu cuidado guardou o meu espírito.
+
+[[v18-10-13]]
+
+^<<v18-10-13,13>>^ Mas ocultaste estas coisas no teu coração; e agora sei que este era o teu plano.
+
+[[v18-10-14]]
+
+^<<v18-10-14,14>>^ Se eu pecar, tu me observas; e da minha iniquidade não me perdoarás.
+
+[[v18-10-15]]
+
+^<<v18-10-15,15>>^ Se for iníquo, ai de mim! E, se for justo, não ouso levantar a cabeça, pois estou envergonhado e olho para a minha miséria.
+
+[[v18-10-16]]
+
+^<<v18-10-16,16>>^ Porque, se levanto a cabeça, tu me caças como um leão feroz e de novo revelas o teu poder maravilhoso contra mim.
+
+[[v18-10-17]]
+
+^<<v18-10-17,17>>^ Renovas contra mim as tuas testemunhas e multiplicas contra mim a tua ira; males e lutas se sucedem contra mim."
+
+[[v18-10-18]]
+
+^<<v18-10-18,18>>^ "Por que me tiraste do ventre de minha mãe? Eu deveria ter morrido antes que um olho me visse!
+
+[[v18-10-19]]
+
+^<<v18-10-19,19>>^ Teria sido como alguém que nunca existiu e já do ventre teria sido levado à sepultura.
+
+[[v18-10-20]]
+
+^<<v18-10-20,20>>^ Não são poucos os meus dias? Cessa, pois, e deixa-me em paz, para que por um pouco eu tome alento,
+
+[[v18-10-21]]
+
+^<<v18-10-21,21>>^ antes que eu vá para o lugar do qual não voltarei, para a terra das trevas e da sombra da morte,
+
+[[v18-10-22]]
+
+^<<v18-10-22,22>>^ terra de escuridão, de trevas profundas, terra da sombra da morte e do caos, onde a própria luz é como a escuridão."
+
+'''
+
+xref:018-jo/018-jo-009.adoc#v18-9-0[&#60; Capítulo Anterior] | <<v18-10-0,Topo>> | xref:018-jo/018-jo-011.adoc#v18-11-0[Próximo Capítulo &#62;]

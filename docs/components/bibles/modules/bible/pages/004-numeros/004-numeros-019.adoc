@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Números, 19
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ O Senhor  disse a Moisés e a Arão:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ — Esta é uma prescrição da lei que o Senhor  ordenou, dizendo: Diga aos filhos de Israel que tragam uma novilha vermelha, perfeita, sem defeito, que não tenha ainda levado jugo.
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ Entreguem essa novilha ao sacerdote Eleazar. Este a levará para fora do arraial, e ela será morta diante dele.
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ O sacerdote Eleazar pegará um pouco do sangue com o dedo e dele aspergirá para a frente da tenda do encontro sete vezes.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ À vista do sacerdote, a novilha será queimada; o couro, a carne, o sangue e o excremento, tudo será queimado.
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ E o sacerdote, pegando um pedaço de madeira de cedro, hissopo e pano de carmesim, os lançará no meio do fogo que queima a novilha.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ Então o sacerdote lavará as suas roupas e banhará o seu corpo em água; depois, entrará no arraial e ficará impuro até a tarde.
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ Também o que queimou a novilha lavará as suas roupas com água e em água banhará o seu corpo, e ficará impuro até a tarde.
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ Um homem que esteja puro ajuntará a cinza da novilha e a depositará fora do arraial, num lugar puro, e ela será guardada para a congregação dos filhos de Israel, para a água purificadora; é oferta pelo pecado.
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ Aquele que ajuntou a cinza da novilha lavará as suas roupas e ficará impuro até a tarde. Isto será por estatuto perpétuo aos filhos de Israel e aos estrangeiros que habitam no meio deles.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ — Aquele que tocar no cadáver de uma pessoa ficará impuro durante sete dias.
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ No terceiro dia e no sétimo dia, se purificará com esta água e ficará puro; mas, se no terceiro dia e no sétimo não se purificar, não ficará puro.
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Todo aquele que tocar no cadáver de uma pessoa, e não se purificar, contamina o tabernáculo do Senhor ; essa pessoa será eliminada de Israel. Porque a água purificadora não foi aspergida sobre essa pessoa, ficará impura; a sua impureza ainda está nela.
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ — Esta é a lei quando alguém morrer numa tenda: todo aquele que entrar nessa tenda e todo aquele que nela estiver ficarão impuros durante sete dias.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ Também toda vasilha aberta, sobre a qual não houver tampa amarrada, ficará impura.
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ Todo aquele que, no campo aberto, tocar em alguém que for morto pela espada, em outro morto, nos ossos de alguma pessoa ou numa sepultura ficará impuro durante sete dias.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ — Para a pessoa impura, pegarão da cinza da queima da oferta pelo pecado e sobre esta cinza porão água corrente, num vaso.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ Um homem puro pegará hissopo, molhará naquela água e a aspergirá sobre aquela tenda, sobre todo utensílio e sobre as pessoas que ali estiverem. Também a aspergirá sobre quem tocar nos ossos, em alguém que foi morto ou que morreu, ou numa sepultura.
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ O puro aspergirá sobre o impuro no terceiro dia e no sétimo dia; deverá purificá-lo no sétimo dia. E a pessoa que era impura lavará as suas roupas, se banhará na água e à tarde ficará pura.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ — No entanto, a pessoa que estiver impura e não se purificar, essa será eliminada do meio da congregação, porque contaminou o santuário do Senhor ; água purificadora não foi aspergida sobre ela; está impura.
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ Isto será um estatuto perpétuo para eles. Aquele que aspergir a água purificadora lavará as suas roupas, e quem tocar a água purificadora ficará impuro até a tarde.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ Tudo o que uma pessoa impura tocar também ficará impuro; e quem a tocar ficará impuro até a tarde.
+
+'''
+
+xref:004-numeros/004-numeros-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numeros/004-numeros-020.adoc#v4-20-0[Próximo Capítulo &#62;]

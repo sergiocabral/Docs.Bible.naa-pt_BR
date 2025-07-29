@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v37-2-0]]
+=== Ageu, 2
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v37-2-1]]
+
+^<<v37-2-1,1>>^ No segundo ano do reinado de Dario, no sétimo mês, no vigésimo primeiro dia do mês, a palavra do Senhor  veio por meio do profeta Ageu, dizendo:
+
+[[v37-2-2]]
+
+^<<v37-2-2,2>>^ — Fale agora a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, e ao remanescente do povo, dizendo:
+
+[[v37-2-3]]
+
+^<<v37-2-3,3>>^ Quem de vocês, que tenha sobrevivido, contemplou este templo na sua primeira glória? E como vocês o veem agora? Por acaso não é como nada aos olhos de vocês?
+
+[[v37-2-4]]
+
+^<<v37-2-4,4>>^ Mas agora o Senhor  diz: Seja forte, Zorobabel! Seja forte, Josué, filho de Jozadaque, o sumo sacerdote! E vocês, todo o povo da terra, sejam fortes, diz o Senhor , e trabalhem, porque eu estou com vocês, diz o Senhor  dos Exércitos.
+
+[[v37-2-5]]
+
+^<<v37-2-5,5>>^ Segundo a aliança que fiz com vocês, quando saíram do Egito, o meu Espírito habita no meio de vocês. Não tenham medo.
+
+[[v37-2-6]]
+
+^<<v37-2-6,6>>^ — Pois assim diz o Senhor  dos Exércitos: Daqui a pouco, mais uma vez eu farei tremer o céu, a terra, o mar e a terra seca.
+
+[[v37-2-7]]
+
+^<<v37-2-7,7>>^ Farei tremer todas as nações, e serão trazidas as coisas preciosas de todas as nações, e encherei este templo de glória, diz o Senhor  dos Exércitos.
+
+[[v37-2-8]]
+
+^<<v37-2-8,8>>^ Minha é a prata, meu é o ouro, diz o Senhor  dos Exércitos.
+
+[[v37-2-9]]
+
+^<<v37-2-9,9>>^ A glória deste novo templo será maior do que a do primeiro, diz o Senhor  dos Exércitos; e neste lugar darei a paz, diz o Senhor  dos Exércitos.
+
+[[v37-2-10]]
+
+^<<v37-2-10,10>>^ No vigésimo quarto dia do nono mês, no segundo ano do reinado de Dario, a palavra do Senhor  veio ao profeta Ageu, dizendo:
+
+[[v37-2-11]]
+
+^<<v37-2-11,11>>^ — Assim diz o Senhor  dos Exércitos: Peça aos sacerdotes que decidam a seguinte questão relacionada com a lei:
+
+[[v37-2-12]]
+
+^<<v37-2-12,12>>^ Se alguém leva carne santificada na borda de sua roupa, e ela vier a tocar no pão, ou no cozido, ou no vinho, ou no azeite, ou em qualquer outro mantimento, isso ficará santificado? E os sacerdotes responderam: — Não.
+
+[[v37-2-13]]
+
+^<<v37-2-13,13>>^ Então Ageu perguntou: — Se alguém que se tornou impuro pelo contato com um cadáver tocar em qualquer dessas coisas, ficará ela impura? E os sacerdotes responderam: — Sim, ficará impura.
+
+[[v37-2-14]]
+
+^<<v37-2-14,14>>^ Então Ageu continuou: — Assim é este povo, e assim é esta nação diante de mim, diz o Senhor . Assim é toda a obra das suas mãos, e o que ali oferecem: tudo é impuro.
+
+[[v37-2-15]]
+
+^<<v37-2-15,15>>^ Agora considerem tudo o que aconteceu desde aquele dia. Antes de vocês terem começado a colocar pedra sobre pedra no templo do Senhor ,
+
+[[v37-2-16]]
+
+^<<v37-2-16,16>>^ antes daquele tempo, alguém vinha a um monte de trigo esperando encontrar vinte medidas, e havia somente dez; vinha ao lagar para tirar cinquenta medidas, e havia somente vinte.
+
+[[v37-2-17]]
+
+^<<v37-2-17,17>>^ Eu os feri com queimaduras, com ferrugem, com granizo, em tudo o que vocês fizeram; mas não houve, entre vocês, quem voltasse para mim, diz o Senhor .
+
+[[v37-2-18]]
+
+^<<v37-2-18,18>>^ — Por isso, desde o dia de hoje, desde o vigésimo quarto dia do nono mês, desde o dia em que foram lançados os alicerces do templo do Senhor , considerem no seguinte:
+
+[[v37-2-19]]
+
+^<<v37-2-19,19>>^ Ainda há sementes no celeiro? Além disso, a videira, a figueira, a romãzeira e a oliveira não têm dado os seus frutos. Mas, de hoje em diante, eu abençoarei vocês.
+
+[[v37-2-20]]
+
+^<<v37-2-20,20>>^ A palavra do Senhor  veio pela segunda vez a Ageu, no vigésimo quarto dia do mês, dizendo:
+
+[[v37-2-21]]
+
+^<<v37-2-21,21>>^ — Fale a Zorobabel, o governador de Judá: "Farei tremer o céu e a terra.
+
+[[v37-2-22]]
+
+^<<v37-2-22,22>>^ Derrubarei o trono dos reinos e destruirei a força dos reinos das nações. Destruirei os carros de guerra e os que andam neles; os cavalos morrerão e os seus cavaleiros matarão uns aos outros.
+
+[[v37-2-23]]
+
+^<<v37-2-23,23>>^ Naquele dia, diz o Senhor  dos Exércitos, tomarei você, Zorobabel, filho de Salatiel, você que é meu servo, diz o Senhor , e farei de você um anel de selar, porque eu o escolhi", diz o Senhor  dos Exércitos.
+
+'''
+
+xref:037-ageu/037-ageu-001.adoc#v37-1-0[&#60; Capítulo Anterior] | <<v37-2-0,Topo>> | xref:038-zacarias/038-zacarias-001.adoc#v38-1-0[Próximo Capítulo &#62;]

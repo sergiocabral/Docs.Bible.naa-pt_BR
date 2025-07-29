@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v3-10-0]]
+=== Levítico, 10
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v3-10-1]]
+
+^<<v3-10-1,1>>^ Nadabe e Abiú, filhos de Arão, tomaram cada um o seu incensário, puseram fogo dentro deles, e sobre o fogo colocaram incenso; e trouxeram fogo estranho diante da face do Senhor , algo que ele não lhes havia ordenado.
+
+[[v3-10-2]]
+
+^<<v3-10-2,2>>^ Então saiu fogo de diante do Senhor  e os consumiu; e morreram diante do Senhor .
+
+[[v3-10-3]]
+
+^<<v3-10-3,3>>^ E Moisés disse a Arão: — Isto é o que o Senhor  disse: "Mostrarei a minha santidade naqueles que se aproximam de mim e serei glorificado diante de todo o povo." Porém Arão se calou.
+
+[[v3-10-4]]
+
+^<<v3-10-4,4>>^ Então Moisés chamou Misael e Elzafã, filhos de Uziel, tio de Arão, e disse-lhes: — Venham e tirem os seus parentes de diante do santuário, e levem-nos para fora do arraial.
+
+[[v3-10-5]]
+
+^<<v3-10-5,5>>^ Chegaram-se, pois, e os levaram nas suas túnicas para fora do arraial, como Moisés tinha dito.
+
+[[v3-10-6]]
+
+^<<v3-10-6,6>>^ Moisés disse a Arão e aos seus filhos Eleazar e Itamar: — Não deixem os cabelos sem pentear, nem rasguem as suas roupas, para que vocês não morram, nem venha grande ira sobre toda a congregação; mas os seus irmãos, toda a casa de Israel, poderão lamentar o fogo que o Senhor  causou.
+
+[[v3-10-7]]
+
+^<<v3-10-7,7>>^ Não se afastem da porta da tenda do encontro, para que vocês não morram; porque sobre vocês está o óleo da unção do Senhor . E fizeram conforme a palavra de Moisés.
+
+[[v3-10-8]]
+
+^<<v3-10-8,8>>^ Então o Senhor  falou a Arão, dizendo:
+
+[[v3-10-9]]
+
+^<<v3-10-9,9>>^ — Você e seus filhos não devem beber vinho ou bebida forte, quando entrarem na tenda do encontro, para que não morram. Isso será estatuto perpétuo entre as suas gerações,
+
+[[v3-10-10]]
+
+^<<v3-10-10,10>>^ para que vocês façam diferença entre o santo e o profano e entre o impuro e o puro
+
+[[v3-10-11]]
+
+^<<v3-10-11,11>>^ e para ensinarem aos filhos de Israel todos os estatutos que o Senhor  lhes tem falado por meio de Moisés.
+
+[[v3-10-12]]
+
+^<<v3-10-12,12>>^ Moisés disse a Arão e aos filhos deste, Eleazar e Itamar, que ficaram vivos: — Peguem a oferta de cereais que restou das ofertas queimadas ao Senhor , e comam-na, sem fermento, junto ao altar, porque coisa santíssima é.
+
+[[v3-10-13]]
+
+^<<v3-10-13,13>>^ Comam-na em lugar santo, porque é a porção que foi dada a vocês e aos seus filhos, das ofertas queimadas do Senhor ; porque assim me foi ordenado.
+
+[[v3-10-14]]
+
+^<<v3-10-14,14>>^ Também o peito da oferta movida e a coxa da oferta vocês devem comer em lugar puro, você, seus filhos e suas filhas, porque foram dados por sua porção e por porção de seus filhos, dos sacrifícios pacíficos dos filhos de Israel.
+
+[[v3-10-15]]
+
+^<<v3-10-15,15>>^ Trarão a coxa da oferta e o peito da oferta movida com as ofertas queimadas de gordura, para mover por oferta movida diante do Senhor ; esta é a porção que foi dada a você e aos seus filhos, por estatuto perpétuo, como o Senhor  tem ordenado.
+
+[[v3-10-16]]
+
+^<<v3-10-16,16>>^ Moisés procurou diligentemente o bode da oferta pelo pecado, e eis que já tinha sido queimado. Por isso, Moisés indignou-se contra Eleazar e contra Itamar, os filhos de Arão que ficaram vivos, e disse:
+
+[[v3-10-17]]
+
+^<<v3-10-17,17>>^ — Por que vocês não comeram a oferta pelo pecado no lugar santo? Pois coisa santíssima é; e o Senhor  a deu a vocês, para levarem a iniquidade da congregação, para fazerem expiação por eles diante do Senhor .
+
+[[v3-10-18]]
+
+^<<v3-10-18,18>>^ Eis que desta oferta o sangue não foi trazido para dentro do santuário; certamente vocês deviam tê-la comido no santuário, como eu havia ordenado.
+
+[[v3-10-19]]
+
+^<<v3-10-19,19>>^ Arão respondeu a Moisés: — Eis que hoje meus filhos ofereceram a sua oferta pelo pecado e o seu holocausto diante do Senhor , e mesmo assim tais coisas me aconteceram. Se eu hoje tivesse comido a oferta pelo pecado, será que isso teria sido aceito aos olhos do Senhor ?
+
+[[v3-10-20]]
+
+^<<v3-10-20,20>>^ Quando Moisés ouviu isso, deu-se por satisfeito.
+
+'''
+
+xref:003-levitico/003-levitico-009.adoc#v3-9-0[&#60; Capítulo Anterior] | <<v3-10-0,Topo>> | xref:003-levitico/003-levitico-011.adoc#v3-11-0[Próximo Capítulo &#62;]

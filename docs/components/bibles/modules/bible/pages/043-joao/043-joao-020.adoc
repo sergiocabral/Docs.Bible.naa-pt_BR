@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v43-20-0]]
+=== João, 20
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v43-20-1]]
+
+^<<v43-20-1,1>>^ No primeiro dia da semana, de madrugada, quando ainda estava escuro, Maria Madalena foi ao túmulo e viu que a pedra da entrada tinha sido removida.
+
+[[v43-20-2]]
+
+^<<v43-20-2,2>>^ Então correu e foi até onde estavam Simão Pedro e o outro discípulo, a quem Jesus amava, e disse-lhes: — Tiraram o Senhor do túmulo, e não sabemos onde o colocaram.
+
+[[v43-20-3]]
+
+^<<v43-20-3,3>>^ Com isso, Pedro e o outro discípulo saíram e foram até o túmulo.
+
+[[v43-20-4]]
+
+^<<v43-20-4,4>>^ Ambos corriam juntos, mas o outro discípulo correu mais depressa do que Pedro e chegou primeiro ao túmulo.
+
+[[v43-20-5]]
+
+^<<v43-20-5,5>>^ E, abaixando-se, viu os lençóis de linho, mas não entrou.
+
+[[v43-20-6]]
+
+^<<v43-20-6,6>>^ Simão Pedro, seguindo-o, chegou e entrou no túmulo. Ele também viu os lençóis
+
+[[v43-20-7]]
+
+^<<v43-20-7,7>>^ e o lenço que tinha estado sobre a cabeça de Jesus, e que não estava com os lençóis, mas enrolado num lugar à parte.
+
+[[v43-20-8]]
+
+^<<v43-20-8,8>>^ Então o outro discípulo, que havia chegado primeiro ao túmulo, também entrou. Ele viu e creu.
+
+[[v43-20-9]]
+
+^<<v43-20-9,9>>^ Pois ainda não tinham compreendido a Escritura, que era necessário que ele ressuscitasse dentre os mortos.
+
+[[v43-20-10]]
+
+^<<v43-20-10,10>>^ E os discípulos voltaram outra vez para casa.
+
+[[v43-20-11]]
+
+^<<v43-20-11,11>>^ Maria, no entanto, permanecia junto à entrada do túmulo, chorando. Enquanto chorava, abaixou-se e olhou para dentro do túmulo.
+
+[[v43-20-12]]
+
+^<<v43-20-12,12>>^ Ela viu dois anjos vestidos de branco, sentados onde o corpo de Jesus tinha sido colocado, um à cabeceira e outro aos pés.
+
+[[v43-20-13]]
+
+^<<v43-20-13,13>>^ Então eles perguntaram: — Mulher, por que você está chorando? Ela respondeu: — Porque levaram o meu Senhor, e não sei onde o puseram.
+
+[[v43-20-14]]
+
+^<<v43-20-14,14>>^ Depois de dizer isso, ela se virou para trás e viu Jesus em pé, mas não reconheceu que era Jesus.
+
+[[v43-20-15]]
+
+^<<v43-20-15,15>>^ Jesus lhe perguntou: — Mulher, por que você está chorando? A quem você procura? Ela, supondo que ele fosse o jardineiro, respondeu: — Se o senhor o tirou daqui, diga-me onde o colocou, e eu o levarei.
+
+[[v43-20-16]]
+
+^<<v43-20-16,16>>^ Jesus disse: — Maria! Ela, voltando-se, lhe disse, em hebraico: — Raboni! ("Raboni" quer dizer "Mestre".)
+
+[[v43-20-17]]
+
+^<<v43-20-17,17>>^ Jesus continuou: — Não me detenha, porque ainda não subi para o meu Pai. Mas vá até os meus irmãos e diga a eles: "Subo para o meu Pai e o Pai de vocês, para o meu Deus e o Deus de vocês."
+
+[[v43-20-18]]
+
+^<<v43-20-18,18>>^ Então Maria Madalena foi e anunciou aos discípulos: — Eu vi o Senhor! E contava que Jesus lhe tinha dito essas coisas.
+
+[[v43-20-19]]
+
+^<<v43-20-19,19>>^ Ao cair da tarde daquele dia, o primeiro da semana, estando trancadas as portas da casa onde estavam os discípulos, com medo dos judeus, Jesus veio e se pôs no meio deles, dizendo: — Que a paz esteja com vocês!
+
+[[v43-20-20]]
+
+^<<v43-20-20,20>>^ E, dizendo isso, lhes mostrou as mãos e o lado. Então os discípulos se alegraram ao ver o Senhor.
+
+[[v43-20-21]]
+
+^<<v43-20-21,21>>^ E Jesus lhes disse outra vez: — Que a paz esteja com vocês! Assim como o Pai me enviou, eu também envio vocês.
+
+[[v43-20-22]]
+
+^<<v43-20-22,22>>^ E, havendo dito isso, soprou sobre eles e disse-lhes: — Recebam o Espírito Santo.
+
+[[v43-20-23]]
+
+^<<v43-20-23,23>>^ Se de alguns vocês perdoarem os pecados, são-lhes perdoados; mas, se os retiverem, são retidos.
+
+[[v43-20-24]]
+
+^<<v43-20-24,24>>^ Tomé, um dos doze, chamado Dídimo, não estava com eles quando Jesus veio.
+
+[[v43-20-25]]
+
+^<<v43-20-25,25>>^ Então os outros discípulos disseram a Tomé: — Vimos o Senhor. Mas ele respondeu: — Se eu não vir o sinal dos pregos nas mãos dele, ali não puser o dedo e não puser a minha mão no lado dele, de modo nenhum acreditarei.
+
+[[v43-20-26]]
+
+^<<v43-20-26,26>>^ Passados oito dias, os discípulos de Jesus estavam outra vez reunidos, e Tomé estava com eles. Estando as portas trancadas, Jesus veio, pôs-se no meio deles e disse: — Que a paz esteja com vocês!
+
+[[v43-20-27]]
+
+^<<v43-20-27,27>>^ E logo disse a Tomé: — Ponha aqui o seu dedo e veja as minhas mãos. Estenda também a sua mão e ponha no meu lado. Não seja incrédulo, mas crente.
+
+[[v43-20-28]]
+
+^<<v43-20-28,28>>^ Ao que Tomé lhe respondeu: — Senhor meu e Deus meu!
+
+[[v43-20-29]]
+
+^<<v43-20-29,29>>^ Jesus lhe disse: — Você creu porque me viu? Bem-aventurados são os que não viram e creram.
+
+[[v43-20-30]]
+
+^<<v43-20-30,30>>^ Na verdade, Jesus fez diante dos seus discípulos muitos outros sinais que não estão escritos neste livro.
+
+[[v43-20-31]]
+
+^<<v43-20-31,31>>^ Estes, porém, foram registrados para que vocês creiam que Jesus é o Cristo, o Filho de Deus, e para que, crendo, tenham vida em seu nome.
+
+'''
+
+xref:043-joao/043-joao-019.adoc#v43-19-0[&#60; Capítulo Anterior] | <<v43-20-0,Topo>> | xref:043-joao/043-joao-021.adoc#v43-21-0[Próximo Capítulo &#62;]

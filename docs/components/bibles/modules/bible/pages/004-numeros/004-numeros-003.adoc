@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v4-3-0]]
+=== Números, 3
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v4-3-1]]
+
+^<<v4-3-1,1>>^ São estas as gerações de Arão e de Moisés, no dia em que o Senhor  falou com Moisés no monte Sinai.
+
+[[v4-3-2]]
+
+^<<v4-3-2,2>>^ E são estes os nomes dos filhos de Arão: o primogênito, Nadabe; depois, Abiú, Eleazar e Itamar.
+
+[[v4-3-3]]
+
+^<<v4-3-3,3>>^ Estes são os nomes dos filhos de Arão, os sacerdotes ungidos, consagrados para oficiar como sacerdotes.
+
+[[v4-3-4]]
+
+^<<v4-3-4,4>>^ Mas Nadabe e Abiú morreram diante do Senhor , quando ofereciam fogo estranho ao Senhor , no deserto do Sinai, e não tiveram filhos; assim, Eleazar e Itamar oficiaram como sacerdotes na presença de Arão, seu pai.
+
+[[v4-3-5]]
+
+^<<v4-3-5,5>>^ O Senhor  disse a Moisés:
+
+[[v4-3-6]]
+
+^<<v4-3-6,6>>^ — Mande chamar a tribo de Levi e coloque-a diante de Arão, o sacerdote, para que o sirvam
+
+[[v4-3-7]]
+
+^<<v4-3-7,7>>^ e cumpram seus deveres para com ele e para com todo o povo, diante da tenda do encontro, para ministrarem no tabernáculo.
+
+[[v4-3-8]]
+
+^<<v4-3-8,8>>^ Terão cuidado de todos os utensílios da tenda do encontro e cumprirão o seu dever para com os filhos de Israel, ao ministrarem no tabernáculo.
+
+[[v4-3-9]]
+
+^<<v4-3-9,9>>^ Portanto, você entregará os levitas a Arão e a seus filhos; de todos os filhos de Israel, os levitas são dedicados ao serviço de Arão.
+
+[[v4-3-10]]
+
+^<<v4-3-10,10>>^ Mas a Arão e aos filhos dele você ordenará que se dediquem só ao seu sacerdócio, e o estranho que se aproximar será morto.
+
+[[v4-3-11]]
+
+^<<v4-3-11,11>>^ O Senhor  disse a Moisés:
+
+[[v4-3-12]]
+
+^<<v4-3-12,12>>^ — Eis que tenho tomado os levitas do meio dos filhos de Israel, em lugar de todo primogênito entre os filhos de Israel. Os levitas serão meus,
+
+[[v4-3-13]]
+
+^<<v4-3-13,13>>^ porque todo primogênito é meu. Desde o dia em que feri todos os primogênitos na terra do Egito, consagrei para mim todo primogênito em Israel, desde o homem até o animal; serão meus. Eu sou o Senhor .
+
+[[v4-3-14]]
+
+^<<v4-3-14,14>>^ O Senhor  falou a Moisés no deserto do Sinai, dizendo:
+
+[[v4-3-15]]
+
+^<<v4-3-15,15>>^ — Conte os filhos de Levi, segundo a casa de seus pais, pelas suas famílias; conte todo homem da idade de um mês para cima.
+
+[[v4-3-16]]
+
+^<<v4-3-16,16>>^ E Moisés os contou segundo o mandado do Senhor , como lhe havia sido ordenado.
+
+[[v4-3-17]]
+
+^<<v4-3-17,17>>^ São estes os filhos de Levi pelos seus nomes: Gérson, Coate e Merari.
+
+[[v4-3-18]]
+
+^<<v4-3-18,18>>^ E estes são os nomes dos filhos de Gérson pelas suas famílias: Libni e Simei.
+
+[[v4-3-19]]
+
+^<<v4-3-19,19>>^ E os filhos de Coate pelas suas famílias: Anrão, Izar, Hebrom e Uziel.
+
+[[v4-3-20]]
+
+^<<v4-3-20,20>>^ E os filhos de Merari pelas suas famílias: Mali e Musi; são estas as famílias dos levitas, segundo a casa de seus pais.
+
+[[v4-3-21]]
+
+^<<v4-3-21,21>>^ De Gérson é a família dos libnitas e a dos simeítas; são estas as famílias dos gersonitas.
+
+[[v4-3-22]]
+
+^<<v4-3-22,22>>^ Todos os homens que deles foram contados, cada um nominalmente, de um mês para cima, foram sete mil e quinhentos.
+
+[[v4-3-23]]
+
+^<<v4-3-23,23>>^ As famílias dos gersonitas acamparão atrás do tabernáculo, a oeste.
+
+[[v4-3-24]]
+
+^<<v4-3-24,24>>^ O chefe da casa paterna dos gersonitas será Eliasafe, filho de Lael.
+
+[[v4-3-25]]
+
+^<<v4-3-25,25>>^ Os filhos de Gérson terão a seu encargo, na tenda do encontro, o tabernáculo, a tenda e sua cobertura, o cortinado para a porta da tenda do encontro,
+
+[[v4-3-26]]
+
+^<<v4-3-26,26>>^ as cortinas do pátio, o cortinado da porta do pátio, que rodeia o tabernáculo e o altar, as suas cordas e todo o serviço a eles devido.
+
+[[v4-3-27]]
+
+^<<v4-3-27,27>>^ De Coate é a família dos anramitas, a dos izaritas, a dos hebronitas e a dos uzielitas; são estas as famílias dos coatitas.
+
+[[v4-3-28]]
+
+^<<v4-3-28,28>>^ Contados todos os homens, da idade de um mês para cima, foram oito mil e seiscentos, que tinham a seu encargo o santuário.
+
+[[v4-3-29]]
+
+^<<v4-3-29,29>>^ As famílias dos filhos de Coate acamparão ao lado do tabernáculo, do lado sul.
+
+[[v4-3-30]]
+
+^<<v4-3-30,30>>^ O chefe da casa paterna das famílias dos coatitas será Elisafã, filho de Uziel.
+
+[[v4-3-31]]
+
+^<<v4-3-31,31>>^ Terão eles a seu encargo a arca, a mesa, o candelabro, os altares, os utensílios do santuário com que ministram, o cortinado e todo o serviço a eles devido.
+
+[[v4-3-32]]
+
+^<<v4-3-32,32>>^ O líder dos chefes de Levi será Eleazar, filho de Arão, o sacerdote; terá a superintendência dos que têm a seu encargo o santuário.
+
+[[v4-3-33]]
+
+^<<v4-3-33,33>>^ De Merari é a família dos malitas e a dos musitas; são estas as famílias de Merari.
+
+[[v4-3-34]]
+
+^<<v4-3-34,34>>^ Todos os homens que deles foram contados, de um mês para cima, foram seis mil e duzentos.
+
+[[v4-3-35]]
+
+^<<v4-3-35,35>>^ O chefe da casa paterna das famílias de Merari será Zuriel, filho de Abiail; eles acamparão ao lado do tabernáculo, do lado norte.
+
+[[v4-3-36]]
+
+^<<v4-3-36,36>>^ Os filhos de Merari, por designação, terão a seu encargo as tábuas do tabernáculo, as suas travessas, as suas colunas, as suas bases, todos os seus utensílios e todo o serviço a eles devido;
+
+[[v4-3-37]]
+
+^<<v4-3-37,37>>^ também as colunas do pátio ao redor, as suas bases, as suas estacas e as suas cordas.
+
+[[v4-3-38]]
+
+^<<v4-3-38,38>>^ Os que acamparão diante do tabernáculo, ao leste, diante da tenda do encontro, para o lado do nascente, serão Moisés e Arão, com seus filhos, tendo a seu encargo os ritos do santuário, para cumprirem seus deveres prescritos, em prol dos filhos de Israel; o estranho que se aproximar será morto.
+
+[[v4-3-39]]
+
+^<<v4-3-39,39>>^ Todos os que foram contados dos levitas, contados por Moisés e Arão, por mandado do Senhor , segundo as suas famílias, todo homem de um mês para cima, foram vinte e dois mil.
+
+[[v4-3-40]]
+
+^<<v4-3-40,40>>^ O Senhor  disse a Moisés: — Conte todos os primogênitos dos filhos de Israel que são do sexo masculino, cada um nominalmente, de um mês para cima.
+
+[[v4-3-41]]
+
+^<<v4-3-41,41>>^ E separe os levitas para mim — eu sou o Senhor  — em lugar de todos os primogênitos dos filhos de Israel. Separe também os animais dos levitas em lugar de todos os primogênitos entre os animais dos filhos de Israel.
+
+[[v4-3-42]]
+
+^<<v4-3-42,42>>^ Como o Senhor  havia ordenado, Moisés contou todos os primogênitos entre os filhos de Israel.
+
+[[v4-3-43]]
+
+^<<v4-3-43,43>>^ Todos os primogênitos do sexo masculino, contados nominalmente, de um mês para cima, segundo o censo, foram vinte e dois mil duzentos e setenta e três.
+
+[[v4-3-44]]
+
+^<<v4-3-44,44>>^ O Senhor  disse a Moisés:
+
+[[v4-3-45]]
+
+^<<v4-3-45,45>>^ — Ponha os levitas em lugar de todos os primogênitos entre os filhos de Israel e os animais dos levitas em lugar dos animais dos filhos de Israel, porque os levitas serão meus. Eu sou o Senhor .
+
+[[v4-3-46]]
+
+^<<v4-3-46,46>>^ Pelo resgate dos duzentos e setenta e três primogênitos dos filhos de Israel, que excedem o número dos levitas,
+
+[[v4-3-47]]
+
+^<<v4-3-47,47>>^ recolha por cabeça sessenta gramas, segundo o peso padrão do santuário, que é de doze gramas.
+
+[[v4-3-48]]
+
+^<<v4-3-48,48>>^ Entregue a Arão e aos seus filhos esse dinheiro com o qual são resgatados os que excedem o número dos levitas.
+
+[[v4-3-49]]
+
+^<<v4-3-49,49>>^ Então Moisés recolheu o dinheiro do resgate dos que excederam os que foram resgatados pelos levitas.
+
+[[v4-3-50]]
+
+^<<v4-3-50,50>>^ Dos primogênitos dos filhos de Israel ele recolheu esse dinheiro, dezesseis quilos e meio de prata, segundo o peso padrão do santuário.
+
+[[v4-3-51]]
+
+^<<v4-3-51,51>>^ E Moisés deu o dinheiro dos resgatados a Arão e a seus filhos, segundo o mandado do Senhor , como o Senhor  havia ordenado a Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-002.adoc#v4-2-0[&#60; Capítulo Anterior] | <<v4-3-0,Topo>> | xref:004-numeros/004-numeros-004.adoc#v4-4-0[Próximo Capítulo &#62;]

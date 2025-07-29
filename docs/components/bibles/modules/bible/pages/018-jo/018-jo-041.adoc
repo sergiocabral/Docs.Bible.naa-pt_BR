@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v18-41-0]]
+=== Jó, 41
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v18-41-1]]
+
+^<<v18-41-1,1>>^ "Você é capaz de pescar o monstro Leviatã com um anzol e prender a sua língua com uma corda?
+
+[[v18-41-2]]
+
+^<<v18-41-2,2>>^ Você consegue passar uma vara de junco pelo nariz dele? Ou furar o queixo dele com um gancho?
+
+[[v18-41-3]]
+
+^<<v18-41-3,3>>^ Por acaso ele lhe fará muitas súplicas? Ou lhe falará palavras brandas?
+
+[[v18-41-4]]
+
+^<<v18-41-4,4>>^ Será que ele fará um acordo com você, para que seja seu escravo para sempre?
+
+[[v18-41-5]]
+
+^<<v18-41-5,5>>^ Será que você vai brincar com ele, como se fosse um passarinho? Irá prendê-lo com uma corda, para dá-lo às suas meninas?
+
+[[v18-41-6]]
+
+^<<v18-41-6,6>>^ Será que os seus sócios o colocarão à venda? Ou irão reparti-lo entre os negociantes?
+
+[[v18-41-7]]
+
+^<<v18-41-7,7>>^ Você consegue encher de arpões a pele dele? Ou cravar fisgas de pesca na sua cabeça?
+
+[[v18-41-8]]
+
+^<<v18-41-8,8>>^ Ponha a mão sobre ele; você se lembrará da luta e nunca mais repetirá o gesto."
+
+[[v18-41-9]]
+
+^<<v18-41-9,9>>^ "Eis que a gente se engana na esperança que tem; não é fato que alguém cairá por terra só em vê-lo?
+
+[[v18-41-10]]
+
+^<<v18-41-10,10>>^ Ninguém é tão ousado, que se atreva a despertá-lo." "Quem então será capaz de se erguer diante de mim?
+
+[[v18-41-11]]
+
+^<<v18-41-11,11>>^ Quem primeiro deu algo a mim, para que eu tenha de retribuir-lhe? Pois o que está debaixo de todos os céus é meu."
+
+[[v18-41-12]]
+
+^<<v18-41-12,12>>^ "Não me calarei a respeito das pernas do Leviatã, nem da sua grande força, nem da graça da sua compostura.
+
+[[v18-41-13]]
+
+^<<v18-41-13,13>>^ Quem poderá tirar a capa do seu dorso? Ou lhe penetrará a dupla couraça?
+
+[[v18-41-14]]
+
+^<<v18-41-14,14>>^ Quem abriria as portas de sua boca? Pois em roda dos seus dentes está o terror.
+
+[[v18-41-15]]
+
+^<<v18-41-15,15>>^ As fileiras de suas escamas são o seu orgulho, cada uma bem-encostada como por um selo que as ajusta.
+
+[[v18-41-16]]
+
+^<<v18-41-16,16>>^ A tal ponto uma se junta à outra, que entre elas não passa nem o ar.
+
+[[v18-41-17]]
+
+^<<v18-41-17,17>>^ Elas se ligam umas às outras, aderem entre si e não podem ser separadas.
+
+[[v18-41-18]]
+
+^<<v18-41-18,18>>^ Cada um dos seus espirros faz resplandecer a luz, e os seus olhos são como os raios do amanhecer.
+
+[[v18-41-19]]
+
+^<<v18-41-19,19>>^ Da sua boca saem tochas; faíscas de fogo saltam dela.
+
+[[v18-41-20]]
+
+^<<v18-41-20,20>>^ Das suas narinas procede fumaça, como de uma panela fervente sobre juncos em chama.
+
+[[v18-41-21]]
+
+^<<v18-41-21,21>>^ O sopro dele acende o carvão; da sua boca saem chamas.
+
+[[v18-41-22]]
+
+^<<v18-41-22,22>>^ No seu pescoço reside a força; e diante dele salta o desespero.
+
+[[v18-41-23]]
+
+^<<v18-41-23,23>>^ Suas partes carnudas são bem-pegadas entre si; todas fundidas nele e imóveis.
+
+[[v18-41-24]]
+
+^<<v18-41-24,24>>^ O coração dele é duro como uma pedra, firme como a pedra inferior de um moinho.
+
+[[v18-41-25]]
+
+^<<v18-41-25,25>>^ Quando ele se levanta, os valentes tremem; quando ele irrompe, ficam como que fora de si.
+
+[[v18-41-26]]
+
+^<<v18-41-26,26>>^ Se o golpe de espada o alcança, isso não tem efeito algum, e o mesmo vale para a lança, o dardo ou a flecha.
+
+[[v18-41-27]]
+
+^<<v18-41-27,27>>^ Para ele, o ferro é como palha, e o cobre, como pau podre.
+
+[[v18-41-28]]
+
+^<<v18-41-28,28>>^ As flechas não o fazem fugir; para ele, as pedras das fundas se transformam em palha.
+
+[[v18-41-29]]
+
+^<<v18-41-29,29>>^ Os porretes são para ele como talos de capim; quando agitam a lança, ele dá risada.
+
+[[v18-41-30]]
+
+^<<v18-41-30,30>>^ Debaixo do ventre ele tem escamas pontiagudas; arrasta-se sobre a lama, como um instrumento de debulhar.
+
+[[v18-41-31]]
+
+^<<v18-41-31,31>>^ Leva as profundezas a ferver como panela; torna o mar como caldeira de unguento.
+
+[[v18-41-32]]
+
+^<<v18-41-32,32>>^ Deixa atrás de si um sulco luminoso, como se o abismo tivesse uma cabeleira branca.
+
+[[v18-41-33]]
+
+^<<v18-41-33,33>>^ Na terra, não há ninguém como ele, pois foi feito para nunca ter medo.
+
+[[v18-41-34]]
+
+^<<v18-41-34,34>>^ O Leviatã olha com desprezo tudo o que é alto; é rei sobre todos os orgulhosos."
+
+'''
+
+xref:018-jo/018-jo-040.adoc#v18-40-0[&#60; Capítulo Anterior] | <<v18-41-0,Topo>> | xref:018-jo/018-jo-042.adoc#v18-42-0[Próximo Capítulo &#62;]

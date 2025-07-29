@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v50-1-0]]
+=== Filipenses, 1
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v50-1-1]]
+
+^<<v50-1-1,1>>^ Paulo e Timóteo, servos de Cristo Jesus, a todos os santos em Cristo Jesus, inclusive bispos e diáconos que vivem em Filipos.
+
+[[v50-1-2]]
+
+^<<v50-1-2,2>>^ Que a graça e a paz de Deus, nosso Pai, e do Senhor Jesus Cristo estejam com vocês.
+
+[[v50-1-3]]
+
+^<<v50-1-3,3>>^ Dou graças ao meu Deus por tudo o que lembro de vocês,
+
+[[v50-1-4]]
+
+^<<v50-1-4,4>>^ fazendo sempre, com alegria, súplicas por todos vocês, em todas as minhas orações.
+
+[[v50-1-5]]
+
+^<<v50-1-5,5>>^ Dou graças pela maneira como vocês têm participado na proclamação do evangelho, desde o primeiro dia até agora.
+
+[[v50-1-6]]
+
+^<<v50-1-6,6>>^ Estou certo de que aquele que começou boa obra em vocês há de completá-la até o Dia de Cristo Jesus.
+
+[[v50-1-7]]
+
+^<<v50-1-7,7>>^ Aliás, é justo que eu assim pense de todos vocês, porque os trago no coração, seja nas minhas algemas, seja na defesa e confirmação do evangelho, pois todos vocês são participantes da graça comigo.
+
+[[v50-1-8]]
+
+^<<v50-1-8,8>>^ Pois Deus é testemunha da saudade que tenho de todos vocês, no profundo afeto de Cristo Jesus.
+
+[[v50-1-9]]
+
+^<<v50-1-9,9>>^ E também faço esta oração: que o amor de vocês aumente mais e mais em conhecimento e toda a percepção,
+
+[[v50-1-10]]
+
+^<<v50-1-10,10>>^ para que vocês aprovem as coisas excelentes e sejam sinceros e inculpáveis para o Dia de Cristo,
+
+[[v50-1-11]]
+
+^<<v50-1-11,11>>^ cheios do fruto de justiça que vem por meio de Jesus Cristo, para glória e louvor de Deus.
+
+[[v50-1-12]]
+
+^<<v50-1-12,12>>^ Quero ainda, irmãos, que saibam que as coisas que me aconteceram têm até contribuído para o progresso do evangelho,
+
+[[v50-1-13]]
+
+^<<v50-1-13,13>>^ de maneira que toda a guarda pretoriana e todos os demais sabem que estou preso por causa de Cristo.
+
+[[v50-1-14]]
+
+^<<v50-1-14,14>>^ E os irmãos, em sua maioria, estimulados no Senhor por minhas algemas, ousam falar a palavra com mais coragem.
+
+[[v50-1-15]]
+
+^<<v50-1-15,15>>^ É verdade que alguns proclamam Cristo por inveja e rivalidade, mas outros o fazem de boa vontade.
+
+[[v50-1-16]]
+
+^<<v50-1-16,16>>^ Estes o fazem por amor, sabendo que estou incumbido da defesa do evangelho;
+
+[[v50-1-17]]
+
+^<<v50-1-17,17>>^ aqueles, porém, pregam Cristo por interesse pessoal, não de forma sincera, pensando que assim podem aumentar meu sofrimento na prisão.
+
+[[v50-1-18]]
+
+^<<v50-1-18,18>>^ Mas que importa? Uma vez que, de uma forma ou de outra, Cristo está sendo pregado, seja com fingimento, seja com sinceridade, também com isto me alegro; sim, sempre me alegrarei.
+
+[[v50-1-19]]
+
+^<<v50-1-19,19>>^ Porque estou certo de que, pela súplica de vocês e com a ajuda do Espírito de Jesus Cristo, isso resultará em minha libertação.
+
+[[v50-1-20]]
+
+^<<v50-1-20,20>>^ Minha ardente expectativa e esperança é que em nada serei envergonhado, mas que, com toda a ousadia, como sempre, também agora, Cristo será engrandecido no meu corpo, quer pela vida, quer pela morte.
+
+[[v50-1-21]]
+
+^<<v50-1-21,21>>^ Porque para mim o viver é Cristo, e o morrer é lucro.
+
+[[v50-1-22]]
+
+^<<v50-1-22,22>>^ Entretanto, se eu continuar vivendo, poderei ainda fazer algum trabalho frutífero. Assim, não sei o que devo escolher.
+
+[[v50-1-23]]
+
+^<<v50-1-23,23>>^ Estou cercado pelos dois lados, tendo o desejo de partir e estar com Cristo, o que é incomparavelmente melhor.
+
+[[v50-1-24]]
+
+^<<v50-1-24,24>>^ Mas, por causa de vocês, é mais necessário que eu continue a viver.
+
+[[v50-1-25]]
+
+^<<v50-1-25,25>>^ E, convencido disto, estou certo de que ficarei e permanecerei com todos vocês, para que progridam e tenham alegria na fé.
+
+[[v50-1-26]]
+
+^<<v50-1-26,26>>^ Desse modo, vocês terão mais motivo para se gloriarem em Cristo Jesus por minha causa, pela minha presença, de novo, no meio de vocês.
+
+[[v50-1-27]]
+
+^<<v50-1-27,27>>^ Acima de tudo, vivam de modo digno do evangelho de Cristo, para que, ou indo até aí para vê-los ou estando ausente, eu ouça a respeito de vocês que estão firmes em um só espírito, como uma só alma, lutando juntos pela fé do evangelho;
+
+[[v50-1-28]]
+
+^<<v50-1-28,28>>^ e que em nada se sentem intimidados pelos adversários. Pois o que para eles é prova evidente de perdição para vocês é sinal de salvação, e isto da parte de Deus.
+
+[[v50-1-29]]
+
+^<<v50-1-29,29>>^ Porque vocês receberam a graça de sofrer por Cristo, e não somente de crer nele,
+
+[[v50-1-30]]
+
+^<<v50-1-30,30>>^ pois vocês têm o mesmo combate que viram em mim e que agora estão ouvindo que continuo a ter.
+
+'''
+
+xref:049-efesios/049-efesios-006.adoc#v49-6-0[&#60; Capítulo Anterior] | <<v50-1-0,Topo>> | xref:050-filipenses/050-filipenses-002.adoc#v50-2-0[Próximo Capítulo &#62;]

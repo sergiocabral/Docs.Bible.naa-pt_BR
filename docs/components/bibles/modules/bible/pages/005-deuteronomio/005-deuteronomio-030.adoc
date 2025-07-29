@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-30-0]]
+=== Deuteronômio, 30
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-30-1]]
+
+^<<v5-30-1,1>>^ — Quando todas estas coisas vierem sobre vocês, a bênção e a maldição que pus diante de vocês, se vocês se lembrarem delas entre todas as nações para onde o Senhor , seu Deus, os lançar
+
+[[v5-30-2]]
+
+^<<v5-30-2,2>>^ e voltarem para o Senhor , seu Deus, vocês e os seus filhos, de todo o seu coração e de toda a sua alma, e derem ouvidos à sua voz, segundo tudo o que hoje lhes ordeno,
+
+[[v5-30-3]]
+
+^<<v5-30-3,3>>^ então o Senhor , seu Deus, mudará a sorte de vocês, e se compadecerá de vocês, e os reunirá de todos os povos entre os quais o Senhor , o Deus de vocês, os havia espalhado.
+
+[[v5-30-4]]
+
+^<<v5-30-4,4>>^ Ainda que os desterrados estejam nos lugares mais distantes da terra, desde aí o Senhor , seu Deus, os ajuntará e os trará de volta.
+
+[[v5-30-5]]
+
+^<<v5-30-5,5>>^ O Senhor , seu Deus, introduzirá vocês na terra que seus pais possuíram, e dela vocês tomarão posse. Ele fará bem a vocês e os multiplicará mais do que aos seus pais.
+
+[[v5-30-6]]
+
+^<<v5-30-6,6>>^ O Senhor , seu Deus, circuncidará o coração de vocês e o coração dos seus descendentes, para que vocês amem o Senhor , seu Deus, de todo o coração e de toda a alma, para que vocês tenham vida.
+
+[[v5-30-7]]
+
+^<<v5-30-7,7>>^ O Senhor , seu Deus, porá todas estas maldições sobre os inimigos de vocês e sobre aqueles que os odeiam e os perseguiram.
+
+[[v5-30-8]]
+
+^<<v5-30-8,8>>^ De novo vocês darão ouvidos à voz do Senhor  e cumprirão todos os seus mandamentos que hoje lhes ordeno.
+
+[[v5-30-9]]
+
+^<<v5-30-9,9>>^ O Senhor , seu Deus, dará a vocês abundância em tudo o que fizerem, no fruto do seu ventre, no fruto dos seus animais e no fruto da terra, e os beneficiará. Porque o Senhor  voltará a se alegrar em vocês, para lhes fazer bem, como se alegrou nos pais de vocês,
+
+[[v5-30-10]]
+
+^<<v5-30-10,10>>^ se derem ouvidos à voz do Senhor , seu Deus, guardando os seus mandamentos e os seus estatutos, escritos neste Livro da Lei, se vocês se converterem ao Senhor , seu Deus, de todo o coração e de toda a alma.
+
+[[v5-30-11]]
+
+^<<v5-30-11,11>>^ — Porque este mandamento que hoje lhes ordeno não é demasiadamente difícil, nem está longe de vocês.
+
+[[v5-30-12]]
+
+^<<v5-30-12,12>>^ Não está no céu, para que tenham de dizer: "Quem subirá até o céu por nós, para nos trazer o mandamento e anunciá-lo a nós, para que o cumpramos?"
+
+[[v5-30-13]]
+
+^<<v5-30-13,13>>^ Nem está do outro lado do mar, para que tenham de dizer: "Quem irá atravessar o mar por nós, para nos trazer o mandamento e anunciá-lo a nós, para que o cumpramos?"
+
+[[v5-30-14]]
+
+^<<v5-30-14,14>>^ Pois esta palavra está bem perto de vocês, na sua boca e no seu coração, para que vocês a cumpram.
+
+[[v5-30-15]]
+
+^<<v5-30-15,15>>^ — Vejam! Hoje coloco diante de vocês a vida e o bem, a morte e o mal.
+
+[[v5-30-16]]
+
+^<<v5-30-16,16>>^ Se guardarem o mandamento que hoje lhes ordeno, que amem o Senhor , seu Deus, andem nos seus caminhos e guardem os seus mandamentos, os seus estatutos e os seus juízos, então vocês viverão e se multiplicarão, e o Senhor , seu Deus, os abençoará na terra em que estão entrando para dela tomar posse.
+
+[[v5-30-17]]
+
+^<<v5-30-17,17>>^ Mas, se o coração de vocês se desviar, e não quiserem ouvir, mas forem seduzidos, se inclinarem diante de outros deuses e os servirem,
+
+[[v5-30-18]]
+
+^<<v5-30-18,18>>^ então hoje lhes declaro que, certamente, perecerão; não permanecerão muito tempo na terra na qual, passando o Jordão, vocês vão entrar para dela tomar posse.
+
+[[v5-30-19]]
+
+^<<v5-30-19,19>>^ Hoje tomo o céu e a terra por testemunhas contra vocês, que lhes propus a vida e a morte, a bênção e a maldição; escolham, pois, a vida, para que vivam, vocês e os seus descendentes,
+
+[[v5-30-20]]
+
+^<<v5-30-20,20>>^ amando o Senhor , seu Deus, dando ouvidos à sua voz e apegando-se a ele; pois disto depende a vida e a longevidade de vocês. Escolham a vida, para que habitem na terra que o Senhor , sob juramento, prometeu dar aos pais de vocês, a Abraão, Isaque e Jacó.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-029.adoc#v5-29-0[&#60; Capítulo Anterior] | <<v5-30-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-031.adoc#v5-31-0[Próximo Capítulo &#62;]

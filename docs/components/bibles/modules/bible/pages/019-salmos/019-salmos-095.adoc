@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-95-0]]
+=== Salmos, 95
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-95-1]]
+
+^<<v19-95-1,1>>^ Venham, cantemos ao Senhor  com júbilo, celebremos o Rochedo da nossa salvação.
+
+[[v19-95-2]]
+
+^<<v19-95-2,2>>^ Saiamos ao seu encontro com ações de graças, vitoriemo-lo com salmos.
+
+[[v19-95-3]]
+
+^<<v19-95-3,3>>^ Porque o Senhor é o Deus supremo e o grande Rei acima de todos os deuses.
+
+[[v19-95-4]]
+
+^<<v19-95-4,4>>^ Nas suas mãos estão as profundezas da terra, e as alturas dos montes lhe pertencem.
+
+[[v19-95-5]]
+
+^<<v19-95-5,5>>^ Dele é o mar, pois ele o fez; obra de suas mãos, os continentes.
+
+[[v19-95-6]]
+
+^<<v19-95-6,6>>^ Venham, adoremos e prostremo-nos; ajoelhemos diante do Senhor , que nos criou.
+
+[[v19-95-7]]
+
+^<<v19-95-7,7>>^ Ele é o nosso Deus, e nós somos povo do seu pasto e ovelhas de sua mão. Hoje, se ouvirem a sua voz,
+
+[[v19-95-8]]
+
+^<<v19-95-8,8>>^ não endureçam o coração, como em Meribá, como naquele dia em Massá, no deserto,
+
+[[v19-95-9]]
+
+^<<v19-95-9,9>>^ quando os pais de vocês me tentaram, pondo-me à prova, apesar de terem visto as minhas obras.
+
+[[v19-95-10]]
+
+^<<v19-95-10,10>>^ Durante quarenta anos, estive irritado com essa geração e disse: "Este é um povo que gosta de se desviar; eles não conhecem os meus caminhos."
+
+[[v19-95-11]]
+
+^<<v19-95-11,11>>^ Por isso, jurei na minha ira: "Eles não entrarão no meu descanso."
+
+'''
+
+xref:019-salmos/019-salmos-094.adoc#v19-94-0[&#60; Capítulo Anterior] | <<v19-95-0,Topo>> | xref:019-salmos/019-salmos-096.adoc#v19-96-0[Próximo Capítulo &#62;]

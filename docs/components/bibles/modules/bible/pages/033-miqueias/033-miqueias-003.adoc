@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v33-3-0]]
+=== Miquéias, 3
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v33-3-1]]
+
+^<<v33-3-1,1>>^ Eu disse: Escutem agora, governantes de Jacó e chefes da casa de Israel: Por acaso não é a vocês que compete conhecer a justiça?
+
+[[v33-3-2]]
+
+^<<v33-3-2,2>>^ Mas vocês odeiam o bem e amam o mal; arrancam a pele do meu povo e a carne de cima dos seus ossos.
+
+[[v33-3-3]]
+
+^<<v33-3-3,3>>^ Vocês comem a carne do meu povo e lhes arrancam a pele; quebram os seus ossos, e os repartem em pedaços que vão para a panela e em carne que vai para o caldeirão.
+
+[[v33-3-4]]
+
+^<<v33-3-4,4>>^ Um dia eles hão de invocar o Senhor , mas ele não os ouvirá; naquele tempo, esconderá deles a sua face, por causa do mal que praticaram.
+
+[[v33-3-5]]
+
+^<<v33-3-5,5>>^ Assim diz o Senhor a respeito dos profetas que fazem o meu povo andar errante e que clamam: "Paz", quando têm o que mastigar, mas apregoam guerra santa contra aqueles que não lhes dão nada para comer:
+
+[[v33-3-6]]
+
+^<<v33-3-6,6>>^ "Por isso, vocês terão noites sem visões; vocês terão trevas sem adivinhações. O sol se porá sobre os profetas, e o dia se transformará em escuridão.
+
+[[v33-3-7]]
+
+^<<v33-3-7,7>>^ Os videntes serão envergonhados, e os adivinhos serão humilhados. Todos eles colocarão a mão sobre a boca, porque não haverá resposta de Deus."
+
+[[v33-3-8]]
+
+^<<v33-3-8,8>>^ Quanto a mim, estou cheio do poder do Espírito do Senhor , cheio de justiça e de força, para declarar a Jacó a sua transgressão e a Israel, o seu pecado.
+
+[[v33-3-9]]
+
+^<<v33-3-9,9>>^ Escutem agora isto, governantes da casa de Jacó e chefes da casa de Israel, vocês que detestam a justiça e pervertem tudo o que é correto,
+
+[[v33-3-10]]
+
+^<<v33-3-10,10>>^ que edificam Sião com sangue e Jerusalém, com iniquidade.
+
+[[v33-3-11]]
+
+^<<v33-3-11,11>>^ Os seus cabeças dão as sentenças por suborno, os seus sacerdotes ensinam por interesse, e os seus profetas adivinham por dinheiro. E ainda se apoiam no Senhor , dizendo: "Não está o Senhor no meio de nós? Nenhum mal nos sobrevirá."
+
+[[v33-3-12]]
+
+^<<v33-3-12,12>>^ Portanto, por causa de vocês, Sião será lavrada como um campo, e Jerusalém se tornará um montão de ruínas, e o monte do templo, numa colina coberta de mato.
+
+'''
+
+xref:033-miqueias/033-miqueias-002.adoc#v33-2-0[&#60; Capítulo Anterior] | <<v33-3-0,Topo>> | xref:033-miqueias/033-miqueias-004.adoc#v33-4-0[Próximo Capítulo &#62;]

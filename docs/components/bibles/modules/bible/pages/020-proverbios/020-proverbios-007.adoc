@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Provérbios, 7
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ Meu filho, guarde as minhas palavras e conserve os meus mandamentos em seu coração.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Observe os meus mandamentos e você viverá; guarde a minha lei como a menina dos seus olhos.
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Amarre-os aos dedos, escreva-os na tábua do seu coração.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Diga à Sabedoria: "Você é minha irmã"; e ao Entendimento: "Você é meu parente."
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ Eles o guardarão da mulher imoral, da estranha que lisonjeia com palavras.
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ Porque da janela da minha casa, olhando pela grade,
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ vi entre os ingênuos, e descobri entre os jovens um que não tinha juízo.
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ Ele ia e vinha pela rua junto à esquina da mulher estranha e seguia o caminho da casa dela,
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ no crepúsculo, ao anoitecer, na escuridão da noite, nas trevas.
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ Eis que a mulher lhe saiu ao encontro, com roupas de prostituta e astúcia no coração.
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ É espalhafatosa e inquieta; os seus pés não param em casa.
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ Ora está nas ruas, ora, nas praças, espreitando por todos os cantos.
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ Ela agarrou o jovem e o beijou; e com o maior descaramento lhe disse:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ "Eu tinha de oferecer sacrifícios pacíficos; hoje paguei os meus votos.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ Por isso, saí ao seu encontro; vim procurá-lo, e agora o encontrei!
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ Já cobri de colchas a minha cama, de linho fino do Egito, de várias cores.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ Já perfumei o meu leito com mirra, aloés e cinamomo.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Venha, vamos nos embriagar com as delícias do amor, até o amanhecer; gozemos amores.
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ Porque o meu marido não está em casa; saiu de viagem para longe.
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ Levou consigo uma bolsa cheia de dinheiro; não voltará para casa antes da lua cheia."
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ Ela o seduziu com as suas muitas palavras, com as lisonjas dos seus lábios o arrastou.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ E, num instante, ele a seguiu, como um boi que vai para o matadouro; como um animal que corre para a armadilha,
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ até que uma flecha lhe atravesse o coração. Ele era como a ave que corre para dentro do alçapão, sem saber que isto lhe custará a vida.
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ Agora, meu filho, escute o que eu digo e dê atenção às palavras da minha boca.
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ Não deixe que o seu coração se desvie para os caminhos dessa mulher, e não ande perdido nas suas veredas.
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ Porque a muitos ela feriu e derrubou; e são muitos os que por ela foram mortos.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ A casa dela é caminho para o abismo e desce para as câmaras da morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[Próximo Capítulo &#62;]

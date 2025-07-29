@@ -1,0 +1,273 @@
+include::./index.adoc[]
+
+[[v25-3-0]]
+=== Lamentações, 3
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v25-3-1]]
+
+^<<v25-3-1,1>>^ Álefe — Eu sou o homem que viu a aflição causada pela vara do furor de Deus.
+
+[[v25-3-2]]
+
+^<<v25-3-2,2>>^ Ele me levou e me fez andar nas trevas e não na luz.
+
+[[v25-3-3]]
+
+^<<v25-3-3,3>>^ Certamente ele voltou a sua mão contra mim, sem parar, todo o dia. Bete —
+
+[[v25-3-4]]
+
+^<<v25-3-4,4>>^ Fez envelhecer a minha carne e a minha pele, e despedaçou os meus ossos.
+
+[[v25-3-5]]
+
+^<<v25-3-5,5>>^ Construiu rampas de ataque contra mim e me cercou de amargura e dor.
+
+[[v25-3-6]]
+
+^<<v25-3-6,6>>^ Ele me faz habitar na escuridão, como aqueles que morreram há muito tempo. Guímel —
+
+[[v25-3-7]]
+
+^<<v25-3-7,7>>^ Cercou-me de um muro, e já não posso sair; prendeu-me com pesadas correntes.
+
+[[v25-3-8]]
+
+^<<v25-3-8,8>>^ Mesmo quando clamo e grito, ele fecha os ouvidos à minha oração.
+
+[[v25-3-9]]
+
+^<<v25-3-9,9>>^ Fechou os meus caminhos com blocos de pedra, fez tortuosas as minhas veredas. Dálete —
+
+[[v25-3-10]]
+
+^<<v25-3-10,10>>^ Foi para mim como um urso à espreita, como um leão pronto para atacar.
+
+[[v25-3-11]]
+
+^<<v25-3-11,11>>^ Desviou os meus caminhos e me fez em pedaços; depois me abandonou.
+
+[[v25-3-12]]
+
+^<<v25-3-12,12>>^ Entesou o seu arco e me pôs como alvo de suas flechas. Hê —
+
+[[v25-3-13]]
+
+^<<v25-3-13,13>>^ As flechas da sua aljava atingiram o meu coração.
+
+[[v25-3-14]]
+
+^<<v25-3-14,14>>^ Fui feito motivo de riso para todo o meu povo, e a sua canção de deboche o dia inteiro.
+
+[[v25-3-15]]
+
+^<<v25-3-15,15>>^ Fartou-me de amarguras, e me saciou de absinto. Vau —
+
+[[v25-3-16]]
+
+^<<v25-3-16,16>>^ Quebrou os meus dentes nas pedras, e cobriu-me de cinza.
+
+[[v25-3-17]]
+
+^<<v25-3-17,17>>^ Já não sei o que é ter paz e esqueci o que é desfrutar do bem.
+
+[[v25-3-18]]
+
+^<<v25-3-18,18>>^ Então eu disse: "Não tenho mais forças. A minha esperança no Senhor  acabou." Zaine —
+
+[[v25-3-19]]
+
+^<<v25-3-19,19>>^ Lembra-te da minha aflição e do meu andar errante, do absinto e da amargura.
+
+[[v25-3-20]]
+
+^<<v25-3-20,20>>^ Minha alma continuamente se lembra disso e se abate dentro de mim.
+
+[[v25-3-21]]
+
+^<<v25-3-21,21>>^ Quero trazer à memória o que pode me dar esperança. Hete —
+
+[[v25-3-22]]
+
+^<<v25-3-22,22>>^ As misericórdias do Senhor  são a causa de não sermos consumidos, porque as suas misericórdias não têm fim;
+
+[[v25-3-23]]
+
+^<<v25-3-23,23>>^ renovam-se cada manhã. Grande é a tua fidelidade.
+
+[[v25-3-24]]
+
+^<<v25-3-24,24>>^ A minha porção é o Senhor , diz a minha alma; portanto, esperarei nele. Tete —
+
+[[v25-3-25]]
+
+^<<v25-3-25,25>>^ O Senhor  é bom para os que esperam nele, para aqueles que o buscam.
+
+[[v25-3-26]]
+
+^<<v25-3-26,26>>^ Bom é aguardar a salvação do Senhor , e isso, em silêncio.
+
+[[v25-3-27]]
+
+^<<v25-3-27,27>>^ Bom é para o homem suportar o jugo na sua mocidade. Iode —
+
+[[v25-3-28]]
+
+^<<v25-3-28,28>>^ Que ele se assente solitário e fique em silêncio, porque esse jugo Deus pôs sobre ele.
+
+[[v25-3-29]]
+
+^<<v25-3-29,29>>^ Ponha a sua boca no pó; talvez ainda haja esperança.
+
+[[v25-3-30]]
+
+^<<v25-3-30,30>>^ Dê a face ao que o fere e suporte todas as afrontas. Cafe —
+
+[[v25-3-31]]
+
+^<<v25-3-31,31>>^ O Senhor não rejeitará para sempre.
+
+[[v25-3-32]]
+
+^<<v25-3-32,32>>^ Ainda que entristeça alguém, terá compaixão segundo a grandeza das suas misericórdias.
+
+[[v25-3-33]]
+
+^<<v25-3-33,33>>^ Porque não aflige nem entristece de bom grado os filhos dos homens. Lâmede —
+
+[[v25-3-34]]
+
+^<<v25-3-34,34>>^ Pisar debaixo dos pés todos os prisioneiros da terra,
+
+[[v25-3-35]]
+
+^<<v25-3-35,35>>^ perverter o direito do homem diante do Altíssimo,
+
+[[v25-3-36]]
+
+^<<v25-3-36,36>>^ subverter a justiça num processo — será que o Senhor não veria tais coisas? Mem —
+
+[[v25-3-37]]
+
+^<<v25-3-37,37>>^ Quem é aquele que diz, e assim acontece, sem que o Senhor o tenha ordenado?
+
+[[v25-3-38]]
+
+^<<v25-3-38,38>>^ Por acaso, não é da boca do Altíssimo que procedem tanto o mal como o bem?
+
+[[v25-3-39]]
+
+^<<v25-3-39,39>>^ Por que se queixa o homem? Queixe-se cada um dos seus próprios pecados. Num —
+
+[[v25-3-40]]
+
+^<<v25-3-40,40>>^ Examinemos bem os nossos caminhos e voltemos para o Senhor .
+
+[[v25-3-41]]
+
+^<<v25-3-41,41>>^ Levantemos o coração, juntamente com as mãos, para Deus nos céus, dizendo:
+
+[[v25-3-42]]
+
+^<<v25-3-42,42>>^ "Nós pecamos e fomos rebeldes, e tu não nos perdoaste." Sâmeque —
+
+[[v25-3-43]]
+
+^<<v25-3-43,43>>^ Cobriste-nos de ira e nos perseguiste; nos mataste sem dó nem piedade.
+
+[[v25-3-44]]
+
+^<<v25-3-44,44>>^ De nuvens te encobriste para que a nossa oração não passe.
+
+[[v25-3-45]]
+
+^<<v25-3-45,45>>^ Como lixo e refugo nos puseste no meio dos povos. Pê —
+
+[[v25-3-46]]
+
+^<<v25-3-46,46>>^ Todos os nossos inimigos abriram a boca contra nós.
+
+[[v25-3-47]]
+
+^<<v25-3-47,47>>^ Sobre nós vieram o temor e a cova, a desolação e a ruína.
+
+[[v25-3-48]]
+
+^<<v25-3-48,48>>^ Dos meus olhos correm rios de lágrimas, por causa da destruição da filha do meu povo. Aim —
+
+[[v25-3-49]]
+
+^<<v25-3-49,49>>^ Os meus olhos choram, não cessam, e não há descanso,
+
+[[v25-3-50]]
+
+^<<v25-3-50,50>>^ até que o Senhor  atenda e veja lá do céu.
+
+[[v25-3-51]]
+
+^<<v25-3-51,51>>^ O que vejo entristece a minha alma: o sofrimento de todas as filhas da minha cidade. Tsadê —
+
+[[v25-3-52]]
+
+^<<v25-3-52,52>>^ Aqueles que sem motivo são meus inimigos caçaram-me como se eu fosse uma ave.
+
+[[v25-3-53]]
+
+^<<v25-3-53,53>>^ Lançaram-me vivo numa cova e atiraram pedras sobre mim.
+
+[[v25-3-54]]
+
+^<<v25-3-54,54>>^ Águas correram sobre a minha cabeça; então eu disse: "Estou perdido!" Cofe —
+
+[[v25-3-55]]
+
+^<<v25-3-55,55>>^ Da mais profunda cova, Senhor , invoquei o teu nome.
+
+[[v25-3-56]]
+
+^<<v25-3-56,56>>^ Ouviste a minha voz, quando pedi: "Não feches os teus ouvidos aos meus lamentos, ao meu clamor."
+
+[[v25-3-57]]
+
+^<<v25-3-57,57>>^ No dia em que te invoquei, chegaste perto de mim e disseste: "Não tenha medo." Rexe —
+
+[[v25-3-58]]
+
+^<<v25-3-58,58>>^ Defendeste a minha causa, Senhor; remiste a minha vida.
+
+[[v25-3-59]]
+
+^<<v25-3-59,59>>^ Viste, Senhor , a injustiça que me fizeram; julga a minha causa.
+
+[[v25-3-60]]
+
+^<<v25-3-60,60>>^ Viste toda a sua vingança, todos os seus planos contra mim. Chim —
+
+[[v25-3-61]]
+
+^<<v25-3-61,61>>^ Ouviste as suas afrontas, Senhor , todos os seus planos contra mim,
+
+[[v25-3-62]]
+
+^<<v25-3-62,62>>^ as acusações que me fazem e o que murmuram contra mim, o dia todo.
+
+[[v25-3-63]]
+
+^<<v25-3-63,63>>^ Observa-os quando se assentam e quando se levantam; eu sou motivo de zombaria para eles. Tau —
+
+[[v25-3-64]]
+
+^<<v25-3-64,64>>^ Tu, Senhor , lhes retribuirás segundo a obra das mãos deles.
+
+[[v25-3-65]]
+
+^<<v25-3-65,65>>^ Tu lhes darás dureza de coração, que é a tua maldição sobre eles.
+
+[[v25-3-66]]
+
+^<<v25-3-66,66>>^ Na tua ira, os perseguirás, e eles serão eliminados de debaixo dos céus do Senhor .
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-002.adoc#v25-2-0[&#60; Capítulo Anterior] | <<v25-3-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[Próximo Capítulo &#62;]

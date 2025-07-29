@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-31-0]]
+=== Salmos, 31
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-31-1]]
+
+^<<v19-31-1,1>>^ Em ti, Senhor , me refugio; não seja eu jamais envergonhado; livra-me por tua justiça.
+
+[[v19-31-2]]
+
+^<<v19-31-2,2>>^ Inclina-me os ouvidos, livra-me depressa; sê o meu castelo forte, cidadela fortíssima que me salve.
+
+[[v19-31-3]]
+
+^<<v19-31-3,3>>^ Porque tu és a minha rocha e a minha fortaleza; por causa do teu nome, tu me conduzirás e me guiarás.
+
+[[v19-31-4]]
+
+^<<v19-31-4,4>>^ Tira-me do laço que, às escondidas, me armaram, pois tu és a minha fortaleza.
+
+[[v19-31-5]]
+
+^<<v19-31-5,5>>^ Nas tuas mãos entrego o meu espírito; tu me remiste, Senhor , Deus da verdade.
+
+[[v19-31-6]]
+
+^<<v19-31-6,6>>^ Tu detestas os que adoram ídolos vãos; eu, porém, confio no Senhor .
+
+[[v19-31-7]]
+
+^<<v19-31-7,7>>^ Eu me alegrarei e regozijarei na tua bondade, pois tens visto a minha aflição, conheceste as angústias de minha alma
+
+[[v19-31-8]]
+
+^<<v19-31-8,8>>^ e não me entregaste nas mãos do inimigo; firmaste os meus pés em lugar espaçoso.
+
+[[v19-31-9]]
+
+^<<v19-31-9,9>>^ Compadece-te de mim, Senhor , porque estou angustiado; de tristeza se consomem os meus olhos, a minha alma e o meu corpo.
+
+[[v19-31-10]]
+
+^<<v19-31-10,10>>^ Gasta-se a minha vida na tristeza, e os meus anos, em gemidos; debilita-se a minha força, por causa da minha iniquidade, e os meus ossos se consomem.
+
+[[v19-31-11]]
+
+^<<v19-31-11,11>>^ Tornei-me objeto de deboche para todos os meus adversários, de espanto para os meus vizinhos e de horror para os meus conhecidos; os que me veem na rua fogem de mim.
+
+[[v19-31-12]]
+
+^<<v19-31-12,12>>^ Estou esquecido no coração deles, como morto; sou como vaso quebrado.
+
+[[v19-31-13]]
+
+^<<v19-31-13,13>>^ Pois tenho ouvido a murmuração de muitos, terror por todos os lados; conspirando contra mim, tramam tirar-me a vida.
+
+[[v19-31-14]]
+
+^<<v19-31-14,14>>^ Quanto a mim, confio em ti, Senhor . Eu disse: "Tu és o meu Deus."
+
+[[v19-31-15]]
+
+^<<v19-31-15,15>>^ Nas tuas mãos estão os meus dias; livra-me das mãos dos meus inimigos e dos meus perseguidores.
+
+[[v19-31-16]]
+
+^<<v19-31-16,16>>^ Faze resplandecer o teu rosto sobre o teu servo; salva-me por tua misericórdia.
+
+[[v19-31-17]]
+
+^<<v19-31-17,17>>^ Não seja eu envergonhado, Senhor , pois te invoquei; envergonhados sejam os perversos, emudecidos na morte.
+
+[[v19-31-18]]
+
+^<<v19-31-18,18>>^ Emudeçam os lábios mentirosos, que falam insolentemente contra o justo, com arrogância e desdém.
+
+[[v19-31-19]]
+
+^<<v19-31-19,19>>^ Como é grande a tua bondade, que reservaste aos que te temem, da qual usas, diante dos filhos dos homens, para com os que em ti se refugiam!
+
+[[v19-31-20]]
+
+^<<v19-31-20,20>>^ No recôndito da tua presença, tu os esconderás das intrigas humanas, num esconderijo os ocultarás do conflito de línguas.
+
+[[v19-31-21]]
+
+^<<v19-31-21,21>>^ Bendito seja o Senhor , que engrandeceu a sua misericórdia para comigo, numa cidade sitiada!
+
+[[v19-31-22]]
+
+^<<v19-31-22,22>>^ Eu disse na minha pressa: "Estou excluído da tua presença." Mas tu ouviste a voz das minhas súplicas, quando clamei por teu socorro.
+
+[[v19-31-23]]
+
+^<<v19-31-23,23>>^ Amem o Senhor , todos vocês que são os seus santos. O Senhor  preserva os fiéis, mas retribui com abundância aos soberbos.
+
+[[v19-31-24]]
+
+^<<v19-31-24,24>>^ Sejam fortes, e que se revigore o coração de todos vocês que esperam no Senhor .
+
+'''
+
+xref:019-salmos/019-salmos-030.adoc#v19-30-0[&#60; Capítulo Anterior] | <<v19-31-0,Topo>> | xref:019-salmos/019-salmos-032.adoc#v19-32-0[Próximo Capítulo &#62;]

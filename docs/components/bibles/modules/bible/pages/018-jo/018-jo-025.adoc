@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v18-25-0]]
+=== Jó, 25
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v18-25-1]]
+
+^<<v18-25-1,1>>^ Então Bildade, o suíta, tomou a palavra e disse:
+
+[[v18-25-2]]
+
+^<<v18-25-2,2>>^ "A Deus pertence o domínio e o poder; ele faz reinar a paz nas alturas celestes.
+
+[[v18-25-3]]
+
+^<<v18-25-3,3>>^ Será que é possível contar os seus exércitos? E sobre quem não se levanta a sua luz?
+
+[[v18-25-4]]
+
+^<<v18-25-4,4>>^ Como pode o mortal ser justo diante de Deus? E como pode ser puro aquele que nasce de mulher?
+
+[[v18-25-5]]
+
+^<<v18-25-5,5>>^ Eis que até a lua não tem brilho, e as estrelas não são puras aos olhos dele.
+
+[[v18-25-6]]
+
+^<<v18-25-6,6>>^ Quanto menos o homem, que é larva, e o filho do homem, que é verme!"
+
+'''
+
+xref:018-jo/018-jo-024.adoc#v18-24-0[&#60; Capítulo Anterior] | <<v18-25-0,Topo>> | xref:018-jo/018-jo-026.adoc#v18-26-0[Próximo Capítulo &#62;]

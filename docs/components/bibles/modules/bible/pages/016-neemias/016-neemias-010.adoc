@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Neemias, 10
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ Os que colocaram o seu selo foram: Neemias, o governador, filho de Hacalias, e Zedequias,
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Seraías, Azarias, Jeremias,
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Pasur, Amarias, Malquias,
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Hatus, Sebanias, Maluque,
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Harim, Meremote, Obadias,
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Daniel, Ginetom, Baruque,
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Mesulão, Abias, Miamim,
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Maazias, Bilgai, Semaías. Estes eram os sacerdotes.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ E os levitas: Jesua, filho de Azanias, Binui, dos filhos de Henadade, Cadmiel
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ e os irmãos deles: Sebanias, Hodias, Quelita, Pelaías, Hanã,
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Mica, Reobe, Hasabias,
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Zacur, Serebias, Sebanias,
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Hodias, Bani e Beninu.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ Os chefes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani,
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Buni, Azgade, Bebai,
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Adonias, Bigvai, Adim,
+
+[[v16-10-17]]
+
+^<<v16-10-17,17>>^ Ater, Ezequias, Azur,
+
+[[v16-10-18]]
+
+^<<v16-10-18,18>>^ Hodias, Hasum, Besai,
+
+[[v16-10-19]]
+
+^<<v16-10-19,19>>^ Harife, Anatote, Nebai,
+
+[[v16-10-20]]
+
+^<<v16-10-20,20>>^ Magpias, Mesulão, Hezir,
+
+[[v16-10-21]]
+
+^<<v16-10-21,21>>^ Mesezabel, Zadoque, Jadua,
+
+[[v16-10-22]]
+
+^<<v16-10-22,22>>^ Pelatias, Hanã, Anaías,
+
+[[v16-10-23]]
+
+^<<v16-10-23,23>>^ Oseias, Hananias, Hassube,
+
+[[v16-10-24]]
+
+^<<v16-10-24,24>>^ Haloés, Pilha, Sobeque,
+
+[[v16-10-25]]
+
+^<<v16-10-25,25>>^ Reum, Hasabna, Maaseias,
+
+[[v16-10-26]]
+
+^<<v16-10-26,26>>^ Aías, Hanã, Anã,
+
+[[v16-10-27]]
+
+^<<v16-10-27,27>>^ Maluque, Harim e Baaná.
+
+[[v16-10-28]]
+
+^<<v16-10-28,28>>^ O resto do povo, os sacerdotes, os levitas, os porteiros, os cantores, os servidores do templo e todos os que tinham se separado dos povos de outras terras para seguirem a Lei de Deus, com as suas mulheres, os seus filhos e as suas filhas, todos os que tinham saber e entendimento,
+
+[[v16-10-29]]
+
+^<<v16-10-29,29>>^ firmemente aderiram aos seus compatriotas, os nobres, e prometeram, com juramento e sob pena de maldição, que andariam na Lei de Deus, que foi dada por meio de Moisés, servo de Deus; que guardariam e cumpririam todos os mandamentos do Senhor , nosso Deus, e os seus juízos e os seus estatutos;
+
+[[v16-10-30]]
+
+^<<v16-10-30,30>>^ que não dariam as suas filhas em casamento aos povos da terra, nem escolheriam as filhas deles para casar com os seus filhos;
+
+[[v16-10-31]]
+
+^<<v16-10-31,31>>^ que, se os povos da terra trouxessem qualquer mercadoria ou qualquer cereal para vender no dia de sábado, nada comprariam deles no sábado nem em dias santificados; e que, no sétimo ano, abririam mão da colheita e de toda e qualquer cobrança.
+
+[[v16-10-32]]
+
+^<<v16-10-32,32>>^ Também assumimos a obrigação de contribuir anualmente com quatro gramas de prata para o serviço do templo do nosso Deus,
+
+[[v16-10-33]]
+
+^<<v16-10-33,33>>^ para os pães da proposição, para a oferta contínua de cereais, para o holocausto contínuo dos sábados e das Festas da Lua Nova, para as festas fixas, para as coisas sagradas, para as ofertas pelo pecado, para fazer expiação por Israel e para toda a obra do templo do nosso Deus.
+
+[[v16-10-34]]
+
+^<<v16-10-34,34>>^ Nós, os sacerdotes, os levitas e o povo lançamos sortes a respeito da oferta da lenha que se havia de trazer ao templo do nosso Deus, segundo as nossas famílias, em tempos determinados, de ano em ano, para queimar sobre o altar do Senhor , nosso Deus, como está escrito na Lei.
+
+[[v16-10-35]]
+
+^<<v16-10-35,35>>^ Também nos comprometemos a trazer anualmente à Casa do Senhor  as primícias da nossa terra e todas as primícias de todas as árvores frutíferas,
+
+[[v16-10-36]]
+
+^<<v16-10-36,36>>^ bem como os primogênitos dos nossos filhos e os do nosso gado, como está escrito na Lei. Assumimos a obrigação de trazer ao templo do nosso Deus, aos sacerdotes que ministram nele, os primogênitos das nossas manadas e das nossas ovelhas,
+
+[[v16-10-37]]
+
+^<<v16-10-37,37>>^ e de trazer aos sacerdotes, aos depósitos do templo do nosso Deus, as primícias da nossa massa, as nossas ofertas, o fruto de toda árvore, o vinho e o azeite. Também nos comprometemos a trazer os dízimos da nossa terra aos levitas, pois a eles cumpre receber os dízimos em todas as cidades onde há lavoura.
+
+[[v16-10-38]]
+
+^<<v16-10-38,38>>^ O sacerdote, filho de Arão, estaria com os levitas quando estes recebessem os dízimos, e os levitas trariam os dízimos dos dízimos ao templo do nosso Deus, aos depósitos da casa do tesouro.
+
+[[v16-10-39]]
+
+^<<v16-10-39,39>>^ Porque os filhos de Israel e os filhos de Levi devem trazer as ofertas do cereal, do vinho e do azeite para aqueles depósitos, porque ali estão os utensílios do santuário, bem como os sacerdotes que ministram, e também os porteiros e os cantores. Não abandonaremos o templo do nosso Deus.
+
+'''
+
+xref:016-neemias/016-neemias-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-neemias/016-neemias-011.adoc#v16-11-0[Próximo Capítulo &#62;]

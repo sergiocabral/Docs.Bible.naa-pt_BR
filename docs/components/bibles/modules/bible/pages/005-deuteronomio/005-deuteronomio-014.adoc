@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-14-0]]
+=== Deuteronômio, 14
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-14-1]]
+
+^<<v5-14-1,1>>^ Vocês são filhos do Senhor , seu Deus. Não façam cortes em seu corpo, nem rapem a parte da frente da cabeça por causa de algum morto.
+
+[[v5-14-2]]
+
+^<<v5-14-2,2>>^ Porque vocês são povo santo ao Senhor , seu Deus, e o Senhor  os escolheu de todos os povos que há sobre a face da terra, para lhe serem o seu povo próprio.
+
+[[v5-14-3]]
+
+^<<v5-14-3,3>>^ — Não comam coisa alguma abominável.
+
+[[v5-14-4]]
+
+^<<v5-14-4,4>>^ São estes os animais que vocês podem comer: o boi, a ovelha, a cabra,
+
+[[v5-14-5]]
+
+^<<v5-14-5,5>>^ o veado, a gazela, a corça, a cabra selvagem, o antílope, a ovelha selvagem e o gamo.
+
+[[v5-14-6]]
+
+^<<v5-14-6,6>>^ Vocês podem comer todos os animais que têm unhas fendidas, cujo casco se divide em dois e que ruminam.
+
+[[v5-14-7]]
+
+^<<v5-14-7,7>>^ Porém dos que ruminam ou que têm a unha fendida vocês não podem comer o camelo, a lebre e o arganaz, porque ruminam, mas não têm a unha fendida; serão impuros para vocês.
+
+[[v5-14-8]]
+
+^<<v5-14-8,8>>^ Nem o porco, porque tem unha fendida, mas não rumina; será impuro para vocês. Destes vocês não devem comer a carne, nem tocar no seu cadáver.
+
+[[v5-14-9]]
+
+^<<v5-14-9,9>>^ — Dos animais que vivem nas águas vocês podem comer tudo o que tem barbatanas e escamas.
+
+[[v5-14-10]]
+
+^<<v5-14-10,10>>^ Mas tudo o que não tiver barbatanas nem escamas vocês não podem comer; será impuro para vocês.
+
+[[v5-14-11]]
+
+^<<v5-14-11,11>>^ — Toda ave pura vocês podem comer.
+
+[[v5-14-12]]
+
+^<<v5-14-12,12>>^ Estas, porém, são as que vocês não devem comer: a águia, o urubu, a águia marinha,
+
+[[v5-14-13]]
+
+^<<v5-14-13,13>>^ o açor, o falcão e o milhano, segundo a sua espécie;
+
+[[v5-14-14]]
+
+^<<v5-14-14,14>>^ e todo corvo, segundo a sua espécie;
+
+[[v5-14-15]]
+
+^<<v5-14-15,15>>^ o avestruz, a coruja, a gaivota e o gavião, segundo a sua espécie;
+
+[[v5-14-16]]
+
+^<<v5-14-16,16>>^ o mocho, a íbis, a gralha,
+
+[[v5-14-17]]
+
+^<<v5-14-17,17>>^ o pelicano, o abutre, o corvo marinho,
+
+[[v5-14-18]]
+
+^<<v5-14-18,18>>^ a cegonha, e a garça, segundo a sua espécie, e a poupa e o morcego.
+
+[[v5-14-19]]
+
+^<<v5-14-19,19>>^ — Também todo inseto que voa será impuro para vocês; não se comerá.
+
+[[v5-14-20]]
+
+^<<v5-14-20,20>>^ Todo ser que tem asas e for puro vocês podem comer.
+
+[[v5-14-21]]
+
+^<<v5-14-21,21>>^ — Não comam nenhum animal que morreu por si mesmo. Vocês podem dá-lo ao estrangeiro que mora na cidade onde vocês vivem, para que o coma, ou vendê-lo ao estranho. Porque vocês são povo santo ao Senhor , seu Deus. — Não cozinhem o cabrito no leite da sua própria mãe.
+
+[[v5-14-22]]
+
+^<<v5-14-22,22>>^ — Certamente vocês devem dar o dízimo de todo o fruto das suas sementes, que ano após ano se recolher do campo.
+
+[[v5-14-23]]
+
+^<<v5-14-23,23>>^ E, diante do Senhor , seu Deus, no lugar que ele escolher para ali fazer habitar o seu nome, vocês comerão os dízimos do cereal, do vinho, do azeite e os primogênitos das vacas e das ovelhas. Façam isso para que aprendam a temer o Senhor , seu Deus, todos os dias.
+
+[[v5-14-24]]
+
+^<<v5-14-24,24>>^ Se o caminho for comprido demais e não lhes for possível levar isso, por estar longe de vocês o lugar que o Senhor , seu Deus, escolher para ali fazer habitar o seu nome, então, quando o Senhor , seu Deus, os tiver abençoado,
+
+[[v5-14-25]]
+
+^<<v5-14-25,25>>^ vendam aquilo e, com o dinheiro na sua mão, vão ao lugar que o Senhor , o Deus de vocês, escolher.
+
+[[v5-14-26]]
+
+^<<v5-14-26,26>>^ Com esse dinheiro comprem tudo o que quiserem: vacas, ovelhas, vinho ou bebida forte, ou qualquer coisa que desejarem. Consumam isso ali na presença do Senhor , seu Deus, e alegrem-se, vocês e os membros da sua casa.
+
+[[v5-14-27]]
+
+^<<v5-14-27,27>>^ — Porém não desamparem os levitas que moram nas cidades de vocês, pois não têm parte nem herança com vocês.
+
+[[v5-14-28]]
+
+^<<v5-14-28,28>>^ Ao fim de cada três anos, tirem todos os dízimos do fruto do terceiro ano e os recolham nas cidades de vocês.
+
+[[v5-14-29]]
+
+^<<v5-14-29,29>>^ Então virão os levitas — porque não têm parte nem herança com vocês —, os estrangeiros, os órfãos e as viúvas que moram nas cidades de vocês, e comerão e se fartarão, para que o Senhor , o seu Deus, os abençoe em todas as obras que vocês fizerem.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-013.adoc#v5-13-0[&#60; Capítulo Anterior] | <<v5-14-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-015.adoc#v5-15-0[Próximo Capítulo &#62;]

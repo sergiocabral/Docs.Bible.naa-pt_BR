@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v23-66-0]]
+=== Isaías, 66
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-66-1]]
+
+^<<v23-66-1,1>>^ Assim diz o Senhor : "O céu é o meu trono, e a terra é o estrado dos meus pés. Que casa, então, vocês poderiam construir para mim? Ou que lugar para o meu repouso?
+
+[[v23-66-2]]
+
+^<<v23-66-2,2>>^ Porque a minha mão fez todas estas coisas, e todas vieram a existir", diz o Senhor . "Mas eis para quem olharei: para o aflito e abatido de espírito e que treme diante da minha palavra."
+
+[[v23-66-3]]
+
+^<<v23-66-3,3>>^ "Quem mata um boi é como o que comete homicídio; quem sacrifica um cordeiro, como o que quebra o pescoço de um cão; quem traz uma oferta de cereais, como o que oferece sangue de porco; quem queima incenso, como o que bendiz um ídolo. Como estes escolheram os seus próprios caminhos, e a sua alma tem prazer nas suas abominações,
+
+[[v23-66-4]]
+
+^<<v23-66-4,4>>^ assim eu lhes escolherei o castigo e farei vir sobre eles o que eles temem. Porque clamei, e ninguém respondeu; falei, e não escutaram, mas fizeram o que era mau aos meus olhos e escolheram aquilo em que eu não tenho prazer."
+
+[[v23-66-5]]
+
+^<<v23-66-5,5>>^ Escutem a palavra do Senhor , vocês que tremem diante da sua palavra: "Os irmãos de vocês os odeiam e os rejeitam por causa do amor de vocês pelo meu nome. Eles dizem: ‘Que o Senhor mostre a sua glória, para que vejamos a alegria de vocês.’ Mas eles é que serão envergonhados.
+
+[[v23-66-6]]
+
+^<<v23-66-6,6>>^ Voz de grande tumulto virá da cidade, voz do templo, voz do Senhor , que dá a devida retribuição aos seus inimigos."
+
+[[v23-66-7]]
+
+^<<v23-66-7,7>>^ "Antes de entrar em trabalho de parto, deu à luz; antes que lhe viessem as dores, teve um menino.
+
+[[v23-66-8]]
+
+^<<v23-66-8,8>>^ Quem já ouviu uma coisa dessas? Quem já viu algo assim? Será que um país pode nascer num só dia? Será que uma nação pode nascer de uma só vez? Pois Sião, antes que lhe viessem as dores, deu à luz os seus filhos.
+
+[[v23-66-9]]
+
+^<<v23-66-9,9>>^ Será que eu faria vir as dores de parto, sem fazer com que o filho nasça?" — diz o Senhor . "Será que eu, que faço nascer, fecharia o ventre da mãe?" — diz o seu Deus, ó Sião.
+
+[[v23-66-10]]
+
+^<<v23-66-10,10>>^ "Alegrem-se com Jerusalém e exultem por causa dela, todos vocês que a amam! Alegrem-se com ela, todos vocês que por ela prantearam!
+
+[[v23-66-11]]
+
+^<<v23-66-11,11>>^ Porque vocês mamarão nos peitos das suas consolações e ficarão satisfeitos; sugarão e se deliciarão com a abundância da sua glória."
+
+[[v23-66-12]]
+
+^<<v23-66-12,12>>^ Porque assim diz o Senhor : "Eis que estenderei sobre Jerusalém a paz como um rio, e a glória das nações, como uma torrente que transborda; então vocês serão amamentados, carregados nos braços e acalentados no colo.
+
+[[v23-66-13]]
+
+^<<v23-66-13,13>>^ Tal como a mãe consola o filho, assim eu os consolarei; em Jerusalém vocês serão consolados.
+
+[[v23-66-14]]
+
+^<<v23-66-14,14>>^ Vocês verão isso, e o coração de vocês ficará cheio de alegria; e os seus ossos serão revigorados como a erva tenra. O poder do Senhor será notório aos seus servos, e ele se indignará contra os seus inimigos."
+
+[[v23-66-15]]
+
+^<<v23-66-15,15>>^ Porque eis que o Senhor virá em fogo, e os seus carros de guerra, como uma tempestade, para tornar a sua ira em furor e a sua repreensão, em chamas de fogo.
+
+[[v23-66-16]]
+
+^<<v23-66-16,16>>^ Porque com fogo e com a sua espada o Senhor  entrará em juízo com toda a humanidade; e serão muitos os mortos da parte do Senhor .
+
+[[v23-66-17]]
+
+^<<v23-66-17,17>>^ O Senhor  diz: — Os que se santificam e se purificam para entrarem nos jardins após a deusa que está no meio, que comem carne de porco, coisas abomináveis e ratos serão todos destruídos ao mesmo tempo.
+
+[[v23-66-18]]
+
+^<<v23-66-18,18>>^ — Porque eu conheço as obras e os pensamentos deles e venho para ajuntar todas as nações e línguas; elas virão e contemplarão a minha glória.
+
+[[v23-66-19]]
+
+^<<v23-66-19,19>>^ Porei entre elas um sinal e alguns dos que foram salvos enviarei às nações, a Társis, Pul e Lude, que atiram com o arco, a Tubal e Javã, até as terras do mar mais remotas, que jamais ouviram falar de mim, nem viram a minha glória; eles anunciarão entre as nações a minha glória.
+
+[[v23-66-20]]
+
+^<<v23-66-20,20>>^ De todas essas nações, eles trarão todos os irmãos de vocês como uma oferta ao Senhor . Virão sobre cavalos, em carros, em liteiras e sobre mulas e camelos, ao meu santo monte, a Jerusalém, diz o Senhor , como quando os filhos de Israel trazem as suas ofertas de cereais, em vasos puros à Casa do Senhor .
+
+[[v23-66-21]]
+
+^<<v23-66-21,21>>^ Também deles escolherei alguns para sacerdotes e para levitas, diz o Senhor .
+
+[[v23-66-22]]
+
+^<<v23-66-22,22>>^ "Porque, assim como os novos céus e a nova terra, que hei de fazer, estarão diante de mim", diz o Senhor , "assim também estão diante de mim a posteridade e o nome de vocês.
+
+[[v23-66-23]]
+
+^<<v23-66-23,23>>^ De uma Festa da Lua Nova à outra e de um sábado a outro, toda a humanidade virá adorar diante de mim", diz o Senhor .
+
+[[v23-66-24]]
+
+^<<v23-66-24,24>>^ "Eles sairão e verão os cadáveres daqueles que se rebelaram contra mim; porque o seu verme nunca morrerá, nem o seu fogo se apagará; e eles serão um horror para toda a humanidade."
+
+'''
+
+xref:023-isaias/023-isaias-065.adoc#v23-65-0[&#60; Capítulo Anterior] | <<v23-66-0,Topo>> | xref:024-jeremias/024-jeremias-001.adoc#v24-1-0[Próximo Capítulo &#62;]

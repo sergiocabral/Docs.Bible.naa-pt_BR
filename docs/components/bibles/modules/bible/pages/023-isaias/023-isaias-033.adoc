@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v23-33-0]]
+=== Isaías, 33
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-33-1]]
+
+^<<v23-33-1,1>>^ Ai de você, destruidor que nunca foi destruído! Ai de você, traidor que nunca foi traído! Quando você acabar de destruir, será destruído; quando acabar de trair, será traído.
+
+[[v23-33-2]]
+
+^<<v23-33-2,2>>^ Senhor , tem misericórdia de nós! Em ti temos esperado. Sê tu o nosso braço manhã após manhã e a nossa salvação no tempo da angústia.
+
+[[v23-33-3]]
+
+^<<v23-33-3,3>>^ Ao ruído do tumulto, os povos fogem; quando tu te ergues, as nações se dispersam.
+
+[[v23-33-4]]
+
+^<<v23-33-4,4>>^ Então o despojo que vocês ajuntaram será recolhido como se devorado por uma nuvem de gafanhotos; como os gafanhotos saltam, assim os homens saltarão sobre ele.
+
+[[v23-33-5]]
+
+^<<v23-33-5,5>>^ O Senhor  é sublime, pois habita nas alturas; encheu Sião de retidão e de justiça.
+
+[[v23-33-6]]
+
+^<<v23-33-6,6>>^ Ó Sião, no seu tempo haverá estabilidade, abundância de salvação, sabedoria e conhecimento. O temor do Senhor será o seu tesouro.
+
+[[v23-33-7]]
+
+^<<v23-33-7,7>>^ Eis que os heróis pranteiam nas ruas, e os mensageiros de paz estão chorando amargamente.
+
+[[v23-33-8]]
+
+^<<v23-33-8,8>>^ As estradas estão desoladas, ninguém passa por elas. Rompem-se as alianças, as cidades são desprezadas, não há respeito pelas pessoas.
+
+[[v23-33-9]]
+
+^<<v23-33-9,9>>^ A terra geme e desfalece; o Líbano se envergonha e murcha; Sarom se torna como um deserto, Basã e Carmelo são despidos de suas folhas.
+
+[[v23-33-10]]
+
+^<<v23-33-10,10>>^ "Agora me levantarei", diz o Senhor ; "agora me erguerei; agora serei exaltado.
+
+[[v23-33-11]]
+
+^<<v23-33-11,11>>^ Vocês conceberam palha e darão à luz restolho; o sopro que sai da boca de vocês é um fogo que os há de devorar.
+
+[[v23-33-12]]
+
+^<<v23-33-12,12>>^ Os povos serão queimados como se queima a cal; como espinhos cortados, serão jogados no fogo.
+
+[[v23-33-13]]
+
+^<<v23-33-13,13>>^ Vocês que estão longe, escutem o que eu fiz; e vocês que estão perto, reconheçam o meu poder."
+
+[[v23-33-14]]
+
+^<<v23-33-14,14>>^ Em Sião, os pecadores estão atemorizados; o tremor se apodera dos ímpios. Eles perguntam: "Quem de nós habitará com o fogo devorador? Quem de nós habitará com chamas eternas?"
+
+[[v23-33-15]]
+
+^<<v23-33-15,15>>^ Aquele que anda em justiça e fala o que é reto; que despreza o ganho de opressão; que, com um gesto de mãos, recusa aceitar suborno; que tapa os ouvidos, para não ouvir falar de homicídios, e fecha os olhos, para não ver o mal.
+
+[[v23-33-16]]
+
+^<<v23-33-16,16>>^ Este habitará nas alturas; as fortalezas das rochas serão o seu alto refúgio, o seu pão lhe será dado, e água nunca lhe faltará.
+
+[[v23-33-17]]
+
+^<<v23-33-17,17>>^ Os olhos de vocês verão o rei na sua formosura, verão a terra que se estende até longe.
+
+[[v23-33-18]]
+
+^<<v23-33-18,18>>^ O seu coração se lembrará dos terrores, dizendo: "Onde está o escrivão? Onde está aquele que recolheu o tributo? E onde está aquele que contou as torres?"
+
+[[v23-33-19]]
+
+^<<v23-33-19,19>>^ Você já não verá aquele povo atrevido, povo de fala obscura, de uma língua estranha, que não se pode entender.
+
+[[v23-33-20]]
+
+^<<v23-33-20,20>>^ Olhe para Sião, a cidade das nossas festas. Os seus olhos verão Jerusalém, habitação tranquila, tenda que não será removida, cujas estacas nunca serão arrancadas, nem rebentada nenhuma de suas cordas.
+
+[[v23-33-21]]
+
+^<<v23-33-21,21>>^ Mas o Senhor  ali nos será grandioso, fará as vezes de largos rios e canais. Nenhum barco a remo passará por eles, navio grande por eles não navegará.
+
+[[v23-33-22]]
+
+^<<v23-33-22,22>>^ Porque o Senhor  é o nosso juiz, o Senhor  é o nosso legislador, o Senhor  é o nosso Rei; ele nos salvará.
+
+[[v23-33-23]]
+
+^<<v23-33-23,23>>^ Agora as suas cordas estão frouxas; não permitem firmar o mastro, nem estender a vela. Então se repartirá a presa de muitos despojos; até os coxos participarão dela.
+
+[[v23-33-24]]
+
+^<<v23-33-24,24>>^ Nenhum morador de Jerusalém dirá: "Estou doente"; o povo que habita nela terá o seu pecado perdoado.
+
+'''
+
+xref:023-isaias/023-isaias-032.adoc#v23-32-0[&#60; Capítulo Anterior] | <<v23-33-0,Topo>> | xref:023-isaias/023-isaias-034.adoc#v23-34-0[Próximo Capítulo &#62;]

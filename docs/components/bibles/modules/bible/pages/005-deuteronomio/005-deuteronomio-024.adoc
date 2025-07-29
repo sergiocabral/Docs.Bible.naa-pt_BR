@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v5-24-0]]
+=== Deuteronômio, 24
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v5-24-1]]
+
+^<<v5-24-1,1>>^ — Se um homem tomar uma mulher e se casar com ela, e se ela não for agradável aos seus olhos, por ter ele achado coisa indecente nela, e se ele escrever uma carta de divórcio e a entregar à mulher, e a mandar embora;
+
+[[v5-24-2]]
+
+^<<v5-24-2,2>>^ e se ela, saindo da casa dele, for e se casar com outro homem;
+
+[[v5-24-3]]
+
+^<<v5-24-3,3>>^ e se este passar a odiá-la, e escrever uma carta de divórcio e a entregar à mulher, e a mandar embora de sua casa ou se este último homem, que a tomou para si por mulher, vier a morrer,
+
+[[v5-24-4]]
+
+^<<v5-24-4,4>>^ então o primeiro marido dessa mulher, que a mandou embora, não poderá casar-se de novo com ela, depois que foi contaminada, pois é abominação diante do Senhor . Assim, vocês não farão pecar a terra que o Senhor , seu Deus, lhes dá por herança.
+
+[[v5-24-5]]
+
+^<<v5-24-5,5>>^ — Um homem recém-casado não sairá à guerra, nem lhe será imposto qualquer encargo. Durante um ano ficará livre em casa e fará feliz a mulher com quem se casou.
+
+[[v5-24-6]]
+
+^<<v5-24-6,6>>^ — Não se tomarão em penhor as duas pedras de moinho, nem apenas a de cima, porque assim se acabaria penhorando a própria vida.
+
+[[v5-24-7]]
+
+^<<v5-24-7,7>>^ — Caso seja encontrado alguém que, tendo raptado um de seus irmãos, dos filhos de Israel, o trata como escravo ou o vende, esse ladrão deve morrer. Assim vocês eliminarão o mal do meio de vocês.
+
+[[v5-24-8]]
+
+^<<v5-24-8,8>>^ — Em caso de lepra, tenham todo o cuidado de fazer segundo tudo o que lhes ensinarem os sacerdotes levitas. Como lhes tenho ordenado, vocês terão cuidado de o fazer.
+
+[[v5-24-9]]
+
+^<<v5-24-9,9>>^ Lembrem-se do que o Senhor , seu Deus, fez com Miriã no caminho, quando vocês saíram do Egito.
+
+[[v5-24-10]]
+
+^<<v5-24-10,10>>^ — Se você emprestar alguma coisa a seu próximo, não deve entrar na casa dele para lhe tirar o penhor.
+
+[[v5-24-11]]
+
+^<<v5-24-11,11>>^ Fique do lado de fora, e o homem a quem você fez o empréstimo trará o penhor até você.
+
+[[v5-24-12]]
+
+^<<v5-24-12,12>>^ Porém, se for homem pobre, não fique com o penhor durante a noite;
+
+[[v5-24-13]]
+
+^<<v5-24-13,13>>^ ao pôr do sol, restitua-lhe, sem falta, o penhor para que durma no seu manto e abençoe você; isto será para você um ato de justiça diante do Senhor , seu Deus.
+
+[[v5-24-14]]
+
+^<<v5-24-14,14>>^ — Não oprima o empregado pobre e necessitado, seja ele um dos seus compatriotas ou um estrangeiro que está morando na terra e na cidade onde você vive.
+
+[[v5-24-15]]
+
+^<<v5-24-15,15>>^ Pague-lhe o salário no mesmo dia, antes do pôr do sol, porque ele é pobre, e a vida dele depende disso; para que ele não clame ao Senhor  contra você, e você seja culpado de pecado.
+
+[[v5-24-16]]
+
+^<<v5-24-16,16>>^ — Os pais não serão mortos por causa dos filhos, nem os filhos serão mortos por causa dos pais; cada um será morto pelo seu próprio pecado.
+
+[[v5-24-17]]
+
+^<<v5-24-17,17>>^ — Não pervertam o direito do estrangeiro e do órfão; nem tomem em penhor a roupa da viúva.
+
+[[v5-24-18]]
+
+^<<v5-24-18,18>>^ Lembrem-se de que vocês foram escravos no Egito e de que o Senhor  os resgatou de lá; por isso lhes ordeno que façam assim.
+
+[[v5-24-19]]
+
+^<<v5-24-19,19>>^ — Quando estiverem no campo, fazendo a colheita, e, nele, esquecerem um feixe de espigas, não voltem para buscá-lo; deixem que fique para os estrangeiros, para os órfãos e para as viúvas, para que o Senhor , seu Deus, abençoe vocês em tudo o que fizerem.
+
+[[v5-24-20]]
+
+^<<v5-24-20,20>>^ Quando sacudirem a oliveira, não voltem para colher os frutos que ficaram nos ramos; deixem que fiquem para os estrangeiros, para os órfãos e para as viúvas.
+
+[[v5-24-21]]
+
+^<<v5-24-21,21>>^ Ao fazerem a vindima das uvas, não sejam rigorosos demais; deixem que o restante fique para os estrangeiros, para os órfãos e para as viúvas.
+
+[[v5-24-22]]
+
+^<<v5-24-22,22>>^ Lembrem-se de que vocês foram escravos na terra do Egito; por isso lhes ordeno que façam assim.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[&#60; Capítulo Anterior] | <<v5-24-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-118-0]]
+=== Salmos, 118
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-118-1]]
+
+^<<v19-118-1,1>>^ Deem graças ao Senhor , porque ele é bom, porque a sua misericórdia dura para sempre.
+
+[[v19-118-2]]
+
+^<<v19-118-2,2>>^ Diga, pois, Israel: "Sim, a sua misericórdia dura para sempre."
+
+[[v19-118-3]]
+
+^<<v19-118-3,3>>^ Diga, pois, a casa de Arão: "Sim, a sua misericórdia dura para sempre."
+
+[[v19-118-4]]
+
+^<<v19-118-4,4>>^ Digam, pois, os que temem o Senhor : "Sim, a sua misericórdia dura para sempre."
+
+[[v19-118-5]]
+
+^<<v19-118-5,5>>^ Na angústia, invoquei o Senhor ; e o Senhor  me ouviu e me pôs a salvo.
+
+[[v19-118-6]]
+
+^<<v19-118-6,6>>^ O Senhor  está comigo; não temerei. O que é que alguém pode me fazer?
+
+[[v19-118-7]]
+
+^<<v19-118-7,7>>^ O Senhor  está comigo, para me ajudar; por isso, verei a derrota dos meus inimigos.
+
+[[v19-118-8]]
+
+^<<v19-118-8,8>>^ Melhor é buscar refúgio no Senhor do que confiar nos seres humanos.
+
+[[v19-118-9]]
+
+^<<v19-118-9,9>>^ Melhor é buscar refúgio no Senhor do que confiar em príncipes.
+
+[[v19-118-10]]
+
+^<<v19-118-10,10>>^ Todas as nações me cercaram, mas em nome do Senhor  as destruí.
+
+[[v19-118-11]]
+
+^<<v19-118-11,11>>^ Elas me cercaram, sim, me cercaram de todos os lados; mas em nome do Senhor  as destruí.
+
+[[v19-118-12]]
+
+^<<v19-118-12,12>>^ Como abelhas me cercaram, porém como fogo em espinhos foram queimados; em nome do Senhor  as destruí.
+
+[[v19-118-13]]
+
+^<<v19-118-13,13>>^ Empurraram-me violentamente para me fazer cair, porém o Senhor  me ajudou.
+
+[[v19-118-14]]
+
+^<<v19-118-14,14>>^ O Senhor  é a minha força e o meu cântico, porque ele me salvou.
+
+[[v19-118-15]]
+
+^<<v19-118-15,15>>^ Nas tendas dos justos há voz de júbilo e de salvação; a mão do Senhor  faz proezas.
+
+[[v19-118-16]]
+
+^<<v19-118-16,16>>^ A mão do Senhor  se eleva, a mão do Senhor  faz proezas.
+
+[[v19-118-17]]
+
+^<<v19-118-17,17>>^ Não morrerei; pelo contrário, viverei e contarei as obras do Senhor .
+
+[[v19-118-18]]
+
+^<<v19-118-18,18>>^ O Senhor  me castigou severamente, mas não me entregou à morte.
+
+[[v19-118-19]]
+
+^<<v19-118-19,19>>^ Abram as portas da justiça para mim; entrarei por elas e darei graças ao Senhor .
+
+[[v19-118-20]]
+
+^<<v19-118-20,20>>^ Esta é a porta do Senhor ; por ela entrarão os justos.
+
+[[v19-118-21]]
+
+^<<v19-118-21,21>>^ Graças te dou porque me escutaste e foste a minha salvação.
+
+[[v19-118-22]]
+
+^<<v19-118-22,22>>^ A pedra que os construtores rejeitaram, essa veio a ser a pedra angular.
+
+[[v19-118-23]]
+
+^<<v19-118-23,23>>^ Isto procede do Senhor e é maravilhoso aos nossos olhos.
+
+[[v19-118-24]]
+
+^<<v19-118-24,24>>^ Este é o dia que o Senhor  fez; exultemos e alegremo-nos nele.
+
+[[v19-118-25]]
+
+^<<v19-118-25,25>>^ Oh! Salva-nos, Senhor , nós te pedimos; oh! Senhor , concede-nos prosperidade!
+
+[[v19-118-26]]
+
+^<<v19-118-26,26>>^ Bendito o que vem em nome do Senhor . Da Casa do Senhor , nós os abençoamos.
+
+[[v19-118-27]]
+
+^<<v19-118-27,27>>^ O Senhor  é Deus, ele é a nossa luz; adornem a festa com ramos até as pontas do altar.
+
+[[v19-118-28]]
+
+^<<v19-118-28,28>>^ Tu és o meu Deus, e eu te louvarei; tu és o meu Deus, eu te exaltarei.
+
+[[v19-118-29]]
+
+^<<v19-118-29,29>>^ Deem graças ao Senhor , porque ele é bom, porque a sua misericórdia dura para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-117.adoc#v19-117-0[&#60; Capítulo Anterior] | <<v19-118-0,Topo>> | xref:019-salmos/019-salmos-119.adoc#v19-119-0[Próximo Capítulo &#62;]

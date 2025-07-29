@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v23-3-0]]
+=== Isaías, 3
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v23-3-1]]
+
+^<<v23-3-1,1>>^ Porque eis que o Senhor, o Senhor  dos Exércitos, vai tirar de Jerusalém e de Judá o sustento e o apoio, todo sustento de pão e todo sustento de água.
+
+[[v23-3-2]]
+
+^<<v23-3-2,2>>^ Ele vai tirar também o valente, o guerreiro e o juiz; o profeta, o adivinho e o ancião;
+
+[[v23-3-3]]
+
+^<<v23-3-3,3>>^ o capitão de cinquenta, o nobre, o conselheiro, o hábil artífice e o perito em encantamentos.
+
+[[v23-3-4]]
+
+^<<v23-3-4,4>>^ O Senhor  lhes dará meninos por chefes, e crianças governarão sobre eles.
+
+[[v23-3-5]]
+
+^<<v23-3-5,5>>^ Entre o povo, uns oprimirão os outros, cada um o seu próximo. Os jovens se levantarão contra os velhos, as pessoas desprezíveis contra os nobres.
+
+[[v23-3-6]]
+
+^<<v23-3-6,6>>^ Quando alguém for falar com o seu irmão na casa de seu pai, dizendo: "Você ainda tem um manto; venha ser o nosso chefe e assuma o controle dessas ruínas",
+
+[[v23-3-7]]
+
+^<<v23-3-7,7>>^ naquele dia o outro levantará a sua voz, dizendo: "Não sou médico e não há comida nem roupa em minha casa; não me ponham por chefe do povo."
+
+[[v23-3-8]]
+
+^<<v23-3-8,8>>^ Jerusalém tropeçou, e a terra de Judá está caída; porque as suas palavras e as suas obras são contra o Senhor , para desafiarem a sua gloriosa presença.
+
+[[v23-3-9]]
+
+^<<v23-3-9,9>>^ O aspecto do rosto testifica contra eles; e, como Sodoma, exibem o seu pecado e não o encobrem. Ai deles! Porque estão provocando a sua própria desgraça.
+
+[[v23-3-10]]
+
+^<<v23-3-10,10>>^ Digam ao justo que tudo irá bem com ele; porque comerá do fruto das suas ações.
+
+[[v23-3-11]]
+
+^<<v23-3-11,11>>^ Ai do ímpio! Tudo irá mal com ele; porque o pagamento dele será o que as próprias mãos fizeram.
+
+[[v23-3-12]]
+
+^<<v23-3-12,12>>^ Os opressores do meu povo são crianças, e mulheres estão à frente do seu governo. Meu povo, os seus guias enganam você e destroem o caminho por onde você deve seguir.
+
+[[v23-3-13]]
+
+^<<v23-3-13,13>>^ O Senhor  se levanta para apresentar a sua causa; ele se apresenta para julgar os povos.
+
+[[v23-3-14]]
+
+^<<v23-3-14,14>>^ O Senhor  entra em juízo contra os anciãos do seu povo e contra os seus líderes. Ele diz: "Foram vocês que arruinaram esta vinha. O que roubaram dos pobres está na casa de vocês.
+
+[[v23-3-15]]
+
+^<<v23-3-15,15>>^ Com que direito vocês esmagam o meu povo e moem a face dos pobres?" O Senhor, o Senhor  dos Exércitos, é quem está falando.
+
+[[v23-3-16]]
+
+^<<v23-3-16,16>>^ O Senhor  disse: "Visto que são orgulhosas as filhas de Sião e andam de pescoço erguido, com olhar despudorado, dando passos curtos e fazendo tinir os enfeites dos tornozelos,
+
+[[v23-3-17]]
+
+^<<v23-3-17,17>>^ o Senhor fará com que apareça sarna na cabeça das filhas de Sião; o Senhor  fará com que se veja a nudez delas."
+
+[[v23-3-18]]
+
+^<<v23-3-18,18>>^ Naquele dia, o Senhor tirará os enfeites que elas têm nos tornozelos, as toucas e os ornamentos em forma de meia-lua;
+
+[[v23-3-19]]
+
+^<<v23-3-19,19>>^ os pendentes, os braceletes e os véus esvoaçantes;
+
+[[v23-3-20]]
+
+^<<v23-3-20,20>>^ os turbantes, as correntinhas para os tornozelos, os cintos, as caixinhas de perfume e os amuletos;
+
+[[v23-3-21]]
+
+^<<v23-3-21,21>>^ os anéis e as joias pendentes do nariz;
+
+[[v23-3-22]]
+
+^<<v23-3-22,22>>^ os vestidos de festa, os mantos, os xales e as bolsas;
+
+[[v23-3-23]]
+
+^<<v23-3-23,23>>^ os espelhos, as roupas finíssimas, os enfeites para a cabeça e os véus.
+
+[[v23-3-24]]
+
+^<<v23-3-24,24>>^ Em vez de perfume haverá cheiro podre; em vez de cinto, uma corda; em vez de belos penteados, cabeça rapada; em vez de vestidos luxuosos, roupa feita de pano de saco; e marca de fogo em lugar de formosura.
+
+[[v23-3-25]]
+
+^<<v23-3-25,25>>^ Os homens de Jerusalém cairão à espada, e os valentes serão mortos na guerra.
+
+[[v23-3-26]]
+
+^<<v23-3-26,26>>^ Os portões da cidade chorarão e estarão de luto; Sião, desolada, se assentará no chão.
+
+'''
+
+xref:023-isaias/023-isaias-002.adoc#v23-2-0[&#60; Capítulo Anterior] | <<v23-3-0,Topo>> | xref:023-isaias/023-isaias-004.adoc#v23-4-0[Próximo Capítulo &#62;]

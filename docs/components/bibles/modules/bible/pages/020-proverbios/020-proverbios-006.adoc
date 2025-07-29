@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-6-0]]
+=== Provérbios, 6
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v20-6-1]]
+
+^<<v20-6-1,1>>^ Meu filho, se você ficou por fiador do seu próximo e se comprometeu com um estranho,
+
+[[v20-6-2]]
+
+^<<v20-6-2,2>>^ está enredado com as palavras da sua boca, e ficou preso pelo que você falou.
+
+[[v20-6-3]]
+
+^<<v20-6-3,3>>^ Agora, meu filho, faça o seguinte para se livrar, pois você caiu nas mãos dessa pessoa: vá, humilhe-se e importune o seu próximo.
+
+[[v20-6-4]]
+
+^<<v20-6-4,4>>^ Não se deite para dormir, não dê descanso aos seus olhos.
+
+[[v20-6-5]]
+
+^<<v20-6-5,5>>^ Livre-se, como a gazela, das mãos do caçador e, como a ave, das mãos do passarinheiro.
+
+[[v20-6-6]]
+
+^<<v20-6-6,6>>^ Vá ter com a formiga, ó preguiçoso! Observe os caminhos dela e seja sábio.
+
+[[v20-6-7]]
+
+^<<v20-6-7,7>>^ Não tendo ela chefe, nem oficial, nem comandante,
+
+[[v20-6-8]]
+
+^<<v20-6-8,8>>^ no verão prepara a sua comida, no tempo da colheita ajunta o seu mantimento.
+
+[[v20-6-9]]
+
+^<<v20-6-9,9>>^ Ó preguiçoso, até quando vai ficar deitado? Quando se levantará do seu sono?
+
+[[v20-6-10]]
+
+^<<v20-6-10,10>>^ Um pouco de sono, um breve cochilo, braços cruzados para descansar,
+
+[[v20-6-11]]
+
+^<<v20-6-11,11>>^ e a sua pobreza virá como um ladrão, a miséria atacará como um homem armado.
+
+[[v20-6-12]]
+
+^<<v20-6-12,12>>^ Perverso e vil é o que anda com a iniquidade na boca,
+
+[[v20-6-13]]
+
+^<<v20-6-13,13>>^ pisca os olhos, arrasta os pés e faz sinais com os dedos.
+
+[[v20-6-14]]
+
+^<<v20-6-14,14>>^ No seu coração há perversidade; está sempre planejando o mal e semeando discórdias.
+
+[[v20-6-15]]
+
+^<<v20-6-15,15>>^ Por isso a sua destruição virá repentinamente; de um momento para outro ficará irremediavelmente arruinado.
+
+[[v20-6-16]]
+
+^<<v20-6-16,16>>^ Seis coisas o Senhor  Deus odeia, e uma sétima a sua alma detesta:
+
+[[v20-6-17]]
+
+^<<v20-6-17,17>>^ olhos cheios de orgulho, língua mentirosa, mãos que derramam sangue inocente,
+
+[[v20-6-18]]
+
+^<<v20-6-18,18>>^ coração que faz planos perversos, pés que se apressam a fazer o mal,
+
+[[v20-6-19]]
+
+^<<v20-6-19,19>>^ testemunha falsa que profere mentiras e o que semeia discórdia entre irmãos.
+
+[[v20-6-20]]
+
+^<<v20-6-20,20>>^ Meu filho, guarde o mandamento de seu pai e não abandone a instrução de sua mãe.
+
+[[v20-6-21]]
+
+^<<v20-6-21,21>>^ Tenha-os sempre amarrados ao seu coração, pendure-os no seu pescoço.
+
+[[v20-6-22]]
+
+^<<v20-6-22,22>>^ Quando você andar, essa instrução o guiará; quando você se deitar, ela o guardará; quando acordar, falará com você.
+
+[[v20-6-23]]
+
+^<<v20-6-23,23>>^ Porque o mandamento é lâmpada, e a instrução é luz; e as repreensões da disciplina são o caminho da vida.
+
+[[v20-6-24]]
+
+^<<v20-6-24,24>>^ Eles o protegerão da mulher perversa e das lisonjas da mulher estranha.
+
+[[v20-6-25]]
+
+^<<v20-6-25,25>>^ Não cobice no coração a sua formosura, nem se deixe seduzir pelo seu olhar.
+
+[[v20-6-26]]
+
+^<<v20-6-26,26>>^ O máximo que se paga por uma prostituta é um pedaço de pão, mas a adúltera anda à caça de uma vida preciosa.
+
+[[v20-6-27]]
+
+^<<v20-6-27,27>>^ Poderá alguém carregar fogo no colo, sem que as suas roupas se incendeiem?
+
+[[v20-6-28]]
+
+^<<v20-6-28,28>>^ Ou andará alguém sobre brasas, sem que os seus pés se queimem?
+
+[[v20-6-29]]
+
+^<<v20-6-29,29>>^ Assim será com o que se aproximar da mulher do seu próximo; não ficará sem castigo todo aquele que tocar nela.
+
+[[v20-6-30]]
+
+^<<v20-6-30,30>>^ Não se despreza o ladrão quando, faminto, rouba para matar a fome.
+
+[[v20-6-31]]
+
+^<<v20-6-31,31>>^ Pois este, ao ser apanhado, pagará sete vezes tanto; entregará todos os bens de sua casa.
+
+[[v20-6-32]]
+
+^<<v20-6-32,32>>^ Quem comete adultério não tem juízo; só mesmo quem quer arruinar-se é que pratica tal coisa.
+
+[[v20-6-33]]
+
+^<<v20-6-33,33>>^ Achará açoites e desonra, e a sua vergonha nunca passará.
+
+[[v20-6-34]]
+
+^<<v20-6-34,34>>^ Porque o ciúme desperta o furor do marido; ele não terá compaixão no dia da vingança.
+
+[[v20-6-35]]
+
+^<<v20-6-35,35>>^ Não se contentará com o resgate, nem aceitará presentes, ainda que sejam muitos.
+
+'''
+
+xref:020-proverbios/020-proverbios-005.adoc#v20-5-0[&#60; Capítulo Anterior] | <<v20-6-0,Topo>> | xref:020-proverbios/020-proverbios-007.adoc#v20-7-0[Próximo Capítulo &#62;]

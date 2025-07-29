@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-137-0]]
+=== Salmos, 137
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v19-137-1]]
+
+^<<v19-137-1,1>>^ Às margens dos rios da Babilônia, nós nos assentávamos e chorávamos, lembrando-nos de Sião.
+
+[[v19-137-2]]
+
+^<<v19-137-2,2>>^ Nos salgueiros que lá havia, pendurávamos as nossas harpas,
+
+[[v19-137-3]]
+
+^<<v19-137-3,3>>^ pois aqueles que nos levaram cativos nos pediam canções, e os nossos opressores queriam que fôssemos alegres, dizendo: "Cantem para nós um dos cânticos de Sião."
+
+[[v19-137-4]]
+
+^<<v19-137-4,4>>^ Mas como poderíamos entoar um cântico ao Senhor em terra estranha?
+
+[[v19-137-5]]
+
+^<<v19-137-5,5>>^ Se eu me esquecer de você, ó Jerusalém, que a minha mão direita se resseque.
+
+[[v19-137-6]]
+
+^<<v19-137-6,6>>^ Que a minha língua fique colada ao céu da boca, se eu não me lembrar de você, se eu não preferir Jerusalém à minha maior alegria.
+
+[[v19-137-7]]
+
+^<<v19-137-7,7>>^ Contra os filhos de Edom, lembra-te, Senhor , do dia em que Jerusalém foi tomada, pois diziam: "Arrasem! Arrasem Jerusalém até os seus alicerces!"
+
+[[v19-137-8]]
+
+^<<v19-137-8,8>>^ Filha da Babilônia, você que será destruída, feliz aquele que lhe retribuir o mal que você nos fez.
+
+[[v19-137-9]]
+
+^<<v19-137-9,9>>^ Feliz aquele que pegar os seus filhos e esmagá-los contra a pedra.
+
+'''
+
+xref:019-salmos/019-salmos-136.adoc#v19-136-0[&#60; Capítulo Anterior] | <<v19-137-0,Topo>> | xref:019-salmos/019-salmos-138.adoc#v19-138-0[Próximo Capítulo &#62;]

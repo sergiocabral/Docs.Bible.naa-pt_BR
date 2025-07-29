@@ -1,0 +1,209 @@
+include::./index.adoc[]
+
+[[v40-12-0]]
+=== Mateus, 12
+// naa ?, NAA - Nova Almeida Atualizada
+
+[[v40-12-1]]
+
+^<<v40-12-1,1>>^ Por aquele tempo, num sábado, Jesus passou pelas searas. Estando os seus discípulos com fome, começaram a colher espigas e a comer.
+
+[[v40-12-2]]
+
+^<<v40-12-2,2>>^ Os fariseus, vendo isso, disseram a Jesus: — Olhe! Os seus discípulos estão fazendo o que não é lícito fazer num sábado.
+
+[[v40-12-3]]
+
+^<<v40-12-3,3>>^ Mas Jesus lhes disse: — Vocês não leram o que Davi fez quando ele e os seus companheiros tiveram fome?
+
+[[v40-12-4]]
+
+^<<v40-12-4,4>>^ Como entrou na Casa de Deus, e comeram os pães da proposição, os quais não era lícito comer, nem a ele nem aos que estavam com ele, mas exclusivamente aos sacerdotes?
+
+[[v40-12-5]]
+
+^<<v40-12-5,5>>^ Ou vocês não leram na Lei que, aos sábados, os sacerdotes no templo profanam o sábado e ficam sem culpa?
+
+[[v40-12-6]]
+
+^<<v40-12-6,6>>^ Pois eu lhes digo que aqui está quem é maior do que o templo.
+
+[[v40-12-7]]
+
+^<<v40-12-7,7>>^ Mas, se vocês soubessem o que significa: "Quero misericórdia, e não sacrifício", não teriam condenado inocentes.
+
+[[v40-12-8]]
+
+^<<v40-12-8,8>>^ Porque o Filho do Homem é senhor do sábado.
+
+[[v40-12-9]]
+
+^<<v40-12-9,9>>^ Tendo Jesus saído dali, entrou na sinagoga deles.
+
+[[v40-12-10]]
+
+^<<v40-12-10,10>>^ Achava-se ali um homem que tinha uma das mãos ressequida. Então, a fim de o acusar, perguntaram a Jesus: — É lícito curar no sábado?
+
+[[v40-12-11]]
+
+^<<v40-12-11,11>>^ Ao que lhes respondeu: — Quem de vocês será o homem que, tendo uma ovelha, e, num sábado, esta cair numa cova, não fará todo o esforço para tirá-la dali?
+
+[[v40-12-12]]
+
+^<<v40-12-12,12>>^ Ora, quanto mais vale um homem do que uma ovelha! Logo, é lícito nos sábados fazer o bem.
+
+[[v40-12-13]]
+
+^<<v40-12-13,13>>^ Então Jesus disse ao homem: — Estenda a mão. O homem estendeu a mão, e ela foi restaurada e ficou sã como a outra.
+
+[[v40-12-14]]
+
+^<<v40-12-14,14>>^ Mas os fariseus, saindo dali, conspiravam contra ele, procurando ver como o matariam.
+
+[[v40-12-15]]
+
+^<<v40-12-15,15>>^ Mas Jesus, sabendo disto, afastou-se dali. Muitos o seguiram, e a todos ele curou,
+
+[[v40-12-16]]
+
+^<<v40-12-16,16>>^ advertindo-lhes, porém, que não o expusessem à publicidade.
+
+[[v40-12-17]]
+
+^<<v40-12-17,17>>^ Isso aconteceu para se cumprir o que foi dito por meio do profeta Isaías:
+
+[[v40-12-18]]
+
+^<<v40-12-18,18>>^ "Eis aqui o meu servo, que escolhi, o meu amado, em quem a minha alma se agrada. Farei repousar sobre ele o meu Espírito, e ele anunciará juízo aos gentios.
+
+[[v40-12-19]]
+
+^<<v40-12-19,19>>^ Não entrará em discussões, nem gritará, nem fará ouvir nas praças a sua voz.
+
+[[v40-12-20]]
+
+^<<v40-12-20,20>>^ Não esmagará a cana quebrada, nem apagará o pavio que fumega, até que faça vencedor o juízo.
+
+[[v40-12-21]]
+
+^<<v40-12-21,21>>^ E no seu nome os gentios colocarão a sua esperança."
+
+[[v40-12-22]]
+
+^<<v40-12-22,22>>^ Então trouxeram a Jesus um endemoniado, cego e mudo. Jesus o curou, e o homem passou a falar e a ver.
+
+[[v40-12-23]]
+
+^<<v40-12-23,23>>^ E toda a multidão se admirava e dizia: — Não seria este, por acaso, o Filho de Davi?
+
+[[v40-12-24]]
+
+^<<v40-12-24,24>>^ Mas os fariseus, ouvindo isto, diziam: — Este não expulsa demônios senão pelo poder de Belzebu, o maioral dos demônios.
+
+[[v40-12-25]]
+
+^<<v40-12-25,25>>^ Mas Jesus, sabendo o que eles pensavam, disse-lhes: — Todo reino dividido contra si mesmo ficará deserto, e toda cidade ou casa dividida contra si mesma não subsistirá.
+
+[[v40-12-26]]
+
+^<<v40-12-26,26>>^ Se Satanás expulsa Satanás, está dividido contra si mesmo; como, então, o seu reino subsistirá?
+
+[[v40-12-27]]
+
+^<<v40-12-27,27>>^ E, se eu expulso os demônios por Belzebu, por quem os filhos de vocês os expulsam? Por isso, eles mesmos serão os juízes de vocês.
+
+[[v40-12-28]]
+
+^<<v40-12-28,28>>^ Se, porém, eu expulso os demônios pelo Espírito de Deus, certamente é chegado o Reino de Deus sobre vocês.
+
+[[v40-12-29]]
+
+^<<v40-12-29,29>>^ Ou como pode alguém entrar na casa do valente e roubar-lhe os bens sem primeiro amarrá-lo? E só então saqueará a casa dele.
+
+[[v40-12-30]]
+
+^<<v40-12-30,30>>^ — Quem não é por mim é contra mim; e quem comigo não ajunta espalha.
+
+[[v40-12-31]]
+
+^<<v40-12-31,31>>^ Por isso, digo a vocês que todo pecado e blasfêmia serão perdoados aos homens; mas a blasfêmia contra o Espírito não será perdoada.
+
+[[v40-12-32]]
+
+^<<v40-12-32,32>>^ Se alguém disser alguma palavra contra o Filho do Homem, isso lhe será perdoado; mas, se alguém falar contra o Espírito Santo, isso não lhe será perdoado, nem neste mundo nem no porvir.
+
+[[v40-12-33]]
+
+^<<v40-12-33,33>>^ — Tornem a árvore boa e o seu fruto será bom, ou tornem a árvore má e o seu fruto será mau; porque pelo fruto se conhece a árvore.
+
+[[v40-12-34]]
+
+^<<v40-12-34,34>>^ Raça de víboras! Como vocês podem falar coisas boas, sendo maus? Porque a boca fala do que está cheio o coração.
+
+[[v40-12-35]]
+
+^<<v40-12-35,35>>^ A pessoa boa tira do tesouro bom coisas boas; mas a pessoa má do mau tesouro tira coisas más.
+
+[[v40-12-36]]
+
+^<<v40-12-36,36>>^ — Digo a vocês que, no Dia do Juízo, as pessoas darão conta de toda palavra inútil que proferirem;
+
+[[v40-12-37]]
+
+^<<v40-12-37,37>>^ porque, pelas suas palavras, você será justificado e, pelas suas palavras, você será condenado.
+
+[[v40-12-38]]
+
+^<<v40-12-38,38>>^ Então alguns escribas e fariseus disseram a Jesus: — Mestre, queremos ver algum sinal feito pelo senhor.
+
+[[v40-12-39]]
+
+^<<v40-12-39,39>>^ Mas ele respondeu: — Uma geração perversa e adúltera pede um sinal, mas nenhum sinal lhe será dado, senão o do profeta Jonas.
+
+[[v40-12-40]]
+
+^<<v40-12-40,40>>^ Porque assim como Jonas esteve três dias e três noites no ventre do grande peixe, assim o Filho do Homem estará três dias e três noites no coração da terra.
+
+[[v40-12-41]]
+
+^<<v40-12-41,41>>^ Ninivitas se levantarão, no Juízo, com esta geração e a condenarão, porque se arrependeram com a pregação de Jonas. E aqui está quem é maior do que Jonas.
+
+[[v40-12-42]]
+
+^<<v40-12-42,42>>^ A rainha do Sul se levantará, no Juízo, com esta geração e a condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão.
+
+[[v40-12-43]]
+
+^<<v40-12-43,43>>^ — Quando o espírito imundo sai de uma pessoa, anda por lugares áridos procurando repouso, porém não encontra.
+
+[[v40-12-44]]
+
+^<<v40-12-44,44>>^ Por isso, diz: "Voltarei para a minha casa, de onde saí." E, voltando, ele a encontra vazia, varrida e arrumada.
+
+[[v40-12-45]]
+
+^<<v40-12-45,45>>^ Então vai e leva consigo outros sete espíritos, piores do que ele, e, entrando, habitam ali. E o último estado daquela pessoa se torna pior do que o primeiro. Assim também acontecerá a esta geração perversa.
+
+[[v40-12-46]]
+
+^<<v40-12-46,46>>^ Enquanto Jesus ainda falava ao povo, eis que a mãe e os irmãos dele estavam do lado de fora, procurando falar com ele.
+
+[[v40-12-47]]
+
+^<<v40-12-47,47>>^ E alguém lhe disse: — A sua mãe e os seus irmãos estão lá fora e querem falar com o senhor.
+
+[[v40-12-48]]
+
+^<<v40-12-48,48>>^ Porém Jesus respondeu ao que lhe trouxe o aviso: — Quem é a minha mãe e quem são os meus irmãos?
+
+[[v40-12-49]]
+
+^<<v40-12-49,49>>^ E, estendendo a mão para os discípulos, disse: — Eis minha mãe e meus irmãos.
+
+[[v40-12-50]]
+
+^<<v40-12-50,50>>^ Portanto, aquele que fizer a vontade de meu Pai celeste, esse é meu irmão, minha irmã e minha mãe.
+
+'''
+
+xref:040-mateus/040-mateus-011.adoc#v40-11-0[&#60; Capítulo Anterior] | <<v40-12-0,Topo>> | xref:040-mateus/040-mateus-013.adoc#v40-13-0[Próximo Capítulo &#62;]
